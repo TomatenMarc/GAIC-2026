@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 import os
 
-base_url = "https://raw.githubusercontent.com/TomatenMarc/GAIC-2026/refs/heads/main/datasets/ABSTRCT/"
+base_url = "https://raw.githubusercontent.com/TomatenMarc/GAIC-2026/refs/heads/main/datasets/ABSTRCT"
 
 df_all = pd.read_csv('../../assets/all_data.csv')
 df_sample = pd.read_csv('../../assets/sample_42.csv')

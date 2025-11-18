@@ -46,7 +46,7 @@ find "$src_dir" -type f -name "*.ann" | while read -r ann_file; do
     fi
 done
 
-mkdir ./guidelines
+mkdir -p ./guidelines
 mv ./abstrct-master/AbstRCT_corpus/AnnotationGuidelines.pdf ./guidelines/AnnotationGuidelines.pdf
 rm -r abstrct-master.zip
 rm -r abstrct-master

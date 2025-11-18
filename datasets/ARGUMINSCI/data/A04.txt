@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document xmlns:gate="http://www.gate.ac.uk" name="A04_S05_Bar-net_driven_skinning_for_character_animation_CORPUS__v4__onlyOriginalMarkups__v5_onlyAnalysis.xml_CITATION_PURPOSE_M_v1.xml">
+
+
+  
+    953ff24217395820d81f61ce2f828acc79981d5a099c3e4cd24ff16bf9632b6c
+    3wx8
+    10.1002/cav.211
+  
+  
+    
+      COMPUTER ANIMATION AND VIRTUAL WORLDS Comp. Anim. Virtual Worlds 2007; 18: 437–446 Published online 6 July 2007 in Wiley InterScience (www.interscience.wiley.com) DOI: 10.1002/cav.211 *******************************************************************************************************************
+      
+        <Title>Bar-net driven skinning for character animation</Title>
+      
+      
+        
+          By Jian J. Zhang
+        
+        
+          Xiaosong Yang
+        
+        
+          Yunfeng Zhao
+        
+      
+      *********************************************************************************************
+      *Correspondence to: X. Yang, The Media School, Bournemouth University, United Kingdom. E-mail: xyang@bournemouth.ac.uk
+      <Abstract>In this paper we present a physically motivated technique for the deformation of animated characters, called the bar-net driven skinning. We use a bar-network (bar-net) as a deforming mechanism. This technique can be used similarly to a conventional skinning tool, but can also make a skin surface behave in a physically plausible manner due to the inherent physical properties of the network. A bar-net is a structure commonly used in structural engineering. Its shape depends on the structural and material properties and the forces acting upon it. Computing the rest shape of an arbitrary bar-net is a time-consuming non-linear problem. In order to speed up the computation and also for such a bar-net to be used intuitively to help computer animation, we have defined a set of properties that a desirable bar-net should satisfy. This allows a bar-net shape finding problem to be solved using linear equations. We adopt a two-layer structure for the representation of a skin surface, including a coarse mesh and a fine mesh. To deform a skin surface, we couple a bar-net to its coarse mesh, which in turn deforms the fine mesh when the coupled bar-net is deformed. The fine surface mesh can be of different forms, including Nurbs, subdivision surfaces and polygons. Copyright # 2007 John Wiley &amp; Sons, Ltd. Received: 14 May 2007; Accepted: 15 May 2007</Abstract>
+	Keywords: 15 May 2007 Keywords: character animation; skin deformation; physically based animation; barnetwork form finding
+    
+    
+      
+        <H1>Introduction</H1>
+      
+      Skin deformation resulting from the movement of characters, such as humans and animals, is one of the most interesting and challenging topics in computer animation. The modelling and deformation of such characters are inevitably complicated and timeconsuming, because of their structural complexity. While realism is important, other factors such as intuitiveness, ease of interaction and computational cost are also of great importance in animation production. Often a compromise among these factors has to be reached. There are two general categories of methods in animation practice: simulation and authoring. Simulation 
+1–3
+ refers to the use of a mathematical model to automatically recreate the physical reality on computers. A simulation method lets the animator easily create certain effect which could be otherwise almost an impossible mission with manual manipulations. However, the disadvantage is also obvious. Although the simulation techniques provide some parameters for the animator to control the animation, the connection between these parameters and the result is often implicit. It is usually difficult for an artist to understand the exact physical meaning of these parameters and connect them to the final outcome. Second, such methods are often computationally expensive. The authoring methods refer to those that the animator can use to manipulate the modelling or deformation directly. The animator is able to see the result immediately and has a full control over the deformed shape of the character in question. Both types of methods were around for a long time. However, animators turn to favour those tools that they feel they have a control and can evaluate the results directly. In this paper we present a new skinning technique for the deformation of computer-animated characters. A key advantage is that it combines the strengths of both prevalent categories discussed above. This technique is based on a physically inspired deformation model from structural engineering, known as the bar-networks (bar-nets) and can therefore deform realistically based on the physical properties leading to physically plausible outcomes. Meanwhile, instead of letting the mechanical model taking its full course, the animator is able to operate it as a physically based authoring tool in the same way as other conventional deformation tools. We call this technique the bar-net driven deformations. In animation practice, either for the film industry or games design, it is quite often for each character model to have two layers of mesh, a rough mesh (low resolution) and a fine mesh (high resolution). The high-resolution (high-res) mesh may take various forms, such as Nurbs, subdivision surfaces and polygon meshes. The detailed skin shapes including skin deformations, wrinkle, squama and feather are created on this layer. Because the mesh is very dense involving fine detail, it is inefficient to animate directly on this layer. The low-resolution (low-res) mesh thus works as an efficient intermediate layer for the modelling and deformation of the fine skin layer. Our technique adopts this two-layered strategy. The animator creates almost all skin deformation effects on the low-res layer. In order to take advantage of the physics, we couple an aforementioned mechanical bar-net with the low-res mesh in areas where deformations are expected to occur. This low-res layer gets deformed physically and in turn deforms the high-res mesh of the character’s skin model. In order for a mechanical network to be useful in skin deformation for animated characters, we devise a set of properties for the network to satisfy. These properties allow the behaviours of skin and anatomic tissues, e.g. muscle groups, to be mimicked intuitively in computer animation and to be computed rapidly. What needs pointing out is although there is a similarity between a bar-net and a mass–spring model, they have substantially different behaviours. A mass–spring model will not be able to satisfy the properties we define here. This paper is organized as follows. The next section provides a brief survey of the previous related work. The following section outlines the procedure of creating an animated character model with the coupled bar-nets. The section ‘Bar-net Definition and Form Finding’ discusses the properties an ideal bar-net should have together with a form finding method. Using a human arm model as an example, the section ‘Deformation for Character Animation’ describes how our deformation technique can be used to deform skin surfaces. The last section concludes our work.
+      
+        
+      
+      *******************************************************************************************************************
+      Copyright # 2007 John Wiley &amp; Sons, Ltd.
+      J. J. ZHANG, X. YANG AND Y. ZHAO
+      
+        
+      
+      *******************************************************************************************************************
+      
+        <H1>Background and Related Work</H1>
+        Most of the techniques on character deformation can be roughly categorized into two groups: authoring and simulation methods, although the boundary between them does not always seem clear. What’s follows is a brief review of some relevant previous work. The technique of Free Form Deformations (FFDs) first introduced by Sederberg and Parry 
+4
+ remains popular and has been adopted by many animation software packages due to its simplicity and modelling speed. FFDs were later extended by several other researchers. 5–8 All these techniques are purely geometric in nature and make no attempt to simulate the physical properties or behaviours of a character. Based on the FFDs, two very popular deformation tools were developed in Maya, the Lattice and Wrap deformers. An intuitive attempt to deform a character was involving a skeleton into skin deformation. This approach has a long history and it treats the skin as a shell that moves by an explicit function of the skeleton. Vertices of the skin are deformed by a weighted combination of the joint transformations of the character’s skeleton. 9–13 Collectively, such methods are known as the smooth skinning. They are easy to understand and intuitive to use. A tedious part is the proper assignment of the weights. In production, the weights are painted by the animator, and thus the animator has full control over the outcomes. The smooth skinning approach suffers from some notorious drawbacks, called the candy wrapper effect or collapsing elbow effect, due to its lack of consideration of volume preservation for the soft tissues. The example-based methods were developed as an alternative in order to overcome this kind of problems 
+14–17
+ and have had some success. With this method, which is called Blend Shape in animation production, the animator can control the exact appearance of the character. In facial animation, for example, the animator often needs to dictate how a facial model deforms to achieve different expressions. On the downside, however, a large number of models have to be made in the pose space and stored for shape interpolation. This is an expensive process. The drive for realism in computer graphics has lead to some new modelling and deformation techniques. A group of techniques that have gained increasing popularity in the computer animation of characters are those based on characters anatomy. These models attempt to mimic their real life counterparts by reproducing their anatomical structures. These anatomy-based skinning methods differ on the complexity of the models and their behaviours of the underlying anatomical structures. 
+
+Some use simple muscle shapes, such as abstract muscle operators, 
+18 meatballs, 
+19 some employ detailed models. 20–23
+ The obvious advantage of this group of methods is its ability in achieving detailed visual quality during animation. One of the difficulties of these techniques, 
+24–28
+ however, is that they are indirect to use, as one has to model the anatomical structures before its appearance arrives. Achieving a particular look of the skin requires the determination of the shape, number and the layout of the muscles underneath. Until the skin mesh envelops the underlying structure, it is very hard to anticipate how the character looks like from the outside. To retain the advantage of the anatomy-based technique without losing intuitiveness, recent research has looked into the issue of estimating the muscles from the skin shape. 29–30
+ This new technique has had a degree of success. The current limitations are that they could only use simple muscle shapes, which are sufficient in obtaining detailed deformations.
+        *******************************************************************************************************************
+        Copyright # 2007 John Wiley &amp; Sons, Ltd.
+        438
+        Comp. Anim. Virtual Worlds 2007; 18: 437–446 DOI: 10.1002/cav
+        
+          
+        
+        BAR-NET DRIVEN SKINNING
+        *******************************************************************************************************************
+      
+      
+        <H1>The Proposed Model</H1>
+        Anatomy based multi-layered models have significantly improved the realism of the modelling of complex living creatures. Character animation based on the deformation of underlying anatomical structures, such as muscles or fat, is a very complicated process. Issues like mechanical forces, material properties and collision among anatomic structures all need to be properly addressed. The computational cost is inevitably excessive. Such computational costs place severe restrictions on many applications. Our bar-net driven skinning method endeavours to take advantage of the anatomy-based approach, the smooth skinning approach and the physically based approach. Figure 1 shows a simple flowchart of this method. It follows the current animation workflow, except that a bar-net is coupled with the low-res skin layer. When the low-res mesh (or a part of it) is coupled with a bar-net, the couple mesh is called the control mesh in this paper. Bar-nets deform according to both the external forces it is subject to and the stiffness properties of the network. By controlling these two factors, the animator can easily create the various skin deformation effects including muscle bulge, wrinkles and creases easily. Our system consists of three layers: The skeleton layer controls the movement of the character and determines the basic shape of its body. The control mesh is bound to the character skeleton in the same way as the traditional smooth skinning method. The bar-nets work like a deformer (a term used in many animation packages, e.g. Maya) to change the shape of the skin surface. It is compatible with all the other deformation tools incorporated in current animation software. They can accumulatively deform the skin shape in a certain order which can be easily changed by the animator on the fly. The fine mesh, either in the form of Nurbs, subdivision surfaces or polygons, is deformed by the control mesh using the wrapping deformation method 8 which is available with many commercial animation packages. Further detailed deformations including wrinkle can also be added on either by manipulating the skin surface directly or by coupling a bar-net with the fine mesh using the same mechanism. A bar-net connects n s points, P i , in three-dimensional space with straight-line segments, called bars. These points on the net are known as nodes. The nodes can be either fixed or free. Fixed nodes will not have their positions changed regardless of whether they are subjected to external forces. Free nodes can be moved to balance the acting forces on the net. Each bar connects two nodes. These bars can be stretched and squashed resulting from the positioning of the end nodes, but they cannot be bent. The network described above is in fact a graph with links connecting pairs of nodes. A matrix C s , called the branch–node matrix can be formed, which represents in a tabular form the graph of the network. Assuming that there are n free nodes and n f fixed nodes, the branch–node matrix can be further subdivided into two sub-matrices, C and C f , by grouping the free-node columns and fixed-node columns of the original matrix, respectively. These matrices are used in computing the rest shape of a bar-net. A deformable part of the low-res mesh of a character can be considered as a bar-net. This analogy establishes a natural link between a mechanical bar-net and a surface patch. If a bar-net is coupled with a surface, the surface can be made to behave like a piece of elastic material. Thus many numerical methods developed in structural and mechanical engineering for the manipulation of structures and networks can be applied to control the deformation of the surfaces. Deforming the bar-net deforms the coupled surface, hence the name bar-net driven deformation. Bar-nets can have any arbitrary topology. They are not restricted to a quadrilateral topology unlike most curved surface patches. Quadrilateral patches are the easiest to control and there have been many algorithms developed to implement them. But methods for controlling the deformation of a non-quadrilateral surface patch analytically remain an interesting research topic. Such a problem could be resolved by coupling a general mechanical bar-net with the control points of a surface patch of the same topology.
+        Architecture of Bar-Net Driven Skinning
+        
+          Figure 1. Workflow of bar-net driven skinning.
+        
+        Bar-Networks
+        P i 2 R 3 i 1⁄4 1; . . . ; n s
+        *******************************************************************************************************************
+        Copyright # 2007 John Wiley &amp; Sons, Ltd.
+        439
+        Comp. Anim. Virtual Worlds 2007; 18: 437–446 DOI: 10.1002/cav
+        J. J. ZHANG, X. YANG AND Y. ZHAO
+        
+          
+        
+        *******************************************************************************************************************
+        A Bar-Net as a Control Mesh
+      
+      
+        <H1>Bar-Net Def|nition and Form Finding</H1>
+        The principle idea of the proposed bar-net driven deformation technique is to regard the deformable area of an animated creature as a network, which deforms under an acting force. The final shape of the surface represents the rest shape of the network and is the result of the balance of all external and internal forces. To make it useful and intuitive for the animator, we define a number of properties essential for such a bar-net to satisfy: The network deformation is determined only by the topology, the stiffness parameter and the loading (force) of the network, but is independent of the geometry. One does not need to worry about the shape of the network itself. This because we use a bar-net only as a control mechanism. Changing the stiffness with other parameters unchanged has an influence on the whole network. This is in line with the physical property of human tissues and therefore makes physical sense. The x, y, z components of the external loads applied to the free nodes (non-fixed nodes) have independent influences on the deformation. The x component of the displacement is only determined by the x component of the applied force, and similarly for the y and z components. So when the animator wishes to finetune the effects on the x, y or z direction separately, the surface will deform as expected. The deformation of the free nodes satisfies the superposition principle. In other words, if one free node is subject to the influence of a number of forces simultaneously, the general deformation applied to the node is the same as the sum of all the deformations generated by applying these loads independently. The benefit from this property is that several muscles, bones, fat tissues can affect the skin deformation simultaneously through summing up of their individual forces. Network form finding is always a numerically complicated problem in mechanical and structural engineering. Various numerical methods exist. As far as most mechanical networks are concerned, the relationship between the equilibrium state and the acting forces is non-linear. Shape change cannot be trivially related to the magnitude and direction of the external forces. Often numerical algorithms are deployed to determine the rest form of a network, which is inevitably time-consuming and not very useful for animation production. In our case, the effect of stiffness of a network can be approximated by the quantity of force-length ratios of all the bars. Some researchers call this quantity the force density. Using this stiffness parameter, we found the force density method 31 satisfies the above-defined properties. y An added advantage is that it is also able to solve the
+        y In the interest of space, in this paper we do not give the detailed proofs that the force-density form finding method satisfies our specified properties.
+        *******************************************************************************************************************
+        Copyright # 2007 John Wiley &amp; Sons, Ltd.
+        440
+        Comp. Anim. Virtual Worlds 2007; 18: 437–446 DOI: 10.1002/cav
+        
+          
+        
+        BAR-NET DRIVEN SKINNING
+        *******************************************************************************************************************
+        form finding problem with a set of linear equations. The mathematical details are given in the appendix. In the following, we will discuss how such bar-nets can be used to assist the deformation of skin surfaces of deformable characters
+      
+      
+        <H1>Deformation for Character Animation</H1>
+        Using a bar-net together with the force density form finding method, the prevailing advantages of this technique are its speed of computation and intuitiveness in shape control. Coupling bar-nets with a skin surface makes it ‘mechanically deformable’. Skin deformation can happen around the joints where its surface bends and also in places where the underlying anatomic structure, such as muscles, pushes and pulling the skin surface. Using above defined bar-net properties, deformations are achieved by applying virtual forces to the appropriate free nodes of the control mesh. We use the force density parameter (equivalent to stiffness) and external forces to control the deformation. Multiple bars can be grouped together to simulate the effect of muscle groups. The user can manipulate the force on each node to tune the deformation interactively. One can also change the force densities to make the network firmer or softer. Figure 2 shows an example of using a bar-net to solve the collapsing elbow problem and obtain a fat bulge effect when the forearm bends towards the upper arm. Forces are applied to only eight nodes of the bar-net. In this example, the force densities are kept unchanged. The gradually changed forces on the control mesh are bound to the elbow rotation angle, which produce both the bulge effect and compensate for the volume loss that the traditional smooth skinning method suffers. Deformed muscles always change the shape of the skin surface. Using the model of a human arm, we illustrate how to generate the muscle effect with bar-nets. There are approximately 50 muscles in a human upper limb, most of which are large and complex. Muscles usually act in groups, some muscles act to move the joint, some to support the movement by avoiding unwanted secondary movements. The combination of these actions causes the muscles, hence the arm, to deform. In the animated arm model, we are only concerned with the muscles producing major influence on the skin. The deformation of the forearm is complex but relatively unnoticeable. Therefore, in this case, only the deformations caused by biceps brachii and triceps brachii are generated. When the arm flexes, the biceps brachii contracts and bulges. At the same time, the triceps brachii relaxes to allow this action. The opposite occurs during the extension of the forearm. The biceps brachii and triceps brachii are positioned on opposite sides of the upper arm. Accordingly only the nodes lying around the central line of the two muscles are set to free, all other nodes are fixed. All the bars in the network are initially assigned a uniform force density. Because of the tendon of the biceps brachii, flexing the arm deforms the biceps brachii in all three directions (x, y and z): it is shortened along the arm due to its contraction and it bulges in the other two directions to maintain its volume. To simulate the force of the muscles, we apply some simple loads to the midpoints of the network as shown in Figure 3(b) . These loads deform the surface to form a natural muscle bulge, as shown in Figure 3(c) . This example demonstrates that the animator can easily shape the characters using the virtual forces as user-handles. There are 2891 vertices and 2816 faces in the subdivision model. While in the bar-net, there are 12 free nodes which are the only necessary resources involved in the form finding and it involves little computation cost. Local deformations can be similarly achieved by changing the force densities. For example, reducing the force density of the network increases the size of the bulge effect as shown in Figure 3(d) . The human shoulder is a typical area where notorious skin deformities occur using a traditional skinning method. Figure 4 shows a few snapshots from our bar-net driven skinning technique. Most computer-animated characters are complex both geometrically and topologically. The use of quadrilateral meshes to model the geometry of such characters is frequently inadequate. Computer-animated characters come in different shapes, e.g. in a form of a human, an animal or a completely imaginary figure. Branches, holes, non-manifolds and irregularities are possible geometric features of their body forms. Satisfying our designed properties, the network is capable of handling any connectivity (topology). Figure 5 shows a bar-net bound to various topologies, including meshes with holes and branches. In practice, an animated character can be initially modelled by sketching its basic shape roughly. This rough model is coupled with a bar-net to act as the control mesh of the character. The fine skin surface can be represented in various surface forms. Our implementation includes three major surface modelling forms: Nurbs, subdivision surfaces and polygons. Once the control mesh is deformed, it can deform the fine surface model using the Wrap deformer available in many animation packages. Bar-net driven skinning is applicable also to the modelling of wrinkle, where the bar-net is bound to the fine mesh rather than the rough mesh in order to obtain a detailed look. Figure 6 shows an example of the bar-net working on wrinkle deformation.
+        Interactive Deformation
+        
+          
+          Figure 2. Interactive manipulation of the forces on eight free nodes to produce a specific deformation effect (Left: traditional smooth skinning; middle: volume compensated by bar-net driven skinning; right: control mesh and free nodes).
+        
+        Mimicking Muscle Deformation
+        *******************************************************************************************************************
+        Copyright # 2007 John Wiley &amp; Sons, Ltd.
+        441
+        Comp. Anim. Virtual Worlds 2007; 18: 437–446 DOI: 10.1002/cav
+        J. J. ZHANG, X. YANG AND Y. ZHAO
+        
+          
+        
+        *******************************************************************************************************************
+        
+          
+          Figure 3. A deformed arm model.
+        
+        
+          
+          Figure 4. Deforming muscles on the shoulder area.
+        
+        The Deformation of Skin Surface With an ArbitraryT opology and Representative Form
+        *******************************************************************************************************************
+        Copyright # 2007 John Wiley &amp; Sons, Ltd.
+        442
+        Comp. Anim. Virtual Worlds 2007; 18: 437–446 DOI: 10.1002/cav
+        
+          
+        
+        BAR-NET DRIVEN SKINNING
+        *******************************************************************************************************************
+        
+          
+          Figure 5. Bar-network deforming a mesh with an arbitrary topology, including holes, branches and non-manifolds.
+        
+      
+      
+        <H1>Conclusions and Future Work</H1>
+        Character deformation in computer animation has attracted a great deal of research effort over the last two decades. The earlier models, despite being cheap, had difficulties in creating realistic character deformations. With the quest for realism, more physically based and CPU intensive computation models have emerged, notably the multi-layered anatomy-based approach. However, in addition to the computational cost, it is undesirable to require the animator to model many muscles before the skin shape is developed. In this paper, we propose a physically motivated deformation authoring technique, called the bar-net driven skinning. Its main strength lies in the combination of speed, intuitiveness and good realism. Our technique can achieve similar results to those of the anatomy-based techniques, but in an interactive manner. Bar-nets reach their rest shape when the acted forces equilibrate. Changing the forces and/or stiffness leads to a change of their shape. Coupling a part of surface mesh with bar-nets allows the surface deformation to be controlled by manipulating the networks and can take advantage of the physical behaviour inherent to the network. In order to allow deformations to be produced quickly and intuitively, we have devised a set of properties that an ‘ideal’ bar-net should satisfy, which make intuitive shape control and fast computation possible. To deform the skin surface of a character, we couple a bar-net with a low-res mesh, called the control mesh, which links with the skin surface. This makes the skin mechanically deformable and achieves realistic deformation outcomes. We provide two types of user-handles associated with a bar-net, the virtual forces applied to the free nodes of a network and the force density values. They can be used individually as an interactive modelling tool or collectively to mimic the muscle forces from a muscle group. We have implemented this technique into prototype program in a form of a plug-in for the Autodesk Maya software ( Figure 7 ). It provides the animator with a new deformer which can be used both as a modelling and an animation tool. The animator can interactively change the fix–free status of each node, define and manipulate the forces on each free node, tune the force densities for selected bars. On the downside, the tools developed so far are still relatively primitive. The user needs to understand the basic principles of the bar-net properties before the technique can be used efficiently. To remedy this problem we are currently designing higher-level tools with an interactive user interface, which will hide this complexity from the user.
+        
+          
+          Figure 6. Local deformation modelling.
+        
+        *******************************************************************************************************************
+        Copyright # 2007 John Wiley &amp; Sons, Ltd.
+        443
+        Comp. Anim. Virtual Worlds 2007; 18: 437–446 DOI: 10.1002/cav
+        J. J. ZHANG, X. YANG AND Y. ZHAO
+        
+          
+        
+        *******************************************************************************************************************
+        
+          
+          Figure 7. Bar-net driven skinning implemented as a Maya plug-in.
+        
+      
+      
+        <H1>ACKNOWLEDGEMENTS</H1>
+        This research is funded by the British Arts and Humanities Research Council grant B/RG/AN5263/APN12727 and Great Western Research Fellowship. We are grateful to Autodesk for their donation of the Maya software licences. Appendix: The Force Density Method For each bar branch, we define an impulse function k(j) to evaluate the connectivity between branch j and node k in the net: 1 k is an end note of branch j kðjÞ 1⁄4 0 otherwise
+        The usual branch–node matrix C s is defined by: 8 &lt; þ1 for iðjÞ 1⁄4 1 C s ðj; iÞ 1⁄4 À1 for kðjÞ 1⁄4 1 ( 1 ) : 0 otherwise Here i is one extremity and k is the other extremity of branch j. The equilibrium shape of the net structure is reached when all the forces applied at each node sum up to zero. This equilibrium requirement can be written as a linear equation system in the following matrix form: 31 C t QC x þ C t QC f x f 1⁄4 p x C t QC ỹ þ C t QC f ỹ f 1⁄4 p y ( 2 ) C t QCz þ C t QC f z f 1⁄4 p z where Q is the diagonal matrix built from the force densities, ðQÞ ij 1⁄4 q 0 i otherwise if i 1⁄4 j and force density q i of bar i is defined as the ratio of the force to the length of the bar, x f ; ỹ f ;z f are the vectors of the x, y, z co-ordinates of the fixed nodes and are considered as input data, while x; ỹ;z are the vectors of the x, y, z co-ordinates of the moving nodes (free nodes) and are unknowns in the equation. p x ; p y ; p z are the external load vectors. By setting D 1⁄4 C t QC and D f 1⁄4 C t QC f , Equation ( 2 ) becomes:
+        D x 1⁄4 p x À D f x f D ỹ 1⁄4 p y À D f ỹ f ( 3 ) Dz 1⁄4 p z À D f z f
+        Thus at the equilibrium state the coordinates of the free nodes are determined by: x 1⁄4 D À1 ð p x À D f x f Þ ỹ 1⁄4 D À1 ð p y À D f ỹ f Þ ( 4 ) z 1⁄4 D À1 ð p z À D f z f Þ Therefore, with the given interconnection, the force density vector, the load and the co-ordinates of the fixed nodes, and the positioning of the free nodes are determined by the equilibrium of the loads. It is clear from Equation ( 4 ) that any state of equilibrium of a general network structure can be obtained by the solution of one system of linear equations, which is computationally inexpensive.
+        *******************************************************************************************************************
+        Copyright # 2007 John Wiley &amp; Sons, Ltd.
+        444
+        Comp. Anim. Virtual Worlds 2007; 18: 437–446 DOI: 10.1002/cav
+        
+          
+        
+        BAR-NET DRIVEN SKINNING
+        *******************************************************************************************************************
+      
+      
+        <H1>References</H1>
+        
+          1. Mu  ̈ ller M, Dorsey J, McMillan L, Jagnow R, Cutler B. Stable real-time deformations. In Proceedings of the 2002 ACM Siggraph/Eurographics Symposium on Computer Animation, SCA ’02 (San Antonio, Texas, July 21–22, 2002). ACM Press, New York, NY, 2002; pp. 49–54.
+          2. Debunne G, Cani M, Desbrun M, Barr A. Adaptive simulation of soft bodies in real-time. In Proceedings of the Computer Animation, CA (May 03–05, 2000), IEEE Computer Society, Washington, DC, 2000; p. 15.
+          3. Debunne G, Desbrun M, Cani M, Barr AH. Dynamic real-time deformations using space &amp; time adaptive sampling. In Proceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH ’01. ACM Press, New York, NY, 2001; pp. 31–36.
+          4. Sederberg TW, Parry SR. Free-form deformation of solid geometric models. In Proceedings of the 13th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH ’86, Evans DC, Athay RJ (eds). ACM Press, New York, NY, 1986; pp. 151–160.
+          5. Coquillart S. Extended free-form deformation: a sculpturing tool for 3D geometric modeling. In Proceedings of the 17th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH ’90 (Dallas, TX, USA). ACM Press, New York, NY, 1990; pp. 187–196.
+          6. Hsu WM, Hughes JF, Kaufman H. Direct manipulation of free-form deformations. In Proceedings of the 19th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH ’92, Thomas JJ (ed.). ACM Press, New York, NY, 1992; pp. 177–184.
+          7. MacCracken R, Joy KI. Free-form deformations with lattices of arbitrary topology. In Proceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH ’96. ACM Press, New York, NY, 1996; pp. 181–188.
+          8. Singh K, Kokkevis E. Skinning characters using surface oriented free-form deformations. In Proceedings of Graphics Interface 2000, May 15–17, Montreal, Quebec, Canada, 2000; 35–42.
+          9. Catmull E. A system for computer generated movies. In Proceedings of the ACM Annual Conference—Volume 1, ACM’72 (Boston, Massachusetts, United States, August 01–01, 1972). ACM Press, New York, NY, 1972; pp. 422–431.
+          10. Lewis JP, Cordner M, Fong N. Pose space deformation: a unified approach to shape interpolation and skeletondriven deformation. In Proceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques. ACM Press/Addison-Wesley Publishing Co., 2000; pp. 165– 172.
+          11. Magnenat-Thalmann N, Laperri `re R, Thalmann D. Joint-dependent local deformations for hand animation and object grasping. In Proceedings on Graphics Interface  ’88 (Edmonton, Alberta, Canada). Canadian Information Processing Society, Toronto, Ont., Canada, 1988; pp. 26– 33.
+          12. Wang XC, Phillips C. Multi-weight enveloping: leastsquares approximation techniques for skin animation. In Proceedings of the 2002 ACM Siggraph/Eurographics Symposium on Computer Animation, SCA ’02 (San Antonio, Texas, July 21–22, 2002). ACM Press, New York, NY, 2002; pp. 129– 138.
+          13. James DL, Twigg CD. Skinning mesh animations. In ACM SIGGRAPH 2005 Papers, SIGGRAPH ’05 (Los Angeles, California, July 31–August 04, 2005), Marks J (ed.). ACM Press, New York, NY, 2005; pp. 399–407.
+          14. Sloan PJ, Rose CF, Cohen MF. Shape by example. In Proceedings of the 2001 Symposium on Interactive 3D Graphics I3D ’01. ACM Press, New York, NY, 2001; pp. 135–143.
+          15. Mohr A, Gleicher M. Building efficient, accurate character skins from examples. In ACM SIGGRAPH 2003 Papers, SIGGRAPH ’03 (San Diego, California, July 27–31, 2003). ACM Press, New York, NY, 2003; pp. 562–568.
+          16. Allen B, Curless B, Popovic Z. Articulated body deformation from range scan data. In Proceedings of the 29th Annual Conference on Computer Graphics and Interactive Techniques. ACM Press, 2002; pp. 612–619.
+          17. Der KG, Sumner RW, Popovi  ́ J. Inverse kinematics for reduced deformable models. In ACM SIGGRAPH 2006 Papers, SIGGRAPH ’06 (Boston, Massachusetts, July 30–August 03, 2006). ACM Press, New York, NY, 2006; pp. 1174–1179.
+          18. Chadwick JE, Haumann DR, Parent RE. Layered construction for deformable animated characters. In Proceedings of the 16th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH ’89. ACM Press, New York, NY, 1989; pp. 243–252.
+          19. Shen J, Thalmann N-M, Thalmann D. Muscle based human body deformation. In Proceedings of the 3rd International Conference on CAD and Computer Graphics, Beijing, China, 1993; pp. 95–100.
+          20. Scheepers F, Parent RE, Carlson WE, May SF. Anatomybased modeling of the human musculature. In Proceedings of the 24th Annual Conference on Computer Graphics and Interactive Techniques. ACM Press/Addison-Wesley Publishing Co., New York, NY, 1997; pp. 163–172.
+          21. Wilhelms J, Van Gelder A. Anatomically based modeling. In Proceedings of the 24th Annual Conference on Computer Graphics and Interactive Techniques. ACM Press/AddisonWesley Publishing Co., New York, NY, 1997; pp. 173–180.
+          22. Nedel L, Thalmann D. Modeling and deformation of the human body using an anatomically-based approach. In Proceedings of the Computer Animation, CA (June 08–10, 1998). IEEE Computer Society, Washington, DC, 1998; p. 34.
+          23. Simmons M, Wilhelms J, Van Gelder A. Model-based reconstruction for creature animation. In Proceedings of the 2002 ACM Siggraph/Eurographics Symposium on Computer Animation, SCA ’02 (San Antonio, Texas, July 21–22, 2002). ACM Press, New York, NY, 2002; pp. 139–146.
+          24. Scheepers CF. Anatomy based surface generation for articulated models of human figures. Doctoral Thesis, The Ohio State University, 1996.
+          25. Singh K. Realistic human figure synthesis and animation for VR applications. Doctoral Thesis. UMI Order Number: UMI Order No. GA X96-12277, Ohio State University, 1995.
+          26. Wilhelms J. Modeling animals with bones, muscles, and skin. In UCSC-CRL-95-01. University of California: Santa Cruz, 1995.
+          27. Albrecht I, Haber J, Seidel H. Construction and animation of anatomically based human hand models. In Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer animation, San Diego, California, 2003; pp. 98–109.
+          28. Lee S, Terzopoulos D. Heads up! Biomechanical modeling and neuromuscular control of the neck. In Proceedings of ACM SIGGRAPH 2006 Conference, Boston, MA, August 2006 (ACM Transactions on Graphics 2006; 25(3): 1188–1198).
+          29. Pratscher M, Coleman P, Laszlo J, Singh K. Outside-in anatomy based character rigging. In Proceedings of the 2005 ACM Siggraph/Eurographics Symposium on Computer Animation, SCA ’05 (Los Angeles, California, July 29–31, 2005). ACM Press, New York, 2005; pp. 329–338.
+          30. Yang X, Zhang JJ. Automatic muscle generation for character skin deformation: research articles. Computer Animation &amp; Virtual Worlds 2006; 1–7(34): 293–303.
+          31. Schek HJ. The force density method for form finding and computation of general networks. Computer Methods in Applied Mechanics and Engineering 1974; 3: 115–134.
+        
+        *******************************************************************************************************************
+        Copyright # 2007 John Wiley &amp; Sons, Ltd.
+        445
+        Comp. Anim. Virtual Worlds 2007; 18: 437–446 DOI: 10.1002/cav
+        J. J. ZHANG, X. YANG AND Y. ZHAO
+        
+          
+        
+        *******************************************************************************************************************
+        Authors’ biographies:
+        
+          
+        
+        Jian J. Zhang is Professor of Computer Graphics at the National Centre for Computer Animation and Director of Computer Animation Research Centre, Bournemouth Media School, Bournemouth University. His research interests include computer graphics, computer animation, physically based simulation, geometric modelling, medical simulation and visualisation. Xiaosong Yang is a Research Fellow in the National Centre for Computer Animation, Bournemouth Media School, Bournemouth University, United Kingdom. He received his bachelor (1993) and master degree (1996) in Computer Science from Zhejiang University (P. R. China), Ph.D. (2000) in Computing Mechanics from Dalian University of Technology (P. R. China). He worked as PostDoc (2000–2002) in the Department of Computer Science and Technology of Tsinghua University for 2 years, and Research Assistant (2001–2002) at the ‘Virtual Reality, Visualization and Imaging Research Centre’ of Chinese University of Hong Kong. His research interests include 3D modelling, animation, real-time rendering, virtual reality, virtual surgery simulation and computer-aided design. Yunfeng Zhao did his research on computer graphics in Bournemouth University. He was then a Research Fellow in Leeds University and contributed greatly to the success of the VITAL project. He became a Partner and Senior Engineer in Icona Solutions Ltd which was set up to explore the innovative technology developed in VITAL project. His research interests include computer graphics and computer simulation, especially in the area of computer-simulated deformation.
+        
+          
+        
+        
+          
+        
+        *******************************************************************************************************************
+        Copyright # 2007 John Wiley &amp; Sons, Ltd.
+        446
+        Comp. Anim. Virtual Worlds 2007; 18: 437–446 DOI: 10.1002/cav
+      
+    
+  
+
+</Document>

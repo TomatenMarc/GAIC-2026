@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document xmlns:gate="http://www.gate.ac.uk" name="A06_S07_Controlling_Deformable_Material_with_Dynamic_Morph_Targets_CITATION_PURPOSE_M_v1.xml">
+
+
+  
+    c5c91b81707c9040f3b20943d0726527e33a8402dbabc5aeeacb7b249072e402
+    3wxa
+    http://dx.doi.org/10.1145/1507149.1507156
+  
+  
+    
+      
+        <Title>Controlling Deformable Material with Dynamic Morph Targets</Title>
+      
+      
+        
+          Nico Galoppo ∗ Miguel A. Otaduy † William Moss ‡ Jason Sewall § Sean Curtis ¶ Ming C. Lin
+          ∗
+        
+      
+      ∗ e-mail: nico.galoppo@intel.com † e-mail: miguel.otaduy@urjc.es ‡ e-mail: wmoss@cs.unc.edu § e-mail: sewall@cs.unc.edu ¶ e-mail: seanc@cs.unc.edu e-mail: lin@cs.unc.edu
+      Intel Corporation URJC Madrid UNC Chapel Hill UNC Chapel Hill
+      
+        
+      
+      <Abstract>We present a method to control the behavior of elastic, deformable material in a dynamic simulation. We introduce dynamic morph targets, the equivalent in dynamic simulation to the geometric morph targets in (quasi-static) modeling. Dynamic morph targets define the pose-dependent physical state of soft objects, including surface deformation and elastic and inertial properties. Given these morph targets, our algorithm then derives a dynamic model that can be simulated in time-pose-space, interpolating the dynamic morph targets at the input poses. Our method easily integrates with current modeling and animation pipelines: at different poses, an artist simply provides a set of dynamic morph targets. Whether these input states are physically plausible is completely up to the artist. The resulting deformable models expose fully dynamic, pose-dependent behavior, driven by the artist-provided morph targets, complete with inertial effects. Our deformable models are computationally efficient at runtime through modal reduction and pose-space polynomial interpola-</Abstract>
+	     tion. These models can therefore be plugged into existing dynamic simulation engines, either forming interactive, deformable content in real-time games or providing secondary dynamic effects for kinematically-driven characters in feature animation films. Finally, our method also facilitates certain time-consuming rigging procedures, by providing a physically based approach to resolve co-articulation deficiencies in traditional skinning methods, such as in shoulder regions, fully automatically.
+	Keywords: physically based modeling, deformation, reduced dynamics, modal analysis, morph targets
+	
+    
+      
+        (a)
+      
+      
+        (b)
+        
+          Figure 1: When under influence of dynamic events such as jumping from a diving board or bouncing off a wall, our method using morph targets produces deformations consistent with Herbert’s morph targets defined in (a). The fat morph target is associated with a crunched pose to mimic a bulging belly (and only for that pose). As shown in (b), the simulation without dynamic morph targets does not show bulging, whereas our method shown in (c) does. Image (d) is a snapshot of our run-time diving demo.
+        
+      
+      
+        e-mail: nico.galoppo@intel.com e-mail: miguel.otaduy@urjc.es e-mail: wmoss@cs.unc.edu e-mail: sewall@cs.unc.edu e-mail: seanc@cs.unc.edu e-mail: lin@cs.unc.edu
+        Copyright © 2009 by the Association for Computing Machinery, Inc. Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored. Abstracting with credit is permitted. To copy otherwise, to republish, to post on servers, or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from Permissions Dept, ACM Inc., fax +1 (212) 869-0481 or e-mail permissions@acm.org .
+        UNC Chapel Hill UNC Chapel Hill UNC Chapel Hill
+      
+      
+        <H1>1 Introduction</H1>
+      
+      Animation of skin and muscular deformations of human characters and other living creatures has long been one of the most important applications of deformable modeling in computer graphics, notably in feature animation and more recently in increasingly realistic computer games and interactive medical and training applications. Realistic deformation is a complex and subtle phenomenon due to the tightly coupled interplay of bones and musculature governing the deformations. Generally speaking, there are three common approaches for modeling surface deformation: purely kinematic, example-based and physically based. Purely algorithmic approaches for skeleton-driven 
+[Kavan and Zara 2005]
+ and facial deformations [Pighin and Lewis 2006]
+ are very fast, but have difficulty in capturing realistic skin deformation in areas with multiple influences.
+ Example-based approaches capture more realism by pose-space interpolation of desired skin shapes at different poses 
+[Magnenat-Thalmann et al. 1988; Mohr and Gleicher 2003; Kry et al. 2002; Lewis et al. 2000]. Physically based deformation algorithms, governed by the physics of muscle motion and tendon influences, provide automatic means to achieve dynamic deformations under influence of external forces and inertial effects, but are computationally more expensive 
+[Chadwick et al. 1989; Gourret et al. 1989; Chen and Zeltzer 1992; Scheepers et al. 1997; Wilhelms and Gelder 1997; Sifakis et al. 2005]. Our approach seeks to bridge the gap between geometric examplebased methods and physically based approaches. We introduce dynamic morph targets, i.e. predefined and possibly artist-authored physical descriptors of skin deformations and elastic material properties. Dynamic morph targets rely on three key contributions: • A pose-space method for interpolation of simple elastic deformation models that allows the artist to author complex nonlinear deformation behavior. • A compact way of interpolating skin geometry, elastic forces, and their derivatives, all in a unified manner. • The extension of the method to support modal reduction and therefore very efficient implementation that is linear in the number of coefficients of the force polynomial. The main advantages of our method over previous approaches are three-fold: quality of deformations, dynamic behavior and computational efficiency. Although our method is physically based, we avoid expensive modeling of musculature or tendon influences, and instead rely on physical constitutive models of deformable material to minimize skin pinching artifacts and bypass complex rigging requirements that are common to purely geometric approaches. The use of such constitutive material models also enables response to external forces and inertial effects in dynamic simulations. Due to performance requirements, one is commonly restricted to linear or quasi-linear models that cannot model pose-dependent effects such as bulging and wrinkling. Instead, we guide dynamic simulations by dynamic morph targets — discrete pose-space examples of skin properties and deformations.
+      I3D 2009, Boston, Massachusetts, February 27–March 1, 2009. © 2009 ACM 978-1-60558-429-4/09/0002 $5.00
+      39
+      
+        <H1>2 Related Work</H1>
+        Due to its immense importance in character animation, there has been an extensive collection of work in the area of surface deformation in the last few decades. Here, we will primarily focus on significant work related to control of surface deformation of kinematic and dynamic characters. Readers are referred to extensive surveys for other important work 
+[Gibson and Mirtich 1997; Nealen et al. 2006]. Purely data-driven methods are an attractive choice for control purposes, as the input shapes provide guide examples of desired deformations. In its most essential form, one simply interpolates between character poses in a large database 
+[Maestri 2006], providing ample control of skin deformation to animators. However, many poses are required in the database to achieve good results. Purely data-driven methods lack a kinematic model, making them of limited use for animation and dynamic simulation. Purely kinematic approaches such as skeletal-subspace deformation (SSD) 
+[Magnenat-Thalmann et al. 1988]
+ model the deformation of the skin surface by linear blending of the animated bone transformations. This technique, also known as linear blend skinning, cannot capture complex deformations and typically has problems deforming skin near joints due to collapsing geometry (i.e. pinching), because the deformation is restricted to the subspace of the affine transformation of the joints. 
+Different methods have been proposed to address the problems of linear blend skinning by inserting additional joints tuned from examples 
+[Mohr and Gleicher 2003], or employing blending of transformations instead of weights 
+[Kavan and Zara 2005], among others. 
+
+Recent techniques have extended skinning to mesh deformations 
+[James and Twigg 2005], motion capture data without a predefined skeleton 
+[Park and Hodgins 2006], or interactive models 
+[Der et al. 2006]. Unlike shape interpolation and other data-driven methods, SSD does not permit direct sculpting or control. Instead, artists have to tweak vertex weights, giving SSD algorithms the reputation of being tedious to control. The first work to add control in a kinematic approach is that of pose-space deformations 
+[Lewis et al. 2000]. PSD is a hybrid method that combines SSD with morphing and employs scattered data interpolation to compute non-linear skin corrections in posespace, resulting in a kinematic model that also has artist-sculpted poses. When dealing with large pose-spaces that have many example poses, PSD becomes memory inefficient due to the large database of surface displacements. PSD can be extended to support per-vertex pose-space deformation (WPSD) 
+[Kurihara and Miyata 2004; Rhee et al. 2006]
+, largely reducing the number of required example poses. The EigenSkin method 
+[Kry et al. 2002]
+ also provides a way to reduce per-vertex displacement memory footprint by computing an error-optimal set of eigenbases for approximating the original deformation model. Other recent methods 
+[Weber et al. 2007; Wang et al. 2007]
+ learn example-based corrections on sparse points and assume that these corrections can be smoothly interpolated. Pose space deformation and related example-based methods allow for direct sculpting of geometric morph targets, but are purely kinematic approaches to (quasi-)static deformation, without reference to underlying forces or mass. Our method builds on the concept of pose-space deformation and applies it to pose-space interpolation of dynamic morph targets to achieve not only (quasi-)static deformations, but a fully dynamic model in time-pose-space. Finally, physically based methods in graphics are based on biomechanical models of skin tissue and musculature. In terms of efficiency versus accuracy, these methods fall into two broad categories. The first category of algorithms aim for accuracy 
+[Chen and Zeltzer 1992; Scheepers et al. 1997; Wilhelms and Gelder 1997; Koch et al. 1996; Zordan et al. 2004; Sifakis et al. 2005; Sueda et al. 2008]
+ by simulating the actions of the individual muscles, bones and tendons in the skin. Interactive physically based approaches trade accuracy for performance 
+[Terzopoulos et al. 1987; Terzopoulos and Witkin 1988; Metaxas and Terzopoulos 1992; Picinbono et al. 2001; Capell et al. 2002; Müller and Gross 2004; Galoppo et al. 2007]. These methods use simplified (quasi-)linear elastic models that cannot capture complex non-linear behavior such as muscle bulging. Physically based methods can only provide control through the influence of forces. While methods that control global deformation modes have been around for a while 
+[Witkin and Welch 1990], providing control of sculpted deformations for simulation of deformable models has only recently caught attention in graphics research. A method for physically based rigging was proposed by 
+[Capell et al. 2005], using pose-dependent forces to guide the shape of the character. In contrast to our method, their approach does not support pose-dependent elastic properties and its performance is highly dependent on the resolution of the sculpted deformations. 
+Given an input animation, shape keyframes can be used to retarget the elastic deformations 
+[Kondo et al. 2005] or to enhance the surface deformations with physically simulated detail using subspace constraints 
+[Bergou et al. 2007]. The former provides good control of shapes but is restricted to a given input animation, while the latter achieves rich secondary surface detail but does not provide direct manipulation of the surface. Our method provides the ability to sculpt the dynamic morph targets directly and produces a dynamic model that is not restricted to a given animation; our model can be plugged into any simulated environment and be subject to external forces. 
+Modal reduction has proven useful to increase performance in posespace deformation methods 
+[Kry et al. 2002] as well as in physically based methods 
+[Hauser et al. 2003; Choi and Ko 2005]. Our work exploits the technique of 
+[Barbic and James 2005] that enables fast modal integration of St.Venant-Kirchoff elastic forces, where the performance depends mainly on the number of simulated eigenmodes, not on the resolution of the model. This technique makes our approach suitable for real-time applications. To the best of our knowledge, our method is the first to provide shape and surface behavior control of dynamic reduced models.
+        40
+      
+      
+        <H1>3 Method</H1>
+        The goal of our method is to simulate controllable non-linear deformations by interpolation of dynamic morph targets at runtime, kindred to geometric morph targets in static character modeling. In this section, we will describe the concept of dynamic morph targets, and explain how they can be used to simulate a pose-dependent elastic model that is fast enough for real-time applications.
+        
+          <H2>3.1 Dynamic Morph Targets</H2>
+          Dynamic morph targets define pose-specific soft skin behavior. More formally, they are pairs of elastic models E i and poses s i , i.e. pairs {E i , s i } of elastic models in pose space. Similar to geometric morph targets, dynamic morph targets associate surface and volume deformation with character pose. In contrast to geometric morph targets, dynamic morph targets also define pose-specific elastic properties including stiffness and plasticity. The combination of surface deformation and elastic properties defines the elastic model E i . We represent a pose by a vector s ∈ S where posespace S ⊂ R k . Note that our implementation uses skeletal pose, but the concept of pose can easily be extended beyond the skeletal sense; in fact any notion of state of a character can be used, such as emotional state, velocity state, contact state, or muscle activation. Dynamic morph targets can easily be created in existing modeling packages; very similar to creating geometric morph targets. A modeler defines a set of m poses {s 1 , s 2 , . . . , s m } of the character and sculpts desired deformations that cannot be captured with traditional skinning methods 
+[Kavan and Zara 2005; MagnenatThalmann et al. 1988]. Elastic properties can be assigned for each pose, such that the same skin section can be defined stiff for one pose and flabby for another pose, e.g. to mimic contraction and relaxation of a muscle, or to exaggerate skin bulging. Dynamic characters enhanced with dynamic morph targets can react to external forces just as with other common physically based deformation algorithms, but they also expose non-linear deformations and elastic behavior as imposed by the dynamic morph targets.
+        
+        
+          <H2>3.2 Pose-dependent Elastic Model</H2>
+          Dynamic morph targets are used to build a pose-dependent elastic model E(x, s). For hyper-elastic materials, an elastic model can be defined as a material function E(u(x)) defining the internal elastic energy at material points x in function of the deformation u. For our experiments and in correspondence with the space in which the morph targets are defined, we choose to express elastic deformation in the skeletal bind pose as has been proposed in the past 
+[Lewis et al. 2000; Kry et al. 2002; Galoppo et al. 2007]. On the other hand, it is certainly possible to use other formulations of elastic strain to define a pose-dependent model with dynamic morph targets. Traditionally, the elastic energy is a pose-independent material potential that causes internal elastic forces R(u) in the material. We create a pose-dependent elastic model by taking into account the dynamic morph targets {E i , s i } as example inputs. We use scattered data interpolation to derive an expression for the internal elastic forces R(u, s) anywhere in pose-space S, given the expressions for the elastic forces R i (u) that are imposed by the dynamic morph targets at poses s i . Equations of motion Without loss of generality, we can use the finite element method to discretize the partial differential equations of solid continuum mechanics in space, leading to the common Euler-Lagrange motion equations, where we substitute the posedependent elastic forces R(u, s):
+          
+            1
+            Mü + D(u, u,  ̇ s) + R(u, s) = f ,
+          
+          with M the mass matrix and f the external forces. Here we use the (local) Raleigh damping model D(u, u,  ̇ s): Polynomial elastic forces The computation of pose-dependent elastic forces R(u, s) requires the interpolation of pose-specific forces R i (u). However, since forces are a function of the timevarying deformation u, they cannot simply be evaluated once and then interpolated at runtime. In our method, we have opted for elastic models for which R i (u) can be expressed as a (multivariate) polynomial function of the degrees of freedom u. Then, the interpolation of elastic models reduces to the interpolation of polynomial coefficients. 
+Common examples of such elastic models are the so-called ‘completely linear’ FEM deformation model (with or without stiffness warping 
+[Müller and Gross 2004]), or the ’seminon-linear’ St.Venant-Kirchoff model (StVK) 
+[Barbic and James 2005; Capell et al. 2005]. We have simulated our examples with both linear and semi-non-linear elastic models. However, because we express deformation in the skeletal bind pose, we did not see any noticeable quality difference between both elastic models in our experiments. Therefore, we have opted for the more efficient linear elasticity to produce most of the images and videos unless otherwise noted (see Section 5). In Section 3.4 we show that both models are amenable to modal reduction for efficiency. Each polynomial R i (u) is associated with a dynamic morph target at pose s i and is uniquely defined by its set of coefficients {a k } i which we collect in a vector a i . We can then determine the posedependent elastic force R(u, s), which is also uniquely defined by its set of coefficients a(s). At an arbitrary pose s in pose-space, a(s) can be interpolated from the example coefficients a i . This is described in more detail in Section 3.3. The interpolation of polynomial coefficients yields the interpolation of force values R(u, s) at all possible deformation values u. However, it also yields the interpolation of force derivatives, such as the ∂R(u,s) stiffness matrix . One subtle detail remains for defining a ∂u complete interpolation of elastic models. The rest configuration at each input pose may be different, therefore the deformation u may not be consistent across poses. We choose a certain pose as a reference, and express the deformation of all other poses by adding the difference between rest configurations, ∆u. The addition of this term simply modifies the coefficients of the force polynomials, which can then be safely interpolated, as all deformations are expressed w.r.t. a consistent configuration.
+          „ ∂R(u, s) « D(u, u,  ̇ s) = αM + β u.  ̇ ∂u
+        
+        
+          <H2>3.3 Interpolating Force Polynomials in Pose Space</H2>
+          Conceptually, a pose can be described in many ways, as long as it provides a description of the state of a model or character, and a metric to measure distances between poses. In our implementation, we choose the joint configuration of an articulated character as the pose descriptor. We define the pose descriptor s ∈ R 6k , where k is the number of joints. Each joint contributes 6 components to s, namely the 6-dof representation of its parent-relative coordinate frame. The first three components represent the local joint translation, whereas the last three components represent the local joint
+          41
+          
+            
+          
+        
+      
+      
+        (a) Morph targets (b) Simulation with all soft morph targets
+        
+          Figure 2: Concept of Dynamic Morph Targets: Simple cylinder geometry mimicking an elbow joint with bulging skin, for which two morph targets (out of a total of four) are given in (a). The skin of the bulged morph target was chosen to be stiffer to mimick muscle contraction. On the right, we show runtime snapshots of simulations using our pose-dependent elastic model, under influence of identical downward forces. (b) was generated with four soft morph targets, whereas (c) has increasingly stiffer morph targets, to mimic muscle contraction. The dynamic skin behavior is identical for the straight joint (a relaxed muscle), because the elastic properties of the first morph target are identical for (b) and (c). But, for the bent joint, the force clearly causes more skin deformation in (b). This undesirable behavior can be fixed to mimic muscle contraction by making the fourth morph target stiffer, as shown in in (c). This simple example shows a dynamic bulging effect that can only be achieved with dynamic morph targets.
+        
+        rotation. We define distance between two poses to be the inner product of the difference of its descriptors. As an articulated character moves between observed configurations, its elastic model should approximate the elastic models of the input poses. As mentioned in Section 3.2, we are looking for a way to interpolate internal elastic forces R i . Obviously, as the character moves from one pose to the other, the internal forces change continuously but highly non-linearly. In other words, elastic forces form a non-linear smooth field in pose-space. Radial base functions [Powell 1987] (RBF) are a common choice for interpolating scattered data of an underlying smooth field that is non-linear. Moreover, as our goal is to have as few input models E i as possible, RBFs are suited because they work well with sparse input data sets. RBFs extend easily to high dimensional domains, enabling the capture of multi-joint coupling effects. As mentioned in Section 3.2, we can determine the pose-dependent elastic forces R(u, s) by computing the polynomial coefficient vector a(s). Using RBFs, the interpolated coefficient vector is computed at runtime as m
+        
+          2
+          a(s) = X w j φ( s − s j ) + Q(s) j=1
+        
+        where m is the number of dynamic morph targets. In our experiments, it was sufficient to use a constant vector Q for the polynomial Q(s). We also employed the globally supported biharmonic RBF kernel φ(r) = r, since its optimal fairness allows for smoother interpolation of sparsely scattered example poses as compared to locally supported kernels 
+[Carr et al. 2001]. In our experience, locally supported kernels such as the Gaussian RBF kernel are harder to tune and are unable to extrapolate across dynamic morph targets that are far apart in pose-space. We also use the smoothing term from 
+[Carr et al. 2001]
+ to achieve smoother behavior across large gaps between input poses. The RBF weight vectors w j are given by the solution of m linear systems (one for each input pose i): m
+        
+          3
+          a(s i ) = a i = X w j φ( s i − s j ) + Q(s i ). j=1
+        
+        The combination of these m linear systems provides m vectorial equations with m vector unknowns w j , plus the additional constant unknown vector Q (in case of choosing a constant polyno-
+      
+      
+        (c) Simulation with stiffer bulged morph target
+        mial). The combined system is underdetermined (m + 1 vector unknowns for m vectorial equations), but it can be solved by imposing orthogonality conditions on the weights w i 
+[Carr et al. 2001]. In order to avoid redundancy in the pose descriptors s i , and to guarantee that Eqn. (3) is not singular, we perform a principal component analysis 
+[Golub and Loan 1996] on the set of input pose descriptors. By selecting modes with non-zero or large eigenvalues only, we reduce the dimension of s and define a mapping to the reduced pose descriptor s = U T s s. We replace s by s both in the preprocessing stage to solve Eqn. (3) and at runtime for Eqn. (2). Modal reduction of the pose descriptors is very effective for robustness, but is also useful when our method is used for facilitating rigging. In highly complex areas of skin deformation such as the shoulder area, the skin is under influence of many bones for which the skinbone relationships cannot easily be determined by a human rigger or technical director. Our system can automatically deduce these relationships and reduce them to only a few significant modes. At runtime, given a(s) from Eqn. (2), we can compute the elastic ∂R(u,s) forces R(u, s) and their Jacobian for implicit integration ∂u of Eqn. (1). Unfortunately, due to the large number of coefficients that need to be interpolated, the evaluation of Eqn. (2) is rather costly. The number of coefficients is proportional to the number of nodes n in the finite element mesh for linear elastic models, and O(S 3 n) for StVK materials, where S is the average size of the neighborhood of a node. Instead, we propose a way to increase performance and to reduce the dependency on the resolution of the input geometry by reducing the number of degrees of freedom, while still maintaining the non-linear behavior defined by the morph targets. We use a reduced model u = Uq to enable dynamic simulation that is independent from the input resolution of the geometry. Given mass-orthogonal basis U T MU = I, the ODE in Eqn. (1), is transformed into
+        3.4 Reduced Equations of Motion
+        
+          4
+          q + D(q,  ̃ q,  ̇ s) + R(q,  ̃ s) =  ̃ f
+        
+        where D,  ̃ R  ̃ and  ̃ f are r-dimensional reduced forces, D(q,  ̃ q,  ̇ s) = U T D(Uq, U q,  ̇ s) (5a) R(q,  ̃ s) = U T R(Uq, s) (5b)  ̃ f = U T f . (5c)
+        42
+        Similarly, one can form the dense reduced tangent stiffness matrix,
+        
+          6
+          ∂ R(q,  ̃ s) = U T ∂R(Uq, s) U ∈ R (r,r) ∂q ∂q
+        
+        When applying model reduction to (multivariate) polynomial elastic forces, it can be shown that the reduced forces are still (multivariate) polynomial elastic forces. In particular, reduced ‘completely-linear’ elastic forces are linear polynomials in terms of the reduced coordinates q, and [Barbic and James 2005] has shown that StVK internal forces and tangent stiffness matrices are multivariate cubic polynomials that can be evaluated in Θ(r 4 ) time, with r the number of reduced modes (typically 10-30), by simply evaluating polynomials in terms of the reduced coordinates q: R(q)  ̃ = P i q i + Q ij q i q j + S ijk q i q j q k (7a) ∂ R(q)  ̃ l li il lij ilj ijl = P + (Q + Q )q i + (S + S + S )q i q j , ∂q l (7b) Note that Einstein summation convention was used in Eqn. (7). Here, P i , Q ij , S ijk ∈ R r are constant vector polynomial coefficients. The polynomial coefficients can be precomputed, given the rest pose p i . For linear materials, the Q ij and S ijk terms are all zero. We can now combine scattered polynomial interpolation from Section 3.3 with the reduced motion equations by concatenating the reduced coefficients into a = [ P i ; Q ij ; S ijk ]. Just as in Section 3.3, each dynamic morph target defines a set of coefficients a i which can then be used to set up an interpolator for the posedependent coefficients a(s). This then yields all the necessary information to compute R(q,  ̃ s) in Eqn. (5). Note that, because the number of reduced modes r is typically many orders of magnitude smaller than the number of vertices of the mesh, the cost of evaluating Eqn. (2) is significantly smaller than in the non-reduced case. The construction of the reduction basis U will be discussed in Section 4. The reduced equations of motion Eqn. (4) can be solved using a reduced implicit Newmark Solver, employing the aforementioned internal forces and tangent stiffness matrices evaluated at each time step. As described in Section 3.1, an artist begins by modeling the base model surface and a skeleton with associated SSD skinning weights, and defines a set of geometric morph targets. Using vertex painting, he can then assign stiffness parameters such as Young’s modulus and Poisson ratio to certain parts of the skin. This is where our preprocessing stage starts. Preprocessing We first tetrahedralize the base mesh and propagate the surface node SSD skinning weights to internal nodes. We do this by solving a homogeneous Poisson problem for the internal node weights, where the known surface node weights are set up as boundary conditions. Then, for each morph target, a corresponding tetrahedral rest-pose mesh is defined (still in the skeletal bind pose). This can be done by displacing the surface nodes of the base tetrahedral mesh with the morph target’s values. We then relax the internal nodes by performing a physical simulation, constraining the new surface positions and using the elastic model of the base mesh. Once the new internal node positions are determined, the morph target’s position offsets ∆u from the base mesh are computed and the force polynomials a i associated with R i (u) are precomputed (see Eqn. (3), Sections 3.2 and 3.4). For reduced elastic models, a modal subspace is also constructed (Section 4). Runtime skeletal constraints At runtime, the final positions of the material points are computed as the combination of linear blend skinning and elastic deformation computed in the skeletal bind pose. We also account for the inertial forces caused by the moving coordinate frames of the bones 
+[Galoppo et al. 2007]. Additionally, we conceptually constrain the material points that are attached to internal bones. This can be achieved by removing the elastic degrees of freedom that are associated with corresponding internal mesh nodes. Hence, the positions of these points are then completely governed by the linear blend skinning transformations only. We remove these degrees of freedom in our preprocessing step by identifying tetrahedral mesh elements that are intersected by skeletal bones. Degrees of freedom that are associated with these elements are removed (i.e. they are ’fixed’ in the pose-space), unless they lie on the model’s boundary surface.
+        3.5 Model Construction and Kinematic Constraints
+      
+      
+        <H1>4 Subspace Construction</H1>
+        We describe here our implementation of the reduced equations of motion, through morph target aware subspace construction. In the reduced model, the displacement vector u is expressed as u = Uq, where U ∈ R (3n,r) is the displacement basis matrix, and q ∈ R r is the vector of reduced displacement coordinates. Here, U is a time-independent matrix specifying a basis of some r-dimensional (r &lt;&lt; 3n) linear subspace of R 3n . For each of the dynamic morph targets, we employ linear modal analysis (LMA), which provides the best deformation basis for small deformations away from the rest configuration. Intuitively, modal basis vectors are directions into which the model can be pushed with the smallest possible increase in elastic strain energy. To find the modal basis vectors U i , we solve the following symmetric generalized eigenproblem (for a small number k of eigenvectors)
+        
+          8
+          0 K(x )U i = MU i Λ i ,
+        
+        
+          8
+          i
+        
+         . . &lt; λ k i . The stiffness matrix K = ∂R(x) ∂x is evaluated at x 0 i , the rest configuration for input pose i, which defines a ‘goal’ deformation for the input poses. Note that at this point, one could easily add modal derivatives, as in [Barbic and James 2005]. In the next step, we have to combine the basis matrices U i into a global basis matrix U. We have taken into account three requirements when choosing the basis.
+        1. Avoid redundancy in the basis set, i.e. find an orthogonal set that is as compact as possible. 2. The characteristic deformations of all the morph targets have to be well represented. 3. The input deformations of each of the dynamic morph targets have to be well represented in the reduced space, otherwise the sculpted deformations can’t be simulated. In other words, the basis has to be aware of the morph targets.
+        The most straight forward approach is to combine all eigenvectors together as U = ˆ U 1 U 2 . . . U m  ̃ , and orthogonalize them (each set of eigenvectors U p is orthogonal, but eigenvectors between different sets are not). This approach takes care of the second requirement, but results in a large set of eigenmodes with relatively small contributions for many eigenmodes, because all the common first deformation modes (such as stretch, shear, . . . ) are represented in each of the U i . Instead, similar to [Barbic and James 2005], we can construct a low-dimensional motion subspace by applying mass-PCA. We scale the derivatives according to the eigenvalues of the corresponding linear modes. Namely, we obtain the low-dimensional deformation basis by applying mass-PCA on the set of vectors
+        43
+        
+          9
+          { λ λ i 1 j i U j i | i = 1, . . . , m; j = 1, . . . , k i }.
+        
+        We select the first r principal modes to achieve the basis U . Scaling is necessary to put greater weight on the more important low-frequency modes, which would otherwise be masked by highfrequency modes. In case the eigenmodes in different poses show large variance, we can adapt the normalization factor such that the eigenvectors are normalized across morph targets, by replacing the scaling factor by λ λ i 1 i λ i . k j Finally, to make the basis aware of the morph targets, we add m − 1 rest pose deformations {x 0 p |i = 2, . . . , m} to the set U and remass-orthogonalize the set {U i } ∪ {x 0 p } into the final basis U ∈ R 3n×r with r = (r + m − 1). Figure 3 illustrates the entire process.
+        
+          
+        
+         Figure 3 : Construction of a morph-target-driven, massorthogonal reduction basis U: For each dynamic morph target i, during LMA the r smallest eigenmodes are selected to construct eigenbases U i . Mass-PCA combines and compacts the U i , retaining only k most significant modes. Finally, we explicitly add morph target deformations x 0 i to the eigenbasis and and guarantee massorthogonality of the final basis U.
+      
+      
+        <H1>5 Results</H1>
+        By using pose-space efficient polynomial interpolation to achieve pose-dependent behavior, we are able to demonstrate rich nonlinear deformation effects at relatively small extra cost compared to simple simulation of linear or semi-non-linear materials. We have performed experiments with three different input models: a simple bulging cylinder with 4 bones (see Fig. 2 ), a shoulder model with 4 bones, and Herbert, our swimsuit model with 46 bones. For each
+        
+          
+          Figure 4:
+        
+        Herbert jumps off on a diving board: Comparison of single (pose-independent) linear elasticity (left column), our method with dynamic morph targets (middle column), and our method with dynamic morph targets and modal reduction applied (right column). When balled up, Herbert’s back (top) and belly (bottom) bulge in correspondence with his morph targets defined in Fig. 1 . On the bottom left, Herbert’s belly looks very flabby, as if he swallowed a brick. However, Herbert’s ‘fetal pose’ morph target 3 was authored with a stiff belly. Our method (bottom right) shows the more desired behavior.
+        model, we qualitatively compare simulations with different elastic models. We compare a single (pose-independent) elastic model with our pose-dependent elastic model that employs multiple dynamic morph targets, both with and without modal reduction. Herbert model For the Herbert simulations, we used only 3 morph targets, illustrated in Fig. 1 . The first morph target is a skinny version of Herbert, in which his skin is very soft and flabby, the third target is a stiff, bulged Herbert in fetal position, while the second target has been chosen in between the first and the third. In our video, we show Herbert’s belly deformations as he cycles between upright and fetal poses. While the single elastic model shows little or no dynamic behavior, our pose-dependent elastic model adds a dramatic amount of realism due to the bulging behavior and inertial skin motion. Next, we drive the skinned Herbert model with a skeletal animation and add inertial forces due to the bone’s moving frames. As Herbert jumps off a diving board and flips through different poses, we show the advantage of our pose-dependent model from an artistic viewpoint. With single elastic models, the belly is flabby and skinny throughout the entire simulation. Using the aforementioned morph targets for Herbert, an animator can impose a stiff, bulged belly in balled-up poses, and softer, skinny belly behavior in upright poses. Our video demonstrates the imposed behavior as Herbert’s belly exposes bulging and non-flabby skin when he jumps from the diving board. Also, in Fig. 4 , we show the use of reduced models in our method achieves the same quality of desired deformations as the computationally more expensive unreduced model. Shoulder model Our method also provides a physically-based approach to resolving regions affected by multiple joints, such as a shoulder rig. Our approach facilitates complex rigging: a set of
+        44
+        
+          
+        
+        Shoulder example morph targets:
+      
+      
+        (a) A few skinned input poses with associated target deformations as provided by an artist (targets morph targets in total, including one bent arm input with bicep bulging (target
+        6).
+        
+          
+        
+        Bicep muscle bulge and self-intersection:
+      
+      
+        (b) At runtime, a pose-independent force model clearly shows undesired and self-intersecting deformations when bending the arm (left column). On the other hand, our method in the middle column shows deformations consistent with morph target (Fig. (a)), even after application of modal reduction for efficiency (right column).
+        
+          
+        
+      
+      
+        (c)
+        Extrapolation to new shoulder poses:
+      
+      
+        Our method also extrapolates to non-input poses.
+        
+          Figure 5: Shoulder Rig Simulation
+        
+        skinning weights and a set of morph targets are sufficient to simulate complex co-articulation effects. There is no need for manual tweaking of the complex mapping of joint configuration to blending weights of geometric morph targets. In our shoulder example, we have 6 morph targets, shown in Fig. 5(a) . The shoulder example also demonstrates our method’s ability to simulate dynamic behavior at poses away from the morph target input poses ( Fig. 5 ). The input morph target set contains only one example of a folded elbow but we show two distinct folding scenarios in the full animation. Both folding scenarios show severe self-intersection in the single pose-independent model due to the effect of linear blend skinning. Our pose-dependent model resolves both automatically. Another
+        1, 3 6).
+      
+      
+        and We used
+        6
+        6
+        interesting co-articulation effect is the motion of the chest muscle as the arm makes a folding motion (see video). Whereas the chest seems to collapse for single elastic models, it bulges more realistically with our method. The shoulder model has 4899 degrees of freedom. After modal reduction, we were able to accelerate the simulation significantly by using only 19 eigenmodes ( Table 1 ) with almost no visible effect on the simulation quality ( Fig. 5 ). Performance In addition to qualitative comparisons, we have also compared simulation timings. We have performed all our experiments on a 2.4 GHz Intel Core 2 Duo Macbook Pro laptop (us- ing one of its two cores), with 2 GB of RAM and a NVidia GeForce 8600M GT graphics card. All rendering was done with the opensource Blender modeling package. Our timing results are summarized in Table 1 . All our methods achieve real-time performance due to efficient pose-space interpolation of low-complexity linear elastic forces and modal reduction of either linear or semi-nonlinear StVK forces. Comparing our method with the performance of single (pose-independent) elastic models, it is clear from Table 1 that our method has only a marginal extra cost, due to efficient polynomial interpolation of the dynamic morph target models. Finally, precomputation of the force polynomial coefficients in Eqn. (7) can be significant in case of StVK models, but never prohibitive. The precomputation times are shown in Table 1 . Quality versus artist effort and performance The quality of the output animation depends on the quality and number of the artist’s input poses. Too few input poses can cause slight popping of the animation towards the input shapes but the simulation of the pose-dependent elastic model will be stable nevertheless. Therefore, stable results can be achieved with little effort from the artist and poses can then be added incrementally to areas of the posespace where the behavior is not satisfactory. The effect of the number of poses on the run-time performance of the algorithm is very small as it doesn’t affect the number of degrees of freedom in the simulation (see comparison 6 vs. 9 shoulder DMTs in Table 1 ). Only the cost of the RBF interpolation in Eq. (2) is affected linearly in the number of poses m. Comparison with other methods While geometric morph targets enable control of non-linear deformations, these deformations are purely static and cannot react to external forces in a physical simulation. Our dynamic morph targets add dynamic behavior to non-linear deformations such that external and inertial forces can be applied, as shown in Fig. 2 . The method by Capell et al. [2005] also enables deformations under influence of external forces, corresponding to the behavior in Fig. 2(b) , but does not influence the underlying properties of the elastic material. As shown in Fig 2(c) , our method can correct such undesirable behavior by setting elastic properties for each of the individual morph targets, effectively mimicking muscle contraction.
+        45
+        
+          Table 1: Model Statistics and Performance.
+          
+            
+              
+                
+                   Model
+                   Elasticity
+                   # DOFS
+                   # DMTs
+                   Preproc.
+                   Without
+                   With
+                
+              
+              
+                
+                  
+                   Type
+                  
+                  
+                   (s)
+                   DMTs
+                   DMTs
+                
+                
+                  
+                  
+                  
+                  
+                  
+                   (fps)
+                   (fps)
+                
+                
+                   Bulging
+                   Lin.
+                   918
+                   4
+                   /
+                   28
+                   25
+                
+                
+                   Cylinder
+                   Red. Lin.
+                   13
+                   4
+                   /
+                   93
+                   89
+                
+                
+                  
+                   Red. StVK
+                   13
+                   4
+                   21.2
+                   89
+                   64
+                
+                
+                   Herbert
+                   Lin.
+                   603
+                   3
+                   /
+                   36
+                   34
+                
+                
+                  
+                   Red. Lin.
+                   12
+                   3
+                   /
+                   96
+                   92
+                
+                
+                  
+                   Red. StVK
+                   12
+                   3
+                   16.8
+                   90
+                   58
+                
+                
+                   Shoulder
+                   Lin.
+                   4899
+                   6
+                   /
+                   3
+                   3
+                
+                
+                  
+                   Lin.
+                   4899
+                   9
+                   /
+                   3
+                   3
+                
+                
+                  
+                   Red. Lin.
+                   19
+                   6
+                   /
+                   87
+                   85
+                
+                
+                  
+                   Red. Lin.
+                   19
+                   9
+                   /
+                   83
+                   81
+                
+                
+                  
+                   Red. StVK
+                   19
+                   6
+                   661
+                   30
+                   22
+                
+                
+                  
+                   Red. StVK
+                   19
+                   9
+                   1078
+                   28
+                   21
+                
+              
+            
+          
+          Model Elasticity # DOFS # DMTs Preproc. Without With Type (s) DMTs DMTs (fps) (fps) Bulging Lin. 918 4 / 28 25 Cylinder Red. Lin. 13 4 / 93 89 Red. StVK 13 4 21.2 89 64 Herbert Lin. 603 3 / 36 34 Red. Lin. 12 3 / 96 92 Red. StVK 12 3 16.8 90 58 Shoulder Lin. 4899 6 / 3 3 Lin. 4899 9 / 3 3 Red. Lin. 19 6 / 87 85 Red. Lin. 19 9 / 83 81 Red. StVK 19 6 661 30 22 Red. StVK 19 9 1078 28 21
+        
+      
+      
+        <H1>6 Summary and Future Work</H1>
+        In this paper we have presented dynamic morph targets, posedependent elastic models that allow an artist to easily author and control the geometry and elastic behavior of dynamic characters. Dynamic morph targets avoid complex rigging requirements of purely geometric methods, and complex musculoskeletal modeling of purely physically-based methods. By extending our basic framework to support modal reduction, we also achieve high runtime performance. The current dynamic morph target framework can be enhanced with additional features to be included in the future, such as support for (contact) constraints, and an extension to weighted pose-space deformations [Kurihara and Miyata 2004] to allow for improved localized interpolation. Acknowledgements This work is supported in part by ARO, NSF, DARPA/RDECOM and Intel Corporation. We would like to thank the GAMMA group at UNC Chapel Hill and the CGL at ETH Zurich for their support. We would also like to thank the anonymous reviewers for their critical feedback to improve the paper.
+      
+      
+        <H1>References</H1>
+        
+          B ARBIC , J., AND J AMES , D. L. 2005. Real-time subspace integration of St. Venant-Kirchhoff deformable models. Proc. of ACM SIGGRAPH.
+          B ERGOU , M., M ATHUR , S., W ARDETZKY , M., AND G RINSPUN , E. 2007. Tracks: toward directable thin shells. ACM Transactions on Graphics (TOG) (Jan).
+          C APELL , S., G REEN , S., C URLESS , B., D UCHAMP , T., AND P OPOVIC , Z. 2002. Interactive skeleton-driven dynamic deformations. Proc. of ACM SIGGRAPH.
+          C APELL , S., B URKHART , M., C URLESS , B., D UCHAMP , T., AND P OPOVIC , Z. 2005. Physically based rigging for deformable characters. Proc. of Eurographics/ACM SIGGRAPH Symposium on Computer Animation.
+          C ARR , J., B EATSON , R., C HERRIE , J., M ITCHELL , T., F RIGHT , W., M C C ALLUM , B., AND E VANS , T. 2001. Reconstruction and representation of 3d objects with radial basis functions. Proc. of ACM SIGGRAPH.
+          C HADWICK , J. E., H AUMANN , D. R., AND P ARENT , R. E. 1989. Layered construction for deformable animated characters. Proc. of ACM SIGGRAPH.
+          C HEN , D., AND Z ELTZER , D. 1992. Pump it up: computer animation of a biomechanically based model of muscle using the finite element method. Proc. of ACM SIGGRAPH.
+          C HOI , M. G., AND K O , H.-S. 2005. Modal warping: Realtime simulation of large rotational deformation and manipulation. IEEE TVCG 11, 1.
+          D ER , K. G., S UMNER , R. W., AND P OPOVIC , J. 2006. Inverse kinematics for reduced deformable models. ACM TOG (Proc. of ACM SIGGRAPH) 25, 3 (Jul), 1174–1179.
+          G ALOPPO , N., O TADUY , M., T EKIN , S., G ROSS , M., AND L IN , M. 2007. Soft articulated characters with fast contact handling. Computer Graphics Forum 26, 3, 243–253.
+          G IBSON , S., AND M IRTICH , B. 1997. A survey of deformable modeling in computer graphics. MERL.
+          G OLUB , G. H., AND L OAN , C. F. V. 1996. Matrix Computations.
+          G OURRET , J.-P., T HALMANN , N. M., AND T HALMANN , D. 1989. Simulation of object and human skin deformations in a grasping task. Proc. of ACM SIGGRAPH.
+          H AUSER , K. K., S HEN , C., AND O’B RIEN , J. F. 2003. Interactive deformation using modal analysis with constraints. Proc. of Graphics Interface.
+          J AMES , D. L., AND T WIGG , C. D. 2005. Skinning mesh animations. Proc. of ACM SIGGRAPH.
+          K AVAN , L., AND Z ARA , J. 2005. Spherical blend skinning: A real-time deformation of articulated models. Proc. of ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games.
+          K OCH , R., G ROSS , M., C ARLS , F., AND VON B UREN  ̈ , D. 1996. Simulating facial surgery using finite element models. Proc. of ACM SIGGRAPH.
+          K ONDO , R., K ANAI , T., AND A NJYO , K. 2005. Directable animation of elastic objects. Proc. of ACM SIGGRAPH/Eurographics Symposium on Computer Animation.
+          K RY , P., J AMES , D. L., AND P AI , D. K. 2002. Eigenskin: Real time large deformation character skinning in hardware. Proc. of ACM SIGGRAPH Symposium on Computer Animation.
+          K URIHARA , T., AND M IYATA , N. 2004. Modeling deformable human hands from medical images. Proc. of ACM SIGGRAPH/Eurographics Symposium on Computer Animation.
+          L EWIS , J. P., C ORDNER , M., AND F ONG , N. 2000. Pose space deformations: A unified approach to shape interpolation and skeleton-driven deformation. Proc. of ACM SIGGRAPH.
+          M AESTRI , G. 2006. Digital Character Animation 3. New Riders Press.
+          M AGNENAT -T HALMANN , N., L APERRIERE , R., AND T HAL MANN , D. 1988. Joint-dependent local deformations for hand animation and object grasping. Proc. of Graphics Interface, 26– 33.
+          M ETAXAS , D., AND T ERZOPOULOS , D. 1992. Dynamic deformation of solid primitives with constraints. Proc. of ACM SIGGRAPH.
+          M OHR , A., AND G LEICHER , M. 2003. Building efficient, accurate character skins from examples. Proc. of ACM SIGGRAPH.
+          M ULLER  ̈ , M., AND G ROSS , M. 2004. Interactive virtual materials. Proc. of Graphics Interface.
+          N EALEN , A., M ULLER , M., K EISER , R., B OXERMANN , E., AND C ARLSON , M. 2006. Physically based deformable models in computer graphics. Eurographics STAR.
+          P ARK , S. I., AND H ODGINS , J. K. 2006. Capturing and animating skin deformation in human motion. Proc. of ACM SIGGRAPH.
+          P ICINBONO , G., D ELINGETTE , H., AND A YACHE , N. 2001. Nonlinear and anisotropic elastic soft tissue models for medical simulation. IEEE ICRA.
+          P IGHIN , F., AND L EWIS , J. 2006. Performance-driven facial animation. ACM SIGGRAPH Course.
+          P OWELL , M. 1987. Radial basis functions for multivariate interpolation: a review. Algorithms for Approximation.
+          R HEE , T., L EWIS , J., AND N EUMANN , U. 2006. Real-time weighted pose-space deformation on the gpu. Computer Graphics Forum.
+          S CHEEPERS , F., P ARENT , R., C ARLSON , W., AND M AY , S. 1997. Anatomy-based modeling of the human musculature. Proc. of ACM SIGGRAPH.
+          S IFAKIS , E., N EVEROV , I., AND F EDKIW , R. 2005. Automatic determination of facial muscle activations from sparse motion capture marker data. Proc. of ACM SIGGRAPH.
+          S UEDA , S., K AUFMAN , A., AND P AI , D. K. 2008. Musculotendon simulation for hand animation. Proc. of ACM SIGGRAPH.
+          T ERZOPOULOS , D., AND W ITKIN , A. 1988. Physically based models with rigid and deformable components. IEEE Computer Graphics and Applications 8, 6.
+          T ERZOPOULOS , D., P LATT , J., B ARR , A., AND F LEISCHER , K. 1987. Elastically deformable models. Proc. of ACM SIGGRAPH.
+          W ANG , R., P ULLI , K., AND P OPOVI Ć , J. 2007. Real-time enveloping with rotational regression. Proc. of ACM SIGGRAPH.
+          W EBER , O., S ORKINE , O., L IPMAN , Y., AND G OTSMAN , C. 2007. Context-aware skeletal shape deformation. Computer Graphics Forum.
+          W ILHELMS , J., AND G ELDER , A. V. 1997. Anatomically based modeling. Proc. of ACM SIGGRAPH.
+          W ITKIN , A., AND W ELCH , W. 1990. Fast animation and control of nonrigid structures. Computer Graphics (SIGGRAPH ’90 Proceedings) 24, 4, 243–252.
+          Z ORDAN , V. B., C ELLY , B., C HIU , B., AND D ILORENZO , P. 2004. Breathe easy: Model and control of human respiration for computer animation. Proc. of ACM SIGGRAPH/Eurographics Symposium on Computer Animation.
+        
+        46
+        47
+        48
+      
+    
+  
+
+</Document>

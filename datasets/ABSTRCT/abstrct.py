@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 import os
 
-base_url = "https://github.com/TomatenMarc/GAIC-2026/"
+base_url = "https://raw.githubusercontent.com/TomatenMarc/GAIC-2026/refs/heads/main/datasets/ABSTRCT/"
 
 df_all = pd.read_csv('../../assets/all_data.csv')
 df_sample = pd.read_csv('../../assets/sample_42.csv')
@@ -36,10 +36,11 @@ for _, row in df_abstrct.iterrows():
     file = open(os.getcwd() + "/data/" + row.dataset_id_clean + ".txt")
     assert row.sentence in file.read(), f"{row.sentence} not in {row.sentence}."
 
-print(df_abstrct.columns)
-
-df_abstrct = df_abstrct[["dataset", "dataset_id", "dataset_id_clean", "label", "sentence"]]
+df_abstrct = df_abstrct[["dataset", "dataset_id", "dataset_id_clean", "label", "sentence", "split"]]
 df_abstrct.rename(columns={"dataset_id_clean": "document"}, inplace=True)
-df_abstrct["document"] = df_abstrct["document"].apply(lambda row: f"{base_url}{row}.txt")
+df_abstrct["document"] = df_abstrct["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
+df_abstrct["guidelines"] = f"{base_url}/guidelines/AnnotationGuidelines.pdf"
+df_abstrct["paper"] = "https://ecai2020.eu/papers/1470_paper"
 
-print(df_abstrct["document"])
+df_abstrct = df_abstrct[["dataset", "dataset_id", "paper", "document", "guidelines", "split", "label", "sentence"]]
+df_abstrct.to_csv(os.getcwd() + "/abstrct.csv")

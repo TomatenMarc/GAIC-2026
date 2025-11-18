@@ -1,4 +1,10 @@
+*abstrct.csv
 assets/
+
+poetry.lock
+poetry.toml
+pyproject.toml
+.idea
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

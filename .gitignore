@@ -1,6 +1,7 @@
 *abstrct.csv
 *arguminsci.csv
 assets/
+notebook/
 
 poetry.lock
 poetry.toml

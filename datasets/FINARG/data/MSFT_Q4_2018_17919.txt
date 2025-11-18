@@ -1,0 +1,6 @@
+
+Operator: Thank you. The next question is coming from the line of Lionel Renshaw with Barclays. Please proceed with your question.
+Lionel Renshaw: Amy, can I go back to the server product, you partly answered it with the whenever ask and I believe hybrid cloud will be a factor here, but the growth was the best we've seen for a long time. Can you just talk about the drivers that kind of were at play here?
+Amy Hood: You're right. The first one was the benefit that we saw from hybrid, in particular, with an outsized impact on Windows Server. The second has been a trend we also talked about a little before. We saw a strong double-digit growth in premium. So, it was mix shift as well as I think strikes in the hybrid benefits as a value across the customers, those two would have otherwise I’d actually call out as drivers for the quarter.
+Lionel Renshaw: I mean they should be relatively sustainable, if I listen to them to you?
+Amy Hood: I believe the one -- I think really important thing for us is continuing to focus on creating customer value. The concept of adding a lot of value by having and giving comfort to the customers that as they make a commitment to the Microsoft platform that they can move between a commitment to on-prem to the cloud in a high value way, I do believe is a unique thing that we offer at this time.

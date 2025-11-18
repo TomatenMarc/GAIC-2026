@@ -1,0 +1,20 @@
+Clean fuels for resource-poor settings: A systematic review of barriers and enablers to adoption and sustained use
+Background
+Access to, and sustained adoption of, clean household fuels at scale remains an aspirational goal to achieve sufficient reductions in household air pollution (HAP) in order to impact on the substantial global health burden caused by reliance on solid fuels.
+Aim and objectives
+To systematically appraise the current evidence base to identify: (i) which factors enable or limit adoption and sustained use of clean fuels (namely liquefied petroleum gas (LPG), biogas, solar cooking and alcohol fuels) in low- and middle-income countries; (ii) lessons learnt concerning equitable scaling-up of programmes of cleaner cooking fuels in relation to poverty, urban–rural settings and gender.
+Methods
+A mixed-methods systematic review was conducted using established review methodology and extensive searches of published and grey literature sources.
+Data extraction and quality appraisal of quantitative, qualitative and case studies meeting inclusion criteria were conducted using standardised methods with reliability checking.
+Findings
+Forty-four studies from Africa, Asia and Latin America met the inclusion criteria (17 on biogas, 12 on LPG, 9 on solar, 6 on alcohol fuels).
+A broad range of inter-related enabling and limiting factors were identified for all four types of intervention, operating across seven pre-specified domains (i.e.
+fuel and technology characteristics, household and setting characteristics, knowledge and perceptions, financial, tax and subsidy aspects, market development, regulation, legislation and standards, and programme and policy mechanisms) and multiple levels (i.e.
+household, community, national).
+All domains matter and the majority of factors are common to all clean fuels interventions reviewed although some are fuel and technology-specific.
+All factors should therefore be taken into account and carefully assessed during planning and implementation of any small- and large-scale initiative aiming at promoting clean fuels for household cooking.
+Conclusions
+Despite limitations in quantity and quality of the evidence this systematic review provides a useful starting point for the design, delivery and evaluation of programmes to ensure more effective adoption and use of LPG, biogas, alcohol fuels and solar cooking.
+Funding
+This review was funded by the Department for International Development (DfID) of the United Kingdom.
+The authors would also like to thank the Evidence for Policy and Practice Information and Co-ordinating Centre (EPPI-Centre) for their technical support.

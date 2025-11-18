@@ -1,0 +1,6 @@
+TITLE: Weather, Climate and Total Factor Productivity
+ABSTRACT:Recently it has been hypothesized that climate change will affect total factor productivity growth.
+Given the importance of TFP for long-run economic growth, if true this would entail a substantial upward revision of current impact estimates.
+Using macro TFP data from a recently developed dataset in the Penn World Table, we test this hypothesis by directly examining the nature of the relationship between annual temperature shocks and TFP growth rates in the period 1960–2006.
+The results show a negative relationship only exists in poor countries, where a 1 °C annual increase in temperature decreases TFP growth rates by about 1.1–1.8 percentage points, whereas the impact is indistinguishable from zero in rich countries.
+Extrapolating from weather to climate, the possibility of dynamic effects of climate change in poor countries increases concerns over the distributional issues of future impacts and, from a policy perspective, restates the case for complementarity between climate policy and poverty reduction.

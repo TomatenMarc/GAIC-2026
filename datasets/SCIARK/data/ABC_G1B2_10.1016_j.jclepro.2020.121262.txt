@@ -1,0 +1,12 @@
+Foreign direct investment and renewable energy in climate change mitigation: Does governance matter?
+Climate change mitigation is a topical issue with growing debate in the context of the renewable energy transition, global partnership, governance, and economic growth.
+The complexness of climate change makes it difficult to predict relationships and formulate policies across varied countries.
+Motivated by the core mandate of the Kyoto Protocol, we examined the individual, combined and interactive impact of growth in income, renewable energy, foreign direct investment, and governance on greenhouse gas emissions.
+We decomposed the relationships to account for the theories of scale effect, composition effect and technique effect.
+The study utilized a dynamic heterogeneous estimation technique with a panel data from 1990 to 2017 in 47 Sub-Saharan African countries.
+Our adopted empirical framework made it possible to account for heterogeneity, a situation that may be prevalent in countries with varied economic and environmental policies.
+The empirical results revealed that increasing the share of renewable energy by 1% declines greenhouse gas emissions by as much as 35.32% (95% Confidence interval) while a 1% increase in the coupling effect of income level, governance, and renewable energy consumption intensifies climate change by 0.79%.
+The interactive effects of scale, composition, and technique indicators were found to worsen climate change.
+The decoupling effect revealed that while foreign direct investment, income level, and governance exacerbate climate change, renewable energy consumption lessens climate change and its impact.
+From a policy perspective, the magnitude of the technique effect of renewable energy consumption depends on, inter alia, its share in the energy portfolio, technological innovation, and country-specific policy instruments.
+The study demonstrated that decoupling renewable energy from economic growth propels the transition from fossil fuels, leading to energy efficiency— explaining the decline in GHG emissions.

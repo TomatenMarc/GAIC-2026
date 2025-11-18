@@ -1,0 +1,19 @@
+﻿Violence against women and postpartum depression.
+BACKGROUND
+Violence against women (VAW), including intimate partner violence (IPV) in its various forms (sexual, physical, or stalking), and childhood violence (sexual or physical) are common and are associated with depressive symptoms.
+We examined the association between these violence exposures and self-reported history of postpartum depression (PPD).
+METHODS
+Women from the Kentucky Women's Health Registry (KWHR) who reported at least one live birth were included in this study.
+Individual IPV and child abuse histories were examined for association with self-reported history of PPD.
+Multivariate regression analysis estimated adjusted risk ratios (aRR) and 95% confidence intervals (95% CI), controlling for age, obstetrical history, and substance abuse history.
+RESULTS
+The 5380 women in the KWHR reporting at least one live birth were included in this study.
+Of these women, 2508 (46.6%) reported a history of any VAW.
+A history of adult VAW was associated with a history of PPD (aRR 1.48, 95% CI 1.12-1.95).
+Physical IPV (aRR 1.48, 95% CI 1.12-1.95) and stalking IPV (aRR 1.39, 95% CI1.03-1.87) were individually associated with PPD.
+Other types of violence were not individually associated with a history of PPD.
+The strength of association increased with each additional type of violence experienced (aRR1.17, 95% CI 1.06-1.30).
+CONCLUSIONS
+Adult VAW is associated with self-reported history of PPD.
+With an increase in the number of types of abuse experienced, this association became stronger.
+Our findings highlight the need for thorough VAW screening in obstetrical populations.

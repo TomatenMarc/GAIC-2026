@@ -1,0 +1,11 @@
+Integrating blockchain technology into the energy sector — from theory of blockchain to research and application of energy blockchain
+Abstract
+Blockchain technology has been ushering in nothing short of a decentralized revolution.
+Distributed/decentralized energy is recognized the best way to ensure energy sustainability in the future.
+An open question is what promise the integration of blockchain and energy hold for energy future.
+This paper systematically reviews the theory of blockchain and explores the current status of energy blockchain research and applications using a visual bibliometric analysis method and the Scopus database from 2014 to 2020.
+The results show that the number of publications about blockchain technology in the energy sector have been skyrocketing, especially since 2018, which indicates the combining blockchain technology with energy sector is a new cross-cutting research area with increasing attention.
+At the national level, developing countries begin to move to the world stage, catching up or even surpassing several traditional developed countries in the field of energy blockchain.
+Cluster analysis results show that the existing energy blockchain research focuses on renewable energy, trying to solve the bottlenecks in its development process, and providing better solutions for the replacement of fossil energy by renewable energy.
+We therefore contend that blockchain may be fueling the renewable energy and powering our energy sustainability.
+Finally, the possible future development trend of energy blockchain is offered.

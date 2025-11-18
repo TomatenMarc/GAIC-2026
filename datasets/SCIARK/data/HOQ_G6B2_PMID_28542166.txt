@@ -1,0 +1,11 @@
+Indoor secondhand tobacco smoke and risk of under-five mortality in 23 sub-Saharan Africa countries: A population based study and meta-analysis
+Background: Inhalation of secondhand smoke from tobacco results in serious health outcomes among under-five children, and yet, few studies have assessed its effect on under-five mortality.
+We investigated the association between frequency of exposure to household tobacco smoke and risk of under-five mortality in sub-Saharan Africa (SSA).
+Methods: Demographic Health Survey data of under-five children from 23 SSA countries (n = 787,484) were used.
+Cox proportional hazard models described the association between exposure to tobacco smoke and the risk of under-five mortality in each country, with age as the time-to-event indicator.
+Meta-analysis was used to investigate the overall effect of tobacco smoke in SSA.
+Results: The association between tobacco smoke exposure and the risk of under-five mortality attenuated in eight countries (Burkina Faso, Benin, Congo, Gabon, Guinea, Liberia, Togo, and Zambia) after adjustment, while the hazard ratios (HR) of daily exposure to tobacco smoke in Kenya (HR = 1.40; 95% CI, 1.16-1.70) and Namibia (HR = 1.40; 1.07-1.83) grew.
+The children in rural areas in SSA were 1.08 (95% CI, 1.04-1.13) times more likely to die than their urban peers.
+In general, the exposure to household tobacco smoke was associated with an increased risk of under-five mortality in SSA (HR = 1.09; 95% CI, 1.06-1.13).
+Conclusions: This study provided evidence of a positive association between exposure to household tobacco smoke and risk of under-five mortality in SSA.
+Policymakers in low- and middle-income countries, where tobacco control as a child health issue is relatively neglected, should integrate tobacco control measures with other child health promotion policies.

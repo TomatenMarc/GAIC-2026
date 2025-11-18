@@ -1,0 +1,11 @@
+Agricultural carbon flux changes driven by intensive plastic greenhouse cultivation in five climatic regions of China
+Abstract: It is still controversial as to whether intensive agriculture increases or decreases carbon emissions compared to conventional farming.
+Carbon flux changes induced by the conversion of agricultural practices in different climatic regions have long been a scientific focus.
+As an intensive cultivation practice, vegetable cultivation within plastic greenhouses (PGVC) has been reported to reduce net carbon emissions following the conversion from conventional vegetable cultivation (CVC).
+However, it remains uncertain to what degree the carbon flux changes following the conversion in different climatic regions.
+Based on 637 paired soil data points and 189 vegetable data points from five major climatic regions in China, we used a full carbon cycle analysis to estimate the carbon flux changes when converting from CVC to PGVC.
+Results showed that the conversion reduced net carbon emissions in four climatic regions (middle temperate, warm temperate, south subtropical and north subtropical regions) but increased net carbon emissions in the Tibet Plateau region.
+This regional variation was attributable to the differences between soil carbon sequestration and fossil fuel emissions.
+The highest reduction (1.46 Mg Cha−1yr−1) occurred in the middle temperate region while the Tibet Plateau region acted as a net carbon source (−0.24 Mg Cha−1yr−1).
+This suggests that the conversion can increase carbon benefits within the four climatic regions.
+PGVC in these regions could be considered as a promising option for carbon-smart intensive agriculture and would be worth expanding in countries with similar weather conditions, to mitigate carbon emissions.

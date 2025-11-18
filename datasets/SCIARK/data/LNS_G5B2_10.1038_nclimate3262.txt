@@ -1,0 +1,10 @@
+Title: An observation-based constraint on permafrost loss as a function of global warming
+Abstarct: Permafrost, which covers 15 million km 2 of the land surface, is one of the components of the Earth system that is most sensitive to warming.
+Loss of permafrost would radically change high-latitude hydrology and biogeochemical cycling, and could therefore provide very significant feedbacks on climate change.
+The latest climate models all predict warming of high-latitude soils and thus thawing of permafrost under future climate change, but with widely varying magnitudes of permafrost thaw.
+Here we show that in each of the models, their present-day spatial distribution of permafrost and air temperature can be used to infer the sensitivity of permafrost to future global warming.
+Using the same approach for the observed permafrost distribution and air temperature, we estimate a sensitivity of permafrost area loss to global mean warming at stabilization of million km 2 °C â '1 (1σ confidence), which is around 20% higher than previous studies.
+Our method facilitates an assessment for COP21 climate change targets: if the climate is stabilized at 2 °C above pre-industrial levels, we estimate that the permafrost area would eventually be reduced by over 40%.
+Stabilizing at 1.5 °C rather than 2 °C would save approximately 2 million km 2 of permafrost.
+© 2017 Macmillan Publishers Limited, part of Springer Nature.
+All rights reserved.

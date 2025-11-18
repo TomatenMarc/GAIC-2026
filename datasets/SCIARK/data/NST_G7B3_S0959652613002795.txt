@@ -1,0 +1,15 @@
+Parameters affecting the environmental impact of a range of dairy farming systems in Denmark, Germany and Italy
+Abstract: The environmental impact of 12 dairy farms in Denmark, Germany and Italy was evaluated using an LCA approach and the most important parameters influencing their environmental sustainability were identified.
+The farms represent different production methods (organic vs. conventional), summer feeding systems (confinement vs. pasture) and annual production levels (6275–10,964 kg ECM cow−1).
+There was large variability in stocking rates (1.1–11.0 LU ha−1) among farms, which has a major impact on the production per unit area of farmland, on feed self-sufficiency and on farm surplus of nitrogen.
+The proportion of grassland on farmland used for forage production or pasture varied from 0 to 100%.
+The lowest global warming potential (GWP), acidification, eutrophication and non-renewable energy use were achieved by the German pasture-based system, followed by the Danish organic dairy system and the very intensive Italian farming system with very similar environmental impact values.
+However, a sensitivity analysis showed that when emissions relating to direct land use change of soybean production were included in the assessment, the GWP changed considerably for the conventional farms due to the inclusion of conventional soymeal in the feed concentrate.
+There were strong and positive correlations between the four impact categories, and overall the results indicate that improving greenhouse gas emissions would improve the general environmental sustainability of the dairy farm.
+The land occupation was lowest in the farms with the highest stocking rate.
+The organic Danish farms had the lowest impact on biodiversity loss, which in general was positively influenced by the share of grassland in the system.
+A high proportion of grassland also had a significant positive effect on GWP, acidification and energy use.
+The other feature that mainly improved the environmental impact was the feed efficiency of the dairy cows, which was negatively correlated with GWP, acidification and eutrophication.
+We found no relation between the environmental impact and the milk production per cow or the stocking rate at the farm.
+However, due to the limited number of observations (only 12 farms were assessed), the results of the correlation analyses should be handled with care.
+There was also large variation in the relative contributions from on- and off-farm activities among farms and for the different impact categories, showing the importance of a holistic approach and the difficulties in evaluating a farming system both in a product and area-based perspective.

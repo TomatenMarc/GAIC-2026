@@ -1,0 +1,9 @@
+Risk scoring for domestic violence in pregnancy
+Background: Most studies and work on domestic violence against women are aimed at helping victims.
+Studies aimed at detecting those at risk of domestic violence are few.
+Risk identification has important implications for early detection and prevention.
+Methods: A risk scoring tool was developed and tested on 466 antenatal clinic attendees at 3 levels of health care in Zaria, Nigeria.
+Results: The prevalence of domestic violence was 11.8%.
+The sensitivity of the tool was 96.6% and specificity 11.8%.
+The positive predictive value and accuracy were 13.7% and 22.5% respectively.
+Conclusions: The tool has a high sensitivity and could be a good screening tool for identifying those at risk for domestic violence in pregnancy.

@@ -1,0 +1,8 @@
+Changes in bottom water corrosiveness and carbonate ion concentrations in the sub-Antarctic Atlantic during the last glacial period.
+Abstract: The glacial climate system transitioned rapidly between cold (stadial) and warm (interstadial) conditions in the Northern Hemisphere.
+This variability, referred to as Dansgaard-Oeschger variability, is widely believed to arise from perturbations of the Atlantic Meridional Overturning Circulation.
+Evidence for such changes during the longer Heinrich stadials has been identified, but direct evidence for overturning circulation changes during Dansgaard-Oeschger events has proven elusive.
+Here we reconstruct bottom water [CO3]2- variability from B/Ca ratios of benthic foraminifera and indicators of sedimentary dissolution, and use these reconstructions to infer the flow of northern-sourced deep water to the deep central sub-Antarctic Atlantic Ocean.
+We find that nearly every Dansgaard-Oeschger interstadial is accompanied by a rapid incursion of North Atlantic Deep Water into the deep South Atlantic.
+Based on these results and transient climate model simulations, we conclude that North Atlantic stadial-interstadial climate variability was associated with significant Atlantic overturning circulation changes that were rapidly transmitted across the Atlantic.
+However, by demonstrating the persistent role of Atlantic overturning circulation changes in past abrupt climate variability, our reconstructions of carbonate chemistry further indicate that the carbon cycle response to abrupt climate change was not a simple function of North Atlantic overturning.

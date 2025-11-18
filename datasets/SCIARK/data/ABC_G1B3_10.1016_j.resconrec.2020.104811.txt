@@ -1,0 +1,9 @@
+The capital load of global material footprints
+Despite calls for large-scale reductions in material use and efforts to initiate a “circular economy” that promotes recycling and reuse, a limited decoupling between overall resource extraction and economic growth has been historically found.
+This is particularly true if resource use is measured with the life-cycle or consumption-based material footprint (MF) indicator that allocates material extraction to final goods and services.
+However, this indicator treats capital goods as final products rather than part of the production process.
+In this paper, we introduce the capital-augmented material footprint (CAMF), a new indicator of material use that includes all the materials embedded in capital goods.
+Results for 49 countries and regions over the period 1995–2015 show that for mineral use, about 50–60% of the total footprint of final consumption is embodied in capital goods, whereas for biomass, the figure is around 10%.
+The largest increase in material requirements was observed in non-OECD countries and in service sectors in general.
+More countries achieve relative and absolute decoupling when using the CAMF as indicator of material use.
+Our results underpin the need for comprehensive indicators when assessing options to decrease the impacts of consumption.

@@ -1,0 +1,14 @@
+Title: Employee Satisfaction With Working Space and Its Association With Well-Being-A Cross-Sectional Study in a Multi-Space Office
+Introduction: Different kinds of shared and activity-based offices are common today and employees' experiences, perceived health, well-being, satisfaction, and productivity have been studied in different types and sizes of environments.
+Objectives: In this study we aimed to determine employee satisfaction with a multi-space office.
+We also aimed to find associations between satisfaction with working space and both individual and social well-being.
+Methods: A total of 91 employees from a multi-space office shared by six municipality-owned companies answered a self-administered questionnaire.
+Frequencies, percentages, averages, and minimum and maximum values are used to describe the results.
+We used cross-tabulation and Pearson's Chi-Square test to study the associations and linear regression analysis to create a model describing the variability of workspace satisfaction.
+Results: The employees were most satisfied with the workspace furniture (82% of respondents) and most dissatisfied with workspace acoustics (44%).
+Workspace satisfaction was associated with self-satisfaction, good self-perceived future work ability, and good recovery.
+As regards social factors, workspace satisfaction was associated with good atmosphere among colleagues and good social capital.
+Satisfaction with acoustics was also associated with good self-perceived future work ability, recovery, and good social capital.
+Social capital best explained the general variation in workplace satisfaction.
+Conclusions: Many individual- and social-related well-being outcomes, and especially social capital, were associated with workspace satisfaction.
+To maintain workplace satisfaction and well-being, attention should be paid to the design, functionality, and management of the used workspaces.

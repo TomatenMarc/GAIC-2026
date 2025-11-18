@@ -1,0 +1,11 @@
+﻿The roles of victim and offender alcohol use in sexual assaults: results from the National Violence Against Women Survey.
+OBJECTIVE
+The roles of victim and offender alcohol use in the outcomes of sexual assault incidents (rape completion, injury and medical care) were studied.
+METHOD
+Data from 859 female sexual assault victims identified from the National Violence against Women Survey were examined.
+RESULTS
+Logistic regression analyses demonstrated that offender drinking was associated with greater likelihood of rape completion, but was unrelated to physical injury or medical care when victim demographics and assault characteristics were controlled.
+Offender aggression was the strongest predictor of both victim injury and medical care outcomes (but not rape completion).
+Furthermore, neither victim drinking at the time of the incident nor victim past-year drinking was significantly related to assault outcomes.
+CONCLUSIONS
+These results suggest that offender behavior is most important for predicting assault outcomes sustained by sexual assault victims.

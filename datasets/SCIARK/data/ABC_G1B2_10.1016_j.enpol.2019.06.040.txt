@@ -1,0 +1,8 @@
+Renewable energy consumption in EU-28 countries: Policy toward pollution mitigation and economic sustainability
+A major challenge facing humans in the 21st century is how to strike a balance between the mitigation of environmental degradation and the achievement of sustainable economic growth.
+On this note, this investigation applies an autoregressive distributed lag (ARDL) methodology to a panel data of 28 European Union (EU-28) countries over the period 1995–2015.
+The study confirms the existence of positive and significant long-run nexus among environmental sustainability, renewable energy consumption and economic growth in the EU-28 countries.
+In addition, empirical results indicate that real gross fixed capital formation, carbon emissions and other environmental factors are principal determinants of long-run growth in the EU.
+Using Dumitrescu and Hurlin (2012) Granger non-causality in heterogeneous panel, results show long-run bidirectional causal relationships among renewable energy consumption, economic growth and other growth determinants.
+Based on these results, we infer that the exploitation of renewable energy sources in the EU-28 countries is a reliable pathway toward environmental pollution mitigation.
+Consequently, achieving sustainable development goals (SDGs) by the year 2030 through renewable energy consumption and carbon emission mitigation is very much achievable in the EU-28 countries, and should also be adopted by all countries as an effective global policy.

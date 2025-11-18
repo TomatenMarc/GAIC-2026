@@ -1,0 +1,10 @@
+Title: The well-being valuation model: a method for monetizing the nonmarket good of individual well-being
+The objective of this research is to advance the evaluation and monetization of well-being improvement programs, offered by population health management companies, by presenting a novel method that robustly monetizes the entirety of well-being improvement within a population.
+This was achieved by utilizing two employers’ well-being assessments with medical and pharmacy administrative claims (2010–2011) across a large national employer (n = 50,647) and regional employer (n = 6170) data sets.
+This retrospective study sought to monetize both direct and indirect value of well-being improvement across a population whose medical costs are covered by an employer, insurer, and/or government entity.
+Logistic regression models were employed to estimate disease incidence rates and input–output modelling was used to measure indirect effects of well-being improvement.
+These methodological components removed the burden of specifying an exhaustive number of regression models, which would be difficult in small populations.
+Members who improved their well-being were less likely to become diseased.
+This reduction saved, per avoided occurrence, US$3060 of total annual health care costs.
+Of the members who were diseased, improvement in well-being equated to annual savings of US$62 while non-diseased members saved US$26.
+The method established here demonstrates the linkage between improved well-being and improved outcomes while maintaining applicability in varying populations.

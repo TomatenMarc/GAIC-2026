@@ -1,0 +1,9 @@
+The effect of financial development on renewable energy consumption.
+A panel data approach
+One of the strategic objectives of the European Union is to increase the renewable energy consumption level, in a market which brings together technological, financing and customer engagement innovations.
+However, little is known about the impact of the financial sector on renewable energy consumption.
+The aim of the paper is to examine the effect of financial development on renewable energy consumption using a panel data of 28 countries in the European Union (EU) over the period 1990–2015.
+Our research is based on a panel fixed effects model, where renewable energy consumption is given as a function of income, energy prices, financial development, and foreign direct investments.
+The results of the empirical analysis show that all three different dimensions of financial development (banking sector, bond market, and capital market) have a positive effect on the share of renewable energy consumption.
+Additionally, our results show that capital market development does not influence renewable energy consumption in the new EU Member States.
+Our empirical results give valuable insights into how best to deploy capital in the renewable sector, in order to provide cost-competitive options to customers, with the final objective of expanding higher value-added services.

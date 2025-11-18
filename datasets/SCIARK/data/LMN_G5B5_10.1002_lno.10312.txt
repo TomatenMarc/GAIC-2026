@@ -1,0 +1,10 @@
+Title: Aerobic gammaproteobacterial methanotrophs mitigate methane emissions from oxic and anoxic lake waters
+Abstract: Freshwater lakes represent a substantial natural source of methane to the atmosphere and thus contribute to global climate change.
+Microbial methane oxidation is an important control on methane release from these systems, where oxygen appears to be the most essential electron acceptor for this process.
+However, there is extensive geochemical evidence that methane is also oxidized under anoxic conditions in lakes, though the details about the exact mechanism have still not been resolved.
+Here, we investigated the fate of methane in the water column of meromictic Lake Zug.
+We provide evidence for ongoing methane oxidation at the oxic/anoxic boundary and also in the anoxic hypolimnion, both apparently mediated by aerobic methane‐oxidizing bacteria.
+Gammaproteobacterial methanotrophs (gamma‐MOB) dominated the indigenous methanotrophic community and were active under all investigated conditions—oxic, sub‐oxic and anoxic.
+Methane oxidation was stimulated by the additions of oxygen or iron and manganese oxides under anoxic conditions.
+In the latter case, trace amounts of oxygen may have still been required for methane activation, yet these findings indicate that gamma‐MOB in Lake Zug might be able to respire electron acceptors other than oxygen.
+We propose that gamma‐MOB are actively removing methane also in anoxic lake waters, thus contributing to methane mitigation from these habitats.

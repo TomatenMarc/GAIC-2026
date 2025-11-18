@@ -1,0 +1,12 @@
+Train suicide mortality and availability of trains: a tale of two countries.
+When compared to German rates, train suicides in The Netherlands have made up a larger proportion of the total number of suicides.
+This study examines whether this difference is attributable to railway parameters, familiarity with rail transport, or population density.
+Dutch and German train suicide rates from 2000 to 2007 were compared by means of Poisson regression analyses.
+Train suicide rate ratios were calculated and related to the railway parameters or population density in a Poisson regression model.
+The Dutch-German general suicide rate ratio was 0.72.
+In contrast, the train suicide rate in The Netherlands exceeded the German rate by 1.23.
+In the Poisson regression analyses, where suicide rate was related to railway density or passenger traffic intensity, the Dutch-German train suicide rate ratios became 1.49 and 1.20 respectively.
+When related to train traffic intensity or population density, however, rate ratios turned into 0.74 and 0.59 respectively.
+Train traffic intensity contributes to train suicide frequency.
+Population density also contributes, whereas railway density and familiarity with rail transport do not.
+In a cross-national comparison the availability hypothesis regarding the number of trains passing was confirmed, which leads to the recommendation of limiting access to the railway tracks.

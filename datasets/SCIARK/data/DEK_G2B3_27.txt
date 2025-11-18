@@ -1,0 +1,8 @@
+A study on intersectional discrimination in employment against disabled women in the UK
+The present study examined the employment status of disabled and nondisabled men and women in the United Kingdom.
+Using the 2009–14 Life Opportunities Survey (N = 32,355 observations), the study empirically examined how the intersection of disability and gender affects disabled women and their employment status in the UK.
+Random effects multinomial and logistic regression models were used.
+Findings indicated that disabled women were significantly less likely to be employed and more likely to be economically inactive than disabled men, nondisabled women, and nondisabled men.
+They were also significantly the least likely to work full-time among the four groups.
+Disabled women were significantly less likely to be supervisors than disabled men and felt more limited in the type or amount of paid work they could do than nondisabled women.
+The present study provided empirical evidence to policymakers interested in developing policies that better address intersectional discrimination and enhance disabled women’s employment status.

@@ -1,0 +1,9 @@
+Title: The effectiveness of flood risk communication strategies and the influence of social networks-Insights from an agent-based model
+Abstract: Flood risk management is becoming increasingly important, because more people are settling in flood-prone areas, and flood risk is increasing in many regions due to extreme weather events associated with climate change.
+It has been proposed that appropriately designed flood risk communication campaigns can stimulate floodplain inhabitants to prepare for flooding, and encourage adaptation to climate change.
+However, such campaigns do not always result in the desired action, and the effectiveness of communication in raising flood risk awareness and improving flood preparedness has hardly been studied.
+We evaluate different flood risk communication strategies, using an agent-based modelling approach, which is especially suitable for examining the effect of communication on each individual, and how flood risk communication can propagate through an individual's social network.
+Our modelling results show that tailored, people-centred, flood risk communication can be significantly more effective than the common approach of top-down government communication, even when tailored communication reaches fewer individuals.
+Furthermore, communication on how to protect against floods, in addition to providing information about flood risk, is much more effective than the traditional strategy of communicating only about flood risk.
+Another main finding is that a person's social network can have a significant effect on whether or not individuals take protective action.
+This leads to the recommendation that flood risk communication should aim at exploiting this natural amplifying effect of social networks, for instance, through the use of social media

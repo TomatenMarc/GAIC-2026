@@ -1,0 +1,17 @@
+Title: Trajectories of quality of life following breast cancer diagnosis
+Abstract
+Purpose: Although quality of life (QoL) improves over time for most breast cancer survivors (BCS), BCS may show different patterns of QoL.
+This study sought to identify distinct QoL trajectories among BCS and to examine characteristics associated with trajectory group membership.
+Methods: BCS (N = 653) completed baseline assessments within 8 months of diagnosis.
+QoL was assessed by the Functional Assessment of Cancer Therapy-Breast (FACT-B) at baseline and 6, 12, and 18 months later.
+Finite mixture modeling was used to determine QoL trajectories of the trial outcome index (TOI; a composite of physical well-being, functional well-being, and breast cancer-specific subscales) and emotional and social/family well-being subscales.
+Chi-square tests and F tests were used to examine group differences in demographic, cancer-related, and psychosocial variables.
+Results: Unique trajectories were identified for all three subscales.
+Within each subscale, the majority of BCS had consistently medium or high QoL.
+The TOI analysis revealed only stable or improving groups, but the emotional and social/family subscales had groups that were stable, improved, or declined.
+Across all subscales, women in "consistently high" groups had the most favorable psychosocial characteristics.
+For the TOI and emotional subscales, psychosocial variables also differed significantly between women who started similarly but had differing trajectories.
+Conclusions: The majority of BCS report good QoL as they transition from treatment to survivorship.
+However, some women have persistently low QoL in each domain and some experience declines in emotional and/or social/family well-being.
+Psychosocial variables are consistently associated with improving and/or declining trajectories of physical/functional and emotional well-being.
+Keywords: Breast cancer; Psychosocial; Quality of life; Survivorship; Trajectories.

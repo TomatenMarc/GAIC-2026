@@ -1,0 +1,9 @@
+Energy consumption and GDP revisited: A new panel data approach with wavelet decomposition
+Abstract
+This study combines panel data techniques with wavelet spectral analysis to investigate the complex and controversial relationship between energy consumption and GDP.
+The approach in this study makes it possible to differentiate the relationship over time horizons, in addition to taking into account heterogeneity and dependence across cross-sectional units.
+This leads to more precise conclusions for decision-making, overcoming the limited understanding that previous studies offer when considering aggregated data for a single time horizon.
+Our analysis is applied to the 50 states of the U.S.A. for the period 1963 to 2017; it is then replicated for a broad set of 25 subgroups of states, based on geography, income, energy intensity, energy price and the predominant sector in the economy.
+Results from the Dumitrescu-Hurlin causality test show that in the short-run, there is mixed evidence on the direction of causality between energy consumption and GDP, while in the medium- and long-run there is bidirectional causality for most of the subgroups.
+Although there is a positive co-movement relationship between the cyclical components of these series, the existence and sign of a relationship in the very long run depends substantially on the characteristics of the states.
+These findings provide important implications for the analysis, formulation and implementation of economic, energy and environmental policies.

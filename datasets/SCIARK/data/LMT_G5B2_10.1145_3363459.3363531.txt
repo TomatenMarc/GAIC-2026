@@ -1,0 +1,15 @@
+Title: Building Energy Use Prediction Owing to Climate Change: A Case Study of a University Campus
+Abstract: Global warming is expected to increase of 1.5°C between 2030 and 2052.
+This may lead to an increase in building energy consumption.
+With the changing climate, cities, communities, and university campuses need a more dynamic forecasting model to predict their future energy demands to mitigate risks.
+Although many building energy prediction models have been developed, only a few have focused on climate change and its impacts.
+This paper discusses the development of a regression-based forecasting model for a university campus energy use under changing climate.
+The forecasting model development follows a four-step process: (1) data frame setting, (2) descriptive statistics, (3) statistical regression modeling, and (4) validation and prediction.
+The independent numeric variables used as inputs are building characteristics (gross square feet, lighting power density, equipment power density; U factor of roof, wall, and windows; building age; years after building renovation; and window-to-wall ratio) and weather data (temperature and humidity).
+The outputs are electricity and chilled water for 2054.
+Prior to modeling, matrix plots and histograms are used to identify correlations between variables.
+This step is followed by normalization of independent variables to check their impact.
+Finally, multiple linear regression model for electricity and Lasso regression models for chilled water estimations are developed.
+For the purpose of predicting energy consumption owing to climate change, we used weather data that represents 2054.
+The equipment power density was the most important factor for electricity consumption and temperature was the most important one for chilled water consumption.
+The prediction models give an insight of which factors remain essential and applicable to campus building policy to prevent wasting energy in buildings, as a result of climate change.

@@ -1,0 +1,15 @@
+Title: The influence of music therapy on mental well-being among postoperative patients of total knee arthroplasty (TKA)
+Abstract
+Objective: The objective of this study was to investigate whether music therapy affects immediate postoperative well-being among patients who had undergone TKA surgery in the recovery unit.
+Method: A randomized controlled trial was conducted recruiting patients from Hospital Melaka, Malaysia.
+Postoperative TKA patients with good hearing and visual acuity, fully conscious and prescribed with patients controlled analgesia (PCA) were randomized to either intervention or control groups using a sealed envelope.
+Patients in the intervention group received usual care with additional music therapy during recovery, while patients in the control group received the usual care provided by the hospital.
+Two factors identified affecting mental well-being were the pain (measured using numerical rating scale) and anxiety (measured using a visual analog scale) at five different minutes' points (0, 10, 20, 30, and 60).
+Results: A total of 56 (control: 28, intervention: 28) postoperative TKA patients consented in the study.
+There was no difference in baseline characteristics between the two groups (p>0.05).
+Using Mann-Whitney U tests, patients in music therapy group showed significantly lower numerical pain score at 60min (p=0.045) whereas there was no significant difference between the two groups at all time points for anxiety scores (p>0.05).
+In the intervention group, Friedman tests showed that there was a significant difference in numerical pain (χ2=36.957, df=4, p<0.001) and anxiety score across times (χ2=18.545, p=0.001).
+Conclusions: This study found that pain score decreases over time among patients in the music therapy group while no effect is seen for anxiety.
+It is suggested that music therapy could not affect postoperative TKA patients' mental well-being.
+Nonetheless, patients reported better pain score despite the small sample.
+Keywords: Adult; Arthroplasty; Mental well-being; Music therapy; Postoperative.

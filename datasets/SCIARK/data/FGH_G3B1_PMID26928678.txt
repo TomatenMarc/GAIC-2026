@@ -1,0 +1,10 @@
+Title: Adult height, nutrition, and population health
+Abstract
+In this review, the potential causes and consequences of adult height, a measure of cumulative net nutrition, in modern populations are summarized.
+The mechanisms linking adult height and health are examined, with a focus on the role of potential confounders.
+Evidence across studies indicates that short adult height (reflecting growth retardation) in low- and middle-income countries is driven by environmental conditions, especially net nutrition during early years.
+Some of the associations of height with health and social outcomes potentially reflect the association between these environmental factors and such outcomes.
+These conditions are manifested in the substantial differences in adult height that exist between and within countries and over time.
+This review suggests that adult height is a useful marker of variation in cumulative net nutrition, biological deprivation, and standard of living between and within populations and should be routinely measured.
+Linkages between adult height and health, within and across generations, suggest that adult height may be a potential tool for monitoring health conditions and that programs focused on offspring outcomes may consider maternal height as a potentially important influence.
+Keywords: genetics; height; intergenerational; life course; morbidity; mortality; nutrition; population health; socioeconomic status; stature.

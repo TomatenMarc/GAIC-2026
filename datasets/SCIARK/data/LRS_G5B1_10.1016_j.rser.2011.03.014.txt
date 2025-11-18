@@ -1,0 +1,10 @@
+Title: An integrated approach for climate-change impact analysis and adaptation planning under multi-level uncertainties.
+Part II.
+Case study
+Abstract: In this study, a large-scale integrated modeling system (IMS) was applied for supporting climate change impact analysis and adaptation planning of the energy management system in the Province of Manitoba, Canada.
+The system was based on the integration of the fuzzy-interval inference method (FIIM), inexact energy model (IEM), and uncertainty analysis.
+Issues concerning energy management systems planning for cost-effective adaptation strategies under climate change were generated.
+Decisions of energy allocation, power generation and facility expansion within a multi-facility, multi-option, and multi-period context were obtained.
+Tradeoffs among system cost, climate change impact, system reliability and resilience were analyzed.
+The obtained solutions would be helpful for the adjustment or justification of the existing allocation patterns of energy resources and services, the long-term planning of renewable energy utilization, the formulation of local policies regarding energy consumption, economic development, and energy structure, the analysis of interactions among economic cost, system efficiency, emission mitigation, and energy-supply security, and the investigation of system vulnerability and responses towards various levels of impacts under climate change.
+Thus, IMS could provide an effective technique for decision makers in examining and visualizing integrated impacts of climate change on energy management systems as well as identifying desired adaptation strategies under multiple levels of uncertainties (i.e., the uncertainties associated not only with climate change impact analysis, but also with adaptation planning).

@@ -1,0 +1,11 @@
+Title: A global assessment of the impact of climate change on water scarcity
+Abstract: This paper presents a global scale assessment of the impact of climate change on water scarcity.
+Patterns of climate change from 21 Global Climate Models (GCMs) under four SRES scenarios are applied to a global hydrological model to estimate water resources across 1339 watersheds.
+The Water Crowding Index (WCI) and the Water Stress Index (WSI) are used to calculate exposure to increases and decreases in global water scarcity due to climate change.
+1.6 (WCI) and 2.4 (WSI) billion people are estimated to be currently living within watersheds exposed to water scarcity.
+Using the WCI, by 2050 under the A1B scenario, 0.5 to 3.1 billion people are exposed to an increase in water scarcity due to climate change (range across 21 GCMs).
+This represents a higher upper-estimate than previous assessments because scenarios are constructed from a wider range of GCMs.
+A substantial proportion of the uncertainty in the global-scale effect of climate change on water scarcity is due to uncertainty in the estimates for South Asia and East Asia.
+Sensitivity to the WCI and WSI thresholds that define water scarcity can be comparable to the sensitivity to climate change pattern.
+More of the world will see an increase in exposure to water scarcity than a decrease due to climate change but this is not consistent across all climate change patterns.
+Additionally, investigation of the effects of a set of prescribed global mean temperature change scenarios show rapid increases in water scarcity due to climate change across many regions of the globe, up to 2 °C, followed by stabilisation to 4 °C.

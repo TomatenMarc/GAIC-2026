@@ -1,0 +1,12 @@
+Lethality of firearms relative to other suicide methods: a population based study
+Objectives:                    (1) To quantify lethality of firearms relative to other suicide methods, (2) to quantify the extent to which suicide mortality may be reduced by limiting access to firearms.
+Methods:                    Data on suicides and hospitalised para-suicides that occurred in the state of Illinois from 1990 to 1997 were combined.
+Total number of episodes for each suicide method was estimated as the sum of the number of suicides and the number of para-suicides for that method.
+Gender and suicide method were used as proxies for intention to die, and estimated lethality of suicide methods within method-gender groups (for example, male firearm users).
+Logistic regression was used to quantify the lethality of firearms relative to other suicide methods.
+Excess mortality associated with the use of firearms was estimated by conservatively assuming that in the absence of firearms the next most lethal suicide method would be used.
+Results:                    From January 1990 to December 1997, among individuals 10 years or older in the state of Illinois, there were 37,352 hospital admissions for para-suicide and 10,287 completed suicides.
+Firearms are the most lethal suicide method.
+Episodes involving firearms are 2.6 times (95% CI 2.1 to 3.1) more lethal than those involving suffocation-the second most lethal suicide method.
+Preventing access to firearms can reduce the proportion of fatal firearms related suicides by 32% among minors, and 6.5% among adults.
+Conclusions:                    Limiting access to firearms is a potentially effective means of reducing suicide mortality.

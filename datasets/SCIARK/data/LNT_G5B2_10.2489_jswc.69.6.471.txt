@@ -1,0 +1,16 @@
+Ttitle: Do cover crops increase or decrease nitrous oxide emissions?
+A meta-analysis
+Abstract: There are many environmental benefits to incorporating cover crops into crop rotations, such as their potential to decrease soil erosion, reduce nitrate (NO3) leaching, and increase soil organic matter.
+Some of these benefits impact other agroecosystem processes, such as greenhouse gas emissions.
+In particular, there is not a consensus in the literature regarding the effect of cover crops on nitrous oxide (N2O) emissions.
+Compared to site-specific studies, meta-analysis can provide a more general investigation into these effects.
+Twenty-six peer-reviewed articles including 106 observations of cover crop effects on N2O emissions from the soil surface were analyzed according to their response ratio, the natural log of the N2O flux with a cover crop divided by the N2O flux without a cover crop (LRR).
+Forty percent of the observations had negative LRRs, indicating a cover crop treatment which decreased N2O, while 60% had positive LRRs indicating a cover crop treatment which increased N2O.
+There was a significant interaction between N rate and the type of cover crop where legumes had higher LRRs at lower N rates than nonlegume species.
+When cover crop residues were incorporated into the soil, LRRs were significantly higher than those where residue was not incorporated.
+Geographies with higher total precipitation and variability in precipitation tended to produce higher LRRs.
+Finally, data points measured during cover crop decomposition had large positive LRRs and were larger than those measured when the cover crop was alive.
+In contrast, those data points measuring for a full year had LRRs close to zero, indicating that there was a balance between periods when cover crops increased N2O and periods when cover crops decreased emissions.
+Therefore, N2O measurements over the entire year may be needed to determine the net effect of cover crops on N2O.
+The data included in this meta-analysis indicate some overarching crop management practices that reduce direct N2O emissions from the soil surface, such as no soil incorporation of residues and use of non-legume cover crop species.
+However, our results demonstrate that cover crops do not always reduce direct N2O emissions from the soil surface in the short term and that more work is needed to understand the full global warming potential of cover crop management.

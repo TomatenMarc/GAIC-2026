@@ -1,0 +1,17 @@
+Title: Positive mental health literacy: development and validation of a measure among Norwegian adolescents
+Abstract
+Background: Mental health literacy (MHL), or the knowledge and abilities necessary to benefit mental health, is a significant determinant of mental health and has the potential to benefit both individual and public mental health.
+MHL and its measures have traditionally focused on knowledge and beliefs about mental -ill-health rather than on mental health.
+No measures of MHL addressing knowledge of good or positive mental health have been identified.
+Aim: This study aimed to develop and validate an instrument measuring adolescents' knowledge of how to obtain and maintain good mental health and to evaluate the psychometric properties of the instrument.
+More specifically, the factor structure, internal and construct validity, and test-retest reliability were assessed.
+Methods: The participants were Norwegian upper secondary school students aged 15-21 years.
+The development and validation of the instrument entailed three phases: 1) item generation based on the basic psychological needs theory (BPNT), focus group interviews, and a narrative literature review, 2) a pilot study (n = 479), and 3) test-retest (n = 149), known-groups validity (n = 44), and scale construction, item reduction through principal component analysis (PCA), and confirmatory factor analysis (CFA) for factor structure and psychometric properties assessment (n = 1888).
+Results: Thirty-two items were initially generated, and 15 were selected for the pilot study.
+PCA identified cross-loadings, and a one-factor solution was examined.
+After removing five problematic items, CFA yielded a satisfactory fit for a 10-item one-factor model, referred to as the mental health-promoting knowledge (MHPK-10) measure.
+The test-retest evaluation supported the stability of the measure.
+McDonald's omega was 0.84, and known-groups validity test indicated good construct validity.
+Conclusion: A valid and reliable one-dimensional instrument measuring knowledge of factors promoting good mental health among adolescents was developed.
+The instrument has the potential to complement current measures of MHL and may be useful when planning mental health promotion activities and evaluating public mental health education initiatives in adolescents.
+Keywords: Adolescence; Health promotion; Measurement; Mental health literacy.

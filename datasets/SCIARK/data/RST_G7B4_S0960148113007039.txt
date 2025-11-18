@@ -1,0 +1,10 @@
+Evaluating agricultural management practices to improve the environmental footprint of corn-derived ethanol
+Abstract: This study examines three agriculture management practices with the aim of improving the environmental performance of corn-derived products such as bioethanol.
+Corn production is energy intensive and contributes to water quality degradation and global warming, thus affecting the environmental impact of corn-derived ethanol.
+Life Cycle Assessment (LCA) is used to quantify and compare the environmental impacts of three management strategies: tillage, fertilizer choices and the use of buffer strips to sequester nutrients.
+Detailed energy, carbon, nitrogen and phosphorus inventories are compiled to represent corn production scenarios within the US Corn Belt.
+The LCA was developed using GREET 1.8 (Greenhouse Gases, Regulated Emissions, and Energy use in Transportation) and emission factors with statistical analyses to estimate energy consumption, associated air emissions, and aqueous nutrient runoff potentials.
+Results show that using manure fertilizers as opposed to synthetic fertilizers requires less energy, however the use of manure generates more CH4, N2O, CO2 and results in more variable concentrations of nitrogen and phosphorus leaching from farmlands.
+No tillage emits less greenhouse gas emissions, sequesters more soil organic carbon and slightly reduces nutrient runoff compared with conventional tillage practices.
+Building buffer strips of certain widths is an efficient way to reduce N and P discharge to surrounding waters with minimal effect on the energy or global warming profile.
+Based on the results of the LCA studies, replacing conventional tillage with no till, and installing buffer strips can improve environmental performances of corn derived ethanol.

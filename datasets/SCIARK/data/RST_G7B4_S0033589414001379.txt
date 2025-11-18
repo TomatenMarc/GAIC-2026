@@ -1,0 +1,7 @@
+Assessing the importance of climate variables for the spatial distribution of modern pollen data in China
+Abstract: To assess the importance of climate variables for the distribution of modern pollen data in China, we present a continental-scale dataset consisting of 1374 samples.
+Boosted regression trees and constrained ordination techniques are employed to quantify the importance of six climate variables (annual precipitation, PANN; actual/potential evapotranspiration ratio, Alpha; mean annual temperature, TANN; mean temperature of the warmest month, MTWA; mean temperature of the coldest month, MTCO; annual sum of the growing degree days above 5°C, GDD5) for the distribution of individual pollen taxa and modern pollen assemblages.
+The results show that taxon-specific responses to the climate variables display a wide regional diversity and that the climate variables with low collinearity that best account for the spatial variability of modern pollen assemblages differ regionally.
+PANN is the most important variable in northwestern and northeastern China and the Tibetan Plateau, while MTWA and MTCO are the dominant variables in east-central and southern China.
+This suggests that the climate variables that can be optimally reconstructed from fossil pollen data vary in different bioclimatic regions of China.
+This feature is typical to many continental-scale modern pollen datasets and needs to be considered in pollen-based climate reconstructions.

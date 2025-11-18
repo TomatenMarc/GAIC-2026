@@ -1,0 +1,16 @@
+Fatal injury as a function of rurality-a tale of two Norwegian counties
+Background:                    Many studies indicate rural location as a separate risk for dying from injuries.
+For decades, Finnmark, the northernmost and most rural county in Norway, has topped the injury mortality statistics in Norway.
+The present study is an exploration of the impact of rurality, using a point-by-point comparison to another Norwegian county.
+Methods:                    We identified all fatalities following injury occurring in Finnmark between 2000 and 2004, and in Hordaland, a mixed rural/urban county in western Norway between 2003 and 2004 using data from the Norwegian Cause of Death Registry.
+Intoxications and low-energy trauma in patients aged over 64 years were excluded.
+To assess the effect of a rural locale, Hordaland was divided into a rural and an urban group for comparison.
+In addition, data from Statistics Norway were analysed.
+Results:                    Finnmark reported 207 deaths and Hordaland 217 deaths.
+Finnmark had an injury death rate of 33.1 per 100,000 inhabitants.
+Urban Hordaland had 18.8 deaths per 100,000 and rural Hordaland 23.7 deaths per 100,000.
+In Finnmark, more victims were male and were younger than in the other areas.
+Finnmark and rural Hordaland both had more fatal traffic accidents than urban Hordaland, but fewer non-fatal traffic accidents.
+Conclusions:                    This study illustrates the disadvantages of the most rural trauma victims and suggests an urban-rural continuum.
+Rural victims seem to be younger, die mainly at the site of injury, and from road traffic accident injuries.
+In addition to injury prevention, the extent and possible impact of lay people's first aid response should be explored.

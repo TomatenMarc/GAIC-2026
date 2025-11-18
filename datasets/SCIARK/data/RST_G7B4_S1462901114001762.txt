@@ -1,0 +1,9 @@
+Communicating climate (change) uncertainties: Simulation games as boundary objects
+Abstract: Climate science is characterized by large uncertainties about the direction, extent and time frame of climate change.
+Communicating these uncertainties is important for decision making on robust adaptation strategies, but proves to be a challenge for scientists particularly because of the complexity of uncertainties that are part of natural variability and of human induced climate change.
+The aim of this paper is to assess the role of a simulation game, as intermediate, to the communication of climate change uncertainties to water managers.
+In three workshops with water managers, the simulation game ‘Sustainable Delta’ was played to test the influence of the game on their understanding of climate change uncertainty using ex ante and ex post surveys.
+In each workshop an experimental- and control group were given different assignments to measure the influence of the game.
+The results show that although the differences between groups were not statistically significant, a change in their understanding of uncertainties was observed.
+The paper concludes that the learning effect of the game is inconclusive, but that the game does fosters a broader understanding of the concept climate change uncertainty.
+In doing so, simulation games are a promising approach to support the communication of climate change uncertainties meaningfully and support the process of adaptation to an uncertain future.

@@ -1,0 +1,10 @@
+Measuring the impacts of suburbanization with ecological footprint calculations
+In this paper we present a complex Ecological Footprint (EF) analysis of one of the largest metropolitan regions in post-socialist East Central Europe, the Budapest Metropolitan Region.
+Our overall goal is to use both top-down and bottom-up approaches and measure the changes of footprint at a metropolitan scale between 2003 and 2013.
+Our specific objective is to explore how the spatial rearrangements of wealth, density and consumption influence the spatiotemporal changes of EF.
+The top-down (compound) calculations indicate growing footprint values both in Hungary and in the Budapest Metropolitan Region in the investigated period.
+However, household-level hybrid (component-based) calculations revealed decreasing footprint values for Hungary both in absolute and relative terms, and a growth for the metropolitan region.
+This finding suggests growing income disparities within the country.
+The indirect (consumption embedded) components of EF findings show that in the core city footprint values are higher due to higher disposable income.
+However, there is a gradual catching up in the suburban zone as younger and more affluent households arrive.
+On the other hand, direct per capita footprint values decreased in Budapest and grew in the suburbs between 2003 and 2013, mainly due to a higher heating footprint.

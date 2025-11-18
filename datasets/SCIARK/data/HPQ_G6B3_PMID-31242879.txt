@@ -1,0 +1,13 @@
+The influence of basic public health service project on maternal health services: an interrupted time series study
+Background:                    Reducing maternal mortality remains a global priority.
+In 2000, the United Nations Member States pledged to work towards a series of Millennium Development Goals (MDGs), in which the fifth target was to reduce maternal mortality ratio by 75% from 1990 to 2015.
+The Chinese government introduced Basic Public Health Service project in 2009 to the further improvement of maternal health services and reduction in maternal mortality.
+China had achieved the goal of MDG5 1 year ahead of the schedule in 2014, but the effects of the project on reducing maternal mortality were rarely evaluated with robust methods.
+Methods:                    We conducted a longitudinal study on maternal mortality ratio by extracting mortality data from the National Maternal Mortality Surveillance System (1991-2016) and maternal health services measures from the China health statistic yearbook (2001-2016).
+We utilized the segmented linear regression model to assess changes and trends of maternal mortality ratio and maternal health services before and after the introduction of Basic Public Health Service project.
+Pearson correlation analysis was conducted to measure the strength of association between the maternal mortality ratio and maternal health services.
+Results:                    The yearly trend change of national maternal mortality ratio was - 1.76 (p < 0.01) after the introduction of Basic Public Health Service project in 2009, while the yearly trend change of maternal health record establish rate, prenatal examination rate, postpartum visit rate was 0.77 (p < 0.01), 0.61 (p < 0.01) and 0.83 (p < 0.01) separately.
+The negative correlations were also found between national maternal mortality ratio and prenatal examination rate (r = - 0.95, p < 0.01), maternal health record establish rate (r = - 0.93, p < 0.01) and postpartum visit rate (r = - 0.92, p < 0.01).
+Conclusions:                    The Basic Public Health Service project was found to be associated with the improvements in the maternal health services and reduction in maternal mortality.
+The design and implementation of the project may serve as a positive example for other developing countries.
+Continued monitoring and assessment of project effects should be stressed.

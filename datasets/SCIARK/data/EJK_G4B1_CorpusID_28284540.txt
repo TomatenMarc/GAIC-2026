@@ -1,0 +1,10 @@
+﻿MEASURING THE IMPACT OF CHILD MARRIAGE ON TOTAL FERTILITY: A STUDY FOR FIFTEEN COUNTRIES.
+Child marriage has significant negative impacts, not only for girls, but also for a range of development outcomes.
+This study aimed to assess, in a more detailed way than done so far, the magnitude of the relationship between child marriage and total fertility in multiple countries representing diverse settings.
+Data from the most recent Demographic and Health Surveys in the fifteen countries of interest were used.
+Analysis was restricted to a subsample of women aged 35-49 years in order to capture completed fertility.
+Poisson regression was conducted to estimate the impact of each additional year of early marriage on the total number of births women have, controlling for selected sociodemographic characteristics.
+Counterfactual analyses were carried out to estimate the reduction in the number of children that women would have over their lifetime in the absence of child marriage.
+Controlling for socioeconomic and other characteristics, girls who marry as children have more children over their lifetime than women marrying after the age of 18.
+Nationally, across fifteen countries, the reduction in total fertility from ending child marriage ranges from 0.24 to 1.06 children per woman.
+The simulated change in total fertility that would result from ending child marriage tends to be higher in countries that have a higher incidence of child marriage.

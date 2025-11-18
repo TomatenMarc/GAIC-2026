@@ -1,0 +1,10 @@
+Are Trade Liberalization policies aligned with Renewable Energy Transition in low and middle income countries?
+An Instrumental Variable approach
+This paper attempts to empirically analyze the compatibility of national trade liberalization policies with regards to promoting widespread use of renewable energy resources across 71 low, lower-middle and upper-middle income countries from South Asia, East Asia, Pacific, Central Asia, Latin America, Caribbean islands and Sub-Saharan Africa.
+Annual time series data from 2000 to 2017 is employed to perform panel data cointegration and regression analyses.
+The results from the cointegration analyses show long-run associations between trade liberalization policies and the renewable energy consumption indicators.
+The Instrumental Variable Two-Stage Least Squares panel data estimator is employed to control for the endogeneity in the dataset.
+The overall results broadly point towards the effectiveness of greater trade openness in facilitating renewable energy transition only in the low-income economies while prolonging the transition periods in the lower and upper-middle income countries.
+The marginal impact of a rise in the trade openness index is estimated to enhance the renewable energy share in total energy consumption within low-income countries by 0.24% as opposed to lowering this share by 0.19% within lower-middle income economies.
+However, trade liberalization is found to attribute to greater efficiency of renewable energy use across all the three income groups.
+Thus, these findings have critically important policy implications for the respective governments.

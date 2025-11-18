@@ -1,0 +1,12 @@
+National and regional relationships of carbon storage and tropical biodiversity
+Abstract: Tropical forests host the highest levels of biodiversity and maintain some of the largest carbon stocks of all terrestrial ecosystems.
+Policies resulting from the United Nations Framework Convention on Climate Change (UNFCC) for forest-based climate change mitigation (e.g., Reducing Emissions from Deforestation and forest Degradation (REDD+)) have been considered win–win solutions for both C storage and biodiversity conservation.
+Win–win solutions are indeed apparent when there is geographical overlap of high carbon density forests with high biodiversity, as suggested by many global studies.
+However, strong congruence between high carbon storage and biodiversity at the national and subnational levels is less obvious.
+To improve national policies and expectations of REDD+ outcomes, it is necessary to account for the potential risks of relocating deforestation activities from high-carbon areas to low-carbon areas, as such relocation may negatively affect high-biodiversity habitats.
+Using a combined dataset of global and national biodiversity and C storage, we examined whether the optimization of carbon and biodiversity is, as suggested, a win–win situation.
+We identified hotspots of C storage and of biodiversity within Colombia and the demographic and land use factors that affect the spatial distribution of the current patterns of biodiversity and C. We also identified and mapped two additional forest carbon and biodiversity relationships (areas with high carbon and low biodiversity and areas with low carbon and high biodiversity) that represented relevant conservation trade-offs at national and subnational levels.
+Our results suggest that, although C storage and biodiversity hotspots still overlap nationally and subnationally, the relationship between these two types of hotspots is weaker than that at the global level.
+Additionally, areas where high carbon and high biodiversity do not overlap are more extensive than potential win–win areas.
+Simultaneous carbon and biodiversity conservation is not as straightforward as it appears to be at the global level.
+Countries must swiftly identify areas where unintentional negative biodiversity consequences may result from national REDD+ strategies, and future research should identify the factors that affect C storage and biodiversity both at the national and subnational levels.

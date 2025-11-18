@@ -1,0 +1,10 @@
+Changes in equatorial Pacific thermocline depth in response to Panamanian seaway closure: Insights from a multi-model study
+Abstract: The early Pliocene warm phase was characterized by high sea surface temperatures and a deep thermocline in the eastern equatorial Pacific.
+A new hypothesis suggests that the progressive closure of the Panamanian seaway contributed substantially to the termination of this zonally symmetric state in the equatorial Pacific.
+According to this hypothesis, intensification of the Atlantic meridional overturning circulation (AMOC) – induced by the closure of the gateway – was the principal cause of equatorial Pacific thermocline shoaling during the Pliocene.
+In this study, twelve Panama seaway sensitivity experiments from eight ocean/climate models of different complexity are analyzed to examine the effect of an open gateway on AMOC strength and thermocline depth.
+All models show an eastward Panamanian net throughflow, leading to a reduction in AMOC strength compared to the corresponding closed-Panama case.
+In those models that do not include a dynamic atmosphere, deepening of the equatorial Pacific thermocline appears to scale almost linearly with the throughflow-induced reduction in AMOC strength.
+Models with dynamic atmosphere do not follow this simple relation.
+There are indications that in four out of five models equatorial wind-stress anomalies amplify the tropical Pacific thermocline deepening.
+In summary, the models provide strong support for the hypothesized relationship between Panama closure and equatorial Pacific thermocline shoaling.

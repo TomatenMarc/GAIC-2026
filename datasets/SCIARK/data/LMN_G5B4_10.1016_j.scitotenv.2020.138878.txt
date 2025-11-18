@@ -1,0 +1,11 @@
+Title: Effect of restricted emissions during COVID-19 on air quality in India
+Abstract: The effectiveness and cost are always top factors for policy-makers to decide control measures and most measures had no pre-test before implementation.
+Due to the COVID-19 pandemic, human activities are largely restricted in many regions in India since mid-March of 2020, and it is a progressing experiment to testify effectiveness of restricted emissions.
+In this study, concentrations of six criteria pollutants, PM10, PM2.5, CO, NO2, ozone and SO2 during March 16th to April 14th from 2017 to 2020 in 22 cities covering different regions of India were analysed.
+Overall, around 43, 31, 10, and 18% decreases in PM2.5, PM10, CO, and NO2 in India were observed during lockdown period compared to previous years.
+While, there were 17% increase in O3 and negligible changes in SO2.
+The air quality index (AQI) reduced by 44, 33, 29, 15 and 32% in north, south, east, central and western India, respectively.
+Correlation between cities especially in northern and eastern regions improved in 2020 compared to previous years, indicating more significant regional transport than previous years.
+The mean excessive risks of PM reduced by ~52% nationwide due to restricted activities in lockdown period.
+To eliminate the effects of possible favourable meteorology, the WRF-AERMOD model system was also applied in Delhi-NCR with actual meteorology during the lockdown period and an un-favourable event in early November of 2019 and results show that predicted PM2.5 could increase by only 33% in unfavourable meteorology.
+This study gives confidence to the regulatory bodies that even during unfavourable meteorology, a significant improvement in air quality could be expected if strict execution of air quality control plans is implemented.

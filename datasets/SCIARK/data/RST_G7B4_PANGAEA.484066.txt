@@ -1,0 +1,7 @@
+Stable isotope analysis of benthic foraminifera and sedimentology on ODP Site 162-984
+Abstract:Sediments recovered at ODP Site 984 on the Reykjanes Ridge provided multicentennial-scale records (SST, planktic and benthic delta18O, IRD and magnetic susceptibility) of Late Pliocene climate change over the onset of Northern Hemisphere glaciation (NHG), 2.95-2.82 Ma.
+Short-term climate variations prior and after the onset of continent-wide glaciation were compared to test the hypothesis, whether Dansgaard-Oeschger (DO) cycles may have been triggered by continental ice breakouts.
+By means of spectral analyses for two selected interglacial stages prior to and after NHG (G15 and G1), we found that climate variability resembled that of the Holocene and the mid-Pliocene warm period.
+In contrast, DO-like periodicities near 1470, 2900, and 4400 yr indeed only occurred in glacial stages after the onset of NHG (G14, G6, and 104), but hardly in stage G20 prior to the onset.
+These results suggest a causal link between DO cycles and the Late Pliocene onset of major NHG and ice breakouts in the North Atlantic.
+This data set provides all primary data and spectral analysis related to this scientific work.

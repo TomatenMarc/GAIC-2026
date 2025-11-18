@@ -1,0 +1,9 @@
+How much do alternative cookstoves reduce biomass fuel use?
+Evidence from North India
+Despite widespread global efforts to promote clean cookstoves to achieve improvements in air and forest quality, and to reduce global climate change, surprisingly little is known about the degree to which these actually reduce biomass fuel consumption in real-world settings.
+Using data from in-house weighing of fuel conducted in rural India, we examine the impact of cleaner cookstoves ⿿ most of which are LPG stoves ⿿ on three key outcomes related to solid fuel use.
+Our results suggest that using a clean cookstove is associated with daily reductions of about 4.5 kg of biomass fuel, 160 fewer minutes cooking on traditional stoves, and 105 fewer minutes collecting biomass fuels.
+These findings of substantial savings are robust to the use of estimators with varying levels of control for selection, and to alternative data obtained from household self-reports.
+Our results support the idea that efforts to promote clean stoves among poor rural households can reduce solid fuel use and cooking time, and that rebound effects toward greater amounts of cooking on multiple stoves are not sufficient to eliminate these gains.
+We also find, however, that households who have greater wealth, fewer members, are in less marginalized groups, and practice other health-averting behaviors, are more likely to use these cleaner stoves, which suggests that socio-economic status plays an important role in determining who benefits from such technologies.
+Future efforts to capture social benefits must therefore consider how to promote the use of alternative technologies by poor households, given that these households are least likely to own clean stoves.

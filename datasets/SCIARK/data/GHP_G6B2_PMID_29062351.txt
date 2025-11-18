@@ -1,0 +1,12 @@
+Family type, domestic violence and under-five mortality in Nigeria
+Background: Nigeria still showcases unacceptably high under-five mortality despite all efforts to reduce the menace.
+Investigating the significant predictors of this occurrence is paramount.
+Objective: To examine the interplay between family setting, domestic violence and under-five death in Nigeria.
+Methods: Cross-sectional secondary data, the 2013 Nigeria Demographic and Health Survey, (NDHS) women dataset was utilized.
+Subset of 26,997 ever married and ever had childbirth experience respondents were extracted from the nationally representative women dataset.
+Dependent and Independent variables were recoded to suit the statistical analysis for the study.
+Results: The study revealed that 33.7% of the respondents were in polygyny family setting; one-quarter of the ever married women reported ever experiencing one form of domestic violence or the other.
+The results of the logistic regressions indicate that family type and domestic violence were significant predictors of under-five children mortality in Nigeria.
+Conclusion: The study concludes that women who belong to polygyny family setting and who ever experienced sexual domestic violence are highly susceptible to experience under-five children mortality than their counterparts.
+The study recommends that strategies and policies aimed at improving child survival should strengthen women empowerment initiatives, discourage multiple wives and campaign against domestic violence in Nigeria.
+Keywords: Nigerians; Polygyny; domestic violence; monogamous.

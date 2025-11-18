@@ -1,0 +1,11 @@
+Residential carbon emission evolutions in urban–rural divided China: An end-use and behavior analysis
+The residential sector is the second largest consumer in China with great room for energy consumption growth, as well as the related carbon emissions.
+Thus, how to reduce the growth rate of carbon emissions is crucial for realizing the target of energy conservation and emission mitigation in the residential sector.
+Based on a bottom-up framework with survey data and official statistics, this paper examines the changes of aggregate residential carbon intensity, and analyzes its driving factors from an end-use perspective over the period of 1996-2008.
+The Adaptive Weighting Divisia with rolling base year index specification is applied to identify the quantitative effects of driving components and their further decomposing results of end-use activities.
+Results show that, the residential aggregate carbon intensity has grown rapidly since 2002 in both urban and rural China.
+The changes in primary fuel mix for electricity and heat generation have an overall negative but insignificant effect on the residential aggregate carbon intensity, while the effect of final energy structure is positive with a rising tendency.
+The significant impact of changes in energy intensity shift from negative to positive over time, and contribute more to a decline than to an increase.
+The driving force arising from the residential end-use mode has the highest contribution to the increase of aggregate carbon intensity.
+Finally, some policy implications are proposed to effectively slow down the accelerated rate of the residential aggregate carbon intensity.
+Guiding households towards energy-saving behaviors is recommended as a wise and first policy choice.

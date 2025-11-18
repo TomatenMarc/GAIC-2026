@@ -1,0 +1,9 @@
+The impact of large scale biomass production on ozone air pollution in Europe
+Tropospheric ozone contributes to the removal of air pollutants from the atmosphere but is itself a pollutant that is harmful to human health and vegetation.
+Biogenic isoprene emissions are important ozone precursors, and therefore future changes in land use that change isoprene emissions are likely to affect atmospheric ozone concentrations.
+Here, we use the chemical transport model LOTOS-EUROS (dedicated to the regional modeling of trace gases in Europe) to study a scenario in which 5% of the crop- and grass-land in Europe is converted into poplar plantations to be used for biofuel production.
+Although this scenario is rather conservative, our simulations project that isoprene emissions are substantially increased by an average of 45% over the simulated domain.
+As a consequence, ozone peak values are expected to increase by up to 6%, and ozone indicators for damage to human health and vegetation by up to 25% and 40%, respectively.
+Finally, we show that after the change in land use NOx emission reductions of 15-20% in Europe would be required to restore the ozone levels to current values.
+Because biomass production is expected to increase throughout Europe in the coming decades, we conclude that careful consideration of the tree types and regions to be used is required to constrain the concomitant air pollution to a minimum.
+© 2013 Elsevier Ltd.

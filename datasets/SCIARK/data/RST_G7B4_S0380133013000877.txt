@@ -1,0 +1,13 @@
+Analysis of changes in the Great Lakes hydro-climatic variables
+Abstract: A study of changes in hydro-climatology of the Great Lakes was performed incorporating the nonparametric Mann–Kendall trend detection test and a recently developed Bayesian multiple change point detection model.
+The Component Net Basin Supply (C-NBS) and its components (runoff, precipitation, evaporation) as well as water levels of Great Lakes were analyzed for gradual (i.e.
+trend type) and abrupt (i.e.
+shift type) nonstationary behaviors at seasonal and annual scales.
+It was found that the C-NBS experienced significant upward trends only in the lower Great Lakes (Erie, Ontario) during the summer portion of the year.
+At an annual scale upward trends were observed only in Lake Ontario.
+Change point analysis suggested an upward shift in Great Lakes C-NBS in the late 1960s and early 1970s.
+A combination of gradual and abrupt change analysis of Great Lakes water levels indicated a common upward shift along with a change in trend direction around the early 1970s.
+It was also found that precipitation and runoff are on a plateau and in some cases on a decreasing course following an increasing trend in the early twentieth century.
+Results obtained from this study show that the hydro-climatology of Great Lakes is characterized by nonstationary behavior.
+Changes in this behavior have caused the Great Lakes water levels to decrease during the last few decades.
+This study provides valuable insights into the nature of the nonstationary behavior of hydro-climatic variables of Great Lakes and contributes useful information to the future water management planning.

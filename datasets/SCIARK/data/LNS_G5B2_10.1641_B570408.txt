@@ -1,0 +1,7 @@
+Title:The Significance of the Erosion-induced Terrestrial Carbon Sink
+Abstarct:Estimating carbon (C) balance in erosional and depositional landscapes is complicated by the effects of soil redistribution on both net primary productivity (NPP) and decomposition.
+Recent studies are contradictory as to whether soil erosion does or does not constitute a C sink.
+Here we clarify the conceptual basis for how erosion can constitute a C sink.
+Specifically, the criterion for an erosional C sink is that dynamic replacement of eroded C, and reduced decomposition rates in depositional sites, must together more than compensate for erosional losses.
+This criterion is in fact met in many erosional settings, and thus erosion and deposition can make a net positive contribution to C sequestration.
+We show that, in a cultivated Mississippi watershed and a coastal California watershed, the magnitude of the erosion-induced C sink is likely to be on the order of 1% of NPP and 16% of eroded C. Although soil erosion has serious environmental impacts, the annual erosion-induced C sink offsets up to 10% of the global fossil fuel emissions of carbon dioxide for 2005.

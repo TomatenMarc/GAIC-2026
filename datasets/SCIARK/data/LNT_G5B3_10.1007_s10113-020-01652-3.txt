@@ -1,0 +1,11 @@
+Title: Perceptions of social consensus at the regional level relate to prioritization and support of climate policy in Maryland, USA
+Abstract: While considerable research has investigated the importance of the public’s understanding of the scientific consensus on climate change beliefs and policy support, only recently have scholars begun to evaluate the role of social consensus perceptions, e.g., what others in the same group think.
+People receive information about these norms directly from social interactions, such as with neighbors and friends, but also indirectly from media, as in reporting on national public opinion statistics.
+We assess how well the public understands the level of social consensus across different geographic scales—regional, state, and national—and test whether understanding these norms differentially relates to climate and energy policy support.
+Among a representative sample of Maryland adults surveyed in 2015 (n = 1547), nearly half underestimated the extent of the social consensus about climate change within their region, state, and country.
+Individuals’ consensus perceptions were significantly related to the true social consensus—estimated through survey data—at the regional scale; however, the size of the relationship was small.
+We found that consensus perceptions across all geographic levels related to support for climate policy, as mediated by climate belief certainty.
+But perceptions of social consensus at smaller spatial scales—e.g., regional—appear to have larger effects on public opinion.
+The results of this study suggest both the importance—and limitations—of geographies of social consensus and the role of attitudinal certainty as a mediator for this relationship.
+Conveying localized social consensus information may promote public support of climate policy.
+© 2020, Springer-Verlag GmbH Germany, part of Springer Nature.

@@ -1,0 +1,8 @@
+Renewable energy consumption, carbon emissions, and development stages: Some evidence from panel cointegration analysis
+Renewable energy consumption has been promoted to mitigate climate change problems under various schemes, such as the Kyoto Protocol and the Paris Agreement.
+A country's choice of energy resources depends on the balancing of economic growth and environmental degradation, which will be closely related to its development stage.
+This study examines how the relationship between renewable energy consumption and carbon emissions is associated with the development stage by applying a panel cointegration analysis to 107 countries during the period from 1990 to 2013.
+The analysis shows the clear differences between the groups of low- and high-income countries.
+For low-income countries, renewable energy consumption is positively and negatively associated with carbon emissions and output, respectively.
+However, for high-income countries, renewable energy consumption is negatively and positively associated with carbon emissions and output, respectively.
+These results have important implications for policymakers, since the discrepancies in these relationships mean that a country's renewable energy policies should be highly compatible with its development stage.

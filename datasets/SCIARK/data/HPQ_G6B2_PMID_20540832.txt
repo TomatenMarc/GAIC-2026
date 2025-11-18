@@ -1,0 +1,11 @@
+Suicide mortality by occupation in Canada, 1991-2001.
+OBJECTIVE: To describe the association between occupation and risk of suicide among working-age men and women in Canada.
+METHOD: This study of suicide mortality over an 11-year period is based on a broadly representative 15% sample of the noninstitutionalized population of Canada aged 30 to 69 years at cohort inception.
+Age-standardized mortality rates (ASMRs) and rate ratios were calculated for men and women in 5 categories of skill level and 80 specific occupational groups, as well as for people not occupationally active.
+RESULTS: The suicide mortality rate was 20.1/100 000 person years for occupationally active men (during 9 600 000 person years of follow-up) and 5.3/100 000 person years for occupationally active women (during 8 100 000 person years of follow-up).
+Among occupationally active men, elevated rates of suicide mortality were observed for 9 occupational groups and protective effects were observed for 6 occupational groups.
+Among women, elevated rates of suicide were observed in 4 occupational groups and no protective effects were observed.
+For men and women, ASMRs for suicide were inversely related to skill level.
+CONCLUSIONS: The limited number of associations between occupational groups and suicide risk observed in this study suggests that, with few exceptions, the characteristics of specific occupations do not substantially influence the risk for suicide.
+There was a moderate gradient in suicide mortality risk relative to occupational skill level.
+Suicide prevention strategies in occupational settings should continue to emphasize efforts to restrict and limit access to lethal means, one of the few suicide prevention policies with proven effectiveness.

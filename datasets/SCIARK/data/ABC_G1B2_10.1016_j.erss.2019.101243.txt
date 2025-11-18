@@ -1,0 +1,12 @@
+Keep quiet on climate: Assessing public response to seven renewable energy frames in the Western United States
+Abstract
+Support for renewable energy is often solicited by leveraging concern about environmental problems such as climate change.
+However, the environment – and especially climate change – is hyper-polarized amongst the American public, and non-environmental justifications for renewable energy may resonate more broadly.
+Using a 2016 mail survey of individuals living in five states in the Rocky Mountain region of the U.S., we examine predictors of public approval of renewable energy usage, approval of a 20% renewable portfolio standard policy, and agreement with seven frames for renewable energy, of which four referenced the environment and three did not.
+We build upon previous research by analyzing geographic variation in frame agreement and by testing a religious environmental stewardship and resource-conservation frame.
+Results indicate high approval renewable energy but mixed support for the policy measure.
+Respondents on average agreed with all seven renewable energy frames, with energy security and energy diversification receiving the most support.
+Of the four environmental frames, air pollution and resource conservation had the most support, and the religion and climate frames had the least.
+We note variation by state, particularly on support for the policy measure.
+Political ideology and belief in human-caused global warming were consistent predictors, though gender, residence in a metro county, neoliberal ideology, and state of residence were also important.
+Overall, our results echo other research indicating that non-climate-based frames for renewable energy are likely to garner broader public support, but we suggest that the significance of this finding is particularly important in certain political and geographical contexts.

@@ -1,0 +1,12 @@
+A visual method to identify significant latitudinal changes in species' distributions
+Abstract: Many studies have shown recent climate-induced changes in species distributions (e.g.
+poleward range shifts); however, currently there is no standardised method of determining whether these changes are statistically significant over time.
+Furthermore, presence-only or unequal sample effort data, commonly used in climate-distribution studies, present substantial analytical challenges.
+Here, we develop a spatial bootstrapping procedure to determine the statistical significance, or otherwise, of latitudinal changes in species' ranges and test this using simulated data and real seabird distribution data in Great Britain from surveys ~10years apart.
+We demonstrate that the technique is robust in detecting partial range contraction and full range shifts.
+We also simulate limited sample effort by randomly removing a percentage of the initial data points (randomly, either throughout the entire range or only in specific part of the simulated range), and show that the technique is robust for the removal of up to 50% of data, or, using a spatial pooling of samples, for the removal of 90% of the data.
+From the seabird data we find significant northward changes in the centre of species' distributions for seven of 21 seabird species (and significant southward shifts for two species).
+Contraction of southern limits and establishment of more colonies in the northern half of the UK are the main reasons for the northward shifts.
+Inland occupation of sites (e.g.
+refuse disposal areas) in more popular southern areas of the country is likely the key reason for southern shifts in two gull species.
+Overall, the technique is a powerful tool to analyse latitudinal changes in species distribution, such as those that might arise through climate change or changes in habitat, and addresses many of the concerns inherent in detecting range shifts using disparate datasets.

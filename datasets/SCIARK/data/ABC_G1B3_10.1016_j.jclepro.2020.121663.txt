@@ -1,0 +1,10 @@
+The importance of renewable energy consumption and FDI inflows in reducing environmental degradation: Bootstrap ARDL bound test in selected 9 countries
+This study examines the relationship between renewable energy consumption, non-renewable energy consumption, foreign direct investment, economic growth and carbon emissions for the nine countries (i.e., Denmark, Finland, France, India, Italy, Morocco, Norway, Portugal, Sweden) identified in the Climate Change Performance Index (CCPI) 2018 report.
+This study mainly aims to demonstrate the role of renewable energy consumption and foreign direct investment on CO2 emissions in countries with high scores in the CCPI using the newly developed bootstrap autoregressive distributed lag (ARDL) approach.
+For this purpose, the unit root properties of the variables are determined by sharp and smooth structural break unit root test (SOR, Shahbaz et.
+al., 2018).
+We then conduct a bootstrap ARDL test developed by McNown et al.
+(2018) to investigate the existence of cointegration.
+We also use Granger causality based on the bootstrap ARDL approach to identify causal relationships between variables.
+Empirical analysis results show only a few cointegration relationships between variables exist.
+However, we have identified significant long-term relationships between foreign direct investment, renewable energy consumption and economic growth in some countries, and our study includes important policy implications, particularly for relationship among CO2 emissions and foreign direct investment inflows.

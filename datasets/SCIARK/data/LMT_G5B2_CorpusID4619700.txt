@@ -1,0 +1,15 @@
+Title: Understanding farmers' perceptions and adaptations to climate change and variability: The case of the Limpopo Basin, South Africa
+Abstract: Climate change is expected to have serious environmental, economic, and social impacts on South Africa.
+In particular, rural farmers, whose livelihoods depend on the use of natural resources, are likely to bear the brunt of adverse impacts.
+The extent to which these impacts are felt depends in large part on the extent of adaptation in response to climate change.
+This research uses a “bottom-up” approach, which seeks to gain insights from the farmers themselves based on a farm household survey.
+Farm-level data were collected from 794 households in the Limpopo River Basin of South Africa for the farming season 2004–2005.
+The study examines how farmer perceptions correspond with climate data recorded at meteorological stations in the Limpopo River Basin and analyzes farmers' adaptation responses to climate change and variability.
+A Heckman probit model and a multinomial logit (MNL) model are used to examine the determinants of adaptation to climate change and variability.
+The statistical analysis of the climate data shows that temperature has increased over the years.
+Rainfall is characterized by large interannual variability, with the previous three years being very dry.
+Indeed, the analysis shows that farmers' perceptions of climate change are in line with the climatic data records.
+However, only approximately half of the farmers have adjusted their farming practices to account for the impacts of climate change.
+Lack of access to credit was cited by respondents as the main factor inhibiting adaptation.
+The results of the multinomial logit and Heckman probit models highlighted that household size, farming experience, wealth, access to credit, access to water, tenure rights, off-farm activities, and access to extension are the main factors that enhance adaptive capacity.
+Thus, the government should design policies aimed at improving these factors.

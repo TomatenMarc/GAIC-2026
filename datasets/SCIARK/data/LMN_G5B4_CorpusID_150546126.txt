@@ -1,0 +1,6 @@
+Title: Climate Warming, Wildfire Hazard, and Wildfire Occurrence in Coastal Eastern Spain
+Abstract: A climatic series (1941 to 1994) from a Mediterranean locality of NE Spain was used to calculate two wildfire hazard indices based on daily meteorological data.
+Both fire hazard indices increased over this period, as a consequence of increasing mean daily maximum temperature and decreasing minimum daily relative humidity.
+These trends were observed in both mean values of the indices and in the number of very high risk days.
+Annual data on the number of wildfires and burned area also show an increase from 1968 to 1994, and are significantly correlated with both fire hazard indices.
+Although other non-meteorological causes (e.g., human activities, fuel accumulation) have likely contributed to the observed increase of wildfires, an effect of climatic warming on wildfire occurrence is supported by this relationship.

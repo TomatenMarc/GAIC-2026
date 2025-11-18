@@ -1,0 +1,14 @@
+Title: Extreme climate in China: Facts, simulation and projection
+Abstarct: In this paper, studies on extreme climate in China including extreme temperature and precipitation, dust weather activity, tropical cyclone activity, intense snowfall and cold surge activity, floods, and droughts are reviewed based on the peer-reviewed publications in recent decades.
+The review is focused first on the climatological features, variability, and trends in the past half century and then on simulations and projections based on global and regional climate models.
+As the annual mean surface air temperature (SAT) increased throughout China, heat wave intensity and frequency overall increased in the past half century, with a large rate after the 1980s.
+The daily or yearly minimum SAT increased more significantly than the mean or maximum SAT.
+The long-term change in precipitation is predominantly characterized by the so-called southern flood and northern drought pattern in eastern China and by the overall increase over Northwest China.
+The interdecadal variation of monsoon, represented by the monsoon weakening in the end of 1970s, is largely responsible for this change in mean precipitation.
+Precipitation-related extreme events (e.g., heavy rainfall and intense snowfall) have become more frequent and intense generally over China in the recent years, with large spatial features.
+Dust weather activity, however, has become less frequent over northern China in the recent years, as result of weakened cold surge activity, reinforced precipitation, and improved vegetation condition.
+State-of-the-art climate models are capable of reproducing some features of the mean climate and extreme climate events.
+However, discrepancies among models in simulating and projecting the mean and extreme climate are also demonstrated by many recent studies.
+Regional models with higher resolutions often perform better than global models.
+To predict and project climate variations and extremes, many new approaches and schemes based on dynamical models, statistical methods, or their combinations have been developed, resulting in improved skills.
+With the improvements of climate model capability and resolution as well as our understanding of regional climate variability and extremes, these new approaches and techniques are expected to further improve the prediction and projection on regional climate variability and extremes over China in the future.

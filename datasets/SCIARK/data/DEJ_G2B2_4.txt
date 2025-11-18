@@ -1,0 +1,9 @@
+GENDER EQUALITY and the GENDER GAP in MATHEMATICS
+Abstract
+A gender gap has been found in mathematics (boys outperform girls) that has prevailed across countries for many decades.
+Whether this gap results from nature or nurture has been hotly debated.
+Using the evidence of PISA 2003 and the gender equality index of 2003, some researchers have argued that an improvement in gender equality reduces the gender gap in mathematics.
+This study used five waves of country-level PISA data and, controlling for country fixed effects, found no evidence to support this argument.
+Furthermore, individual data for PISA 2012 and the multilevel data model were used.
+The conclusion drawn also does not support the argument.
+In fact, the relationship between gender equality and the gender gap in mathematics vanished after PISA 2003.

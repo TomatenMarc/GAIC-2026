@@ -1,0 +1,7 @@
+Gender differences in age, period, and birth-cohort effects on the suicide mortality rate in Japan, 1985-2006
+Because suicide is increasingly becoming a public health threat in Japan, it is necessary to identify high-risk groups to develop effective preventive measures.
+The suicide mortality trends from 1985 to 2006 for Japanese aged between 15 and 79 years were analyzed by a Bayesian age-period-cohort analysis to evaluate the independent effects of age, period, and birth cohort.
+Age-specific effect showed an overall increase with age in both genders, but a distinct increase was noted only among men aged between 50 and 64 years.
+The period effect exhibited a sudden rise in 1998; this effect was more apparent in men than in women.
+The cohort-specific effect increased in male birth cohorts born after 1926 and in female birth cohorts born after 1956.
+In conclusion, a gender difference was detected in the effects of age, period, and cohort on suicide risk among Japanese.

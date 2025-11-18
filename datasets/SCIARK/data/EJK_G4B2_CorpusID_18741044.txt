@@ -1,0 +1,20 @@
+﻿Spatial modelling and mapping of female genital mutilation in Kenya
+Background
+Female genital mutilation/cutting (FGM/C) is still prevalent in several communities in Kenya and other areas in Africa, as well as being practiced by some migrants from African countries living in other parts of the world.
+This study aimed at detecting clustering of FGM/C in Kenya, and identifying those areas within the country where women still intend to continue the practice.
+A broader goal of the study was to identify geographical areas where the practice continues unabated and where broad intervention strategies need to be introduced.
+Methods
+The prevalence of FGM/C was investigated using the 2008 Kenya Demographic and Health Survey (KDHS) data.
+The 2008 KDHS used a multistage stratified random sampling plan to select women of reproductive age (15–49 years) and asked questions concerning their FGM/C status and their support for the continuation of FGM/C.
+A spatial scan statistical analysis was carried out using SaTScan™ to test for statistically significant clustering of the practice of FGM/C in the country.
+The risk of FGM/C was also modelled and mapped using a hierarchical spatial model under the Integrated Nested Laplace approximation approach using the INLA library in R.
+Results
+The prevalence of FGM/C stood at 28.2% and an estimated 10.3% of the women interviewed indicated that they supported the continuation of FGM.
+On the basis of the Deviance Information Criterion (DIC), hierarchical spatial models with spatially structured random effects were found to best fit the data for both response variables considered.
+Age, region, rural–urban classification, education, marital status, religion, socioeconomic status and media exposure were found to be significantly associated with FGM/C.
+The current FGM/C status of a woman was also a significant predictor of support for the continuation of FGM/C.
+Spatial scan statistics confirm FGM clusters in the North-Eastern and South-Western regions of Kenya (p < 0.001).
+Conclusion
+This suggests that the fight against FGM/C in Kenya is not yet over.
+There are still deep cultural and religious beliefs to be addressed in a bid to eradicate the practice.
+Interventions by government and other stakeholders must address these challenges and target the identified clusters.

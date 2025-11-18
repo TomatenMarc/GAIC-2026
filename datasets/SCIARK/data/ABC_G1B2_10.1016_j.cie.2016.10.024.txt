@@ -1,0 +1,9 @@
+A multiple perspective modeling and simulation approach for renewable energy policy evaluation
+Abstract
+Environmental issues and dependence on fossil fuel sources including coal, oil, and natural gas, are the two most prevalent energy issues that are currently faced by the United States.
+Incorporation of renewable energy sources, a non-economical option in electricity generation compared to conventional sources that burn fossil fuels, promises a viable solution for both of these issues single-handedly.
+Several energy policies have concordantly been suggested to reduce the financial burden of adopting renewable energy technologies and make such technologies competitive with conventional sources throughout the US.
+In this work, we present a novel simulation framework to help policymakers assess and evaluate policies from different perspectives of its stakeholders.
+The proposed framework is composed of four modules: (1) a database which collates the economic, operational, and environmental data; (2) elucidation of policy which devises the policy for the simulation model; (3) a preliminary analysis which makes predictions for consumption, supply, and prices; and (4) a simulation model.
+After the validity of the proposed framework is demonstrated, a series of planned Florida renewable energy policies are implemented into our framework as a case study.
+The results obtained from the simulation and conclusions drawn on the assessment of current energy policies are presented with respect to the conflicting objectives of different stakeholders.

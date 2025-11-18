@@ -1,0 +1,13 @@
+Title:High-resolution mapping of global surface water and its long-term changes
+Abstract: The location and persistence of surface water (inland and coastal) is both affected by climate and human activity and affects climate, biological diversity and human wellbeing.
+Global data sets documenting surface water location and seasonality have been produced from inventories and national descriptions, statistical extrapolation of regional data and satellite imagery, but measuring long-term changes at high resolution remains a challenge.
+Here, using three million Landsat satellite images, we quantify changes in global surface water over the past 32 years at 30-metre resolution.
+We record the months and years when water was present, where occurrence changed and what form changes took in terms of seasonality and persistence.
+Between 1984 and 2015 permanent surface water has disappeared from an area of almost 90,000 square kilometres, roughly equivalent to that of Lake Superior, though new permanent bodies of surface water covering 184,000 square kilometres have formed elsewhere.
+All continental regions show a net increase in permanent water, except Oceania, which has a fractional (one per cent) net loss.
+Much of the increase is from reservoir filling, although climate change is also implicated.
+Loss is more geographically concentrated than gain.
+Over 70 per cent of global net permanent water loss occurred in the Middle East and Central Asia, linked to drought and human actions including river diversion or damming and unregulated withdrawal.
+Losses in Australia and the USA linked to long-term droughts are also evident.
+This globally consistent, validated data set shows that impacts of climate change and climate oscillations on surface water occurrence can be measured and that evidence can be gathered to show how surface water is altered by human activities.
+We anticipate that this freely available data will improve the modelling of surface forcing, provide evidence of state and change in wetland ecotones (the transition areas between biomes), and inform water-management decision-making

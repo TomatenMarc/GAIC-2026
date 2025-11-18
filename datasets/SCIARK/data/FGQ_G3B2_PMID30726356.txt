@@ -1,0 +1,15 @@
+Title: Early life conditions and current health status as per the study "Health, Well-being and Aging" (SABE)
+Introduction: Childhood conditions can influence some aspects of development of an individual and thus affect health in adult life.
+Objective: To evaluateassociations between early life conditions and health, as reported by the survey SABE in 2000, 2006, and 2010.
+Methods: Early or previous conditions refer to the situations before 15 years of age of the interviewees, such as economic condition, famine, health assessment, medical conditions, and having lived in the countryside for over 5 years.
+The control variables were gender, education, andincome.
+The outcome was self-reported health as "good" or "bad."
+This study focused on ages between 60 and 65years.
+Results: Bivariate analysis showed significant associations of the individual's origin in all the three cohorts.
+Economic and famine conditions were also significant for cohort B (2006).
+Multivariate Poisson regression was used with prevalence ratio as an element of comparison.
+Rural origin was the only significant early condition in the initial model.
+Thecontrol variables - gender, cohort, and education - were also significant.
+In the final model, the significant variables in the initial model were included, plus relation between rural origin and the number of diseases.
+Cohorts, gender, education, and the number of diseases were still significant factors when individuals had rural origin, but were not associated with the outcome if their origin was urban.
+Conclusion: There were connections between early conditions of life and the health of the elderly, and this might be an important tool for health care for both the individual and the community.

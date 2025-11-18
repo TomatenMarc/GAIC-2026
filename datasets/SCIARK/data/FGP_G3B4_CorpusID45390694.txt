@@ -1,0 +1,11 @@
+Title: Predictors of good general health, well-being, and musculoskeletal disorders in Swedish dental hygienists.
+The aim of the present study was to examine how different personal, physical, and psychosocial work-associated factors are related to good general health, well-being, and musculoskeletal disorders in dental hygienists.
+A questionnaire was mailed to 575 dental hygienists who were randomly sampled from the Swedish Dental Hygienists' Association (86% responded).
+Data were analyzed with multiple-logistic regression models.
+The results showed that high clinical-practice fraction, active leisure, and high management support increased the odds for good general health, while work and family overload decreased the odds.
+Management support and mastery of work increased the odds for well-being, while work and family overload and high work efficiency decreased them.
+Scaling work increased the odds for general and work-related musculoskeletal disorders in all parts of the upper body and arms but not in the lower back.
+In the upper body, active leisure decreased the odds for general musculoskeletal disorders, while the odds for work-related musculoskeletal disorders increased from work and family overload and decreased from many weekly working hours.
+Many years in the profession increased the odds for general finger disorders.
+In conclusion, the results suggest that active leisure and several psychosocial work factors strongly influence good general health and well-being.
+Physical tasks influence musculoskeletal disorders more than active leisure and psychosocial work factors.

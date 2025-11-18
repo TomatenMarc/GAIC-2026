@@ -1,0 +1,10 @@
+Wavelength dependence of scattering properties in the VIS–NIR and links with grain-scale physical and compositional properties
+Abstract: Surface scattered sunlight carries important information about the composition and microtexture of surface materials, thus enabling tracing back the geological and climatic processes that occurred on the planetary body.
+Here we perform laboratory spectro-goniometric measurements of granular samples (45–75μm fraction) with different composition and physical properties over the VIS–NIR spectral range (0.4–2.5μm).
+To quantify the evolution of the scattering properties over the VIS–NIR, we use an inversion procedure based on a Bayesian approach to estimate photometric parameters from the Hapke radiative transfer model.
+The granular samples are also carefully characterized by optical and SEM techniques in order to link these scattering variations with the grains’ physical properties.
+Results show that the scattering properties are wavelength-dependent and can vary significantly over the VIS–NIR spectral range.
+In particular, the phase function of a granular material is affected by both the absorptivity and the external and internal structure of the grains, from the millimeter scale down to the wavelength scale.
+Our results also confirm that the macroscopic roughness parameter, as defined by Hapke, is to first order correlated with the absorptivity of the particles, through multiple scattering effects, and thus mostly corresponds to a measurement of the particles shadowing.
+Photometric datasets, typically obtained at a given wavelength that can vary from one study to another, should therefore be compared and interpreted with caution when extrapolating across wavelengths.
+Our results also suggest that multi-wavelength photometry could potentially provide a much richer signature than with single-wavelength photometry, opening new perspectives into the characterization of surface materials.

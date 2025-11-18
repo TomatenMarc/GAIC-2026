@@ -1,0 +1,11 @@
+Carbon footprint of construction industry: A global review and supply chain analysis
+This paper conducts a global review and a macro-level supply chain analysis focusing on carbon footprint of construction industry worldwide for the period between 2009 and 2020 using the Scopus database.
+A total of 1833 journal articles are revealed with focus on carbon footprint in the field of construction in general, of which only 115 (6% of the total) studies have a macro-level analysis of the construction sector, providing a more holistic overview of the construction sector from various aspects.
+These macro-level studies were reviewed and classified based on journal, country, year, method, scope of analysis, type of construction, and period.
+The findings showed that approximately 60% of these studies focus on the Chinese construction industry and the majority of studies analyzed national-level (75%) and city-level (18%) carbon footprints of construction.
+On the contrary, global-level analysis has a lower share, which accounted for only 6% of reviewed articles.
+The review showed that more than 20% of studies use the input-output analysis as the main methodological approach to quantify macro-level carbon emission from construction sector, which is followed by the process-based life cycle assessment with 10% share, where more bottom-up approaches are employed.
+There are only a handful of articles found in the literature using a hybrid life cycle assessment and global multiregional input-output analysis for carbon footprint accounting of construction.
+Furthermore, there is also no study found in the literature, which presented a comprehensive regional and global supply chain analysis of construction carbon footprints.
+The results revealed that the largest portion of carbon emissions stem from the regional and global supply chains of the construction industries.
+The authors concluded that carbon reduction policies should not only consider the limited regional impacts; however, it must take into account the role of indirect, complex and interconnected global supply chains of construction industries.

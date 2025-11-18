@@ -1,0 +1,11 @@
+﻿Intimate partner violence and incidence of common mental disorder
+Objective: To investigate the association of intimate partner violence against women reported in the last 12 months and seven years with the incidence of common mental disorders.
+Methods: A prospective cohort study with 390 women from 18 to 49 years, registered in the Family Health Program of the city of Recife, State of Pernambuco; from July 2013 to December 2014.
+The Self Reporting Questionnaire-20 (SRQ-20) assessed mental health.
+Intimate partner violence consists of concrete acts of psychological, physical or sexual violence that the partner inflicts on the woman.
+Poisson regression was used to estimate crude and adjusted relative risks (RR) of the association between common mental disorders and intimate partner violence.
+Results: The incidence of common mental disorders was 44.6% among women who reported intimate partner violence in the last 12 months and 43.4% among those who reported in the past seven years.
+Mental disorders remained associated with psychological violence (RR = 3.0; 95%CI 1.9-4.7 and RR = 1.8; 95%CI 1.0-3.7 in the last 12 months, and seven years, respectively), even in the absence of physical or sexual violence.
+When psychological violence were related to physical or sexual violence, the risk of common mental disorders was even higher, both in the last 12 months (RR = 3.1; 95%CI 2.1-4.7) and in the last seven years (RR = 2.5; 95%CI 1.7-3.8).
+Conclusions: Intimate partner violence is associated with the incidence of common mental disorders in women.
+The treatment of the consequences of IPV and support for women in seeking protection for themselves for public services is essential.

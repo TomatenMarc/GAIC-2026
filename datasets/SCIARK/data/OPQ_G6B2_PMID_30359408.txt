@@ -1,0 +1,17 @@
+Under five mortality patterns and associated maternal risk factors in sub-Saharan Africa: A multi-country analysis
+Background: Under-5 mortality rate in the sub-Saharan region has remained unabated.
+Worse still, information on the regional trend and associated determinants are not readily available.
+Knowledge of the trend and determinants of under-5 mortality are essential for effective design of intervention programmes that will enhance their survival.
+We aimed to examine the mortality patterns in under-5 children and maternal factors associated with under-5 deaths.
+Methods: Demographic and Health Survey (DHS) data from five sub-Sahara Africa countries; Chad, Democratic Republic of Congo, Mali, Niger and Zimbabwe were used in this study.
+The sample size consisted of 68,085 women aged 15-49 years with at least one history of childbirth.
+The outcome variable was under-five mortality rate.
+Relevant information on maternal factors were extracted for analysis.
+Multivariable Cox proportional hazards regression was used to model maternal factors associated with under-five mortality.
+Results: The current under-5 mortality rate (per 1,000 live births) was; 133 in Republic of Chad, 104 in Democratic Republic of Congo, 95 in Mali, 127 in Niger, and 69 in Zimbabwe.
+Several maternal and child level factors were found to be significantly associated with under-five mortality.
+Lack of spousal support (not currently married) resulted to increase in under-five mortality (Chad- Hazard Ratio [HR] = 1.11, 95%CI = 0.97-1.25; DR Congo- HR = 1.24, 95%CI = 1.11-1.40; Mali- HR = 2.43, 95%CI = 1.63-3.64; Niger- HR = 1.59, 95%CI = 1.24-2.03; Zimbabwe- HR = 1.33, 95%CI = 1.06-1.67).
+Delivery by caesarean section was significantly associated with under-five mortality (Chad- HR = 1.32, 95%CI = 1.00-1.77; DR Congo- HR = 1.20, 95%CI = 1.01-1.43; Mali- HR = 1.42, 95%CI = 1.08-1.85; Niger- HR = 1.43, 95%CI = 1.06-1.92; Zimbabwe- HR = 1.49, 95%CI = 1.03-2.15).
+Conclusion: Despite concerted effort by government and several stakeholders in health to improve childhood survival, the rate of under-5 mortality is still high.
+Our findings provided evidence on the contribution of maternal age, place of residence, household wealth index, level of education, employment, marital status, religious background, birth type, birth order and interval, sex and size of child, place and mode of delivery, to Under-5 mortality rate in SSA.
+The position of prominent risk factors for under-five mortality should be addressed through effective design of timely and efficient intervention aimed at reducing childhood mortality.

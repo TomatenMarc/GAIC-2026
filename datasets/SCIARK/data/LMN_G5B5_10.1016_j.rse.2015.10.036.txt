@@ -1,0 +1,9 @@
+Title: Woody plant cover estimation in drylands from Earth Observation based seasonal metrics
+Abstract: From in situ measured woody cover we develop a phenology driven model to estimate the canopy cover of woody species in the Sahelian drylands at 1km scale.
+The model estimates the total canopy cover of all woody phanerophytes and the concept is based on the significant difference in phenophases of dryland trees, shrubs and bushes as compared to that of the herbaceous plants.
+Whereas annual herbaceous plants are only green during the rainy season and senescence occurs shortly after flowering towards the last rains, most woody plants remain photosynthetically active over large parts of the year.
+We use Moderate Resolution Imaging Spectroradiometer (MODIS) and Satellite pour l'Observation de la Terre (SPOT) - VEGETATION (VGT) Fraction of Absorbed Photosynthetically Active Radiation (FAPAR) time series and test 10 metrics representing the annual FAPAR dynamics for their ability to reproduce in situ woody cover at 43 sites (163 observations between 1993 and 2013) in the Sahel.
+Both multi-year field data and satellite metrics are averaged to produce a steady map.
+Multiple regression models using the integral of FAPAR from the onset of the dry season to the onset of the rainy season, the start date of the growing season and the rate of decrease of the FAPAR curve achieve a cross validated r2/RMSE (in % woody cover) of 0.73/3.0 (MODIS) and 0.70/3.2 (VGT).
+The extrapolation to Sahel scale shows agreement between VGT and MODIS at an almost nine times higher woody cover than in the global tree cover product MOD44B which only captures trees of a certain minimum size.
+The derived woody cover map of the Sahel is made publicly available and represents an improvement of existing products and a contribution for future studies of drylands quantifying carbon stocks, climate change assessment, as well as parametrization of vegetation dynamic models

@@ -1,0 +1,15 @@
+Title: Social participation and the health and well-being of Canadian seniors.
+BACKGROUND
+Social participation has been associated with health and well-being in older adults.
+DATA AND METHODS
+Data from the 2008/2009 Canadian Community Health Survey (CCHS)-Healthy Aging were used to examine the relationship between frequent social participation and self-perceived health, loneliness and life dissatisfaction in a sample of 16,369 people aged 65 or older.
+Multivariate logistic regression was used to identify significant relationships, while adjusting for potential confounders.
+The mediating role of social support and the prevalence of reported barriers to greater social participation were also examined.
+RESULTS
+An estimated 80% of seniors were frequent participants in at least one social activity.
+As the number of different types of frequent social activities increased, so did the strength of associations between social participation and positive self-perceived health, loneliness, and life dissatisfaction.
+The associations generally remained significant, but were attenuated by individual social support dimensions.
+The desire to be more involved in social activities was reported by 21% of senior men and 27% of senior women.
+INTERPRETATION
+Social participation is an important correlate of health and well-being in older adults.
+It may be that social support gained through social contacts is as important in these associations as the number of activities in which one participates frequently.

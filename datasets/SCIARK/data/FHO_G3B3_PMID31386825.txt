@@ -1,0 +1,10 @@
+Title: Association between dental fear, physical activity and physical and mental well-being among Finnish university students
+Abstract
+Objective: The aim of this study was to evaluate the association between physical and mental well-being and physical activity with dental fear among university students in Finland.
+Methods: We used the 2016 data from the Finnish student health survey (n = 3090).
+Perceived physical and mental well-being was ascertained with the questions 'How would you describe your current state of physical well-being?' and 'How would you describe your current state of mental well-being'.
+Dental fear was inquired with question 'Do you feel scared about dental care?'
+Associations between physical and mental well-being and dental fear were analyzed with cross tabulations and logistic regression analysis.
+Results: When controlling for age, gender, educational sector, tobacco and alcohol use, those reporting poor or moderate physical or mental well-being were more likely to have high dental fear than were those reporting good physical or mental well-being.
+Conclusions: In addition to mental well-being, physical well-being was also associated with dental fear; those with poor or moderate physical well-being were more likely to have dental fear than were those with good physical well-being.
+Keywords: University students; exercise; physical fitness; physical well-being; psychological well-being.

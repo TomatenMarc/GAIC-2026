@@ -1,0 +1,19 @@
+The Mega Conversion Program from kerosene to LPG in Indonesia: Lessons learned and recommendations for future clean cooking energy expansion
+Abstract
+Background
+In 2007, the Indonesian Government instigated a national program to convert domestic kerosene users to liquefied petroleum gas (LPG) for cooking.
+This was primarily motivated by the rising cost of kerosene subsidies.
+Objective
+To review the national conversion program and LPG scale up by evaluating its impacts, including assessing sustained changes in cooking behaviour and consequent reductions in exposure to household air pollution (HAP).
+Methods and data sources
+Searches of peer-review and grey literature in both English and Bahasa Indonesian were conducted and supplemented by interviews with key informants, data from the National Statistics Agency and results from household surveys.
+The data were extracted and analyzed using an Implementation Science approach.
+Results
+The main kerosene to LPG conversion phase took place in highly populated kerosene dependent areas between 2007 and 2012 reaching over 50 million households, approximately two thirds of all households in Indonesia.
+Since then the drive to expand LPG use has continued at a slower pace, especially in more remote provinces where solid fuel is more widely used.
+Over 57 million LPG start up kits were distributed as of 2015.
+Beginning in 2018, the open subsidy for LPG is expected to be replaced by one targeted at lower income households.
+While the main conversion phase has been highlighted as an example of effective and impressively fast fuel switching at scale, the impact on domestic biomass use remains limited.
+Conclusions
+Addressing HAP and the health impacts associated with kerosene and biomass use was never an objective of the program.
+Consequently, there is limited evidence of impact in this area, and in hindsight, missed opportunities in terms of influencing cooking behaviour change among biomass users, who are more at risk.

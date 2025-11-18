@@ -1,0 +1,9 @@
+An empirical research on the relationship amongst renewable energy consumption, economic growth and foreign direct investment in China
+China's economy has flourished since reform and opening up.
+At the same time, China's ability to attract foreign investment in the world continued to increase.
+However, with the rapid development of the economy, China's energy crisis and environmental pollution have been continuously deepened, exposing increasingly serious problems in the energy consumption structure.
+As a critical mean to address the environmental problems and achieve sustainable development, the production and utilization of renewable energy resources is particularly critical.
+This paper aims to investigate the relationship amongst renewable energy consumption, foreign direct investment and gross domestic product in 31 Chinese provinces from 2000 to 2015.
+Specifically, the unit root test, cointegration test, vector error-correction model, impulse response function analysis, and Granger causality test are employed for the estimations.
+The empirical results indicate that there is a long-term and stable equilibrium relationship between gross domestic product per capita, foreign direct investment per capita, and renewable energy consumption per capita.
+Additionally, in the short term, foreign direct investment cannot significantly cause renewable energy consumption change; but in the long run, a modest slowdown in gross domestic product growth and targeted foreign direct investment will generate a significant boost on renewable energy in China.

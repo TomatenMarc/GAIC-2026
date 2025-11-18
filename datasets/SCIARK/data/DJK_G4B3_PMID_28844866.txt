@@ -1,0 +1,10 @@
+﻿Intimate partner violence during pregnancy and use of antenatal care among rural women in southern Terai of Nepal
+Background: Underutilisation of antenatal care services due to intimate partner violence during pregnancy has been well documented elsewhere, but it is understudied in Nepal.
+Our study aimed at exploring the impact of intimate partner violence on antenatal care service utilisation in southern Terai of Nepal.
+Method: A community-based cross-sectional study was performed in 6 village development committees in Dhanusha district, Nepal.
+A total of 426 pregnant women in their second trimester were selected using a multistage cluster sampling method.
+Multivariable regression analyses were used to examine the association between exposure to intimate partner violence and selected antenatal care services, adjusting for covariates.
+Results: Among 426 pregnant women, almost three out of ten women (28.9%) were exposed to intimate partner violence at some point during their pregnancy.
+Pregnant women who were exposed to intimate partner violence were less likely to: register for antenatal care (OR 0.31; 95% CI (0.08-0.50)), take iron and folic acid (OR 0.55; 95% CI (0.12-0.90)), report dietary diversity (middle vs low: OR 0.34; 95% CI (0.11-0.58) and high vs low: OR 0.18; 95% CI (0.08-0.37)), have rest and sleep during day time (OR 0.47; 95% CI (0.61-0.58)), and attend mother's group meetings (OR 0.29; 95% CI (0.10-0.83)).
+Conclusions: Intimate partner violence during pregnancy is associated with low utilisation of antenatal care services.
+Therefore, effective strategies to prevent or reduce intimate partner violence during pregnancy is needed, which may lead to improved antenatal care service utilization in Nepal with healthier mothers and children's outcome.

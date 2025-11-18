@@ -1,0 +1,17 @@
+Comparing environmental impacts of beef production systems: A review of life cycle assessments
+Abstract: Livestock production, and especially beef production, has a major impact on the environment.
+Environmental impacts, however, vary largely among beef systems.
+Understanding these differences is crucial to mitigate impacts of future global beef production.
+The objective of this research, therefore, was to compare cradle-to-farm-gate environmental impacts of beef produced in contrasting systems.
+We reviewed 14 studies that compared contrasting systems using life cycle assessment (LCA).
+Systems studied were classified by three main characteristics of beef production: origin of calves (bred by a dairy cow or a suckler cow), type of production (organic or non-organic) and type of diet fed to fattening calves (<50% (roughage-based) or ≥50% (concentrate-based) concentrates).
+This review yielded lower global warming potential (GWP; on average 41% lower), acidification potential (41% lower), eutrophication potential (49% lower), energy use (23% lower) and land use (49% lower) per unit of beef for dairy-based compared with suckler-based systems.
+In suckler-based systems, maintaining the mother cow is the dominant contributor to all impacts, which is attributable to the low reproductive rate of cattle and the fact that all emissions are allocated to the production of beef.
+GWP was slightly lower (on average 7%) for organic compared with non-organic systems, whereas organic systems showed higher eutrophication potential, acidification potential and land use (36%, 56%, and 22% higher), and lower energy use (30% lower) per unit of beef produced.
+Except for GWP, however, these results should be interpreted with care because impacts were compared in few studies.
+Lower GWP (on average 28% lower), energy use (13% lower) and land use (41% lower) per unit of beef were found for concentrate-based compared with roughage-based systems, whereas no clear pattern was found for acidification and eutrophication potential.
+An LCA comparison of beef systems that differ in type of diet, however, is limited because current LCA methodology does not account for the competition for land between humans and animals.
+To enhance future food supply, grassland less suitable for crop production, therefore, might be preferred over high productive cropland for direct production of animal feed.
+Furthermore, studies included in our review did not include all relevant impact categories, such as loss of biodiversity or water use.
+We concluded that beef production from dual-purpose cows or dairy cows inseminated with beef breeds show largest potential to mitigate environmental impacts of beef.
+Marginal grasslands unsuitable for dairy farming may be used for production of suckler-based beef to contribute to availability and access to animal-source food.

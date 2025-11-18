@@ -1,0 +1,13 @@
+Title: Connections between unemployment insurance, poverty and health: a systematic review
+Background: Since the global economic crisis in 2007, unemployment rates have escalated in most European and North American countries.
+Unemployment protection policies, particularly the unemployment insurance (UI) system, have become a weighty issue for many modern welfare states.
+Decades of research have established concrete findings on the adverse impacts of unemployment on poverty- and health-related outcomes.
+This provided a foundation for further exploration into the potential protective effects of UI in offsetting these adverse outcomes.
+Methods: We developed a systematic review protocol in four stages (literature search, study selection, data extraction and quality appraisal) to ensure a rigorous data collection and inter-rated reliability.
+We examined the full body of empirical research published between 2000 and 2013 on the pathways by which UI impacts poverty and health.
+Results: Out of 2233 primary studies identified, a total of 12 met our inclusion criteria.
+The selected studies assessed poverty-related outcomes (absolute/relative poverty and material hardship) or one or more health-related outcomes (health behaviors, self-rated health, well-being and mental health).
+Across various UI systems, jurisdictions from high income countries, and study designs, we found good support for our conceptual framework, by which UI attenuates the effect of unemployment on both poverty and health, with a few exceptions.
+Conclusion: Whether UI impacts differ by age and region might be explored further in future research.
+The complex mediating relationship between unemployment, UI, poverty and health should further be assessed in light of economic and historical contexts.
+This could inform decision-making processes during future periods of economic recession.

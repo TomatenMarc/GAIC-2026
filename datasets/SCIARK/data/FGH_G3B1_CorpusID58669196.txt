@@ -1,0 +1,19 @@
+Title: Effects of screentime on the health and well-being of children and adolescents: a systematic review of reviews
+OBJECTIVES
+To systematically examine the evidence of harms and benefits relating to time spent on screens for children and young people's (CYP) health and well-being, to inform policy.
+METHODS
+Systematic review of reviews undertaken to answer the question 'What is the evidence for health and well-being effects of screentime in children and adolescents (CYP)?'
+Electronic databases were searched for systematic reviews in February 2018.
+Eligible reviews reported associations between time on screens (screentime; any type) and any health/well-being outcome in CYP.
+Quality of reviews was assessed and strength of evidence across reviews evaluated.
+RESULTS
+13 reviews were identified (1 high quality, 9 medium and 3 low quality).
+6 addressed body composition; 3 diet/energy intake; 7 mental health; 4 cardiovascular risk; 4 for fitness; 3 for sleep; 1 pain; 1 asthma.
+We found moderately strong evidence for associations between screentime and greater obesity/adiposity and higher depressive symptoms; moderate evidence for an association between screentime and higher energy intake, less healthy diet quality and poorer quality of life.
+There was weak evidence for associations of screentime with behaviour problems, anxiety, hyperactivity and inattention, poorer self-esteem, poorer well-being and poorer psychosocial health, metabolic syndrome, poorer cardiorespiratory fitness, poorer cognitive development and lower educational attainments and poor sleep outcomes.
+There was no or insufficient evidence for an association of screentime with eating disorders or suicidal ideation, individual cardiovascular risk factors, asthma prevalence or pain.
+Evidence for threshold effects was weak.
+We found weak evidence that small amounts of daily screen use is not harmful and may have some benefits.
+CONCLUSIONS
+There is evidence that higher levels of screentime is associated with a variety of health harms for CYP, with evidence strongest for adiposity, unhealthy diet, depressive symptoms and quality of life.
+Evidence to guide policy on safe CYP screentime exposure is limited.

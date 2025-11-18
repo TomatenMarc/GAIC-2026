@@ -1,0 +1,11 @@
+Current State of Research on the Risk of Morbidity and Mortality Associated with Air Pollution in Korea
+Purpose:                    The effects of air pollution on health can vary regionally.
+Our goal was to comprehensively review previous epidemiological studies on air pollution and health conducted in Korea to identify future areas of potential study.
+Materials and methods:                    We systematically searched all published epidemiologic studies examining the association between air pollution and occurrence of death, diseases, or symptoms in Korea.
+After classifying health outcomes into mortality, morbidity, and health impact, we summarized the relationship between individual air pollutants and health outcomes.
+Results:                    We analyzed a total of 27 studies that provided 104 estimates of the quantitative association between risk of mortality and exposure to air pollutants, including particulate matter with aerodynamic diameter less than 10 μm, particulate matter with aerodynamic diameter less than 2.5 μm, sulfur dioxide, nitrogen dioxide, ozone, and carbon monoxide in Korea between January 1999 and July 2018.
+Regarding the association with morbidity, there were 38 studies, with 98 estimates, conducted during the same period.
+Most studies examined the short-term effects of air pollution using a time series or case-crossover study design; only three cohort studies that examined long-term effects were found.
+There were four health impact studies that calculated the attributable number of deaths or disability-adjusted life years due to air pollution.
+Conclusion:                    There have been many epidemiologic studies in Korea regarding air pollution and health.
+However, the present review shows that additional studies, especially cohort and experimental studies, are needed to provide more robust and accurate evidence that can be used to promote evidence-based policymaking.

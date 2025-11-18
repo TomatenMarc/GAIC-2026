@@ -1,0 +1,26 @@
+Relationship of gender differences in preferences to economic development and gender equality
+Structured Abstract
+INTRODUCTION
+Understanding determinants of gender differences in economic and social domains has been of interest, both in academic and public debates.
+Previous research has shown that gender differences in fundamental economic preferences are important in explaining gender differences in economic outcomes, such as for occupational choice, financial investment, or educational decisions, among many others.
+However, gaps remain in understanding the sources of gender differences in preferences and their variation.
+RATIONALE
+We contrasted and tested two hypotheses that make opposite predictions concerning the cross-country association of gender differences in preferences with economic development and gender equality.
+On one hand, the attenuation of gender-specific social roles that arises in more developed and gender-egalitarian countries may alleviate differences in preferences between women and men.
+As a consequence, one would expect gender differences in preferences to be negatively associated with higher levels of economic development and gender equality (social role hypothesis).
+On the other hand, greater availability of material and social resources removes the gender-neutral goal of subsistence, which creates the scope for gender-specific ambitions and desires.
+In addition, more gender-equal access to those resources may allow women and men to express preferences independently from each other.
+As a consequence, one would expect gender differences in preferences to be positively associated with higher levels of economic development and gender equality (resource hypothesis).
+We tested these competing predictions using data on experimentally validated measures of willingness to take risks, patience, altruism, positive and negative reciprocity, and trust for 80,000 individuals in 76 representative country samples.
+So that the data would be geographically representative, the dataset was chosen so as to include all continents and a broad range of cultures and economic development levels.
+In total, the data represent about 90% of both the world population and global income.
+RESULTS
+The data revealed substantial cross-country variation in gender differences in preferences.
+Gender differences were found to be strongly positively associated with economic development as well as gender equality.
+These relationships held for each preference separately as well as for a summary index of differences in all preferences jointly.
+Quantitatively, this summary index exhibited correlations of 0.67 (P < 0.0001) with log GDP per capita and 0.56 (P < 0.0001) with a Gender Equality Index (a joint measure of four indices of gender equality), respectively.
+To isolate the separate impacts of economic development and gender equality, we conducted a conditional analysis, finding a quantitatively large and statistically significant association between gender differences and log GDP per capita conditional on the Gender Equality Index, and vice versa.
+These findings remained robust in several validation tests, such as accounting for potential culture-specific survey response behavior, aggregation bias, and nonlinear relationships.
+CONCLUSION
+The reported evidence indicates that higher levels of economic development and gender equality favor the manifestation of gender differences in preferences across countries.
+Our results highlight the critical role of availability of material and social resources, as well as gender-equal access to these resources, in facilitating the independent formation and expression of gender-specific preferences.

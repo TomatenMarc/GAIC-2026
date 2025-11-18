@@ -1,0 +1,13 @@
+Alcohol intoxication in road traffic accidents leads to higher impact speed difference, higher ISS and MAIS, and higher preclinical mortality
+Alcohol is one of the most important personal risk factors for serious and fatal injuries, contributing to approximately one third of all deaths from accidents.
+It is also described that alcohol intoxication leads to a higher mortality in the clinical course.
+In this study, we hypothesized that alcohol intoxication leads to different accident kinematics, a higher ISS (Injury Severity Score), and higher preclinical mortality compared to sober patients.
+A technical and medical investigation of alcohol intoxicated road users was performed on the scene of the crash and at the primary admitting hospital.
+Alcohol testing was performed with either breath alcohol tests or measurement of blood alcohol concentration (BAC) in a standard laboratory test.
+Between 1999 and 2010, 37,635 road traffic accidents were evaluated by the Accident Research Unit.
+Overall 20,741 patients were injured, 2.3% of the patients were killed.
+Among the injured patients, 2.2% with negative BAC were killed, compared to 4.6% fatal injuries in patients with a positive BAC (p < 0.0001).
+Of the patients with a positive BAC, 8.0% were severely injured, compared to 3.6% in the BAC negative group (p < 0.0001).
+Regarding the relative speed at impact (Δv for motorized drivers, vehicle collision speed for pedestrians and bikers), there was a significant higher difference for BAC positive patients (30 ± 20) compared to the BAC negative patients (25 ± 19, p < 0.0001).
+Alcohol intoxication in trauma patients leads to higher preclinical mortality, higher impact speed difference, and higher injury severity.
+The subgroup analysis for different alcohol concentrations shows no difference in ISS, MAIS, and relative speed, but a correlation of increasing age of patients with higher alcohol concentrations.

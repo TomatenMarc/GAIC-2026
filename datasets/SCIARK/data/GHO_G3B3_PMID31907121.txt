@@ -1,0 +1,13 @@
+Title: Mental Health Status and Its Influencing Factors in the Floating Population in Chengdu
+Abstract
+Objective To investigate the mental health status of the floating population in Chengdu and explore its influencing factors.
+Methods A questionnaire-based survey was conducted on non-Chengdu household workers over 16 years old in four directions(east,south,west,and north)of Chengdu from June 2017 to June 2018 to collect their social demographic characteristics and mental health status information through respondent driven sampling method.
+The 12-item general health questionnaire(GHQ-12) was used to assess the mental health status of the respondents,and a multivariate logistic regression model was used to analyze the influencing factors of mental health.
+Results The average score of GHQ-12 was (1.09±1.61) and the detection rate of mental problems was 7.11%.
+The main mental problems were anxiety and nervousness.
+Multivariate unconditional logistic regression analysis showed that over 55 years old (OR=0.425, 95% CI=0.213-0.847), junior middle school education (OR=0.541, 95% CI=0.356-0.824), length of residence ≥5 years (5-9 years: OR=0.603, 95% CI=0.394-0.923; ≥10 years: OR=0.534, 95% CI=0.346-0.823), annual income ≥18 000 yuan (18 000-35 999 yuan: OR=0.524, 95% CI=0.328-0.836; 36 000-59 999 yuan: OR=0.327, 95% CI=0.190-0.565; ≥60 000 yuan: OR=0.356, 95% CI=0.192-0.662), and a good relationship with employers (OR=0.519, 95% CI=0.363-0.742) were the protective factors for the mental health.
+Divorce/widowhood (OR=2.351, 95% CI=1.341-4.124), plan to return hometown after 5 years (OR=1.805, 95% CI=1.084-3.006) and not yet consideration of leaving Chengdu (OR=1.844, 95% CI=1.269-2.681) were the risk factors.
+Conclusions The mental health of the floating population in Chengdu is generally good.
+However, floating individuals with poor marital status and/or poor sense of belonging to Chengdu are at higher risk of mental problems.
+The local government should formulate and improve the policies and measures related to social welfare and public services for the floating population and try to enhance their urban integration and sense of belonging, thus improving their mental health.
+Keywords: 12-item general health questionnaire; floating population; influencing factor; mental health.

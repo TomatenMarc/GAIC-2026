@@ -1,0 +1,9 @@
+Comparison indices for design and proportioning of concrete mixtures taking environmental impacts into account
+Abstract: As awareness and concern for greenhouse gas emissions grow, methods for reducing a significant industrial emission source, the production of cement for use in concrete, have been appearing.
+Assessments of these methods typically do not take into account the influence of material properties and environmental impacts concurrently.
+When both are considered, rarely are properties considered other than concrete strength.
+In this research, methods for assessing environmental impacts with mechanical properties concurrently for design of non-reinforced concrete are presented.
+Tools for assessing environmental impacts based on the volume of material needed as defined by several material properties and design parameters, such as required moment of inertia and cross-sectional area, are investigated.
+The indices for comparison developed in this research are applied to a database containing 190 concrete mixtures with varying constituents both with and without Supplementary Cementitious Materials (SCMs).
+For the mixtures and comparison indices examined, concrete mixtures containing SCMs consistently offered the best combination of associated global warming potential (GWP) and material properties.
+However, for several cases, it was shown that the use of Portland cement as the sole binder could provide comparable indices of GWP and material properties to concrete mixtures containing replacement binder.

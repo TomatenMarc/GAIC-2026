@@ -1,0 +1,13 @@
+Drone-based Structure-from-Motion provides accurate forest canopy data to assess shading effects in river temperature models
+Abstract: Climatic warming will increase river temperature globally, with consequences for cold water-adapted organisms.
+In regions with low forest cover, elevated river temperature is often associated with a lack of bankside shading.
+Consequently, river managers have advocated riparian tree planting as a strategy to reduce temperature extremes.
+However, the effect of riparian shading on river temperature varies substantially between locations.
+Process-based models can elucidate the relative importance of woodland and other factors driving river temperature and thus improve understanding of spatial variability of the effect of shading, but characterising the spatial distribution and height of riparian tree cover necessary to parameterise these models remains a significant challenge.
+Here, we document a novel approach that combines Structure-from-Motion (SfM)photogrammetry acquired from a drone to characterise the riparian canopy with a process based temperature model (Heat Source)to simulate the effects of tree shading on river temperature.
+Our approach was applied in the Girnock Burn, a tributary of the Aberdeenshire Dee, Scotland.
+Results show that SfM approximates true canopy elevation with a good degree of accuracy (R 2 = 0.96)and reveals notable spatial heterogeneity in shading.
+When these data were incorporated into a process-based temperature model, it was possible to simulate river temperatures with a similarly-high level of accuracy (RMSE &lt;0.7 °C)to a model parameterised using ‘conventional’ LiDAR tree height data.
+We subsequently demonstrate the utility of our approach for quantifying the magnitude of shading effects on stream temperature by comparing simulated temperatures against another model from which all riparian woodland has been removed.
+Our findings highlight drone-based SfM as an effective tool for characterising riparian shading and improving river temperature models.
+This research provides valuable insights into the effects of riparian woodland on river temperature and the potential of bankside tree planting for climate change adaptation.

@@ -1,0 +1,13 @@
+Risk factors of suicide mortality among multiple attempters: A national registry study in Taiwan.
+BACKGROUND/PURPOSE: Little is known about the risk factors of suicide mortality among multiple attempters.
+This study aims to investigate the predictors of suicidal mortality in a prospective cohort of attempters in Taiwan, focusing on the time interval and suicide method change between the last two nonfatal attempts.
+METHODS: The representative data retrieved from the National Suicide Surveillance System  (NSSS) was linked with National Mortality Database to identify the causes of death in multiple attempters during 2006-2008.
+Cox-proportional hazard models were applied to calculate the hazard ratios for the predictors of suicide.
+RESULTS: Among the 55,560 attempters, 6485 (11.7%) had survived attempts ranging from one to 11 times; 861 (1.5%) eventually died by suicide.
+Multiple attempters were characterized by female (OR = 1.56, p < 0.0001), nonrecipient of national aftercare service  (OR = 1.62, p < 0.0001), and current contact with mental health services (OR = 3.17, p < 0.0001).
+Most multiple attempters who survived from hanging (68.1%) and gas poisoning (61.9%) chose the same method in the following fatal episode.
+Predictors of suicidal death were identified as male, older age (≥ 45 years), shorter interval and not maintaining methods of low lethality in the last two nonfatal attempts.
+Receipt of nationwide aftercare was associated with lower risk of suicide but the effect was insignificant.
+CONCLUSION: The time interval of the last two nonfatal attempts and alteration in the lethality of suicide method were significant factors for completed suicide.
+Risk assessment involving these two factors may be necessary for multiple attempters in different clinical settings.
+Effective strategies for suicide prevention emphasizing this high risk population should be developed in the future.

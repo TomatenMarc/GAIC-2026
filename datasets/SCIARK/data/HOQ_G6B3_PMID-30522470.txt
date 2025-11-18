@@ -1,0 +1,11 @@
+Childhood road traffic injuries in Canada - a provincial comparison of transport injury rates over time
+Background:                    In Canada, road traffic injuries are the leading cause of death among children and youth ≤19.
+Across the country, there is variability in road traffic injury prevention policies and legislation.
+Our objective was to compare pediatric road traffic related injury hospitalization and death rates across Canadian provinces.
+Methods:                    Population-based hospitalization and death rates per 100,000 were analyzed using data from the Discharge Abstract Database and provincial coroner's reports.
+Road traffic related injuries sustained by children and youth ≤19 years were analyzed by province and cause between 2006 and 2012.
+Results:                    The overall transport-related injury morbidity rate for children in Canada was 70.91 per 100,000 population between 2006 and 2012.
+The Canadian population-based injury hospitalization rates from all transport-related causes significantly decreased from 85.51 to 58.77 per 100,000 (- 4.42; p < 0.01; - 5.42; - 3.41) during the study period.
+Saskatchewan had the highest overall transport related morbidity rate (135.69 per 100,000), and Ontario had the lowest (47.12 per 100,000).
+Similar trends were observed for mortality rates in Canada.
+Conclusions:                    Transport-related injuries among children and youth have significantly decreased in Canada from 2006 to 2012; however the rates vary by province and cause.

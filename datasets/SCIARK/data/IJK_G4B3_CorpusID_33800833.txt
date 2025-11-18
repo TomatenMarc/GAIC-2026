@@ -1,0 +1,15 @@
+﻿Physical and mental health effects of intimate partner violence for men and women.
+BACKGROUND
+Few population-based studies have assessed the physical and mental health consequences of both psychological and physical intimate partner violence (IPV) among women or men victims.
+This study estimated IPV prevalence by type (physical, sexual, and psychological) and associated physical and mental health consequences among women and men.
+METHODS
+The study analyzed data from the National Violence Against Women Survey (NVAWS) of women and men aged 18 to 65.
+This random-digit-dial telephone survey included questions about violent victimization and health status indicators.
+RESULTS
+A total of 28.9% of 6790 women and 22.9% of 7122 men had experienced physical, sexual, or psychological IPV during their lifetime.
+Women were significantly more likely than men to experience physical or sexual IPV (relative risk [RR]=2.2, 95% confidence interval [CI]=2.1, 2.4) and abuse of power and control (RR=1.1, 95% CI=1.0, 1.2), but less likely than men to report verbal abuse alone (RR=0.8, 95% CI=0.7, 0.9).
+For both men and women, physical IPV victimization was associated with increased risk of current poor health; depressive symptoms; substance use; and developing a chronic disease, chronic mental illness, and injury.
+In general, abuse of power and control was more strongly associated with these health outcomes than was verbal abuse.
+When physical and psychological IPV scores were both included in logistic regression models, higher psychological IPV scores were more strongly associated with these health outcomes than were physical IPV scores.
+CONCLUSIONS
+Both physical and psychological IPV are associated with significant physical and mental health consequences for both male and female victims.

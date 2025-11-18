@@ -1,0 +1,7 @@
+Title: The increasing rate of global mean sea-level rise during 1993-2014
+Abstract: Global mean sea level (GMSL) has been rising at a faster rate during the satellite altimetry period (1993-2014) than previous decades, and is expected to accelerate further over the coming century.
+However, the accelerations observed over century and longer periods have not been clearly detected in altimeter data spanning the past two decades.
+Here we show that the rise, from the sum of all observed contributions to GMSL, increases from 2.2 ± 0.3 mm yr-1 in 1993 to 3.3 ± 0.3 mm yr-1 in 2014.
+This is in approximate agreement with observed increase in GMSL rise, 2.4 ± 0.2 mm yr-1 (1993) to 2.9 ± 0.3 mm yr-1 (2014), from satellite observations that have been adjusted for small systematic drift, particularly affecting the first decade of satellite observations.
+The mass contributions to GMSL increase from about 50% in 1993 to 70% in 2014 with the largest, and statistically significant, increase coming from the contribution from the Greenland ice sheet, which is less than 5% of the GMSL rate during 1993 but more than 25% during 2014.
+The suggested acceleration and improved closure of the sea-level budget highlights the importance and urgency of mitigating climate change and formulating coastal adaption plans to mitigate the impacts of ongoing sea-level rise.

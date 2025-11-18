@@ -1,0 +1,8 @@
+Implications for the energy policy derived from the relation between the cultural dimensions of Hofstede's model and the consumption of renewable energies
+This paper aims to determine the relation between national culture and the consumption of renewable energies in several European countries.
+According to the Renewable Energy Directive of the European Commission, there have been set common goals for the share of consumption of renewable energies in the European Union, but each country is responsible for the action plan to achieve these targets.
+These targets have been set based on the initial values of the renewable energies and on the natural resources of each country.
+Cultural aspects and energy consumption patterns have not been taken in consideration for the analysis of the willingness and motivation of consumers to switch towards renewable energies.
+In this paper a panel data analysis has been carried out in order to measure the relation between Hofstede's cultural dimensions and the share of renewable energies in final consumption.
+The results show a highly significant relation between the masculinity index and the share of renewable energies and an acceptable relation for the long term orientation index.
+The energy policy of the European Union and of its countries should consider the cultural characteristics in the development of the national action plans for the implementation of renewable energies.

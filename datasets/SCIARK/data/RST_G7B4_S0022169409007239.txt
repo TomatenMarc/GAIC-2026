@@ -1,0 +1,11 @@
+An intercomparison of regional climate model data for hydrological impact studies in Denmark
+Abstract:The use of high-resolution regional climate models (RCM) to examine the hydrological impacts of climate change has grown significantly in recent years due to the improved representation of the local climate.
+However, the application is not straightforward because most RCMs are subject to considerable systematic errors.
+In this study, projected climate change data from the RCM HIRHAM4 are used to generate climate scenario time series of precipitation, temperature, and reference evapotranspiration for the period 2071–2100 for hydrological impact assessments in Denmark.
+RCM output for the present-day period (1961–1990) are compared to an observational data set, with precipitation corrected for undercatch and wetting losses, to quantify systematic model errors.
+A delta change method is applied to cope with these biases.
+A question arises as to how variable the climate change signals are, as they are influenced by the forcing GCM, the emissions scenario, and the choice of RCM.
+Here, we focus on the choice of RCM and the effect of increasing horizontal resolution.
+A comparison of HIRHAM4 output to seven similar RCMs showed that for precipitation the HIRHAM4 model is as representative as any of the RCMs in the ensemble.
+For temperature HIRHAM4 at 50km resolution simulates higher temperatures than the other RCMs, while HIRHAM4 at 12km resolution is within the range of the other models.
+This study highlights some of the uncertainties related to the use of RCM data in hydrological studies, which contribute to a range in hydrological effects of climate change, mainly originating from simulated precipitation amounts.

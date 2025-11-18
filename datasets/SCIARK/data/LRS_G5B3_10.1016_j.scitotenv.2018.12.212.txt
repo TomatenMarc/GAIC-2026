@@ -1,0 +1,10 @@
+Title: The trilemma of trade, monetary and immigration policies in the United States: Accounting for environmental sustainability
+Abstract: The United States like every other country across the globe, especially the developed nations, have consistently battled one of man's greatest challenge of the 21st century-saving and sustaining the dire environment.
+Being the largest emitter of carbon dioxide (CO2) after China, the United States is increasingly faced with an urgent policy drive toward environmental sustainability.
+Against the backdrop, this study employed the dynamic ARDL-bound testing approach to observing the tripartite impact of the trade policy, monetary policy, and migration index on carbon emissions over the period 1990:Q1–2018: Q2.
+The incorporated renewable energy consumption and the real GDP which controls for other unobserved factors are observed to have similar and significant impacts as in previous studies.
+The current study found that the trade policy, monetary policy, and migration index exerts positive and significant impacts on carbon dioxide emissions in the long-run.
+It implies that in the near future, the environmental sustainability of the United States is at the risk of the government policies on trade, monetary, and migration.
+However, such impact of the migration index on the carbon dioxide emissions is barely significant in the long-run and at the immediate time.
+Although the impact of the government's trade policy on carbon dioxide emissions is significant in the long-run, it immediate impact is negative and not significant.
+Hence, policy frameworks of the government should be designed such that it meets the Sustainable Development Goals 2030.

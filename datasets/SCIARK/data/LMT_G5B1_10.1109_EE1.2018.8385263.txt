@@ -1,0 +1,9 @@
+Title: Application of wireless sensor networks to environmental monitoring for sustainable mobility
+Abstract: This paper presents a project idea for an innovative public transport system that may contribute to increase sustainable mobility and reduce the environmental impacts of transports.
+The proposed system is based on the use of low-emission small vehicles following flexible routes, which will be adapted in real time so to satisfy the customer requests, considering traffic congestion and availability of other transport services.
+The user will require the ride through a mobile application, which gives his/her location, and the system will provide the service considering all users' requests, vehicle availability, intermodal opportunities and traffic congestion.
+To implement this system, it is crucial to have real-time information on vehicle positions, other public transit supply, traffic and environmental conditions.
+Therefore, a distributed sensor network monitoring the environment is a fundamental component of the project.
+This paper focuses on the monitoring system that should be implemented so to obtain all real-time information necessary to guarantee a sustainable mobility in accordance with the project objectives.
+In particular, a Wireless Sensor Network (WSN) will be used to gather real-time traffic and environmental data to build descriptive and predictive models to plan the best routes in order to reduce road congestion and consequently urban pollution.
+The paper is developed in the context of the NETCHIP research project, which has been submitted to Italian PNR 2015-2020, Call n. 1735 of the 13th July 2017.

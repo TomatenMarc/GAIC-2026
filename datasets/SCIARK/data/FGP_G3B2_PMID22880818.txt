@@ -1,0 +1,11 @@
+Title:  Relationship between oral health-related quality of life, oral health, socioeconomic, and general health factors in elderly Brazilians
+Objectives: To assess the impact of oral health on quality of life in elderly Brazilians and to evaluate its association with clinical oral health measures and socioeconomic and general health factors.
+Design: Cross-sectional study.
+Setting: Population-based cohort study on health, well-being, and aging.
+Participants: Eight hundred fifty-seven participants representing 588,384 community-dwelling elderly adults from the city of São Paulo, Brazil.
+Measurements: Self-perceived impact of oral health on quality of life was measured using the Geriatric Oral Health Assessment Index (GOHAI), with scores categorized as good, moderate, or poor, indicating low, moderate, and high degrees of negative impact on quality of life, respectively.
+Results: Nearly half of the individuals had good GOHAI scores (44.7% of overall sample, 45.9% of dentate participants, and 43.4% of edentulous participants).
+In the overall sample, those with poor self-rated general health and a need for dental prostheses were more likely to have poor and moderate GOHAI scores.
+Individuals with depression were significantly more likely to have poor GOHAI scores.
+No socioeconomic variables were related to the outcome, except self-perception of sufficient income, which was a protective factor against a poor GOHAI score in dentate participants.
+Conclusion: Moderate and high degrees of negative impact of oral health on quality of life were associated with general health and clinical oral health measures, independent of socioeconomic factors.

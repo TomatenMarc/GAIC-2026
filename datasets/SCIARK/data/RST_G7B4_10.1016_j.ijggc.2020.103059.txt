@@ -1,0 +1,11 @@
+Evaluation of CO2 absorption performance by molecular dynamic simulation for mixed secondary and tertiary amines
+Abstract: CO2 emission to the atmosphere is the most prominent cause of climate change and a major risk to environmental health.
+Although several techniques are very promising to reduce the CO2 emission from central emission points, the CO2 absorption by amines remains the most mature and reliable technology.
+Yet, there is more potential to improve absorption performance by choosing suitable solvents.
+Thus, the present research is intended to explore a better solvent combination for CO2 absorption by adopting the amine absorption process using molecular dynamic simulation.
+The study is designed to compare the intermolecular interactions of N[sbnd]C and N[sbnd]H bond between single 2EAE, DMAE (or 2DMAE), and blended solvent, i.e., 2EAE/PZ, 2DMAE/PZ with carbon dioxide and water and then to catch the effect of piperazine on these amines.
+The molecular dynamic simulations were performed by using the Material Studio application.
+The solvent concentration, 30 wt% under the condition of 313 K temperature at 0.1 MPa pressure, was taken for solvent systems.
+The results were interpreted by the Radial Distribution Function analysis.
+It was found that the blend of secondary and tertiary amines with piperazine 2EAE/PZ, DMAE/PZ reflect higher intermolecular interaction with CO2 as compared to single DMAE &amp; 2EAE.
+This finding shows that piperazine acts as a promoter on 2EAE and 2DMAE when interacting with CO2.

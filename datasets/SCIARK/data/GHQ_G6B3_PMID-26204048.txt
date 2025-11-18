@@ -1,0 +1,8 @@
+Short-term effects of air pollution on daily mortality and years of life lost in Nanjing, China
+The deteriorating air quality in Chinese cities is attracting growing public concern.
+We conducted analyses to quantify the associations between daily changes in ambient air pollution and mortality in Nanjing, China.
+Daily mortality, air pollution, and meteorological data from 1 January 2009 to 31 December 2013 were collected.
+Over-dispersed Poisson regression models were used to evaluate the risk of daily non-accidental mortality and years of life lost (YLL) from exposure to respirable particulate matter (PM10) and gaseous pollutants (NO2, SO2).
+Stratified analysis was conducted to indentify the modifying effect of individual-level factors on the association between air pollutants and mortality.
+We found that interquartile range (IQR) increases in the two-day average of PM10, NO2 and SO2 were significantly associated with 1.6% [95% confidence interval (CI):0.7%-2.6%], 2.9% (95% CI: 1.7%-4.2%) and 2.4% (95% CI: 1.2%-3.6%) higher rates of non-accidental mortality; and related to YLL increases of 20.5 (95% CI: 6.3-34.8), 34.9 (95% CI: 16.9-52.9) and 30.3 (95% CI: 12.2-48.4) years, respectively; Associations between air pollution and mortality were more pronounced in the warm season than in the cool season.
+We conclude that the risks of mortality and YLL were elevated corresponding to an increase in current ambient concentrations of the air pollutants, and season may modify the effects of outdoor air pollution in Nanjing.

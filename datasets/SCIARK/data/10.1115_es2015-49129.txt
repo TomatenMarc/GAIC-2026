@@ -1,0 +1,14 @@
+Feasibility Study of Distributed Energy Generation at a Colorado Ski Resort
+The ski industry in Colorado is the largest in the United States and makes up a significant portion of the state’s tourism revenue, but changes in the climate threaten the future of this highly weather-dependent business.
+In recent years, many ski resorts have taken steps to reduce greenhouse gas emissions in an effort to mitigate the effects shorter winters, less snowfall, and continued drought are having on the future viability of the industry.
+Energy efficiency and renewable energy projects are common strategies to reduce emissions; less common, however, are resort-wide analyses of distributed generation (DG) systems combining traditional and alternative energy sources.
+The intent of this study is to evaluate the economic and technical feasibility of a hybrid conventional-renewable DG system at Vail Resort.
+Electrical and thermal loads for Vail’s mountain operations were used to analyze three DG technologies; combined heat and power (CHP), photovoltaics (PV), and horizontal axis wind turbines.
+Technologies were chosen based on a resource assessment as well as input from site managers and analyzed using the Hybrid Optimization Model for Electric Renewables (HOMER).
+The results indicate that the most cost-competitive DG system is a 700 kilowatt (kW) natural gas-fired CHP plant used to meet the site’s base load during the summer months.
+Although CHP systems are generally most effective at displacing conventional grid-based power for facilities with little seasonal load variation, the findings of this study align closely with an existing system at Snowbird Resort in Utah.
+A small 700 kW CHP system could provide approximately 31% of annual electricity use and 24% of annual thermal energy needs based on the energy model used in this analysis.
+Furthermore, annual energy costs could be reduced by 3% and carbon emissions by 11%.
+Additional analyses are needed to more precisely determine the optimal system for Vail and the authors recommend that future studies include the energy use from base operations in addition to the mountain area considered in this analysis.
+The additional base area energy load during the summer could potentially make a larger CHP system more viable with subsequent cost and carbon emission savings.
+Additionally, site-specific resource data such as biomass production and ridge top wind speeds could aid in more definitively eliminating these technologies from consideration.

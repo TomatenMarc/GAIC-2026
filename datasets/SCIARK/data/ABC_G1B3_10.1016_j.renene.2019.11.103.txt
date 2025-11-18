@@ -1,0 +1,8 @@
+The impact of renewable energy consumption on income inequality: Evidence from developed countries
+Despite of the great number of studies on the impact that income gap has on the environment, we still do not know much about whether renewable energy could be a factor affecting income inequality.
+The goal of this study is therefore to investigate the impact of renewable energy consumption on income inequality in a panel group of developed economies over the period 1990–2014.
+To this end, the study employs two dynamic panel data estimation techniques: (i) panel generalized method of moments in which slope coefficients are not allowed to vary, and (ii) the dynamic common correlated effects estimator in which heterogeneity and cross-sectional dependence is taken into consideration.
+The results obtained from the both estimators indicate that an increase in renewable energy consumption leads to a decrease in income inequality.
+Beyond the environmental concerns, this result confirms that adoption of renewable energy sources will also play a crucial role in reducing income inequality.
+In addition, it is also proved that the role of renewable energy consumption on income inequality is robust to estimation technique.
+Policy implications of these results are also discussed.

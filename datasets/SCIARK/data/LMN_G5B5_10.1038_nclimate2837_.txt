@@ -1,0 +1,8 @@
+Title: Accelerated dryland expansion under climate change
+Abstract: Drylands are home to more than 38% of the total global population and are one of the most sensitive areas to climate change and human activities1,2.
+Projecting the areal change in drylands is essential for taking early action to prevent the aggravation of global desertification3,4.
+However, dryland expansion has been underestimated in the Fifth Coupled Model Intercomparison Project (CMIP5) simulations5 considering the past 58 years (1948–2005).
+Here, using historical data to bias-correct CMIP5 projections, we show an increase in dryland expansion rate resulting in the drylands covering half of the global land surface by the end of this century.
+Dryland area, projected under representative concentration pathways (RCPs) RCP8.5 and RCP4.5, will increase by 23% and 11%, respectively, relative to 1961–1990 baseline, equalling 56% and 50%, respectively, of total land surface.
+Such an expansion of drylands would lead to reduced carbon sequestration and enhanced regional warming6,7, resulting in warming trends over the present drylands that are double those over humid regions.
+The increasing aridity, enhanced warming and rapidly growing human population will exacerbate the risk of land degradation and desertification in the near future in the drylands of developing countries, where 78% of dryland expansion and 50% of the population growth will occur under RCP8.5.

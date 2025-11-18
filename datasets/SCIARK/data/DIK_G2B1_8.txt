@@ -1,0 +1,60 @@
+Gender inequality and the gender gap in life expectancy in the European Union
+Abstract
+The gender gap in life expectancy (GGLE) varies substantially in EU 28 Member States.
+This paper addresses the question of whether gender inequality affects the GGLE as well as life expectancy (LE) in both genders.
+We conducted an ecological study and used the gender inequality index (GII) developed by the United Nations as well as the gender difference in LE in 2015.
+We found a correlation between GGLE and GII (r2=0.180) and between GII and LE of 0.418 (women) and 0.430 (men).
+Gender equality policies are still necessary and will have an effect on women’s as well as men’s health.
+Topic:
+european union life expectancy united nations gender ecological study men's health gender differences
+Issue Section:
+Life expectancy - mortality
+Introduction
+Life expectancy (LE) at birth reflects the overall mortality level of a population.
+It summarizes the mortality patterns and health outcomes of various population groups such as women and men.
+Thus, LE can indicate health inequalities in the population.
+Even in the European Union (EU) with common goals and values and a common economic area, LE still differs between countries, and varies along sociodemographic variables.
+To reduce inequalities is a matter of fairness and as such should be of public interest.
+This paper puts gender inequalities in the focus.
+In EU 28 Member States LE at birth reached 83.3 years (women) and 77.9 years (men) on average in 2015.1 The gender gap in life expectancy (GGLE) at birth has narrowed from 6.4 years (2002) to 5.4 years (2015) on EU average but the size of this gender gap still varies substantially in Europe.1 As biological differences appear to play a minor role in explaining the GGLE,2,3 differences in social relationships or health-risk behaviour gain attention.4,5
+Men benefit more than women from the expansion of LE.
+For example, in the Netherlands, male LE increased between 1990 and 2015 by 8%, female LE by 4%.
+In other EU countries a comparable trend can be observed.
+As possible theoretical explanations for this trend, diminishment of gender inequality,3 role expansion theory (undertaking of different social roles such as paid work, child care and household activities),3 or convergence in unhealthy behaviours (reduction of risk behaviour in men, adoption of risk behaviour in women or both) are discussed.4 Social relationships and health-risk behaviour are shaped by social norms but studies on the influence of societal factors on LE are rare.6 Gender inequality, i.e.
+unequal distribution of wealth, power and benefits among women and men, is one of the most important societal factors.
+Gender inequality is socially determined and as such it is open to change by gender equality policies.7 Some studies have shown an association between gender inequality and health indicators on a national or international level.
+Gender inequality is associated with child and infant mortality8,9 as well as with men’s health.3 Our paper addresses the question of whether gender inequality is also interrelated with the GGLE as well as to LE in both genders.
+The rationale is that gender differences in health related behaviours contribute to the gender gap in mortality and thus to LE, as behaviour is influenced by gender norms.
+We hypothesize that the GGLE is smaller in countries with more gender equality.
+With our analysis we want to contribute to the debate on reducing health inequalities between women and men.
+Methods
+We conducted an ecological study to investigate the association between gender inequality and (gender gap in) LE at birth in EU 28 Member States.
+To assess gender inequality we used the gender inequality index (GII) produced by the United Nations Development Programme with data from 2015 being the most recent available.
+The GII measures loss of human development in three dimensions with five indicators: reproductive health (maternal mortality ratio, adolescent birth rate), political empowerment (share of parliamentary seats held by each sex, attainment at secondary and higher education levels) and economic status (labour market participation rate).
+It ranges from 0, where women and men score equally, to 1, where one gender scores as poorly as possible in all measured dimensions.10 We calculated the GGLE (2015) by subtracting the LE of men from that of women.
+Using GII scores and GGLE data we computed Pearson’s correlation coefficient and created a scatter plot.
+Results
+In EU 28 Member States, on average the GGLE is 5.4 years in 2015.
+The range is 3.3 years (Netherlands) to 10.5 years (Lithuania).
+In 2015 the GII varies for EU 28 member states between 0.041 (Denmark) and 0.339 (Romania).
+Figure 1 shows the association between GGLE and GII.
+There is a positive weak correlation between the magnitude of GGLE and higher GII values (r2 = 0.180).
+Analysing the correlation of female resp.
+male LE with GII separately, shows even a stronger, moderate correlation coefficient of 0.418 (women) and 0.430 (men) (see Appendix).
+Conclusions
+The results show a positive, although weak correlation between GGLE and GII in the expected direction: the lower the gender inequality on a national level the smaller the GGLE.
+Gender inequality is not only associated with the GGLE but also with the LE itself.
+The correlation is even stronger than the association between GGLE and GII.
+Both results indicate that gender inequality is related to the health of women and men.
+The fact that in men a moderate correlation between LE and GII can also be observed, proves a positive association between gender equality and men’s health.
+It could be cautiously interpreted that convergence of behaviours as well as expansion of roles as consequences of increasing gender equality might influence the LE of women and men.
+The limitation of the study is that the health dimension ‘maternal mortality ratio’ is part of the GII.
+The maternal mortality ratio itself affects the LE of women in the direction that higher maternal mortality ratios lead to lower life expectancies for women and thus to a reduction of the GGLE.
+However, the maternal mortality ratio is rather low in EU 28 Member States and differs between three deaths per 100 000 live births (Finland, Greece and Poland) and 31 death per 100 000 live births (Romania).
+Therefore, the influence on LE seems limited.
+Our results show that gender inequality affects LE in men and women as well as the GGLE.
+Conflicts of interest: None declared.
+Key points
+The GGLE varies substantially in Europe.
+LE in men and women and gender equality are correlated: the higher the gender equality, the higher the LE in both sexes.
+There is a positive correlation between magnitude of GGLE and higher values of GII.

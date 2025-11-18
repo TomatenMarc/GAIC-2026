@@ -1,0 +1,15 @@
+Trends in youth mortality in Israel, 1984-1995
+Background:                    Investigation of causes of death can help inform intervention policy aimed at reducing preventable mortality.
+Objectives:                    To assess mortality causes and trends over time and identify target groups with excessive mortality rates among Israeli youth aged 10-24, in order to formulate an intervention policy for prevention of adolescent mortality.
+Methods:                    Mortality data for Israeli residents aged 10-24 were extracted from the Central Bureau of Statistics computerized death certificate file for the period 1984-95.
+Trends were evaluated by cause of death and demographic characteristics.
+Results:                    The crude mortality rate among Israeli youth aged 10-24, during 1993-1995, was 39.6 per 100,000.
+Rates were 2.7 times higher among males, increased with age, and reached a peak among 18-21 year olds.
+Rates were 1.4 times higher among Arabs than among Jews.
+The sharp increase in mortality among Jewish males of military service age (18-21 years) was due mainly to motor vehicle crashes and suicide.
+Although overall mortality decreased by 9.4% from 1984-86 to 1993-95, the gap between the subgroups increased.
+MVC-related mortality increased over time by 100% among Arab males.
+The rate of completed suicide among Jewish males increased by 110%.
+Although injury-related mortality is lower in Israel compared with the U.S., similar demographic differentials and trends were found in both countries.
+Conclusions:                    Suicide among Jewish males of military service age, as well as MVC fatalities among Arab males, present a growing public health issue.
+Intervention strategies should therefore be targeted towards these subgroups in order to minimize the rates of preventable death.

@@ -1,0 +1,19 @@
+﻿Intimate partner violence against women in western Ethiopia: prevalence, patterns, and associated factors
+Background
+Intimate partner violence against women is the psychological, physical, and sexual abuse directed to spouses.
+Globally it is the most pervasive yet underestimated human rights violation.
+This study was aimed at investigating the prevalence, patterns and associated factors of intimate partner violence against women in Western Ethiopia.
+Methods
+A cross-sectional, population based household survey was conducted from January to April, 2011 using standard WHO multi-country study questionnaire.
+A sample of 1540 ever married/cohabited women aged 15-49 years was randomly selected from urban and rural settings of East Wollega Zone, Western Ethiopia.
+Data were principally analyzed using logistic regression.
+Results
+Lifetime and past 12 months prevalence of intimate partner violence against women showed 76.5% (95% CI: 74.4-78.6%) and 72.5% (95% CI: 70.3-74.7%), respectively.
+The overlap of psychological, physical, and sexual violence was 56.9%.
+The patterns of the three forms of violence are similar across the time periods.
+Rural residents (AOR 0.58, 95% CI 0.34-0.98), literates (AOR 0.65, 95% CI 0.48-0.88), female headed households (AOR 0.46, 95% CI 0.27-0.76) were at decreased likelihood to have lifetime intimate partner violence.
+Yet, older women were nearly four times (AOR 3.36, 95% CI 1.27-8.89) more likely to report the incident.
+On the other hand, abduction (AOR 3.71, 95% CI 1.01-13.63), polygamy (AOR 3.79, 95% CI 1.64-0.73), spousal alcoholic consumption (AOR 1.98, 95% CI 1.21-3.22), spousal hostility (AOR 3.96, 95% CI 2.52-6.20), and previous witnesses of parental violence (AOR 2.00, 95% CI 1.54-2.56) were factors associated with an increased likelihood of lifetime intimate partner violence against women.
+Conclusion
+In their lifetime, three out of four women experienced at least one incident of intimate partner violence.
+This needs an urgent attention at all levels of societal hierarchy including policymakers, stakeholders and professionals to alleviate the situation.

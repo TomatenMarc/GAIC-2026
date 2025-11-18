@@ -1,0 +1,21 @@
+Modelling smart domestic energy systems
+Abstract:The increasing price of fossil fuels, coupled with the increased worldwide focus on their contribution to climate change has driven the need to develop cleaner forms of energy generation.
+The transition to cleaner energy sources has seen a much higher penetration of renewable sources of electricity on the grid than ever before.
+Among these renewable generation sources are wind and solar power which provide intermittent and often unpredictable energy generation throughout the day depending on weather conditions.
+The connection of such renewable sources poses problems for electricity network operators whose legacy systems have been designed to use traditional generation sources where supply can be increased as required to meet demand.
+Among the solutions proposed to address this issue with intermittency in generation are storage systems and automation systems which aim to reduce demand in order to match the available renewable generation.
+Such a transition would introduce a requirement for more advanced technology within homes to provide network operators with greater control over domestic loads.
+Another aspect to the transition towards a low-carbon society is the change that will be required to domestic heating systems.
+Current domestic heating systems largely rely on Natural Gas as their fuel source.
+In order to meet carbon reduction targets, changes will need to be made to domestic buildings including insulation and other energy efficiency measures.
+It is also possible that present systems will begin to be replaced by new heating technologies such as ground and air source heat pumps.
+Due to the effect that such technological transitions will have on domestic end-users, it is important that these new technologies are designed with end-users in mind.
+It is therefore necessary that software tools are available to model and simulate these changes at the domestic level to guide the design of new systems.
+This thesis provides a summary of some of the existing building energy analysis tools that are available and shows that there is currently a shortcoming in the capabilities of existing tools when modelling future domestic smart grid technologies.
+Tools for developing these technologies must include a combination of building thermal characteristics, electrical energy generation and consumption, software control and communications.
+A new software package was developed which allows for the modelling of small smart grid systems, with a particular focus on domestic systems including electricity, heat transfer, software automation and control and communications.
+In addition to the modelling of electrical power flow and heat transfer that is available in existing building energy simulation packages, the package provides the novel features of allowing the simulation of data communication and human interaction with appliances.
+The package also provides a flexible framework that allows system components to be developed in full object-orientated programming languages at run time, rather than having to use additional third-party development environments.
+As well as describing the background to the work and the design of the new software, this thesis describes validation studies that were carried out to verify the accuracy of the results produced by the package.
+A simulation-based case study was also carried out to demonstrate the features offered by the new platform in which a smart domestic energy control system including photovoltaic generation, hot water storage and battery storage was developed.
+During the development of this system, new algorithms for obtaining the operating point of solar panels and photovoltaic maximum power point tracking were developed.

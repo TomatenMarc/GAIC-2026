@@ -1,0 +1,12 @@
+Maternal mortality in Colombia in 2011: a two level ecological study
+Objective:                    Maternal mortality reduction is a Millennium Development Goal.
+In Colombia, there is a large disparity in the maternal mortality ratio (MMR) between and into departments (states) and also between municipalities.
+We examined socioeconomics variables at the municipal and departmental levels which could be associated to the municipal maternal mortality in Colombia.
+Methods:                    A multilevel ecology study was carried out using different national data sources in Colombia.
+The outcome variable was the MMR at municipal level in 2011 with multidimensional poverty at municipal and department level as the principal independent variables and other measures of the social and economic characteristics at municipal and departmental level were also considered explicative variables (overall fertility municipal rate, percentage of local rural population, health insurance coverage, per capita territorial participation allocated to the health sector, transparency index and Gini coefficient).
+The association between MMR and socioeconomic contextual conditions at municipal and departmental level was assessed using a multilevel Poisson regression model.
+Results:                    The MMR in the Colombian municipalities was associated significantly with the multidimensional poverty (relative ratio of MMR: 3.52; CI 95%: 1.09-11.38).
+This association was stronger in municipalities from departments with the highest poverty (relative ratio of MMR: 7.14; CI 95%: 2.01-25.35).
+Additionally, the MMR at municipal level was marginally associated with municipally health insurance coverage (relative ratio of MMR: 0.99; CI 95%: 0.98-1.00), and significantly with transparency index at departmental level (relative ratio of MMR: 0.98; CI 95%: 0.97-0.99).
+Conclusion:                    Poverty and transparency in a contextual level were associated with the increase of the municipal MMR in Colombia.
+The results of this study are useful evidence for informing the public policies discussion and formulation processes with a differential approach.

@@ -1,0 +1,16 @@
+﻿Physical health consequences of intimate partner violence in Spanish women.
+BACKGROUND
+Intimate partner violence (IPV) against women can result in serious health problems.
+The objectives of this study are to analyse the association between the different types of IPV and women's physical health, and to examine whether this association varies depending on the intensity, duration and timing of the violence.
+METHODS
+A sample of 1402 randomly selected women attending 23 family practices in Spain responded to an anonymous self-reported questionnaire.
+Measures considered were exposure to physical, sexual and psychological IPV; intensity, duration and timing of such violence; chronic physical disease; number of lifetime surgical operations and number of days spent in bed in the last three months.
+Descriptive, bivariate and multivariate analyses were conducted.
+RESULTS
+Lifetime IPV prevalence was 32%.
+Higher prevalence of chronic disease was observed in abused women than in never abused women, as well as greater number of days spent in bed.
+Women who reported having experienced the three types of IPV were more likely to suffer a chronic disease (OR = 2.03; 95% CI = 1.18-3.51) and to spend more days in bed (t = 2.35; P = 0.019) than those never abused.
+Women abused in the past but not in the present presented a higher probability of having a chronic disease than never abused women, and women who had been abused both in the past and in the present had a higher probability of spending more days in bed.
+CONCLUSION
+IPV can negatively affect physical health of the victims.
+It is therefore necessary to detect cases of IPV at a primary health care level.

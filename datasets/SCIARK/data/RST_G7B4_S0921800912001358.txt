@@ -1,0 +1,10 @@
+Determinants of eco-innovations by type of environmental impact — The role of regulatory push/pull, technology push and market pull
+Abstract: Empirical analyses of eco-innovation determinants have rarely been able to distinguish between different areas of environmental impact.
+The present paper tries to close this gap by employing a new and unique dataset based on the German Community Innovation Survey, conducted in 2009.
+The main purpose of this paper is to test whether different types of eco-innovation (according to their environmental impacts) are driven by different factors.
+Beside a complex set of different supply, firm-specific, and demand factors, the literature on determinants of eco-innovation accentuates the important role of regulation, cost savings and customer benefits.
+We find that current and expected government regulation is particularly important with regard to pushing firms to reduce air (e.g.
+CO2, SO2 or NOx) as well as water or noise emissions, avoid hazardous substances, and increase recyclability of products.
+Cost savings are an important motivation for reducing energy and material use, pointing to the role of energy and raw material prices as well as taxation as drivers for eco-innovation.
+Customer requirements are another important source of eco-innovations, particularly with regard to products with improved environmental performance and process innovations that increase material efficiency, and reduce energy consumption, waste and the use of dangerous substances.
+Firms confirm a high importance of expected future regulations for all environmental product innovations.

@@ -1,0 +1,21 @@
+Real-life effectiveness of ‘improved’ stoves and clean fuels in reducing PM2.5 and CO: Systematic review and meta-analysis
+Background
+2.8 billion people cook with solid fuels, resulting in almost 3 million premature deaths from household air pollution (HAP).
+To date, no systematic assessment of impacts on HAP of ‘improved’ stove and clean fuel interventions has been conducted.
+Objective
+This systematic review synthesizes evidence for changes in kitchen and personal PM2.5 and carbon monoxide (CO) following introduction of ‘improved’ solid fuel stoves and cleaner fuels in low- and middle-income countries (LMIC).
+Methods
+Searches of published and unpublished literature were conducted through databases and specialist websites.
+Eligible studies reported mean (24 or 48 h) small particulate matter (majority PM2.5) and/or CO.
+Eligible interventions were solid fuel stoves (with/without chimneys, advanced combustion), clean fuels (liquefied petroleum gas, biogas, ethanol, electricity, solar) and mixed.
+Data extraction and quality appraisal were undertaken using standardized forms, and publication bias assessed.
+Baseline and post-intervention values and percentage changes were tabulated and weighted averages calculated.
+Meta-analyses of absolute changes in PM and CO were conducted.
+Results
+Most of the 42 included studies (112 estimates) addressed solid fuel stoves.
+Large reductions in pooled kitchen PM2.5 (ranging from 41% (29–50%) for advanced combustion stoves to 83% (64–94%) for ethanol stoves), and CO (ranging from 39% (11–55%) for solid fuel stoves without chimneys to 82% (75–95%) for ethanol stoves.
+Reductions in personal exposure of 55% (19–87%) and 52% (− 7–69%) for PM2.5 and CO respectively, were observed for solid fuel stoves with chimneys.
+For the majority of interventions, post-intervention kitchen PM2.5 levels remained well above WHO air quality guideline (AQG) limit values, although most met the AQG limit value for CO. Subgroup and sensitivity analyses did not substantially alter findings; publication bias was evident for chimney stove interventions but this was restricted to before-and-after studies.
+Conclusions
+In everyday use in LMIC, neither ‘improved’ solid fuel stoves nor clean fuels (probably due to neighbourhood contamination) achieve PM2.5 concentrations close to 24-hour AQG limit values.
+Household energy policy should prioritise community-wide use of clean fuels.

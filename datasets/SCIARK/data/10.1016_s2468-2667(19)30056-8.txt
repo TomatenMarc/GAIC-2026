@@ -1,0 +1,20 @@
+International incidence of psychotic disorders, 2002–17: a systematic review and meta-analysis
+Summary Background The last comprehensive systematic review of the incidence of psychotic disorders was published in 2004.
+New epidemiological data from different settings now permit a broader understanding of global variation.
+We examined the variation in psychosis by demographic characteristics and study method.
+Methods For this systematic review and meta-analysis, we searched PubMed, Embase, Web of Science, PsycINFO, and bibliographies, and directly contacted first authors.
+We sought to obtain citations of original research published between Jan 1, 2002, and Dec 31, 2017, on incidence of non-organic adult-onset psychotic disorder.
+We included papers that were published or in grey literature and had no language restrictions.
+Data were extracted from published reports, where possible, by sex, age, and ethnic group.
+Quality of yield was assessed.
+Data were assessed using univariable random-effects meta-analysis and meta-regression.
+We registered our systematic review on PROSPERO, number CRD42018086800.
+Findings From 56 721 records identified, 177 met inclusion criteria.
+The pooled incidence of all psychotic disorders was 26·6 per 100 000 person-years (95% CI 22·0–31·7).
+Heterogeneity was high (I2≥98·5%).
+Men were at higher risk of all psychotic disorders (incidence rate ratio 1·44 [1·27–1·62]) and non-affective disorders (1·60 [1·44–1·77]) than women, but not affective psychotic disorders (0·87 [0·75–1·00]).
+Ethnic minorities were also at excess risk of all psychotic disorders (1·75 [1·53–2·00]), including non-affective disorders (1·71 [1·40–2·09]).
+Meta-regression revealed that population registers reported higher rates of non-affective disorders (9·64 [2·72–31·82]), schizophrenia (2·51 [1·24–5·21]), and bipolar disorder (4·53 [2·41–8·51]) than first contact study designs.
+Interpretation We found marked variation in incidence of psychotic disorders by personal characteristics and place.
+Some geographical variation could be partially explained by differences in case ascertainment methods.
+Funding None.

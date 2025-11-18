@@ -1,0 +1,12 @@
+Estimating deaths and injuries due to road traffic accidents in Karachi, Pakistan, through the capture-recapture method.
+Background: Road traffic accidents (RTA) are an important yet preventable cause of death and disability in developing countries like Pakistan.
+Yet accurate epidemiological data on injuries in developing country injuries is often difficult to obtain.
+We applied the capture-recapture method to estimate the death and injury rates due to RTA in Karachi.
+Methods: We applied the two-sample capture-recapture method using traffic police records as one source of capture and the logs of a non-government ambulance service as the second capture source for the same 10 months and 20 days for which 1994 data were available.
+We generated a conservative adjusted estimate of injuries and deaths by considering entries in the two sources as matched if they reported the same date, time, and place, and at least one of the other matching variables, of name, vehicle registration number, vehicle types or patient outcome.
+We then compared the estimated rates with the police rates.
+Results: In 1994 police reported 544 deaths and 793 injuries due to RTA while ambulance records noted 343 deaths and 2048 injuries.
+The capture-recapture analysis estimated at least 972 (95% CI: 912-1031) deaths and 18,936 (95% CI: 15,507-22,342) injuries attributable to RTA during the study period.
+Official sources counted only 56% of deaths and 4% of serious injuries.
+The estimated rates for the year 1994 were 185 injuries and 11.2 deaths per 100,000 population.
+Conclusion: Road traffic injuries and deaths in Karachi are a much more substantial health problem than is evident from official statistics.

@@ -1,0 +1,10 @@
+Demographic and regional characteristics of road traffic injury deaths in Jiangsu Province, China.
+Background: The study investigates the magnitude and distribution of fatal road traffic injuries (RTIs) in the Chinese province of Jiangsu by road user.
+Method: The 13 694 RTI deaths and years of potential life lost (YPLL) that occurred in 2012 were analysed; vulnerable and non-vulnerable road users were considered separately.
+Age-adjusted mortality and YPLL were compiled and the association between demographic characteristics and RTI mortality rate was analysed using negative binomial regression.
+Results: The age-adjusted RTI mortality and YPLL in Jiangsu in 2012 were 18.14 (95% CI: 17.84-18.45) and 494.3 (95% CI: 492.7-496.0) per 100 000 population.
+Half of the deaths were among pedestrians and for vulnerable road users as a whole, male fatalities were over three times that of female (adjusted incidence rate ratio = 3.26, 95% CI: 1.89-3.77).
+Fatalities in the oldest age group (80+ years) were over 14 times that of the youngest one (0-9 years) (adjusted incidence rate ratio = 14.13, 95% CI: 9.49-21.01).
+Fatality rates in the central and northern regions surpassed that of the south.
+Conclusion: As in the rest of the country, RTIs are a considerable public health problem in Jiangsu where fatality and YPLL rates fall heavily on pedestrians, men, and older persons and are more pronounced in the less developed regions.
+Keywords: economic transition; elderly; middle income country; pedestrians; road traffic injury; vulnerable road users.

@@ -1,0 +1,12 @@
+Health Impacts and Economic Costs of Air Pollution in the Metropolitan Area of Skopje
+Background:                    Urban outdoor air pollution, especially particulate matter, remains a major environmental health problem in Skopje, the capital of the former Yugoslav Republic of Macedonia.
+Despite the documented high levels of pollution in the city, the published evidence on its health impacts is as yet scarce.
+Methods:                    we obtained, cleaned, and validated Particulate Matter (PM) concentration data from five air quality monitoring stations in the Skopje metropolitan area, applied relevant concentration-response functions, and evaluated health impacts against two theoretical policy scenarios.
+We then calculated the burden of disease attributable to PM and calculated the societal cost due to attributable mortality.
+Results:                    In 2012, long-term exposure to PM2.5 (49.2 μg/m³) caused an estimated 1199 premature deaths (CI95% 821-1519).
+The social cost of the predicted premature mortality in 2012 due to air pollution was estimated at between 570 and 1470 million euros.
+Moreover, PM2.5 was also estimated to be responsible for 547 hospital admissions (CI95% 104-977) from cardiovascular diseases, and 937 admissions (CI95% 937-1869) for respiratory disease that year.
+Reducing PM2.5 levels to the EU limit (25 μg/m³) could have averted an estimated 45% of PM-attributable mortality, while achieving the WHO Air Quality Guidelines (10 μg/m³) could have averted an estimated 77% of PM-attributable mortality.
+Both scenarios would also attain significant reductions in attributable respiratory and cardiovascular hospital admissions.
+Conclusions:                    Besides its health impacts in terms of increased premature mortality and hospitalizations, air pollution entails significant economic costs to the population of Skopje.
+Reductions in PM2.5 concentrations could provide substantial health and economic gains to the city.

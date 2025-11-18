@@ -1,0 +1,9 @@
+Trend of extreme rainfall events using suitable Global Circulation Model to combat the water logging condition in Kolkata Metropolitan Area
+Abstract: Kolkata Metropolitan Area (KMA) is one of the most densely populated areas in the world, where extreme precipitation events result in frequent waterlogging and flood inundation conditions which can adversely affect the city.
+In this study, we evaluate the nature and trend of annual-maximum precipitation events by employing suitable Global Circulation Models (GCMs).
+The trend of observed annual maximum daily rainfall from 1901 to 2013 has been analysed through linear regression, recurrence period and multi-decadal oscillation.
+The results show that the observed rainfall of the given region follows the natural variability and oscillation trend.
+TRMM time-series data (2000–2019) is employed to validate the ground-station data series using Modified Mann Kendall and Sen's Slope estimator test, which shows a correlation of 0.88.
+In addition, suitable bias-corrected GCMs have been selected to estimate the future precipitation in the given study area.
+Analysis of future rainfall for the period of 2071–2100 revealed that the RCPs are showing an increase in the extreme precipitation intensity by 1.5, 2.3 and 3 times considering RCP 4.5, 6.0 and 8.5 scenarios respectively.
+The presented results serve as the preliminary data for future planning and designing efficient flood management strategies in the given area to combat water-logging in KMA.

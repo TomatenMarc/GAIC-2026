@@ -1,0 +1,15 @@
+Maternal mortality in Sweden 1988-2007: more deaths than officially reported
+Objective:                    To obtain more accurate calculations of maternal and pregnancy-related mortality ratios in Sweden from 1988 to 2007 by using information from national registers and death certificates.
+Design:                    A national register-based study, supplemented by a review of death certificates.
+Setting:                    Sweden, 1988-2007.
+Population:                    The deaths of 27 957 women of reproductive age (15-49 years).
+Methods:                    The Swedish Cause of Death Register, Medical Birth Register, and National Patient Register were linked.
+All women with a diagnosis related to pregnancy in at least one of these registers within 1 year prior to death were identified.
+Death certificates were reviewed to ascertain maternal deaths.
+Maternal mortality ratio (the number of maternal deaths/100 000 live births, excluding and including suicides), and pregnancy-related mortality ratio (number of deaths within 42 days after termination of pregnancy, irrespective of cause of death/100 000 live births) were calculated.
+Main outcome measures:                    Direct and indirect maternal deaths and pregnancy-related deaths.
+Results:                    The maternal mortality ratio in Sweden, based on the current method of identifying maternal deaths, was 3.6.
+After linking registers and reviewing death certificates, we identified 64% more maternal deaths, resulting in a ratio of 6.0 (or 6.5 if suicides are included).
+The pregnancy-related mortality ratio was 7.3.
+A total of 478 women died within a year after being recorded with a diagnosis related to pregnancy.
+Conclusions:                    By including the 123 cases of maternal death identified in this study, the mean maternal mortality ratio from 1988 to 2007 was 64% higher than reported to the World Health Organization.

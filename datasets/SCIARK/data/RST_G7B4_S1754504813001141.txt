@@ -1,0 +1,9 @@
+Tallgrass prairie soil fungal communities are resilient to climate change
+Abstract: Climate models for central United States predict increasing temperatures and greater variability in precipitation.
+Combined, these shifts in environmental conditions impact many ecosystem properties and services.
+Long-term climate change experiments, such as the Rainfall Manipulation Plots (RaMPs), can be used to address soil community responses to simultaneous manipulation of temperature and temporal variability in precipitation.
+The RaMPs experiment is located in a native tallgrass prairie at the Konza Prairie Biological Station and has been operational since 1998 providing the potential to address responses to long-term environmental manipulations.
+To test whether community composition, richness, or diversity respond to environmental change, more than 40 000 fungal amplicons were analyzed from soil samples collected in 2006.
+The data suggest that soil fungal communities are compositionally resilient to predicted environmental change.
+This is the case both for the community composition overall as inferred from ordination analyses as well as analyses of variance for each of the most common Operational Taxonomic Units (OTUs).
+However, while this study suggests compositional resilience, further studies are required to address functional attributes of these communities and their responses to environmental manipulations.

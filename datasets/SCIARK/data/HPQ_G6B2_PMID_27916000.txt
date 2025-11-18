@@ -1,0 +1,13 @@
+Nut consumption and risk of cardiovascular disease, total cancer, all-cause and cause-specific mortality: a systematic review and dose-response meta-analysis of prospective studies
+Background: Although nut consumption has been associated with a reduced risk of cardiovascular disease and all-cause mortality, data on less common causes of death has not been systematically assessed.
+Previous reviews missed several studies and additional studies have since been published.
+We therefore conducted a systematic review and meta-analysis of nut consumption and risk of cardiovascular disease, total cancer, and all-cause and cause-specific mortality.
+Methods: PubMed and Embase were searched for prospective studies of nut consumption and risk of cardiovascular disease, total cancer, and all-cause and cause-specific mortality in adult populations published up to July 19, 2016.
+Summary relative risks (RRs) and 95% confidence intervals (CIs) were calculated using random-effects models.
+The burden of mortality attributable to low nut consumption was calculated for selected regions.
+Results: Twenty studies (29 publications) were included in the meta-analysis.
+The summary RRs per 28 grams/day increase in nut intake was for coronary heart disease, 0.71 (95% CI: 0.63-0.80, I2 = 47%, n = 11), stroke, 0.93 (95% CI: 0.83-1.05, I2 = 14%, n = 11), cardiovascular disease, 0.79 (95% CI: 0.70-0.88, I2 = 60%, n = 12), total cancer, 0.85 (95% CI: 0.76-0.94, I2 = 42%, n = 8), all-cause mortality, 0.78 (95% CI: 0.72-0.84, I2 = 66%, n = 15), and for mortality from respiratory disease, 0.48 (95% CI: 0.26-0.89, I2 = 61%, n = 3), diabetes, 0.61 (95% CI: 0.43-0.88, I2 = 0%, n = 4), neurodegenerative disease, 0.65 (95% CI: 0.40-1.08, I2 = 5.9%, n = 3), infectious disease, 0.25 (95% CI: 0.07-0.85, I2 = 54%, n = 2), and kidney disease, 0.27 (95% CI: 0.04-1.91, I2 = 61%, n = 2).
+The results were similar for tree nuts and peanuts.
+If the associations are causal, an estimated 4.4 million premature deaths in the America, Europe, Southeast Asia, and Western Pacific would be attributable to a nut intake below 20 grams per day in 2013.
+Conclusions: Higher nut intake is associated with reduced risk of cardiovascular disease, total cancer and all-cause mortality, and mortality from respiratory disease, diabetes, and infections.
+Keywords: All-cause mortality; Cancer; Cardiovascular disease; Cause-specific mortality; Meta-analysis; Nuts; Peanuts.

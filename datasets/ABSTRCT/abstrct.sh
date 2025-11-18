@@ -48,5 +48,7 @@ done
 
 mkdir -p ./guidelines
 mv ./abstrct-master/AbstRCT_corpus/AnnotationGuidelines.pdf ./guidelines/AnnotationGuidelines.pdf
+mv ./abstrct-master/LICENSE ./LICENSE
+rm -r ./data/*.ann
 rm -r abstrct-master.zip
 rm -r abstrct-master

@@ -29,6 +29,9 @@ for txt_file in data_dir.glob("*.json"):
     if txt_file.stem not in valid_ids:
         os.remove(txt_file)
 
+for txt_file in data_dir.glob("*.txt"):
+    if txt_file.stem not in valid_ids:
+        os.remove(txt_file)
 
 json_found = [i.stem for i in list(data_dir.glob("*.json"))]
 if len(json_found) > 0:
@@ -53,6 +56,14 @@ df_finarg["dataset_id"] = df_finarg["dataset"] + "-" + df_finarg["dataset_id"]
 df_finarg.rename(columns={"dataset_id": "id"}, inplace=True)
 df_finarg = df_finarg[["id", "dataset_id_clean", "label", "sentence", "split"]]
 df_finarg.rename(columns={"dataset_id_clean": "document"}, inplace=True)
+
+unique_document_names = df_finarg["document"].unique()
+anonymized_document_names = [f"FINARG-{i+1}" for i in range(len(unique_document_names))]
+
+for original, new in zip(unique_document_names, anonymized_document_names):
+    os.rename(os.getcwd() + "/data/" + original + ".txt", os.getcwd() + "/data/" + new + ".txt")
+
+df_finarg["document"] = df_finarg["document"].apply(lambda row: dict(zip(unique_document_names, anonymized_document_names))[row])
 df_finarg["document"] = df_finarg["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_finarg["guidelines"] = "-"
 df_finarg["paper"] = "https://aclanthology.org/2022.finnlp-1.22/"
@@ -64,3 +75,7 @@ for split in ["train", "dev", "test"]:
     df_ = df_.reset_index(drop=True)
     df_["id"] = f"FINARG-{split}-" + (df_.index + 1).astype(str)
     df_.to_json(os.getcwd() + f"/finarg_{split}.jsonl", orient="records", lines=True)
+
+for txt_file in data_dir.glob("*.txt"):
+    if txt_file.stem not in anonymized_document_names:
+        os.remove(txt_file)

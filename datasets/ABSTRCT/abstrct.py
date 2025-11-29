@@ -40,6 +40,14 @@ df_abstrct["dataset_id"] = df_abstrct["dataset"] + "-" + df_abstrct["dataset_id"
 df_abstrct.rename(columns={"dataset_id": "id"}, inplace=True)
 df_abstrct = df_abstrct[["id", "dataset_id_clean", "label", "sentence", "split"]]
 df_abstrct.rename(columns={"dataset_id_clean": "document"}, inplace=True)
+
+unique_document_names = df_abstrct["document"].unique()
+anonymized_document_names = [f"ABSTRCT-{i+1}" for i in range(len(unique_document_names))]
+
+for original, new in zip(unique_document_names, anonymized_document_names):
+    os.rename(os.getcwd() + "/data/" + original + ".txt", os.getcwd() + "/data/" + new + ".txt")
+
+df_abstrct["document"] = df_abstrct["document"].apply(lambda row: dict(zip(unique_document_names, anonymized_document_names))[row])
 df_abstrct["document"] = df_abstrct["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_abstrct["guidelines"] = f"{base_url}/guidelines/AnnotationGuidelines.pdf"
 df_abstrct["paper"] = "https://ecai2020.eu/papers/1470_paper"
@@ -54,3 +62,7 @@ for split in ["train", "dev", "test"]:
     df_ = df_.reset_index(drop=True)
     df_["id"] = f"ABSTRCT-{split}-" + (df_.index + 1).astype(str)
     df_.to_json(os.getcwd() + f"/abstrct_{split}.jsonl", orient="records", lines=True)
+
+for txt_file in data_dir.glob("*.txt"):
+    if txt_file.stem not in anonymized_document_names:
+        os.remove(txt_file)

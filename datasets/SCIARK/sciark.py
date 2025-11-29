@@ -52,13 +52,16 @@ for _, row in df_sciark.iterrows():
     file = open(os.getcwd() + "/data/" + row.dataset_id_clean + ".txt")
     assert row.sentence in file.read(), f"{row.sentence} not in {row.dataset_id_clean}."
 
-df_sciark = df_sciark[["dataset", "dataset_id", "dataset_id_clean", "label", "sentence", "split"]]
+df_sciark["dataset_id"] = df_sciark["dataset"] + "-" + df_sciark["dataset_id"]
+df_sciark.rename(columns={"dataset_id": "id"}, inplace=True)
+df_sciark = df_sciark[["id", "dataset_id_clean", "label", "sentence", "split"]]
 df_sciark.rename(columns={"dataset_id_clean": "document"}, inplace=True)
 df_sciark["document"] = df_sciark["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_sciark["guidelines"] = "-"
 df_sciark["paper"] = "https://aclanthology.org/2021.argmining-1.10/"
 
-df_sciark = df_sciark[["dataset", "dataset_id", "paper", "document", "guidelines", "split", "label", "sentence"]]
+df_sciark.info()
+df_sciark = df_sciark[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]
 for _, row in df_sciark.iterrows():
-    assert row.dataset_id.rsplit('_', 1)[0] in row.document
-df_sciark.to_csv(os.getcwd() + "/sciark.csv")
+    assert row.id.replace("SCIARK-", "").rsplit('_', 1)[0] in row.document
+df_sciark.to_json(os.getcwd() + "/sciark.jsonl", orient="records", lines=True)

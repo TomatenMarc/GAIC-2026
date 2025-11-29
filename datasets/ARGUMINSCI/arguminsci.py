@@ -34,12 +34,14 @@ for _, row in df_arguminsci.iterrows():
     assert row.sentence in file.read(), f"{row.sentence} not in {row.sentence}."
 
 
-
-df_arguminsci = df_arguminsci[["dataset", "dataset_id", "dataset_id_clean", "label", "sentence", "split"]]
+df_arguminsci["dataset_id"] = df_arguminsci["dataset"] + "-" + df_arguminsci["dataset_id"]
+df_arguminsci.rename(columns={"dataset_id": "id"}, inplace=True)
+df_arguminsci = df_arguminsci[["id", "dataset_id_clean", "label", "sentence", "split"]]
 df_arguminsci.rename(columns={"dataset_id_clean": "document"}, inplace=True)
 df_arguminsci["document"] = df_arguminsci["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_arguminsci["guidelines"] = "-"
 df_arguminsci["paper"] = "https://www.aclweb.org/anthology/W18-5206/"
 
-df_arguminsci = df_arguminsci[["dataset", "dataset_id", "paper", "document", "guidelines", "split", "label", "sentence"]]
-df_arguminsci.to_csv(os.getcwd() + "/arguminsci.csv")
+df_arguminsci.info()
+df_arguminsci = df_arguminsci[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]
+df_arguminsci.to_json(os.getcwd() + "/arguminsci.jsonl", orient="records", lines=True)

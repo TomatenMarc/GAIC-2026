@@ -49,11 +49,14 @@ for _, row in df_finarg.iterrows():
     assert row.sentence in file.read(), f"{row.sentence} not in {row.dataset_id_clean}."
 
 
-df_finarg = df_finarg[["dataset", "dataset_id", "dataset_id_clean", "label", "sentence", "split"]]
+df_finarg["dataset_id"] = df_finarg["dataset"] + "-" + df_finarg["dataset_id"]
+df_finarg.rename(columns={"dataset_id": "id"}, inplace=True)
+df_finarg = df_finarg[["id", "dataset_id_clean", "label", "sentence", "split"]]
 df_finarg.rename(columns={"dataset_id_clean": "document"}, inplace=True)
 df_finarg["document"] = df_finarg["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_finarg["guidelines"] = "-"
 df_finarg["paper"] = "https://aclanthology.org/2022.finnlp-1.22/"
 
-df_finarg = df_finarg[["dataset", "dataset_id", "paper", "document", "guidelines", "split", "label", "sentence"]]
-df_finarg.to_csv(os.getcwd() + "/finarg.csv")
+df_finarg.info()
+df_finarg = df_finarg[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]
+df_finarg.to_json(os.getcwd() + "/finarg.jsonl", orient="records", lines=True)

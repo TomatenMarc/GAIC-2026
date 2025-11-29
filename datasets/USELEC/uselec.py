@@ -32,11 +32,14 @@ for _, row in df_uselec.iterrows():
     file = open(os.getcwd() + "/data/" + row.dataset_id_clean + ".txt")
     assert row.sentence in file.read(), f"{row.sentence} not in {row.sentence}."
 
-df_uselec = df_uselec[["dataset", "dataset_id", "dataset_id_clean", "label", "sentence", "split"]]
+df_uselec["dataset_id"] = df_uselec["dataset"] + "-" + df_uselec["dataset_id"]
+df_uselec.rename(columns={"dataset_id": "id"}, inplace=True)
+df_uselec = df_uselec[["id", "dataset_id_clean", "label", "sentence", "split"]]
 df_uselec.rename(columns={"dataset_id_clean": "document"}, inplace=True)
 df_uselec["document"] = df_uselec["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_uselec["guidelines"] = f"{base_url}/guidelines/ElectDeb60To16_Guidelines.pdf"
 df_uselec["paper"] = "https://aclanthology.org/P19-1463/"
 
-df_uselec = df_uselec[["dataset", "dataset_id", "paper", "document", "guidelines", "split", "label", "sentence"]]
-df_uselec.to_csv(os.getcwd() + "/uselec.csv")
+df_uselec.info()
+df_uselec = df_uselec[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]
+df_uselec.to_json(os.getcwd() + "/uselec.jsonl", orient="records", lines=True)

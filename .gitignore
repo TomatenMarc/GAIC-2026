@@ -1,8 +1,13 @@
 *abstrct.csv
+*abstrct.jsonl
 *arguminsci.csv
+*arguminsci.jsonl
 *finarg.csv
+*finarg.jsonl
 *sciark.csv
+*sciark.jsonl
 *uselec.csv
+*uselec.jsonl
 PE/
 assets/
 notebook/

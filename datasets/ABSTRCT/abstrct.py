@@ -36,11 +36,14 @@ for _, row in df_abstrct.iterrows():
     file = open(os.getcwd() + "/data/" + row.dataset_id_clean + ".txt")
     assert row.sentence in file.read(), f"{row.sentence} not in {row.sentence}."
 
-df_abstrct = df_abstrct[["dataset", "dataset_id", "dataset_id_clean", "label", "sentence", "split"]]
+df_abstrct["dataset_id"] = df_abstrct["dataset"] + "-" + df_abstrct["dataset_id"]
+df_abstrct.rename(columns={"dataset_id": "id"}, inplace=True)
+df_abstrct = df_abstrct[["id", "dataset_id_clean", "label", "sentence", "split"]]
 df_abstrct.rename(columns={"dataset_id_clean": "document"}, inplace=True)
 df_abstrct["document"] = df_abstrct["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_abstrct["guidelines"] = f"{base_url}/guidelines/AnnotationGuidelines.pdf"
 df_abstrct["paper"] = "https://ecai2020.eu/papers/1470_paper"
 
-df_abstrct = df_abstrct[["dataset", "dataset_id", "paper", "document", "guidelines", "split", "label", "sentence"]]
-df_abstrct.to_csv(os.getcwd() + "/abstrct.csv")
+df_abstrct.info()
+df_abstrct = df_abstrct[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]
+df_abstrct.to_json(os.getcwd() + "/abstrct.jsonl", orient="records", lines=True)

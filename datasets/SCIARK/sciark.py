@@ -38,13 +38,13 @@ df_sciark["dataset_id"] = df_sciark["dataset_id"].apply(lambda row: row.replace(
 df_sciark["dataset_id_clean"] = df_sciark["dataset_id_clean"].apply(lambda row: row.replace("/", "_").replace(" ", "_"))
 
 valid_ids = set(df_sciark['dataset_id_clean'])
-txt_files = set([file.stem for file in data_dir.glob("*.txt")])
 
 for file in data_dir.glob("*.txt"):
     if file.stem not in valid_ids:
         os.remove(file)
 
 os.remove(os.getcwd() + "/data/SciARK.json")
+txt_files = set([file.stem for file in data_dir.glob("*.txt")])
 assert sorted(txt_files) == sorted(valid_ids)
 assert sorted(txt_files) == sorted(set((df_sciark['dataset_id'].str.rsplit('_', n=1).str[0])))
 

@@ -64,4 +64,11 @@ df_sciark.info()
 df_sciark = df_sciark[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]
 for _, row in df_sciark.iterrows():
     assert row.id.replace("SCIARK-", "").rsplit('_', 1)[0] in row.document
-df_sciark.to_json(os.getcwd() + "/sciark.jsonl", orient="records", lines=True)
+
+for split in ["train", "dev", "test"]:
+    df_ = df_sciark[df_sciark["split"] == split]
+    print(df_.info())
+    df_ = df_[["id", "paper", "document", "guidelines", "label", "sentence"]]
+    df_ = df_.reset_index(drop=True)
+    df_["id"] = f"SCIARK-{split}-" + (df_.index + 1).astype(str)
+    df_.to_json(os.getcwd() + f"/sciark_{split}.jsonl", orient="records", lines=True)

@@ -42,4 +42,11 @@ df_uselec["paper"] = "https://aclanthology.org/P19-1463/"
 
 df_uselec.info()
 df_uselec = df_uselec[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]
-df_uselec.to_json(os.getcwd() + "/uselec.jsonl", orient="records", lines=True)
+
+for split in ["train", "dev", "test"]:
+    df_ = df_uselec[df_uselec["split"] == split]
+    print(df_.info())
+    df_ = df_[["id", "paper", "document", "guidelines", "label", "sentence"]]
+    df_ = df_.reset_index(drop=True)
+    df_["id"] = f"USELEC-{split}-" + (df_.index + 1).astype(str)
+    df_.to_json(os.getcwd() + f"/uselec_{split}.jsonl", orient="records", lines=True)

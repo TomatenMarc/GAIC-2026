@@ -42,6 +42,10 @@ df_arguminsci["document"] = df_arguminsci["document"].apply(lambda row: f"{base_
 df_arguminsci["guidelines"] = "-"
 df_arguminsci["paper"] = "https://www.aclweb.org/anthology/W18-5206/"
 
-df_arguminsci.info()
-df_arguminsci = df_arguminsci[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]
-df_arguminsci.to_json(os.getcwd() + "/arguminsci.jsonl", orient="records", lines=True)
+for split in ["train", "dev", "test"]:
+    df_ = df_arguminsci[df_arguminsci["split"] == split]
+    print(df_.info())
+    df_ = df_[["id", "paper", "document", "guidelines", "label", "sentence"]]
+    df_ = df_.reset_index(drop=True)
+    df_["id"] = f"ARGUMINSCI-{split}-" + (df_.index + 1).astype(str)
+    df_.to_json(os.getcwd() + f"/arguminsci_{split}.jsonl", orient="records", lines=True)

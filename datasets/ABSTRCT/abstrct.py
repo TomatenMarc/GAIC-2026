@@ -46,4 +46,11 @@ df_abstrct["paper"] = "https://ecai2020.eu/papers/1470_paper"
 
 df_abstrct.info()
 df_abstrct = df_abstrct[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]
-df_abstrct.to_json(os.getcwd() + "/abstrct.jsonl", orient="records", lines=True)
+
+for split in ["train", "dev", "test"]:
+    df_ = df_abstrct[df_abstrct["split"] == split]
+    print(df_.info())
+    df_ = df_[["id", "paper", "document", "guidelines", "label", "sentence"]]
+    df_ = df_.reset_index(drop=True)
+    df_["id"] = f"ABSTRCT-{split}-" + (df_.index + 1).astype(str)
+    df_.to_json(os.getcwd() + f"/abstrct_{split}.jsonl", orient="records", lines=True)

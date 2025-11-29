@@ -57,6 +57,10 @@ df_finarg["document"] = df_finarg["document"].apply(lambda row: f"{base_url}/dat
 df_finarg["guidelines"] = "-"
 df_finarg["paper"] = "https://aclanthology.org/2022.finnlp-1.22/"
 
-df_finarg.info()
-df_finarg = df_finarg[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]
-df_finarg.to_json(os.getcwd() + "/finarg.jsonl", orient="records", lines=True)
+for split in ["train", "dev", "test"]:
+    df_ = df_finarg[df_finarg["split"] == split]
+    print(df_.info())
+    df_ = df_[["id", "paper", "document", "guidelines", "label", "sentence"]]
+    df_ = df_.reset_index(drop=True)
+    df_["id"] = f"FINARG-{split}-" + (df_.index + 1).astype(str)
+    df_.to_json(os.getcwd() + f"/finarg_{split}.jsonl", orient="records", lines=True)

@@ -96,7 +96,7 @@ for idx, row in df_pe.iterrows():
             text = f.read()
 
         if sentence in text:
-            df_pe.at[idx, "document"] = base_url + f"/{file.stem}.txt"
+            df_pe.at[idx, "document"] = base_url + f"/data/{file.stem}.txt"
             break  # no need to check other files for this sentence
 
 assert df_pe["document"].apply(lambda x: x.startswith("http")).all()

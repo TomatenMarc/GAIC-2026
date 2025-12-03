@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-base_url = "https://raw.githubusercontent.com/TomatenMarc/GAIC-2026/refs/heads/main/datasets/ACQUA"
+base_url = "https://raw.githubusercontent.com/TomatenMarc/GAIC-2026/refs/heads/main/datasets/AEC"
 
 df_all = pd.read_csv('../../assets/all_data.csv')
 df_sample = pd.read_csv('../../assets/sample_42.csv')

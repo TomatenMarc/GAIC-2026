@@ -34,3 +34,9 @@ The table below lists the dataset folders in this repository under `datasets/`.
 3. Download the data and follow the evaluation guidelines on the [TIRA](https://www.tira.io) platform.
 
 ---
+
+## :information_desk_person: Contact
+* [Marc Feger](mailto:marc.feger@uni-duesseldorf.de?subject=GAIC-2026&body=Dear Marc,)
+* [Katarina Boland](mailto:katarina.boland@uni-duesseldorf.de?subject=GAIC-2026&body=Dear Katarina,)
+* [Julia Romberg](mailto:julia.romberg@gesis.org?subject=GAIC-2026&body=Dear Julia,)
+* [Stefan Dietze](mailto:stefan.dietze@gesis.org?subject=GAIC-2026&body=Dear Stefan,)

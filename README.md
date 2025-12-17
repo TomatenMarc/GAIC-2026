@@ -36,7 +36,7 @@ The table below lists the dataset folders in this repository under `datasets/`.
 ---
 
 ## :information_desk_person: Contact
-* [Marc Feger](mailto:marc.feger@uni-duesseldorf.de?subject=GAIC-2026&body=Dear Marc,)
-* [Katarina Boland](mailto:katarina.boland@uni-duesseldorf.de?subject=GAIC-2026&body=Dear Katarina,)
-* [Julia Romberg](mailto:julia.romberg@gesis.org?subject=GAIC-2026&body=Dear Julia,)
-* [Stefan Dietze](mailto:stefan.dietze@gesis.org?subject=GAIC-2026&body=Dear Stefan,)
+* [Marc Feger](mailto:marc.feger@uni-duesseldorf.de?subject=GAIC-2026)
+* [Katarina Boland](mailto:katarina.boland@uni-duesseldorf.de?subject=GAIC-2026)
+* [Julia Romberg](mailto:julia.romberg@gesis.org?subject=GAIC-2026)
+* [Stefan Dietze](mailto:stefan.dietze@gesis.org?subject=GAIC-2026)

@@ -66,7 +66,7 @@ for original, new in zip(unique_document_names, anonymized_document_names):
 df_finarg["document"] = df_finarg["document"].apply(lambda row: dict(zip(unique_document_names, anonymized_document_names))[row])
 df_finarg["document"] = df_finarg["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_finarg["guidelines"] = "-"
-df_finarg["paper"] = "https://aclanthology.org/2022.finnlp-1.22/"
+df_finarg["paper"] = f"{base_url}/paper/FINARG.pdf"
 
 for split in ["train", "dev", "test"]:
     df_ = df_finarg[df_finarg["split"] == split]

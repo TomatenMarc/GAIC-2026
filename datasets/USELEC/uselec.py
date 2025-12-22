@@ -46,7 +46,7 @@ for original, new in zip(unique_document_names, anonymized_document_names):
 df_uselec["document"] = df_uselec["document"].apply(lambda row: dict(zip(unique_document_names, anonymized_document_names))[row])
 df_uselec["document"] = df_uselec["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_uselec["guidelines"] = f"{base_url}/guidelines/ElectDeb60To16_Guidelines.pdf"
-df_uselec["paper"] = "https://aclanthology.org/P19-1463/"
+df_uselec["paper"] = f"{base_url}/paper/USELEC.pdf"
 
 df_uselec.info()
 df_uselec = df_uselec[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]

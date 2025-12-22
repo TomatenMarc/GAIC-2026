@@ -18,15 +18,15 @@ df_iam['dataset_id_clean'] = (
 )
 
 df_iam.rename(columns={"dataset_id": "id"}, inplace=True)
-df_afs = df_iam[["id", "dataset_id_clean", "label", "sentence", "split"]]
-df_afs.rename(columns={"dataset_id_clean": "document"}, inplace=True)
+df_iam = df_iam[["id", "dataset_id_clean", "label", "sentence", "split"]]
+df_iam.rename(columns={"dataset_id_clean": "document"}, inplace=True)
 
-df_afs["document"] = "-"
-df_afs["guidelines"] = "-"
-df_afs["paper"] = "https://aclanthology.org/2022.acl-long.162.pdf"
+df_iam["document"] = "-"
+df_iam["guidelines"] = "-"
+df_iam["paper"] = f"{base_url}/paper/IAM.pdf"
 
 for split in ["train", "dev", "test"]:
-    df_ = df_afs[df_afs["split"] == split]
+    df_ = df_iam[df_iam["split"] == split]
     print(df_.info())
     df_ = df_[["id", "paper", "document", "guidelines", "label", "sentence"]]
     df_ = df_.reset_index(drop=True)

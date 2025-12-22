@@ -107,7 +107,7 @@ for txt_file in Path(os.getcwd()+"/data/").glob("*.txt"):
         os.remove(txt_file)
 
 df_pe["guidelines"] = f"{base_url}/guidelines/AnnotationGuidelines.pdf"
-df_pe["paper"] = "https://aclanthology.org/J17-3005.pdf"
+df_pe["paper"] = f"{base_url}/paper/PE.pdf"
 
 for split in ["train", "dev", "test"]:
     df_ = df_pe[df_pe["split"] == split]

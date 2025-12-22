@@ -17,3 +17,7 @@ for f in ./data/*.txt; do
     mv "$f" "$dir/PE_${i}.txt"
     i=$((i+1))
 done
+
+mkdir -p ./paper
+wget https://aclanthology.org/J17-3005.pdf
+mv ./J17-3005.pdf ./paper/PE.pdf

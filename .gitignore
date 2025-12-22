@@ -10,6 +10,9 @@
 *uselec.jsonl
 *jsonl
 
+splits/
+collect_splits.sh
+proof.py
 CE/
 UKP/
 CMV/

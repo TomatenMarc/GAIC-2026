@@ -23,7 +23,7 @@ df_aec.rename(columns={"dataset_id_clean": "document"}, inplace=True)
 
 df_aec["document"] = "-"
 df_aec["guidelines"] = "-"
-df_aec["paper"] = "https://aclanthology.org/W15-4631.pdf"
+df_aec["paper"] = f"{base_url}/paper/AEC.pdf"
 
 for split in ["train", "dev", "test"]:
     df_ = df_aec[df_aec["split"] == split]

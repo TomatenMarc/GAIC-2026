@@ -48,7 +48,7 @@ for original, new in zip(unique_document_names, anonymized_document_names):
 df_arguminsci["document"] = df_arguminsci["document"].apply(lambda row: dict(zip(unique_document_names, anonymized_document_names))[row])
 df_arguminsci["document"] = df_arguminsci["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_arguminsci["guidelines"] = "-"
-df_arguminsci["paper"] = "https://www.aclweb.org/anthology/W18-5206/"
+df_arguminsci["paper"] = f"{base_url}/paper/ARGUMINSCI.pdf"
 
 for split in ["train", "dev", "test"]:
     df_ = df_arguminsci[df_arguminsci["split"] == split]

@@ -50,7 +50,7 @@ for original, new in zip(unique_document_names, anonymized_document_names):
 df_abstrct["document"] = df_abstrct["document"].apply(lambda row: dict(zip(unique_document_names, anonymized_document_names))[row])
 df_abstrct["document"] = df_abstrct["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_abstrct["guidelines"] = f"{base_url}/guidelines/AnnotationGuidelines.pdf"
-df_abstrct["paper"] = "https://ecai2020.eu/papers/1470_paper"
+df_abstrct["paper"] = f"{base_url}/paper/ABSTRCT.pdf"
 
 df_abstrct.info()
 df_abstrct = df_abstrct[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]

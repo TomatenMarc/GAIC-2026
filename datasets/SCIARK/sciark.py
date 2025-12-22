@@ -66,7 +66,7 @@ for original, new in zip(unique_document_names, anonymized_document_names):
 df_sciark["document"] = df_sciark["document"].apply(lambda row: dict(zip(unique_document_names, anonymized_document_names))[row])
 df_sciark["document"] = df_sciark["document"].apply(lambda row: f"{base_url}/data/{row}.txt")
 df_sciark["guidelines"] = "-"
-df_sciark["paper"] =  f"{base_url}/paper/SCIARK.pdf"
+df_sciark["paper"] = f"{base_url}/paper/SCIARK.pdf"
 
 df_sciark.info()
 df_sciark = df_sciark[["id", "paper", "document", "guidelines", "split", "label", "sentence"]]

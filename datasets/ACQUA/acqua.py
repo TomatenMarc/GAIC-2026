@@ -23,7 +23,7 @@ df_acqua.rename(columns={"dataset_id_clean": "document"}, inplace=True)
 
 df_acqua["document"] = "-"
 df_acqua["guidelines"] = "-"
-df_acqua["paper"] = "https://aclanthology.org/W19-4516.pdf"
+df_acqua["paper"] = f"{base_url}/paper/ACQUA.pdf"
 
 for split in ["train", "dev", "test"]:
     df_ = df_acqua[df_acqua["split"] == split]

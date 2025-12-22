@@ -23,7 +23,7 @@ df_afs.rename(columns={"dataset_id_clean": "document"}, inplace=True)
 
 df_afs["document"] = "-"
 df_afs["guidelines"] = "-"
-df_afs["paper"] = "https://aclanthology.org/W16-3636.pdf"
+df_afs["paper"] = f"{base_url}/paper/AFS.pdf"
 
 for split in ["train", "dev", "test"]:
     df_ = df_afs[df_afs["split"] == split]

@@ -18,7 +18,7 @@ The table below lists the dataset folders in this repository under `datasets/`.
 | `ACQUA`        | Comparative sentences expressing preference or superiority (e.g. Matlab vs. Python) across multiple domains. | https://aclanthology.org/W19-4516/            | CC BY 4.0            |
 | `AEC`          | Sentences collected from discussions on the CreateDebate platform.                                           | https://aclanthology.org/W15-4631/            | Approved by authors. |
 | `AFS`          | Sentences drawn from online debate platforms such as ProCon and iDebate.                                     | https://aclanthology.org/W16-3636/            | Approved by authors. |
-| `ARGUMINSCI`   | Sentences originating from the Dr. Inventor scientific argumentation corpus.                                 | https://www.aclweb.org/anthology/W18-5206/    | Approved by authors. |
+| `ARGUMINSCI`   | Sentences originating from the Dr. Inventor scientific argumentation corpus.                                 | https://aclanthology.org/W18-5206/    | Approved by authors. |
 | `FINARG`       | Sentences extracted from financial earnings calls of publicly traded companies.                              | https://aclanthology.org/2022.finnlp-1.22/    | GNU GPL 3.0          |
 | `IAM`          | Sentences gathered from heterogeneous web sources.                                                           | https://aclanthology.org/2022.acl-long.162/   | Free license.        |
 | `PE`           | Sentences taken from student-written persuasive essays.                                                      | https://aclanthology.org/J17-3005/            | CC BY-NC-ND 4.0      |

@@ -1,0 +1,11 @@
+Main factors influencing greenhouse gas emissions of wood-based furniture industry in Finland
+Abstract: The significance of green values is growing in the furniture sector; customers are demanding more specific environmental information of the products, new regulations are tackling to reduce greenhouse gas emissions.
+Life-cycle assessment is an important tool for better understanding, awareness and communication of environmental issues.
+It can also help to develop more energy and resource efficient production processes contributing to overall improvement of environmental performance of products.
+The main objective of this study was to assess greenhouse gas emissions of different furniture.
+Eight different furniture manufacturing processes were assessed to identify main factors that contribute to greenhouse gas emissions.
+Life-cycle assessment software was used to assess cradle to gate impacts of manufacturing processes.
+Case study results shows that materials have a significant impact on greenhouse gas emissions of products (38–90 per cent).
+Processing and assembling can also have impact on greenhouse gas emissions (8–58 per cent); packaging and transportation have a minor role (1–8 per cent).
+Our results indicate that the environmental impacts of products can be reduced by influencing the materials selection and energy generation systems.
+Energy from renewable and biogenic energy resources can reduce greenhouse gas emissions significantly in all production stages.

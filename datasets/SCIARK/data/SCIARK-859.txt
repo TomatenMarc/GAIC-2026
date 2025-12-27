@@ -1,0 +1,18 @@
+Title: Lifestyle choices and mental health: a longitudinal survey with German and Chinese students
+Abstract
+Background: A healthy lifestyle can be beneficial for one's mental health.
+Thus, identifying healthy lifestyle choices that promote psychological well-being and reduce mental problems is useful to prevent mental disorders.
+The aim of this longitudinal study was to evaluate the predictive values of a broad range of lifestyle choices for positive mental health (PMH) and mental health problems (MHP) in German and Chinese students.
+Method: Data were assessed at baseline and at 1-year follow-up.
+Samples included 2991 German (Mage = 21.69, SD = 4.07) and 12,405 Chinese (Mage = 20.59, SD = 1.58) university students.
+Lifestyle choices were body mass index, frequency of physical and mental activities, frequency of alcohol consumption, smoking, vegetarian diet, and social rhythm irregularity.
+PMH and MHP were measured with the Positive Mental Health Scale and a 21-item version of the Depression Anxiety and Stress Scale.
+The predictive values of lifestyle choices for PMH and MHP at baseline and follow-up were assessed with single-group and multi-group path analyses.
+Results: Better mental health (higher PMH and fewer MHP) at baseline was predicted by a lower body mass index, a higher frequency of physical and mental activities, non-smoking, a non-vegetarian diet, and a more regular social rhythm.
+When controlling for baseline mental health, age, and gender, physical activity was a positive predictor of PMH, smoking was a positive predictor of MHP, and a more irregular social rhythm was a positive predictor of PMH and a negative predictor of MHP at follow-up.
+The good fit of a multi-group model indicated that most lifestyle choices predict mental health comparably across samples.
+Some country-specific effects emerged: frequency of alcohol consumption, for example, predicted better mental health in German and poorer mental health in Chinese students.
+Conclusions: Our findings underline the importance of healthy lifestyle choices for improved psychological well-being and fewer mental health difficulties.
+Effects of lifestyle on mental health are comparable in German and Chinese students.
+Some healthy lifestyle choices (i.e., more frequent physical activity, non-smoking, regular social rhythm) are related to improvements in mental health over a 1-year period.
+Keywords: Alcohol; Anxiety; Body mass index; Depression; Lifestyle; Physical activity; Positive mental health; Smoking; Social rhythm; Stress.

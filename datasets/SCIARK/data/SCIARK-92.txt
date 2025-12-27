@@ -1,0 +1,8 @@
+Variability of biome reflectance directional signatures as seen by POLDER
+Abstract: Reflectance measurements acquired with the spaceborne POLDER instrument are used to analyze the variability of land surface directional signatures as a function of vegetation cover type.
+The reflectance directional signatures are quantified by the three parameters of a modified version of the Ross–Li reflectance model.
+The variability of the estimated parameters with respect to the seven MODIS biome classes was found to be higher within the classes than between classes, with the exception of the desert targets that show more isotropic reflectances.
+A limited number of standard BRDFs (typically 5 in the red and near infrared) capture most of the variability of the directional reflectance measurements, supporting the idea that different land surfaces have similar directional signatures.
+Over vegetation targets, they are characterized by a strong increase toward backscattering and much smaller variations in forward directions.
+The results express the diversity in structural situations within a given biome class and indicate that, at the resolution of the POLDER sensor, i.e. a few kilometers, the BRDF contains little information on the dominant vegetation type.
+We show that standard directional signatures may be used to correct the reflectance measurements for directional effects with an RMS error on the order of 0.011 in the red and 0.015 in the near infrared.

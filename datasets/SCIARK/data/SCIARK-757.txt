@@ -1,0 +1,10 @@
+Women’s status and carbon dioxide emissions: A quantitative cross-national analysis
+Abstract: Global climate change is one of the most severe problems facing societies around the world.
+Very few assessments of the social forces that influence greenhouse gas emissions have examined gender inequality.
+Empirical research suggests that women are more likely than men to support environmental protection.
+Various strands of feminist theory suggest that this is due to women’s traditional roles as caregivers, subsistence food producers, water and fuelwood collectors, and reproducers of human life.
+Other theorists argue that women’s status and environmental protection are linked because the exploitation of women and the exploitation of nature are interconnected processes.
+For these theoretical and empirical reasons, we hypothesize that in societies with greater gender equality there will be relatively lower impacts on the environment, controlling for other factors.
+We test this hypothesis using quantitative analysis of cross-national data, focusing on the connection between women’s political status and CO2 emissions per capita.
+We find that CO2 emissions per capita are lower in nations where women have higher political status, controlling for GDP per capita, urbanization, industrialization, militarization, world-system position, foreign direct investment, the age dependency ratio, and level of democracy.
+This finding suggests that efforts to improve gender equality around the world may work synergistically with efforts to curtail global climate change and environmental degradation more generally.

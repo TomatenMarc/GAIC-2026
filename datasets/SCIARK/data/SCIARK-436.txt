@@ -1,0 +1,11 @@
+﻿Girl child marriage as a risk factor for early childhood development and stunting.
+This paper quantitatively examines the intergenerational effects of girl child marriage, or the developmental and health outcomes of children born to women who marry before age 18.
+The overall objective is to understand the mechanisms through which girl child marriage affects the health and well-being of children in sub-Saharan Africa, as well as the relative magnitude and impact of these mechanisms.
+We used data from 37,558 mother-child pairs identified through 16 national and sub-national cross-sectional surveys across sub-Saharan Africa conducted between 2010 and 2014 by the UNICEF Multiple Indicator Clusters Survey program.
+The Early Childhood Development Index was used to measure child development, and stunting was used to measure health.
+Using logistic regression, we found that the odds of being off-track for development and being stunted were 25% and 29% higher, respectively, for children born to women who married before age 18 compared to those whose mothers married later (p < 0.001).
+Geographic location and primary education, which were conceptualized as contextual factors, explained most of this relationship, controlling for country fixed-effects.
+In adjusted models, we found that early childbearing was not the sole pathway through which girl child marriage affected child development and health.
+Our final models revealed that disparities in advanced maternal education and wealth explained child development and stunting.
+We conclude that there are intergenerational consequences of girl child marriage on her child's well-being, and that through association with other contextual, socioeconomic, and biological factors, marrying early does matter for child development and health.
+Our findings resonate with existing literature and point toward important policy considerations for improving early childhood outcomes

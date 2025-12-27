@@ -1,0 +1,10 @@
+Morphometric fruit traits of plants and morphometric traits of birds on Kilimanjaro
+Abstract: Climate change and an increase in human disturbance are major drivers of global biodiversity loss.
+Yet it is not clear to what extent their effects on animal communities are direct or indirectly mediated by changes in biotic factors, such as plant diversity.
+Here, we disentangle the direct and indirect effects of climate, human disturbance, vegetation structure and plant functional traits on the functional diversity of avian frugivore communities across a large environmental gradient.We sampled plant and bird communities along an elevational and a human disturbance gradient and measured corresponding morphological traits of plants and birds to calculate indices of functional identity and functional diversity of plant and bird communities.
+We used structural equation models to disentangle direct and indirect effects of all variables on functional identity and diversity of frugivorous bird communities.
+Both functional identity and diversity of frugivorous bird communities were consistently related to the functional identity and diversity of plant communities.
+Climate had almost exclusively indirect effects on functional identity and diversity of bird communities mediated through effects on plant functional identity and diversity.
+In contrast, human disturbance also had direct negative effects on bird diversity.We show that plant functional identity and diversity are the most important drivers of functional identity and diversity of frugivorous birds.
+Although effects of climate on bird communities are almost exclusively mediated indirectly through plant communities, human disturbance resulted in a direct reduction of bird diversity.
+The high degree of trait matching between interdependent trophic levels over a large environmental gradient demonstrates the importance of biotic drivers for animal communities and shows that biodiversity models need to consider such bottom‐up effects in future conditions.

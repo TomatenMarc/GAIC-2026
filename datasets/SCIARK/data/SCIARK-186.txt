@@ -1,0 +1,18 @@
+Adverse health impacts of cooking with kerosene: A multi-country analysis within the Prospective Urban and Rural Epidemiology Study
+Background
+Kerosene, which was until recently considered a relatively clean household fuel, is still widely used in low- and middle-income countries for cooking and lighting.
+However, there is little data on its health effects.
+We examined cardiorespiratory effects and mortality in households using kerosene as their primary cooking fuel within the Prospective Urban Rural Epidemiology (PURE) study.
+Methods
+We analyzed baseline and follow-up data on 31,490 individuals from 154 communities in China, India, South Africa, and Tanzania where there was at least 10% kerosene use for cooking at baseline.
+Baseline comorbidities and health outcomes during follow-up (median 9.4 years) were compared between households with kerosene versus clean (gas or electricity) or solid fuel (biomass and coal) use for cooking.
+Multi-level marginal regression models adjusted for individual, household, and community level covariates.
+Results
+Higher rates of prevalent respiratory symptoms (e.g.
+34% [95% CI:15–57%] more dyspnea with usual activity, 44% [95% CI: 21–72%] more chronic cough or sputum) and lower lung function (differences in FEV1: −46.3 ml (95% CI: −80.5; −12.1) and FVC: −54.7 ml (95% CI: −93.6; −15.8)) were observed at baseline for kerosene compared to clean fuel users.
+The odds of hypertension was slightly elevated but no associations were observed for blood pressure.
+Prospectively, kerosene was associated with elevated risks of all-cause (HR: 1.32 (95% CI: 1.14-1.53)) and cardiovascular (HR: 1.34 (95% CI: 1.00-1.80)) mortality, as well as major fatal and incident non-fatal cardiovascular (HR: 1.34 (95% CI: 1.08-1.66)) and respiratory (HR: 1.55 (95% CI: 0.98-2.43)) diseases, compared to clean fuel use.
+Further, compared to solid fuel users, those using kerosene had 20–47% higher risks for the above outcomes.
+Conclusions
+Kerosene use for cooking was associated with higher rates of baseline respiratory morbidity and increased risk of mortality and cardiorespiratory outcomes during follow-up when compared to either clean or solid fuels.
+Replacing kerosene with cleaner-burning fuels for cooking is recommended.

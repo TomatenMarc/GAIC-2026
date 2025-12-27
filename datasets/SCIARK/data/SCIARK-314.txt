@@ -1,0 +1,8 @@
+Title: Managing climate change in cities: Will climate action plans work?
+Abstract: Since the mid-20th century, most large cities of the United States have been warming at more than twice the rate of the planet as a whole.
+While many municipal and state governments have developed climate action plans designed to reduce emissions of greenhouse gases, rising concentrations of greenhouse gases typically are not the strongest driver of warming in cities.
+Our purpose is to evaluate the likely effectiveness of municipal and state level climate action plans in slowing the pace of warming in the most populous U.S. cities over the near-to-medium term.
+We employ time-series temperature trend analyses to differentiate global from local-scale climate change mechanisms in large U.S. cities between 1961 and 2010.
+We then review all climate action plans developed at the municipal or state level in the 50 most populous metropolitan regions to identify the various emissions control and heat management strategies incorporated into these plans.
+The results of our assessment suggest that the climate change management policies adopted through municipal and state climate action plans may fail to adequately protect human health and welfare from rapidly rising temperatures.
+Based on our review, we recommend that municipal and state governments broaden climate action plans to include heat management strategies in addition to greenhouse gas emissions controls.

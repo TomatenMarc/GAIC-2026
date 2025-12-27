@@ -1,0 +1,11 @@
+A comprehensive indicator set for measuring multiple benefits of energy efficiency
+Abstract
+In this paper, we develop a quantitative indicator approach including 20 indicators to measure the multiple benefits of energy efficiency (MB-EE).
+The MB-EEs are classified into three groups: environmental (e.g.
+energy savings, emissions), economic (e.g.
+GDP, employment), and social (health, energy poverty) aspects.
+We explain the methodological approach, the underlying data sources and limitations.
+The indicator set has been applied to 29 countries (EU28 plus Norway) for the period 2000 to 2015, proving that it allows to conduct in-depth comparisons of developments and differences across Europe.
+The indicator set also supports the design of well-suited energy policies by allowing to take into account, on an informed basis, more of the multiple impacts of energy efficiency.
+For example, our analysis of the effect of energy savings for the period 2000 to 2015 in Germany shows GHG savings of about 158 MtCO2eq., about 30,000 avoided deaths due to less air pollution, a reduction of Germany's import dependency by 5.8 percentage points and a growth of GDP by around 0.3% per year for the period 2010 to 2015) as a consequence of improved energy efficiency.
+To conclude, the presented approach allows to comprehensively and regularly assess policies in terms of their MB-EEs.

@@ -1,0 +1,13 @@
+Diversity hotspots and conservation gaps for the Chinese endemic seed flora
+Abstract: The flora in China is highly endemic.
+Decisions about conservation and management of biodiversity based on hotspots and conservation gaps of endemic seed plant species diversity in China are essential.
+In this paper, based on a species distribution data set with 12,824 Chinese endemic plants, we measured Chinese endemic seed plant diversity using five indices: endemic species richness (ER), weighted endemism (WE), phylogenetic diversity (PD), phylogenetic endemism (PE), and biogeographically weighted evolutionary distinctiveness (BED).
+Five percent of China's total land area with the highest biodiversity was used to identify hotspots for each index.
+In total, 19 hotspots covering 7.96% of China's total land area were identified.
+Most hotspots are located in mountainous areas, mainly in the Qinling Mountains and further south or in the Hengduan Mountains and to the east in China.
+Nine hotspots are identified with all five indices.
+These hotspots include the Hengduan Mountains, the Xishuangbanna Region, the Qinling Mountains, southwest Chongqing, and five mountainous areas (located in east Chongqing and west Hubei; in east Yunnan and west Guangxi; in north Guangxi, southeast Guizhou and southwest Hunan; in north Guangdong and south Hunan; and in southeast Tibet, respectively).
+Furthermore, we detected conservation gaps for hotspots of Chinese endemic seed flora by overlaying national nature reserves with the identified hotspots, and we designated priority conservation gaps for hotspots by overlaying global biodiversity hotspots with conservation gaps for hotspots.
+Most hotspots for Chinese endemic seed plant species are badly protected.
+Only 26.48% of the hotspot areas of Chinese endemic seed plant species were covered by nature reserves.
+We suggest that it is essential to pay more attention to herbaceous plants in biodiversity conservation, and to promote a network function of nature reserves within these hotspots in China.

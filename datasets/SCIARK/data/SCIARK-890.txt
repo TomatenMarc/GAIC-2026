@@ -1,0 +1,7 @@
+A comparative evaluation of Korean MMPI-A and MMPI-A-RF Substance Abuse Scales.
+AbstractObjective: The purpose of the present study was to compare psychometric properties of the Substance Abuse (SUB) Scale on the Korean Minnesota Multiphasic Personality Inventory-Adolescent-Restructured Form (MMPI-A-RF) with those on the Korean MMPI-A (the Alcohol/Drug Problem Acknowledgment Scale [ACK]), the Alcohol/Drug Problem Proneness Scale [PRO], and the MacAndrew Alcoholism Scale-Revised Scale [MAC-R]).
+Method: Participants consisted of 237 Korean adolescent psychiatric patients whose scores on these measures were compared in terms of internal consistency and predictive validity.
+Results: Scores on SUB exhibited superior internal consistency to that of the MMPI-A substance abuse scales.
+Further, scores on SUB predicted substance abuse more accurately than did the optimal combination of scores on the MMPI-A substance abuse scales.
+Conclusion: Results provide strong support for the use of the Korean MMPI-A-RF SUB scale when assessing substance abuse in Korean youth.
+Keywords: Korean MMPI-A; Korean MMPI-A-RF; substance abuse.

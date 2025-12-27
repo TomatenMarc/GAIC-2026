@@ -1,0 +1,13 @@
+Evaluating strategies for control of tuberculosis in prisons and prevention of spillover into communities: An observational and modeling study from Brazil
+Background: It has been hypothesized that prisons serve as amplifiers of general tuberculosis (TB) epidemics, but there is a paucity of data on this phenomenon and the potential population-level effects of prison-focused interventions.
+This study (1) quantifies the TB risk for prisoners as they traverse incarceration and release, (2) mathematically models the impact of prison-based interventions on TB burden in the general population, and (3) generalizes this model to a wide range of epidemiological contexts.
+Methods and findings: We obtained individual-level incarceration data for all inmates (n = 42,925) and all reported TB cases (n = 5,643) in the Brazilian state of Mato Grosso do Sul from 2007 through 2013.
+We matched individuals between prisoner and TB databases and estimated the incidence of TB from the time of incarceration and the time of prison release using Cox proportional hazards models.
+We identified 130 new TB cases diagnosed during incarceration and 170 among individuals released from prison.
+During imprisonment, TB rates increased from 111 cases per 100,000 person-years at entry to a maximum of 1,303 per 100,000 person-years at 5.2 years.
+At release, TB incidence was 229 per 100,000 person-years, which declined to 42 per 100,000 person-years (the average TB incidence in Brazil) after 7 years.
+We used these data to populate a compartmental model of TB transmission and incarceration to evaluate the effects of various prison-based interventions on the incidence of TB among prisoners and the general population.
+Annual mass TB screening within Brazilian prisons would reduce TB incidence in prisons by 47.4% (95% Bayesian credible interval [BCI], 44.4%-52.5%) and in the general population by 19.4% (95% BCI 17.9%-24.2%).
+A generalized model demonstrates that prison-based interventions would have maximum effectiveness in reducing community incidence in populations with a high concentration of TB in prisons and greater degrees of mixing between ex-prisoners and community members.
+Study limitations include our focus on a single Brazilian state and our retrospective use of administrative databases.
+Conclusions: Our findings suggest that the prison environment, more so than the prison population itself, drives TB incidence, and targeted interventions within prisons could have a substantial effect on the broader TB epidemic.

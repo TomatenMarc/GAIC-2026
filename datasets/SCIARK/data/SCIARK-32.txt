@@ -1,0 +1,19 @@
+Associations between ambient air pollution and mortality from all causes, pneumonia, and congenital heart diseases among children aged under 5 years in Beijing, China: A population-based time series study
+Background:                    Previous studies have mainly focused on the associations between particulate matters and infant mortality.
+However, evidence regarding the associations between gaseous pollutants and mortality among children aged <5 years remains sparse.
+Objectives:                    The aim of this study was to investigate the associations between ambient air pollution and death among children aged <5 years in Beijing, China, and explore the impact of age, gender and specific causes of death on these associations.
+Methods:                    Concentrations of ambient air pollution and the number of deaths among children aged <5 years in Beijing from January 2014 to September 2016 were extracted from authoritative electronic databases.
+The associations were estimated for a single-month lag from the current month up to the previous 5 months (lag0-lag5) and moving averages of the current and previous months (lag01-lag05) using generalized additive Poisson regression (adjusted for time trends, season, meteorological variables and holidays).
+Subgroup analyses related to age, gender and specific diseases were performed.
+Two-pollutant models were used to evaluate the possible role of single pollutants.
+Results:                    Sulfur dioxide (SO2), nitrogen dioxide (NO2) and carbon monoxide (CO) demonstrated the strongest associations with death among children aged <5 years at lag0, and the estimates decreased or even turned negative with the increasing lag periods.
+For an interquartile range increase in SO2, NO2 and CO at lag0, the odds ratios (OR) were 1.332 (95% CI 1.152-1.539), 1.383 (95% CI 1.113-1.718) and 1.273 (95% CI 1.028-1.575).
+However, CO lost significance after adjusting for SO2 and NO2, and PM2.5 gained significance (OR 1.548, 95% CI 1.061-2.258) after adjusting for PM10.
+The ORs for SO2 and NO2 remained the most stable across all two-pollutant models.
+The associations for children aged 1-5 years were stronger than those reported for infants at lag0 but lower at the other lag months.
+The pollutant associations were stronger for congenital heart disease-related death than overall and pneumonia-related death.
+We did not find significant differences in terms of gender.
+Conclusion:                    Exposure to air pollution may increase the incidence of death among children aged <5 years.
+SO2 and NO2 may be the most stable pollutants reflecting associations between air pollution and death, deserving further attention.
+Children with congenital heart diseases are more susceptible to air pollution.
+Therefore, it is urgent to implement the clean air targets established by WHO and reduce the exposure of children to air pollution.

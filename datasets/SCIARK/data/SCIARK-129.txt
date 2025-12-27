@@ -1,0 +1,11 @@
+Title: Good work ability among unemployed individuals: Association of sociodemographic, work-related and well-being factors
+Aims: The aims of this study were to describe the perceived work ability of unemployed individuals and to explore the association between perceived good work ability and sociodemographic, work-related and well-being factors.
+Methods: The data were derived from the Finnish Regional Health and Well-being Study (ATH) collected by postal and Internet-based questionnaires in 2014–2015.
+The random sample was selected from the Finnish National Population Register.
+The present study includes data from unemployed or laid-off respondents (n=1975) aged 20–65 years.
+Logistic regression was used in the statistical analysis.
+Perceived work ability was measured with the Work Ability Score.
+Results: Factors significantly associated with good work ability were having young children living in the household, short-term unemployment, low or moderate physical strain in most recent job, moderate mental strain in most recent job, satisfaction with most recent job, good self-rated health and good quality of life.
+Good self-rated health (odds ratio=10.53, 95% confidence interval 5.90–18.80) was the most substantial factor in the multivariate model.
+Conclusions: The findings provide further evidence on the factors related to good work ability of the unemployed.
+These factors should be considered when designing interventions for promoting work ability and to minimise the harmful effects of long-term unemployment.

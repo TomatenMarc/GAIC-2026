@@ -1,0 +1,11 @@
+Title: Climate change impacts and adaptation in cities: a review of the literature
+Abstract: Many of the decisions relating to future urban development require information on climate change risks to cities This review of the academic and “grey” literature provides an overview assessment of the state of the art in the quantification and valuation of climate risks at the city-scale.
+We find that whilst a small number of cities, mostly in OECD countries, have derived quantitative estimates of the costs of climate change risks under alternative scenarios, this form of analysis is in its infancy.
+The climate risks most frequently addressed in existing studies are associated with sea-level rise, health and water resources.
+Other sectors such as energy, transport, and built infrastructure remain less studied.
+The review has also undertaken a case study to examine the progress in two cities—London and New York—which are relatively advanced in the assessment of climate risks and adaptation.
+The case studies show that these cities have benefited from stakeholder engagement at an early stage in their risk assessments.
+They have also benefited from the development of specific institutional responsibilities for co-ordinating such research from the outset.
+This involvement has been critical in creating momentum and obtaining resources for subsequent in-depth analysis of sectoral impacts and adaptation needs.
+While low cost climate down-scaling applications would be useful in future research, the greatest priority is to develop responses that can work within the high future uncertainty of future climate change, to build resilience and maintain flexibility.
+This can best be used within the context of established risk management practices.

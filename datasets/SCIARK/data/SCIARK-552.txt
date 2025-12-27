@@ -1,0 +1,8 @@
+Title: Climate change and forest fires.
+Abstract: This paper addresses the impacts of climate change on forest fires and describes how this, in turn, will impact on the forests of the United States.
+In addition to reviewing existing studies on climate change and forest fires we have used two transient general circulation models (GCMs), namely the Hadley Centre and the Canadian GCMs, to estimate fire season severity in the middle of the next century.
+Ratios of 2 x CO2 seasonal severity rating (SSR) over present day SSR were calculated for the means and maximums for North America.
+The results suggest that the SSR will increase by 10-50% over most of North America; although, there are regions of little change or where the SSR may decrease by the middle of the next century.
+Increased SSRs should translate into increased forest fire activity.
+Thus, forest fires could be viewed as an agent of change for US forests as the fire regime will respond rapidly to climate warming.
+This change in the fire regime has the potential to overshadow the direct effects of climate change on species distribution and migration.

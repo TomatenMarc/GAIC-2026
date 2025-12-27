@@ -1,0 +1,14 @@
+﻿Economic status, a salient motivator for medicalisation of FGM in sub-Saharan Africa: Myth or reality from 13 national demographic health surveys
+Female Genital Mutilation or Cutting (FGM) and its medicalisation remain a challenge in sub-Sahara African (SSA).
+Early identification of at-risk women might help in instituting focused counselling against FGM medicalisation.
+We hypothesised that the risk of medicalised FGM by girls/women is associated with socioeconomic status (SES) their household belongs.
+We used 2010–2019 Demographic and Health surveys data from 13 countries in SSA.
+We analysed information on 214,707 women (Level 1) nested within 7299 neighbourhoods (Level 2) from the 13 countries (Level 3).
+We fitted 5 multivariable binomial multilevel logistic regression models using the MLWin 3.03 module in Stata.
+The estimation algorithms adopted was the first order marginal quasi-likelihood linearisation using the iterative generalised least squares.
+The odds of FGM medicalisation increased with the wealth status of the household of the woman, with 29%, 45%- and 75%-times higher odds in the middle, richer and richest household wealth quintiles, respectively than those from the poorest households (p < 0.05).
+The more educated a woman and the better a woman's community SES was, the higher her odds of reporting medicalisation of FGM.
+Rural community was associated with higher odds of medicalised FGM than urban settings.
+Medicalised FGM is common among women from a high socioeconomic, educational background and rural settings of SSA.
+We recommend a culturally sensitive policy that will discourage perpetuation of FGM, particularly by healthcare providers.
+Future studies should focus on identifying drivers of FGM among the high social class families in the society in SSA.

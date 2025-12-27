@@ -1,0 +1,7 @@
+Assessing the propagation of uncertainties in multi-objective optimization for agro-ecosystem adaptation to climate change
+Abstract: It is widely acknowledged that uncertainty needs to be accounted for in climate impact studies, be it in scenario analyses or optimization applications.
+In this study we investigate how climate and crop model uncertainties affect multi-objective optimization outputs aiming to identify optimum agricultural management adaptations for Western Switzerland.
+Results are visualized by ternary plots that map optimum management measures, crop yield, erosion and leaching with associated uncertainties for navigating through the optimum adaptation space.
+We find that the relevance of climate model vs. parameter uncertainty can differ substantially depending on the prioritization of objectives and local conditions.
+The optimum choice of irrigation level was found to be the decision variable subject to greatest uncertainty particularly on coarser soil.
+This finding suggests that for the long-term planning of irrigation infrastructure and management, a robust adaptation approach is required for approaching unavoidable uncertainty from a risk management perspective.

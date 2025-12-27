@@ -1,0 +1,8 @@
+Exploration and corrective measures of greenhouse gas emission from fossil fuel power stations for Bangladesh
+Abstract:
+Greenhouse gas emission is increasing alarmingly due to bulk electricity generation from fossil fuel such as coal, gas and oil with its limited stock.
+While researchers are struggling to minimize the emission using suitable mitigation techniques including renewable energy sources, the Government of Bangladesh is implementing several Coal based power plants.
+This paper presents mathematical model of parameters related to Greenhouse gas emission and demonstrates its emission rates resulting from various fuels used in Bangladeshi power plants.
+The Greenhouse gas emission from the existing fossil fuel power plants using HOMER (Hybrid Optimization of Multiple Energy Resources) software is analyzed in this research.
+The result shows that power plants of coal, diesel and natural gas emit 0.90 kg, 0.76 kg and 0.566 kg of CO2 per kWh, respectively.
+Furthermore, several Greenhouse gas mitigating procedures are proposed for fossil fuel-based power generating stations.

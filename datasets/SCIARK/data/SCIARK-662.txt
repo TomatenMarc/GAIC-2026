@@ -1,0 +1,18 @@
+Title: The Effect of Depression on Patient-Reported Outcomes After Total Joint Arthroplasty Is Modulated by Baseline Mental Health: A Registry Study
+Abstract
+Background: Depression and poor mental health are known to be negative predictors of patient-reported outcomes after total joint arthroplasty.
+Although previous studies have examined these risk factors in isolation to each other, they are, in reality, closely related, and yet each represents a different aspect of one's psychological well-being.
+The objective of this study was to investigate the association between depression and patient-reported outcomes, taking into account patients' baseline mental health.
+Methods: Our prospective, institutional joint registry was queried for patients who had undergone primary elective total joint arthroplasty and had a minimum follow-up of 1 year.
+Baseline mental health was measured by the Short Form-12 Mental Component Summary (SF-12 MCS).
+Four cohorts were analyzed on the basis of the presence or absence of depression and patients' SF-12 MCS scores at the time of the surgical procedure, which were categorized as either poor or good on the basis of previously defined cutoffs.
+The primary outcomes were the net changes in SF-12 MCS, SF-12 Physical Component Summary (PCS), and Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) scores at 4 and 12 months postoperatively.
+Univariate and mixed-effects model analyses were performed to control for potential confounding factors.
+Results: Patients with depression but good baseline mental health achieved gains in patient-reported outcomes that were comparable with those of normal controls (p > 0.05).
+Patients with poor baseline mental health achieved significant gains in all patient-reported outcomes, but the changes were largest for those without depression (p < 0.05).
+Only patients with depression and poor baseline mental health did not cross the threshold for good mental health at the time of the latest follow-up despite achieving similar gains in physical function compared with their counterparts who did not have depression.
+Conclusions: The effect of depression on patient-reported outcomes is more complex but less pessimistic than previously thought.
+Patients with depression undergoing total joint arthroplasty may have significant improvements in their patient-reported outcomes, but the net gains are modulated by their mental health at the time of the surgical procedure.
+Preoperative screening of patients with depression using the SF-12 MCS may help to identify those who are at risk for attaining suboptimal patient-reported outcomes and may benefit from counseling or psychiatric referral for optimization before undergoing a surgical procedure.
+Level of evidence: Prognostic Level III.
+See Instructions for Authors for a complete description of levels of evidence.

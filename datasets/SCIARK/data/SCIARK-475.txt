@@ -1,0 +1,13 @@
+Title: The Everyday Feeling Questionnaire: the structure and validation of a measure of general psychological well-being and distress
+Background: Psychological distress and well-being underlie the continuum of susceptibility to common mental disorders.
+Our objective was to provide a simple and acceptable measure of psychological distress and well-being to collect information from subjects and informants in non-clinical samples, to explore its internal structure, concurrent and external validity.
+Method: Self and partner versions of the ten-item Everyday Feeling Questionnaire (EFQ) were administered to 5,279 adults.
+The 12-item General Health Questionnaire (GHQ) was used to establish concurrent validity.
+Socioeconomic status, child psychopathology, and family functioning served as external validators.
+Results: The EFQ was internally consistent with all items loading strongly on a single common factor.
+Item response analysis showed excellent sensitivity of the ten items, balanced contribution of well-being and distress items and good information content across a broad range.
+The internal structure of partner version did not differ from self-report.
+The constructs measured by the EFQ and GHQ were distinct, but highly correlated.
+The EFQ’s correlations with external validators were stronger than GHQ’s ones.
+Conclusion: Psychological well-being and distress are measurable as a single construct, using the EFQ.
+The partner-report version will facilitate the collection of data on multiple household members or on the same individual from two or more sources.

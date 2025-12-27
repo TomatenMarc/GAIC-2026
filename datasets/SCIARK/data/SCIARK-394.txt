@@ -1,0 +1,12 @@
+Title: An investigation of factors associated with the health and well-being of HIV-infected or HIV-affected older people in rural South Africa
+Background: Despite the severe impact of HIV in sub-Saharan Africa, the health of older people aged 50+ is often overlooked owing to the dearth of data on the direct and indirect effects of HIV on older people’s health status and well-being.
+The aim of this study was to examine correlates of health and well-being of HIV-infected older people relative to HIV-affected people in rural South Africa, defined as participants with an HIV-infected or death of an adult child due to HIV-related cause.
+Methods: Data were collected within the Africa Centre surveillance area using instruments adapted from the World Health Organization (WHO) Study on global AGEing and adult health (SAGE).
+A stratified random sample of 422 people aged 50+ participated.
+We compared the health correlates of HIV-infected to HIV-affected participants using ordered logistic regressions.
+Health status was measured using three instruments: disability index, quality of life and composite health score.ResultsMedian age of the sample was 60 years (range 50–94).
+Women HIV-infected (aOR 0.15, 95% confidence interval (CI) 0.08–0.29) and HIV-affected (aOR 0.20, 95% CI 0.08–0.50), were significantly less likely than men to be in good functional ability.
+Women’s adjusted odds of being in good overall health state were similarly lower than men’s; while income and household wealth status were stronger correlates of quality of life.
+HIV-infected participants reported better functional ability, quality of life and overall health state than HIV-affected participants.
+Discussion and conclusionsThe enhanced healthcare received as part of anti-retroviral treatment as well as the considerable resources devoted to HIV care appear to benefit the overall well-being of HIV-infected older people; whereas similar resources have not been devoted to the general health needs of HIV uninfected older people.
+Given increasing numbers of older people, policy and programme interventions are urgently needed to holistically meet the health and well-being needs of older people beyond the HIV-related care system.

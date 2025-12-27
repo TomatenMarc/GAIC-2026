@@ -1,0 +1,10 @@
+Asymmetric and extreme influence of energy price changes on renewable energy stock performance
+Abstract
+Promoting the development of renewable energy has become the key factor to solve the problems of energy and climate change issues.
+However, its development is largely constrained by the prices of traditional fossil energy.
+This paper explores the influence of various fossil energy price changes on renewable energy stock returns using a network approach.
+Specifically, a positive and negative returns network and value-at-risk (VaR) network are constructed separately for identifying the asymmetric and extreme information spillover.
+Our findings show the fossil energy–renewable energy network system has a relatively high level of interdependence.
+The electricity market behaves as the major contributor to the changes of renewable energy returns in the returns connectedness network, while oil and coal contribute most to the changes of renewable energy returns in the VaR connectedness network.
+The dynamic results show that the contributions of fossil energy price changes to renewable energy returns have strong time-varying pattern with high volatility over time.
+The total connectedness in the positive returns network is slightly stronger than that in the negative returns network for most of the time during our sample period.

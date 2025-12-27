@@ -1,0 +1,15 @@
+Is female genital mutilation associated with eclampsia?
+Evidence from a nationally representative survey data
+Background: Studies have shown the impact of female genital mutilation (FGM), especially infibulation (WHO type III), on reproductive health, and adverse obstetric outcomes like postpartum haemorrhage and obstructed labour.
+However, whether an association exists with maternal hypertensive complication is not known.
+The present study sought to investigate the role of the different types of FGM on the occurrence of eclampsia.
+Methods: The study used data from the 2006 Demographic and health survey of Mali.
+The proportion of eclampsia in women with each type of FGM and the unadjusted and adjusted odds ratios (OR) were calculated, using women without FGM as reference group.
+Unadjusted and adjusted OR were also calculated for women who underwent infibulation compared to the rest of the population under study (women without FGM and women with FGM type I, II, and IV).
+Results: In the 3997 women included, the prevalence of infibulation was 10.2% (n = 407) while 331 women did not report FGM (8.3%).
+The proportion of women reporting signs and symptoms suggestive of eclampsia was 5.9% (n = 234).
+Compared with the absence of female genital mutilation and adjusted for covariates, infibulation was associated with eclampsia (aOR 2.5; 95% CI:1.4-4.6), while the association was not significant in women with other categories of FGM.
+A similar aOR was found when comparing women with infibulation with the pooled sample of women without FGM and women with the other forms of FGM.
+Conclusion: The present study suggests a possible association between infibulation and eclampsia.
+Future studies could investigate this association in other settings.
+If these findings are confirmed, the possible biological mechanisms and preventive strategies should be investigated.

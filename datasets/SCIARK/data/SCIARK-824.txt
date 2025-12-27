@@ -1,0 +1,11 @@
+Functional status and use of health care services: longitudinal study on the older adult population in Spain.
+Background: Follow-up studies on the association between functional status and use of health care services among the older people are scarce and have studied only a few types of service.
+Objective: To examine prospectively the relationship between limitation in instrumental activities of daily living (IADL) and utilization of a wide variety of health care services among older adults in Spain.
+Methods: Prospective study from 2001 to 2003 of a cohort of 2806 persons, representative of the non-institutionalized Spanish population aged 60 years and over.
+Limitation in IADL was measured in 2001 using the Lawton and Brody's test.
+Data on the use of health care services were collected in 2003 and classified into home services (home visits by physicians and nurses) and non-home services (visits to primary care physicians, visits to hospital specialists, hospital admissions, emergency care, and influenza vaccination).
+Analyses were performed with logistic regression and adjusted for the main confounders.
+Results: Compared to men with no limitation in IADL, a higher percentage of those with limitation in one IADL in 2001 made use of both home (odds ratio [OR] 2.64; 95% confidence interval [95% CI] 1.73-4.03) and non-home services (OR 2.02; 95% CI 1.04-3.93) in the period 2001-2003.
+Limitation in one IADL among women was associated with a greater utilization of home services (OR 1.50; 95% CI 1.05-2.14) and visits to hospital specialists (OR 1.61; 95% CI 1.21-2.15).
+In women, however, a greater number of limited IADL at baseline was inversely associated with visits to primary care physicians in the 2-year follow-up (p for linear trend <0.001).
+Conclusion: Population aging will increase the demand for health services in general, and for home services in particular.

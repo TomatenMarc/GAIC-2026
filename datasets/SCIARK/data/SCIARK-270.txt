@@ -1,0 +1,9 @@
+Urban carbon footprints across scale: Important considerations for choosing system boundaries
+Cities dominate global anthropogenic carbon emissions.
+Here, we develop an approach to interpret carbon footprints of cities by focusing on their system boundaries, double counting recognition, spatial paths and policy sensitivities.
+Using four megacities in China as a case study, we quantify and map urban carbon footprints from various accounting perspectives: territorial carbon emissions, community-wide infrastructure carbon footprint, consumption-based carbon footprint, wider production carbon footprint, and full-scope carbon footprint.
+We find that the megacities’ infrastructure carbon footprints are dominated by electricity-related emissions, whereas their consumption-based carbon footprints are significantly impacted by imports of both electricity and other products and services.
+Over 55% of the full-scope carbon footprints (sums of all three scopes) of Beijing and Shanghai can be attributed to upstream emissions, while in Chongqing and Tianjin territorial emissions are more important.
+Key urban infrastructure contributes over 70% to the total carbon emissions in import supply chains, determining the spatial paths and the carbon intensities of imports for these megacities.
+The main destinations of outsourced carbon emissions across the country from the megacities are found to be similar due to market domination of bulk suppliers of infrastructure-related and other carbon-intensive products.
+In addition, double counting of certain footprint indicators is considered small in this case, but could be amplified with increasing number of cities being assessed.

@@ -1,0 +1,17 @@
+Green and renewable bio-diesel produce from oil hydrodeoxygenation: Strategies for catalyst development and mechanism
+Abstract:
+Abstract Green and renewable bio-diesel prepared from oils catalytic hydrodeoxygenation (HDO) will have a great impact on clean energy structure and industrial application.
+The core issue of catalytic oils HDO research is still the development of catalysts with high performance, and it has become the research focus of researchers in recent years.
+The bio-diesel after deoxygenationis similar to petroleum fuel in composition, which has better fuelproperties because of its higher cetane number, higher energy density, and very low sulfur content.
+Therefore, the prepared bio-diesel can be employed directly in fuel industry.
+In order to ensure that the catalyst has superior deoxidization performances, it should have good “H-H” dissociation ability, “C-O” and “C=O” adsorption and activation abilities.
+To obtain the expected products, feasible production processes, and suitable catalyst systems are needed.
+In this paper, the status and reaction system of oil HDO conversion in recent years are reviewed, and the catalytic performances of the corresponding catalyst in the oil HDO reaction is described in detail.
+In addition, this review also involed the effects of support, promoters, interaction between active components and support on the HDO activity and selectivity, and detailed information about the reaction mechanism.
+The HDO performances of the corresponding catalyst can be effectively improved by optimizing the active components and controlling the properties of the support.
+The catalyst used into the HDO reaction is mainly concentrated on the supported catalyst.
+In addition, the choice of the support is based on the prepared catalyst with the best physical and chemical properties.
+What's more, ensuring the prepared catalyst has simple deoxidation route, suitable acid strength, high “C-O” hydrogenolysis activity and low carbon deposition performances.
+The selection of the metal active component mainly depends on the model compound, owing to the deoxidization pathway of the model compound is mainly determined by the active center.
+The reaction pathway mainly contains hydrolysis, HDO, cracking, hydrogenation, decarbonylation, and decarboxylation reaction.
+In addition, several outlooks on the development of catalyst with high performance, the future research, and the development direction of bio-diesel produced by oils HDO reaction are also addressed in this paper.

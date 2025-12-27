@@ -1,0 +1,10 @@
+Governance and renewable energy investment in MENA countries:How does trade matter?
+Abstract
+The Middle East and North Africa (MENA) countries have recently developed renewable energy (RE) markets.
+However, their rate of investment in renewable energy remains small compared to other regions in the world despite their relatively abundant endowments, particularly in wind and solar.
+While the literature identifies some barriers to investment in renewable energy, we assume that the investment of MENA countries could be impeded by specific governance factors.
+Furthermore, we consider recent literature showing that trade openness reduces the negative effects of weak governance.
+In this paper, we empirically investigate the link between governance, openness, and renewable energy investment in the MENA region using panel data for 15 MENA countries over the period 1996-2013.
+Our results prove that a higher institutional quality is associated with RE investment in MENA countries.
+In addition, this relationship seems to be conditional on the trade regime.
+Our results are robust to several measures of renewable energy investment and governance as well as to an alternative econometric set-up.

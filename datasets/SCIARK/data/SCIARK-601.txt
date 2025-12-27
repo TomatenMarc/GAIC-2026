@@ -1,0 +1,14 @@
+Associations of women's empowerment with neonatal, infant and under-5 mortality in low-and /middle-income countries: meta-analysis of individual participant data from 59 countries
+Background Child survival and women's empowerment are global public health concerns and important sustainable development goals (SDGs).
+Low-and middle-income countries (LMICs) have the largest burden of both phenomena.
+The aim of this study is to investigate a measure of women's empowerment at individual and population levels and its potential associations with neonatal, infant and under-5 mortality at national and regional levels in 59 LMICs.
+Methods We used pooled population-based cross-sectional surveys from 59 LMICs (n=6 12 529) conducted from 2000 to 2015 using standardised protocols.
+We constructed individual-level women's empowerment index (ILWEI) and population-level women's empowerment index (PLWEI) for LMICs and investigated the potential associations of these measures with neonatal, infant and under-5 mortality using two-stage random-effect individual participant data (IPD) meta-analysis.
+Results The pooled neonatal mortality rate was 24 per 1000 live births.
+Infant and under-5 mortality rates were 43 and 55/1000 live births, respectively.
+In the pooled sample, 61.6% and 19.9% of women had autonomy regarding their healthcare and household decision-making, respectively, whereas 56.0% rejected domestic violence against women for any reason.
+IPD meta-analysis showed that children of women with low ILWEI had a higher risk of neonatal (OR: 1.18, 95% CI 1.14 to 1.22), infant (OR: 1.12, 95% CI 1.08 to 1.17) and under-5 (OR: 1.12, 95% CI 1.07 to 1.18) mortality compared with children of high ILWEI.
+Similar relationships were found across most of the regions as well as between PLWEI and all the three outcomes.
+Conclusions Women's empowerment at individual and population levels is associated with neonatal, infant and under-5 mortality in LMICs.
+Our study underscores the importance of women's empowerment in accelerating progress towards the attainment of the SDG targets for child survival in LMICs.
+Multi-sectoral and concerted efforts are necessary to eliminate preventable child mortality in these countries.

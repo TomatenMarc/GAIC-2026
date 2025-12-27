@@ -1,0 +1,14 @@
+Impact of socioeconomic deprivation on rate and cause of death in severe mental illness
+Background:                    Socioeconomic status has important associations with disease-specific mortality in the general population.
+Although individuals with Severe Mental Illnesses (SMI) experience significant premature mortality, the relationship between socioeconomic status and mortality in this group remains under investigated.
+We aimed to assess the impact of socioeconomic status on rate and cause of death in individuals with SMI (schizophrenia and bipolar disorder) relative to the local (Glasgow) and wider (Scottish) populations.
+Methods:                    Cause and age of death during 2006-2010 inclusive for individuals with schizophrenia or bipolar disorder registered on the Glasgow Psychosis Clinical Information System (PsyCIS) were obtained by linkage to the Scottish General Register Office (GRO).
+Rate and cause of death by socioeconomic status, measured by Scottish Index of Multiple Deprivation (SIMD), were compared to the Glasgow and Scottish populations.
+Results:                    Death rates were higher in people with SMI across all socioeconomic quintiles compared to the Glasgow and Scottish populations, and persisted when suicide was excluded.
+Differences were largest in the most deprived quintile (794.6 per 10,000 population vs. 274.7 and 252.4 for Glasgow and Scotland respectively).
+Cause of death varied by socioeconomic status.
+For those living in the most deprived quintile, higher drug-related deaths occurred in those with SMI compared to local Glasgow and wider Scottish population rates (12.3% vs. 5.9%, p = <0.001 and 5.1% p = 0.002 respectively).
+A lower proportion of deaths due to cancer in those with SMI living in the most deprived quintile were also observed, relative to the local Glasgow and wider Scottish populations (12.3% vs. 25.1% p = 0.013 and 26.3% p = <0.001).
+The proportion of suicides was significantly higher in those with SMI living in the more affluent quintiles relative to Glasgow and Scotland (54.6% vs. 5.8%, p = <0.001 and 5.5%, p = <0.001).
+Conclusions:                    Excess mortality in those with SMI occurred across all socioeconomic quintiles compared to the Glasgow and Scottish populations but was most marked in the most deprived quintiles when suicide was excluded as a cause of death.
+Further work assessing the impact of socioeconomic status on specific causes of premature mortality in SMI is needed.

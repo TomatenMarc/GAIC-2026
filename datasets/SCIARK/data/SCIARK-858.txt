@@ -1,0 +1,8 @@
+Title: Renewable energy, nuclear energy, and environmental pollution: Accounting for political institutional quality in South Africa
+Abstract: This study examined the impact of disaggregate and aggregate energy, economic development, urbanization and political institutional quality on environmental pollution using a time series data spanning from 1971 to 2017.
+The study employed response surface regressions, structural break cumulative sum (CUSUM) test based on recursive residuals and ordinary least squares (OLS) residuals for parameter stability en route to estimating the autoregressive distributed lag (ARDL) regression.
+The environmental Kuznets curve (EKC) hypothesis is valid in South Africa with an extreme point of ZAR 56,114 which occurred in 2011.
+Evidence from the study reveals that political institutional quality plays a huge role in the social, governance and economic readiness to mitigate climate change and its impact.
+Structural adjustment in disaggregate and aggregate energy consumption, economic growth, and political institutional quality play a critical role in environmental quality.
+Fossil-fuel rich countries require diversification of the energy portfolio by incorporating renewable energy sources which will promote environmental sustainability and improve air quality while reducing their economy's vulnerability to price volatility.
+A paradigm shift from energy and carbon-intensive industries to a service-oriented economy will cause a structural economic change thus, aiding in the mitigation of climate change and its impacts.

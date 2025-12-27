@@ -1,0 +1,19 @@
+Road traffic collisions in Malawi: Trends and patterns of mortality on scene
+Background:                    Worldwide, 90% of injury deaths occur in low- and middle-income countries (LMIC).
+Road traffic collisions (RTCs) are increasingly common and result in more death and disability in the developing world than in the developed world.
+We aimed to examine the pre-hospital case fatality rate from RTCs in Malawi.
+Material and methods:                    A retrospective study was performed utilizing the Malawian National Road Safety Council (NRSC) registry from 2008-2012.
+The NRSC data were collected at the scene by police officers.
+Victim, vehicle, and environmental factors were used to describe the characteristics of fatal collisions.
+Case fatality rate was defined as the number of fatalities divided by the number of people involved in RTCs each year.
+Logistic regression analysis was used to determine predictors of crash scene fatality.
+Results:                    A total of 11,467 RTCs were reported by the NRSC between 2008 and 2012.
+Of these, 34% involved at least one fatality at the scene.
+The average age of fatalities was 32 years and 82% were male.
+Drivers of motor vehicles had the lowest odds of mortality following RTCs.
+Compared to drivers; pedestrians had the highest odds of mortality (OR 39, 95% CI 34, 45) followed by bicyclists (OR 26, 95% CI 22, 31).
+The average case fatality rate was 17% /year, and showed an increased throughout the study period.
+Conclusions:                    RTCs are a common cause of injury in Malawi.
+Approximately one-third of RTCs involved at least one death at the scene.
+Pedestrians were particularly vulnerable, exhibiting very high odds of mortality when involved in a road traffic collision.
+We encourage the use of these data to develop strategies in LMIC countries to protect pedestrians and other road users from RTCs.

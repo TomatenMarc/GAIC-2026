@@ -1,0 +1,13 @@
+Substance abuse in emergency department patients with unexplained syncope.
+Current data suggest that up to 60 % of patients presenting to the ED with syncope leave the hospital without a defined etiology.
+Although a relationship between syncope and substance abuse has been described, no study to date has looked at the relationship between syncope of unknown etiology and substance abuse in patients presenting to the ED.
+The objective of the study was to determine whether a history of or current substance abuse is associated with an increased incidence of syncope of unknown etiology in ED patients.
+A prospective, observational, cohort study of consecutive ED patients aged ≥18 who presented with syncope was conducted between 603 and 706.
+Patients were queried in the ED and charts reviewed about a history of or current substance abuse.
+Substance abuse was defined as consumption of 2 alcoholic beverages nightly, repetitive use of any illicit substances, or documentation by the patient's physician of concern regarding suspected substance abuse.
+Data were analyzed using SAS with Chi-squared and Fisher's exact tests.
+We enrolled 518 patients who presented to the ED after syncope, 161 of whom did not have an identifiable etiology for their syncopal event.
+62 patients had a history of, or current substance abuse.
+Among patients with a history of, or current substance abuse, 45 % had unexplained syncope, as opposed to 29 % of patients without such a history (p = 0.01).
+Our results suggest that prior and current substance abuse is associated with increased incidence of syncope of unknown etiology.
+Patients evaluated in the ED or even hospitalized with syncope of unknown etiology may benefit from substance abuse screening and possibly detoxification referral.

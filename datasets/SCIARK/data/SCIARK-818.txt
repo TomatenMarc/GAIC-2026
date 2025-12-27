@@ -1,0 +1,7 @@
+Title: Hydroclimate changes across the Amazon lowlands over the past 45,000 years
+Abstract: Reconstructing the history of tropical hydroclimates has been difficult, particularly for the Amazon basin-one of Earth's major centres of deep atmospheric convection.
+For example, whether the Amazon basin was substantially drier or remained wet during glacial times has been controversial, largely because most study sites have been located on the periphery of the basin, and because interpretations can be complicated by sediment preservation, uncertainties in chronology, and topographical setting.
+Here we show that rainfall in the basin responds closely to changes in glacial boundary conditions in terms of temperature and atmospheric concentrations of carbon dioxide.
+Our results are based on a decadally resolved, uranium/thorium-dated, oxygen isotopic record for much of the past 45,000 years, obtained using speleothems from Paraíso Cave in eastern Amazonia; we interpret the record as being broadly related to precipitation.
+Relative to modern levels, precipitation in the region was about 58% during the Last Glacial Maximum (around 21,000 years ago) and 142% during the mid-Holocene epoch (about 6,000 years ago).
+We find that, as compared with cave records from the western edge of the lowlands, the Amazon was widely drier during the last glacial period, with much less recycling of water and probably reduced plant transpiration, although the rainforest persisted throughout this time.

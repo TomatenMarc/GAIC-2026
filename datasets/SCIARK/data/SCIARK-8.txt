@@ -1,0 +1,9 @@
+China’s provincial industrial energy efficiency and its determinants
+Abstract:
+We employ a two-stage approach to analyze the determinants of energy efficiency of 28 provinces in China.
+In the first stage, we apply the Data Envelopment Analysis (DEA) technique to annual panel data from 2000 to 2006 to assess provincial industrial energy efficiency, taking into consideration the minimization of energy consumption and the effects of undesirable outputs.
+In the second stage, we study the determinants of energy efficiency by selecting four independent variables including the marketization index, GDP per capita, industrial R&D investment per capita and coal consumption percentage and performing random effects tobit regressions at country and regional levels.
+The results show that in most circumstances energy efficiency increases with the marketization index, GDP per capita, and industrial R&D investment per capita, and decreases with coal consumption percentage at country level.
+However, marketization and GDP per capita lose their explanatory power on energy efficiency in central and western regions, and coal consumption percentage loses its explanatory power in all regions.
+We also investigate the time effect and the differences in individual effects among regions.
+Based on these findings, we propose policy measures to enhance provincial industrial energy efficiency.

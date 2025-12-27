@@ -1,0 +1,15 @@
+Title: An apple a day: Protective associations between nutrition and the mental health of immigrants in Canada
+Abstract
+Purpose: Mental illness represents a major public health burden among Canada's large immigrant population.
+A burgeoning cross-sectional, longitudinal, and experimental evidence base implicates nutrition in mental health.
+Healthier diets (e.g., those rich in certain micro-nutrients) may benefit cognitive, social, and emotional functioning through attenuated inflammation and other bio-psychological pathways.
+The present study examined associations between nutrition and three markers of mental health among immigrants to Canada.
+Methods: Employing cross-sectional data from immigrant respondents (n = 37,071) to a nationally representative population-based survey (the Canadian Community Health Survey: CCHS 2011-2014), we modelled associations of daily fruit and vegetable consumption with three mental health outcomes: anxiety and/or mood disorder diagnosis, being distressed (assessed via the 6-item Kessler Psychological Distress Scale), and having good self-rated overall mental health.
+Multivariable logistic regression analyses were employed, adjusting for various socio-demographic and lifestyle-related variables.
+Results: Higher consumption of fruit and vegetables demonstrated significant, protective associations with odds of having a mood and/or anxiety disorder, being distressed, and self-rated good mental health.
+Such patterns of association were similar regardless of ethno-cultural minority status and recency of immigration.
+Moreover, the protective associations of nutrition and mental health were independent of socio-demographic, health, and lifestyle factors.
+Conclusions: Results suggested evidence of protective associations between healthy nutritional intake and mental illness among a large-scale sample of immigrants in Canada.
+Importantly, the protective associations of healthier diets with immigrants' mental health were independent of various markers of healthy lifestyles (e.g., general health status, physical activity, alcohol use).
+Healthy dietary intake may, therefore, be worth consideration in efforts to prevent mental illness among immigrants.
+Keywords: Canada; Diet; Immigration; Mental health; Nutrition.

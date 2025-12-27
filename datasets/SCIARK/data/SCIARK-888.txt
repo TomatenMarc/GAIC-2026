@@ -1,0 +1,14 @@
+Multi-factor impact analysis of agricultural production in Bangladesh with climate change
+Abstract: Diverse vulnerabilities of Bangladesh's agricultural sector in 16 sub-regions are assessed using experiments designed to investigate climate impact factors in isolation and in combination.
+Climate information from a suite of global climate models (GCMs) is used to drive models assessing the agricultural impact of changes in temperature, precipitation, carbon dioxide concentrations, river floods, and sea level rise for the 2040–2069 period in comparison to a historical baseline.
+Using the multi-factor impacts analysis framework developed in Yu et al.
+(2010), this study provides new sub-regional vulnerability analyses and quantifies key uncertainties in climate and production.
+Rice (aman, boro, and aus seasons) and wheat production are simulated in each sub-region using the biophysical Crop Environment REsource Synthesis (CERES) models.
+These simulations are then combined with the MIKE BASIN hydrologic model for river floods in the Ganges-Brahmaputra-Meghna (GBM) Basins, and the MIKE21 Two-Dimensional Estuary Model to determine coastal inundation under conditions of higher mean sea level.
+The impacts of each factor depend on GCM configurations, emissions pathways, sub-regions, and particular seasons and crops.
+Temperature increases generally reduce production across all scenarios.
+Precipitation changes can have either a positive or a negative impact, with a high degree of uncertainty across GCMs.
+Carbon dioxide impacts on crop production are positive and depend on the emissions pathway.
+Increasing river flood areas reduce production in affected sub-regions.
+Precipitation uncertainties from different GCMs and emissions scenarios are reduced when integrated across the large GBM Basins’ hydrology.
+Agriculture in Southern Bangladesh is severely affected by sea level rise even when cyclonic surges are not fully considered, with impacts increasing under the higher emissions scenario.

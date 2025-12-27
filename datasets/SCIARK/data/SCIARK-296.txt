@@ -1,0 +1,13 @@
+Title: Neighborhood Environments and Socioeconomic Inequalities in Mental Well-Being
+Abstract
+Introduction: It has been suggested that socioeconomic inequalities in health might be reduced among populations with good access to green space.
+However, the potential for other neighborhood characteristics to reduce socioeconomic health inequalities, or to confound the effects of green space, has not been well explored.
+Therefore, this study investigates which, if any, neighborhood characteristics are associated with narrower socioeconomic inequalities in mental well-being in a large, international sample of urban residents.
+Methods: The 2012 European Quality of Life Survey provided data on 21,294 urban residents from 34 European nations.
+Associations between mental well-being (captured by the WHO-5 scale) and level of financial strain were assessed for interaction with five different neighborhood characteristics, including reported access to recreational/green areas, financial services, transport, and cultural facilities.
+Multilevel regression models allowed for clustering of individuals within region and country in this cross-sectional, observational study.
+Data were analyzed in 2014.
+Results: Socioeconomic inequality in mental well-being was 40% (8.1 WHO-5 points) narrower among respondents reporting good access to green/recreational areas, compared with those with poorer access.
+None of the other neighborhood characteristics or services were associated with narrower inequality.
+Conclusions: If societies cannot, or will not, narrow socioeconomic inequality, research should explore the so-called equigenic environments-those that can disrupt the usual conversion of socioeconomic inequality to health inequality.
+This large, international, observational study suggests that access to recreational/green areas may offer such a disruption.

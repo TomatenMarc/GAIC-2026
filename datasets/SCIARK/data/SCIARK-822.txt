@@ -1,0 +1,18 @@
+Suicide and unintentional poisoning mortality trends in the United States, 1987-2006: two unrelated phenomena?
+BACKGROUND: Two counter trends in injury mortality have been separately reported in the US in recent times - a declining suicide rate and a rapidly rising unintentional poisoning mortality rate.
+Poisoning suicides are especially difficult to detect, and injury of undetermined intent is the underlying cause-of-death category most likely to reflect this difficulty.
+We compare suicide and poisoning mortality trends over two decades in a preliminary assessment of their independence and implications for suicide misclassification.
+METHODS: Description of overall and gender- and age-specific trends using national mortality data from WISQARS, the Web-based Injury Statistics Query and Reporting System, maintained by the Centers for Disease Control and Prevention (CDC).
+Subjects were the 936,633 residents dying in the 50 states and the District of Columbia between 1987 and 2006 whose underlying cause of death was classified as suicide, unintentional poisoning, or injury mortality of undetermined intent.
+RESULTS: The official US suicide rate declined 18% between 1987 and 2000, from 12.71 to 10.43 deaths per 100,000 population.
+It then increased to 11.15 deaths per 100,000 by 2006, a 7% rise.
+By contrast to these much smaller rate changes for suicide, the unintentional poisoning mortality rate rose more than fourfold between 1987 and 2006, from 2.19 to 9.22 deaths per 100,000.
+Only the population aged 65 years and older showed a sustained decline in the suicide rate over the entire observation period.
+Consistently highest in gender-age comparisons, the elderly male rate declined by 35%.
+The elderly female rate declined by 43%.
+Unlike rate trends for the non-elderly, both declines appeared independent of corresponding mortality trends for unintentional poisoning and poisoning of undetermined intent.
+The elderly also deviated from younger counterparts by having a smaller proportion of their injury deaths of undetermined intent classified as poisoning.
+Poisoning manifested as a less common method of suicide for this group than other decedents, except for those aged 15-24 years.
+Although remaining low, the undetermined poisoning mortality rate increased over the observation period.
+CONCLUSIONS: The official decline in the suicide rate between 1987 and 2000 may have been a partial artifact of misclassification of non-elderly suicides within unintentional poisoning mortality.
+We recommend in-depth national, regional, and local population-based research investigations of the poisoning-suicide nexus, and endorse calls for widening the scope of the definition of suicide and evaluation of its risk factors.

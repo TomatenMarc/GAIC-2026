@@ -1,0 +1,9 @@
+The effect of local and global learning on the cost of renewable energy in developing countries
+Abstract: High upfront costs are a critical barrier for investments in clean infrastructure technologies in developing countries.
+This paper uses a case study of Thailand's electricity sector to create realistic estimates for the relative contributions of local and global technological learning to reducing these cost in the future and discusses implications of such learnings for international climate policy.
+For six renewable electricity technologies, we derive estimates for the share of locally and globally sourced goods and services, and analyze the effects of local and global learning during the implementation of Thailand's renewable energy targets for 2021.
+Our results suggest that, in aggregate, the largest potential for cost reduction lies in local learning.
+This finding lends quantitative support to the argument that the conditions enabling local learning, such as a skilled workforce, a stable regulatory framework, and the establishment of sustainable business models, have a more significant impact on cost of renewable energy in developing countries than global technology learning curves.
+The recent shift of international support under the United Nations Framework Convention on Climate Change towards country-specific technology support is therefore promising.
+However, our results also show that the relative importance of local and global learning differs significantly between technologies, and is determined by technology and country characteristics.
+This suggests that international support need to consider both the global perspective and local context and framework conditions in order to reap the full benefits of technological learning across the wide range of clean technologies.

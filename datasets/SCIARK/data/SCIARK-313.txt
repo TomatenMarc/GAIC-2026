@@ -1,0 +1,7 @@
+Title:Association of Job Satisfaction and Security With Subjective Health and Well-Being in Korean Employees
+Objectives: We evaluated an association of workplace exposure to physical factors (physical, chemical, and ergonomic hazards) and psychosocial factors, and of job satisfaction and job security with the subjective health and well-being of Korean workers.
+Methods: This was a secondary analysis of data from the fourth Korean Working Conditions Survey of 2014.
+Results: Exposure to physical factors (especially ergonomic factors) and psychosocial factors were negatively associated with good subjective health and well-being.
+After adjustment for confounding by physical factors and psychosocial factors, job satisfaction and job security were positively associated with good subjective health and well-being.
+Conclusion: Korean workers with high job satisfaction and job security are more likely to have good subjective health and well-being, even when they are exposed to physical and psychosocial workplace factors.
+However, job satisfaction cannot be treated as a proxy for good working conditions

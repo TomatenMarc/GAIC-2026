@@ -1,0 +1,10 @@
+Are older drivers actually at higher risk of involvement in collisions resulting in deaths or non-fatal injuries among their passengers and other road users?
+Objectives:                    With more older drivers on the road, public concern has been expressed about their impact on traffic safety.
+This study revisited the question of driver age in relation to the risks of older drivers and others sharing the road with them, including pedestrians, passengers in the same vehicle, and occupants of other vehicles.
+Methods:                    Using United States federal data on fatal and non-fatal crashes, injury rates per driver were calculated for different types of road users.
+In addition, using data supplied by nine insurers, insurance claims per insured vehicle year were examined by driver age.
+The reference drivers were aged 30-59.
+Results:                    For fatal crashes, older drivers' major impact on road users other than themselves was an increase in death rates among their passengers, who also tended to be elderly and thus more vulnerable to injuries (rate ratio (RR) for drivers aged 75+ 2.52; 95% confidence interval (CI) 2.39 to 2.66).
+For non-fatal crashes, drivers aged 75+ had a RR of 1.10 (95% CI 0.98 to 1.24) for involvement in collisions resulting in injuries to other passenger vehicles' occupants compared with 30-59 year old drivers.
+The oldest drivers (aged 85+) had significant increases in insurance claims for injuries to other road users in crashes in which they were deemed at fault (RR 1.8; 95% CI 1.71 to 1.89).
+Conclusions:                    These findings suggest that the oldest drivers, a group with low average annual mileage, do pose some increased risks to occupants of other vehicles, and pose the most serious risks to themselves and their passengers.

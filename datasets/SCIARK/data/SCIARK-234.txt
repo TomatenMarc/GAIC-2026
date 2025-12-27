@@ -1,0 +1,8 @@
+Quantification of subsurface thermal regimes beneath evaporating porous surfaces
+Abstract: The spatial distribution and dynamics of non-uniform evaporative mass fluxes from porous media are quantified remotely from induced surface thermal field obtained by spatially resolved infrared thermometry.
+Conversion of surface thermal signatures to the estimation of evaporation fluxes hinges on knowledge of the unobservable characteristic thermal decay depth.
+We considered quasi-static evaporation fluxes combined with measured surface thermal fields within a surface energy balance model to obtain a general analytical approximation for the thermal decay depth.
+This approximation was experimentally evaluated using side view IR imagery of temperature fields beneath an evaporative surface.
+The analytical approximation reveals dependency of thermal decay depth on the magnitude of evaporative flux which was also sensitive to convection and radiation intensity.
+Results indicate that typical values of evapo-thermal decay depth for a wide range of natural soil surfaces is in the range of a few centimeters (<5cm).
+The solution enables remote estimation of non-uniform evaporative fluxes from surface temperature fields [1].

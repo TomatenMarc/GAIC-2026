@@ -1,0 +1,8 @@
+How do oil prices, macroeconomic factors and policies affect the market for renewable energy?
+Abstract
+The aim of this study is to determine the nature of any relationship between renewable energy investment, oil prices, GDP and the interest rate, using a time series approach.
+We concentrate on three countries with different relationships with the renewable energy sector, with Norway and the UK being oil-exporters for most of the sample and the USA an importer.
+Following estimation using a VAR model, the results provide evidence of considerable heterogeneity across the countries, with the USA and Norway having a strong relationship between oil prices and renewable energy and the UK no relationship.
+These results reflect the fact that the USA is predominantly an oil-importer during most of this sample and supports renewable energy relatively less than the other countries, so changes to renewable energy investment reflect other factors in the market such as the price of substitutes to a greater extent than countries where renewable energy receives more government support.
+Similarly with Norway, where due to its market orientated approach, there is some evidence of the macroeconomy affecting the renewable energy market.
+The main policy implications from this study are that in countries where there is little support for the renewable energy sector, investment will be more dependent on macroeconomic aspects as well as substitutes such as oil, therefore the authorities will need to potentially increase financial support when oil prices are low or when the economy is in a downturn to ensure investment in RE continues at a constant level.

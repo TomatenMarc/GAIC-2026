@@ -1,0 +1,17 @@
+Beyond face-to-face individual counseling: A systematic review on alternative modes of motivational interviewing in substance abuse treatment and prevention
+OBJECTIVES: This systematic review aimed to synthesize the evidence on the effectiveness of motivational interviewing (MI), delivered in modes other than face-to-face individual counseling, in preventing and treating substance abuse related behaviors.
+METHODS: Four databases (PubMed/MEDLINE, PsycINFO, ISI Web of Science and Cochrane Library) were searched for randomised clinical trials (RCTs) that evaluated the effectiveness of alternative modes of MI (other than face-to-face individual counseling) in preventing and treating substance abuse.
+Eligible studies were rated on methodological quality and their findings were qualitatively synthesized.
+RESULTS: A total of 25 articles (on 22 RCTs) were eligible for this review.
+Beyond face-to-face counseling, telephone was the most frequently used medium for delivering MI (11 studies), followed by Internet communication (4 studies) and short message service (SMS) (2 studies).
+Mail was incorporated as a supplement in one of the studies for telephone MI.
+In contrast to one-to-one individual counseling, group MI was adopted in 5 studies.
+The effectiveness of telephone MI in treating substance abuse was supported by all of the published RCTs we located.
+Internet-based MI was effective in preventing and treating alcoholism, but its outcome appeared to be inconsistent for smoking cessation and poor for abstinence from illicit drugs.
+SMS-based MI appeared to be useful for controlling tobacco and drinking.
+Group MI was attempted for quitting alcohol and drugs, with mixed findings on its outcomes.
+CONCLUSIONS: Collectively, the studies reviewed indicate that telephone MI is a promising mode of intervention in treating and preventing substance abuse.
+The effectiveness of other alternative modes (SMS-based MI, Internet-based MI and group MI) remains inconclusive given the controversial findings and a limited number of studies.
+By synthesizing the currently available evidence, this systematic review suggested that telephone MI might be considered as an alternative to face-to-face MI for treating and preventing substance abuse.
+Further research is needed to investigate the effectiveness of SMS-based MI, Internet MI, group MI and other alternative modes.
+Studies with methodological rigor and incorporating MI fidelity measures have great potential to advance the understanding in this field.

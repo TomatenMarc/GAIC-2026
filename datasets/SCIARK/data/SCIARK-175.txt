@@ -1,0 +1,8 @@
+Trends in Suicide Mortality by Method from 1979 to 2016 in Japan
+Suicide is a major public health concern in Japan.
+This study aimed to characterize the trends in suicide mortality in Japan by method since 1979.
+Using data from the Japan vital registration system, we calculated age-standardized rates of suicide mortality separately by sex and method.
+We conducted a log-linear regression of suicide mortality rates separately by sex, and linear regression analysis of the proportion of deaths due to hanging, including a test for change in level and trend in 1998.
+While crude suicide rates were static over the time period, age-adjusted rates declined.
+The significant increase in suicide mortality in 1998 was primarily driven by large changes in the rate of hanging, with suicide deaths after 1998 having 36.7% higher odds of being due to hanging for men (95% CI: 16.3-60.8%), and 21.9% higher odds of being due to hanging for women (95% CI: 9.2-35.9%).
+Hanging has become an increasingly important method for committing suicide over the past 40 years, and although suicide rates have been declining continuously over this time, more effort is needed to prevent hanging and address the potential cultural drivers of suicide if the rate is to continue to decline in the future.

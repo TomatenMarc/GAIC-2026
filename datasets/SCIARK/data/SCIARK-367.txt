@@ -1,0 +1,9 @@
+Title: Global estimates of mortality associated with long-term exposure to outdoor fine particulate matter
+Abstract: Exposure to ambient fine particulate matter (PM2.5) is a major global health concern.
+Quantitative estimates of attributable mortality are based on disease-specific hazard ratio models that incorporate risk information from multiple PM2.5 sources (outdoor and indoor air pollution from use of solid fuels and secondhand and active smoking), requiring assumptions about equivalent exposure and toxicity.
+We relax these contentious assumptions by constructing a PM2.5-mortality hazard ratio function based only on cohort studies of outdoor air pollution that covers the global exposure range.
+We modeled the shape of the association between PM2.5 and nonaccidental mortality using data from 41 cohorts from 16 countries—the Global Exposure Mortality Model (GEMM).
+We then constructed GEMMs for five specific causes of death examined by the global burden of disease (GBD).
+The GEMM predicts 8.9 million [95% confidence interval (CI): 7.5–10.3] deaths in 2015, a figure 30% larger than that predicted by the sum of deaths among the five specific causes (6.9; 95% CI: 4.9–8.5) and 120% larger than the risk function used in the GBD (4.0; 95% CI: 3.3–4.8).
+Differences between the GEMM and GBD risk functions are larger for a 20% reduction in concentrations, with the GEMM predicting 220% higher excess deaths.
+These results suggest that PM2.5 exposure may be related to additional causes of death than the five considered by the GBD and that incorporation of risk information from other, nonoutdoor, particle sources leads to underestimation of disease burden, especially at higher concentrations.

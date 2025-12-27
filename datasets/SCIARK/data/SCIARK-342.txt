@@ -1,0 +1,21 @@
+﻿Prevalence of and factors associated with male perpetration of intimate partner violence: findings from the UN Multi-country Cross-sectional Study on Men and Violence in Asia and the Pacific.
+BACKGROUND
+Male perpetration of intimate partner violence (IPV) is under-researched.
+In this Article, we present data for the prevalence of, and factors associated with, male perpetration of IPV from the UN Multi-country Cross-sectional Study on Men and Violence in Asia and the Pacific.
+We aimed to estimate the prevalence of perpetration of partner violence, identify factors associated with perpetration of different forms of violence, and inform prevention strategies.
+METHODS
+We undertook standardised population-based household surveys with a multistage representative sample of men aged 18-49 years in nine sites in Bangladesh, China, Cambodia, Indonesia, Sri Lanka, and Papua New Guinea between January, 2011, and December, 2012.
+We built multinomial regression models of factors associated with lifetime violence perpetration: physical IPV, sexual IPV, both physical and sexual IPV, multiple emotional or economic IPV versus none, and calculated population-attributable fractions.
+In the analysis, we considered factors related to social characteristics, gender attitudes and relationship practices, victimisation history, psychological factors, substance misuse, and participation in violence outside the home.
+FINDINGS
+10,178 men completed interviews in our study (between 815 and 1812 per site).
+The response rate was higher than 82·5% in all sites except for urban Bangladesh (73·2%) and Sri Lanka (58·7%).
+The prevalence of physical or sexual IPV perpetration, or both, varied by site, between 25·4% (190/746; rural Indonesia) and 80·0% (572/714; Bougainville, Papua New Guinea).
+When multiple emotional or economic abuse was included, the prevalence of IPV perpetration ranged from 39·3% (409/1040; Sri Lanka) to 87·3% (623/714; Bougainville, Papua New Guinea).
+Factors associated with IPV perpetration varied by country and type of violence.
+On the basis of population-attributable fractions, we show factors related to gender and relationship practices to be most important, followed by experiences of childhood trauma, alcohol misuse and depression, low education, poverty, and involvement in gangs and fights with weapons.
+INTERPRETATION
+Perpetration of IPV by men is highly prevalent in the general population in the sites studied.
+Prevention of IPV is crucial, and interventions should address gender socialisation and power relations, abuse in childhood, mental health issues, and poverty.
+Interventions should be tailored to respond to the specific patterns of violence in various contexts.
+Physical and sexual partner violence might need to be addressed in different ways.

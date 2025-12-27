@@ -1,0 +1,10 @@
+Effects of experimental protocol on global vegetation model accuracy: A comparison of simulated and observed vegetation patterns for Asia
+Abstract: Prognostic vegetation models have been widely used to study the interactions between environmental change and biological systems.
+This study examines the sensitivity of vegetation model simulations to: (i) the selection of input climatologies representing different time periods and their associated atmospheric CO2 concentrations, (ii) the choice of observed vegetation data for evaluating the model results, and (iii) the methods used to compare simulated and observed vegetation.
+We use vegetation simulated for Asia by the equilibrium vegetation model BIOME4 as a typical example of vegetation model output.
+BIOME4 was run using 19 different climatologies and their associated atmospheric CO2 concentrations.
+The Kappa statistic, Fuzzy Kappa statistic and a newly developed map-comparison method, the Nomad index, were used to quantify the agreement between the biomes simulated under each scenario and the observed vegetation from three different global land- and tree-cover data sets: the global Potential Natural Vegetation data set (PNV), the Global Land Cover Characteristics data set (GLCC), and the Global Land Cover Facility data set (GLCF).
+The results indicate that the 30-year mean climatology (and its associated atmospheric CO2 concentration) for the time period immediately preceding the collection date of the observed vegetation data produce the most accurate vegetation simulations when compared with all three observed vegetation data sets.
+The study also indicates that the BIOME4-simulated vegetation for Asia more closely matches the PNV data than the other two observed vegetation data sets.
+Given the same observed data, the accuracy assessments of the BIOME4 simulations made using the Kappa, Fuzzy Kappa and Nomad index map-comparison methods agree well when the compared vegetation types consist of a large number of spatially continuous grid cells.
+The results of this analysis can assist model users in designing experimental protocols for simulating vegetation.

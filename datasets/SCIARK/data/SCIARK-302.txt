@@ -1,0 +1,18 @@
+Investigating risk factors for under-five mortality in an HIV hyper-endemic area of rural South Africa, from 2000-2014
+Introduction: Despite global progress, there remains a disproportionate burden of under-five year old deaths in sub-Saharan Africa (SSA), where four out of five child deaths occur.
+Substantial progress has been made in improving sanitation, controlling communicable diseases and the spread of HIV in most parts of the world.
+However, significant strides to address some key risk factors related to under-five mortality are still needed in rural SSA if they are to attain relevant 2030 SDG targets.
+The aim of this study is to investigate the risk factors for under-five mortality in an HIV hyper-endemic area of rural South Africa, from 2000-2014.
+Some of the key risk factors investigated are, for example: household wealth, source of drinking water, distance to the national road and birth order.
+Methods: We conducted a statistical analysis of 759 births from a population-based cohort in rural KwaZulu-Natal Province, South Africa, from 2000 to 2014.
+A Cox Proportional Hazards model was used to identify the risk factors and key socio-demographic correlates of under-five mortality leveraging the longitudinal structure of the population cohort.
+Results: Child mortality rates declined by 80 per cent from 2000 to 2014, from >140 per 1,000 persons in years 2001-2003 to 20 per 1,000 persons in the year 2014.
+The highest under-five mortality rate was recorded in 2002/2003, which decreased following the start of antiretroviral therapy rollout in 2003/4.
+The results indicated that under-five and infant mortality are significantly associated with a low wealth index of 1.49 (1.007-2.48) for under-fives and 3.03 (1.72-5.34) for infants.
+Children and infants with a lower wealth index had a significantly increased risk of mortality as compared to those with a high wealth index.
+Other significant factors included: source of household drinking water (borehole) 3.03 (1.72-5.34) for under-fives and 2.98 (1.62-5.49) for infants; having an HIV positive mother 4.22 (2.68-6.65) for under-fives and 3.26 (1.93-5.51) for infants, and period of death 9.13 (5.70-14.6) for under-fives and 1.28 (0.75-2.20) for infants.
+Wealth index had the largest population attributable fraction of 25.4 per cent.
+Conclusions: The research findings show a substantial overall reduction in under-five mortality since 2003.
+Unsafe household water sources and having an HIV-positive mother were associated with an increased risk of under-five mortality in this rural setting.
+The significant risk factors identified align well with the SDG 2030 targets for reducing child mortality, which include improved nutrition, sanitation, hygiene and reduced HIV infections.
+Current trajectories suggest that there is some hope for meeting the 2030 SGD targets in rural South Africa and the region if the identified significant risk factors are adequately addressed.

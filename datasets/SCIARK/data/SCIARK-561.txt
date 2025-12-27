@@ -1,0 +1,14 @@
+Title: Determinants of mental health and well-being within rural and remote communities
+Background: The individual and contextual factors influencing current mental health and well-being within rural communities are poorly understood.
+Methods: A stratified random sample of adults was drawn from non-metropolitan regions of NSW, Australia.
+One-quarter (27.7%) of the 2,639 respondents were from remote/very remote regions.
+An aggregate measure of current well-being was derived from levels of distress and related impairment (Kessler-10 LM), self-reported overall physical and mental health, functioning, satisfaction with relationships, and satisfaction with life.
+Multivariate methods investigated the contributions to current well-being of demographic/dispositional factors, recent events and social support, individual exposure to rural adversity, and district/neighbourhood level characteristics.
+Results: Respondents from very remote regions tended to be younger and have lower education.
+Univariate associations were detected between well being and exposure to rural adversity (greater drought-related worry, lower perceived service and support availability, greater number of years living in the current district).
+Multivariate analysis (n = 2,462) accounted for 41% of the variance in well-being scores.
+The major contributing variables were dispositional factors (trait neuroticism, marital status), recent adverse events and indices of social support.
+However, no additional effects were detected for district-level variables (drought severity, regional socioeconomic categorisation, population change).
+Similar associations were detected using the K-10 alone as the outcome measure.
+Conclusions: The chief determinants of current well being were those reflecting individual level attributes and perceptions, rather than district-level rural characteristics.
+This has implications for strategies to promote well being within rural communities through enhancing community connectedness and combating social isolation in the face of major adversities such as drought.

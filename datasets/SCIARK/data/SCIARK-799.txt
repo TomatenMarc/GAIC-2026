@@ -1,0 +1,15 @@
+Effect of increased building-integrated renewable energy on building energy portfolio and energy flows in an urban district of Korea
+Abstract
+Renewable energy sources such as solar panels with energy storage, ground-source heat pumps, and fuel cells are increasingly being integrated into buildings to improve their sustainability.
+This paper investigates, for an urban area, the effects of building-integrated renewable energy on the building energy portfolio and electricity & gas flows from the grid.
+In this study, 403 apartment buildings and 269 non-residential buildings (with a floor area over 500 m2) in a district of Seoul, Korea, are assumed to integrate renewable energy sources to satisfy the renewable energy requirements of 10% and 30% of the total energy demand, respectively.
+The optimal renewable energy system for each building has been obtained via Linear Programming.
+The optimization has been carried out based on the hourly electricity, heating, and cooling loads of every building over a 1-year period.
+The energy loads, in turn, have been derived from the monthly electricity and gas usage data for every building.
+The renewable energy portfolio for the apartment buildings consists of photovoltaics, fuel cells, and solar water heaters.
+About 74% of the renewable energy for apartment buildings is provided by photovoltaics.
+The renewable energy portfolio for the non-residential buildings consists of ground-source heat pumps and photovoltaics.
+About 71% of the renewable energy is provided by the ground-source heat pumps.
+Consequently, total electricity and gas supply from the grid to all of the buildings in the district decrease by 17% and 3%, respectively.
+The photovoltaics induce a large variation in power flow from the grid during the daytime (i.e., the so-called Duck curve).
+The annual peak power occurs in the winter mornings because electricity powered heating by ground-source heat pumps replaces gas heating, and maximum heat demand occurs in winter mornings.

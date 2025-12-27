@@ -1,0 +1,14 @@
+Diversification of the cold-adapted butterfly genus Oeneis related to Holarctic biogeography and climatic niche shifts
+Abstract: Both geographical and ecological speciation interact during the evolution of a clade, but the relative contribution of these processes is rarely assessed for cold-dwelling biota.
+Here, we investigate the role of biogeography and the evolution of ecological traits on the diversification of the Holarctic arcto-alpine butterfly genus Oeneis (Lepidoptera: Satyrinae).
+We reconstructed the molecular phylogeny of the genus based on one mitochondrial (COI) and three nuclear (GAPDH, RpS5, wingless) genes.
+We inferred the biogeographical scenario and the ancestral state reconstructions of climatic and habitat requirements.
+Within the genus, we detected five main species groups corresponding to the taxonomic division and further paraphyletic position of Neominois (syn.
+n.).
+Next, we transferred O. aktashi from the hora to the polixenes species group on the bases of molecular relationships.
+We found that the genus originated in the dry grasslands of the mountains of Central Asia and dispersed over the Beringian Land Bridges to North America several times independently.
+Holarctic mountains, in particular the Asian Altai Mts.
+and Sayan Mts., host the oldest lineages and most of the species diversity.
+Arctic species are more recent, with Pliocene or Pleistocene origin.
+We detected a strong phylogenetic signal for the climatic niche, where one lineage diversified towards colder conditions.
+Altogether, our results indicate that both dispersal across geographical areas and occupation of distinct climatic niches promoted the diversification of the Oeneis genus.

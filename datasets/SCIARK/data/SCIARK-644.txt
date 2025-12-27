@@ -1,0 +1,16 @@
+Gender differences in academic surgery, work-life balance, and satisfaction
+Abstract
+Background: An increasing number of women are pursuing a career in surgery.
+Concurrently, the percentage of surgeons in dual-profession partnerships is increasing.
+We sought to evaluate the gender differences in professional advancement, work-life balance, and satisfaction at a large academic center.
+Materials and methods: All surgical trainees and faculty at a single academic medical center were surveyed.
+Collected variables included gender, academic rank, marital status, family size, division of household responsibilities, and career satisfaction.
+Student t-test, Fisher's exact test, and chi-square test were used to compare results.
+Results: There were 127 faculty and 116 trainee respondents (>80% response rate).
+Respondents were mostly male (77% of faculty, 58% of trainees).
+Women were more likely than men to be married to a professional (90% versus 37%, for faculty; 82% versus 41% for trainees, P < 0.001 for both) who was working full time (P < 0.001) and were less likely to be on tenure track (P = 0.002).
+Women faculty were more likely to be primarily responsible for childcare planning (P < 0.001), meal planning (P < 0.001), grocery shopping (P < 0.001), and vacation planning (P = 0.003).
+Gender-neutral responsibilities included financial planning (P = 0.04) and monthly bill payment (P = 0.03).
+Gender differences in division of household responsibilities were similar in surgical trainees except for childcare planning, which was a shared responsibility.
+Conclusions: Women surgeons are more likely to be partnered with a full-time working spouse and to be primarily responsible for managing their households.
+Additional consideration for improvement in recruitment and retention strategies for surgeons might address barriers to equalizing these gender disparities.

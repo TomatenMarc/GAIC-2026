@@ -1,0 +1,10 @@
+Renewable and non-renewable categories of energy consumption and trade: Do the development degree and the industrialization degree matter?
+The current study discusses the linear and non-linear relationship between trade, and non-renewable and renewable energy consumption using data of 72 countries extending from 1990 to 2012.
+Our empirical models integrate some additional variables which affect the above-mentioned relationship such as GDP, CO2 emissions, domestic resources abundance, and some interaction terms.
+The innovation of the paper is not only to compare between developed and developing countries but also between industrialized countries and non-industrialized ones by integrating some dummy variables into the models.
+The empirical results demonstrate that trade and energy consumption (renewable or non-renewable) have a mutually reinforcing linear relationship.
+Moreover, the validity of non-linear relationships is accepted only in the case of the impact of non-renewable on trade.
+This latter follows an inverted U-shape form in the case of developed and industrialized countries while a U-Shape one in the case of developing and non-industrialized countries.
+In addition, the findings indicate a positive contribution of GDP, capital, and labor on trade and energy consumption.
+However, CO2 emissions and natural resource have positive impacts on trade and non-renewable energy while negative effect on renewable energy.
+It implies that policy makers should develop appropriate policies to profit from trade and energy consumption.

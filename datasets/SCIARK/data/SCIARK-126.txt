@@ -1,0 +1,17 @@
+Cooking and Season as Risk Factors for Acute Lower Respiratory Infections in African Children: A Cross-Sectional Multi-Country Analysis
+Background
+Acute lower respiratory infections (ALRI) are a leading cause of death among African children under five.
+A significant proportion of these are attributable to household air pollution from solid fuel use.
+Methods
+We assessed the relationship between cooking practices and ALRI in pooled datasets of Demographic and Health Surveys conducted between 2000 and 2011 in countries of sub-Saharan Africa.
+The impacts of main cooking fuel, cooking location and stove ventilation were examined in 18 (n = 56,437), 9 (n = 23,139) and 6 countries (n = 14,561) respectively.
+We used a causal diagram and multivariable logistic mixed models to assess the influence of covariates at individual, regional and national levels.
+Results
+Main cooking fuel had a statistically significant impact on ALRI risk (p<0.0001), with season acting as an effect modifier (p = 0.034).
+During the rainy season, relative to clean fuels, the odds of suffering from ALRI were raised for kerosene (OR 1.64; CI: 0.99, 2.71), coal and charcoal (OR 1.54; CI: 1.21, 1.97), wood (OR 1.20; CI: 0.95, 1.51) and lower-grade biomass fuels (OR 1.49; CI: 0.93, 2.35).
+In contrast, during the dry season the corresponding odds were reduced for kerosene (OR 1.23; CI: 0.77, 1.95), coal and charcoal (OR 1.35; CI: 1.06, 1.72) and lower-grade biomass fuels (OR 1.07; CI: 0.69, 1.66) but increased for wood (OR 1.32; CI: 1.04, 1.66).
+Cooking location also emerged as a season-dependent statistically significant (p = 0.0070) determinant of ALRI, in particular cooking indoors without a separate kitchen during the rainy season (OR 1.80; CI: 1.30, 2.50).
+Due to infrequent use in Africa we could, however, not demonstrate an effect of stove ventilation.
+Conclusions
+We found differential and season-dependent risks for different types of solid fuels and kerosene as well as cooking location on child ALRI.
+Future household air pollution studies should consider potential effect modification of cooking fuel by season.

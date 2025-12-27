@@ -1,0 +1,7 @@
+Electricity access and income inequality in South Africa: Evidence from Bayesian and NARDL analyses
+Abstract
+Access to modern energy services including electricity is fundamental to fulfilling basic social needs, driving economic growth and fueling human development, hence, the pathway out of poverty to prosperity.
+This study examined the impact of income level, inequality in the distribution of income and the control of corruption on access to electricity from 1990-2017 in South Africa, using Bayesian and nonlinear autoregressive distributed lag (NARDL) estimation approach.
+The long-run asymmetric effects of income level reveal a positive impact on electricity access, thus, validating the initial positive symmetric effect.
+While income inequality has positive effect on accessibility, corruption appears to hinder the roadmap towards achieving energy for all.
+Even though economic development is crucial to materialize access to electricity, yet, efficient and effective financing and investment climate alone are not enough to warrant energy security, but, right policies, good governance and institutional quality.

@@ -1,0 +1,12 @@
+Perceptions of gender equality in post-crisis Europe
+Abstract
+The paper aims to compare the perceptions of gender equality of individuals more or less affected by economic crisis in Europe.
+Crisis touched the economy of most European countries but to a different extent.
+Special focus is given to the perceptions of gender equality of vulnerable groups (female, lesser-educated, one-adult households with children).
+The data is Eurobarometer 2011.
+The sample is limited to respondents aged 18-65.
+According to the results of multilevel regression analysis, those who have suffered from crisis assess lower the current level of gender equality whereas perceptions of gender equality do not differ depending on the effect of crisis upon the country.
+Women assess gender equality more positively compared to men.
+Those who live in one-adult households with children have higher perceptions of gender equality compared to those who live in other types of households.
+The discrepancy between lesser-educated and higher educated is larger in countries that suffered less from crisis.
+However, when the change in GDP per capita is taken as a measure of crisis the effects for family structure and education are not robust.

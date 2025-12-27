@@ -1,0 +1,15 @@
+Hypnotic Medications and Suicide: Risk, Mechanisms, Mitigation, and the FDA
+Objective: Insomnia is associated with increased risk for suicide.
+The Food and Drug Administration (FDA) has mandated that warnings regarding suicide be included in the prescribing information for hypnotic medications.
+The authors conducted a review of the evidence for and against the claim that hypnotics increase the risk of suicide.
+Method: This review focused on modern, FDA-approved hypnotics, beginning with the introduction of benzodiazepines, limiting its findings to adults.
+PubMed and Web of Science were searched, crossing the terms "suicide" and "suicidal" with each of the modern FDA-approved hypnotics.
+The FDA web site was searched for postmarketing safety reviews, and the FDA was contacted with requests to provide detailed case reports for hypnotic-related suicide deaths reported through its Adverse Event Reporting System.
+Results: Epidemiological studies show that hypnotics are associated with an increased risk for suicide.
+However, none of these studies adequately controlled for depression or other psychiatric disorders that may be linked with insomnia.
+Suicide deaths have been reported from single-agent hypnotic overdoses.
+A separate concern is that benzodiazepine receptor agonist hypnotics can cause parasomnias, which in rare cases may lead to suicidal ideation or suicidal behavior in persons who were not known to be suicidal.
+On the other hand, ongoing research is testing whether treatment of insomnia may reduce suicidality in adults with depression.
+Conclusions: The review findings indicate that hypnotic medications are associated with suicidal ideation.
+Future studies should be designed to assess whether increases in suicidality result from CNS impairments from a given hypnotic medication or whether such medication decreases suicidality because of improvements in insomnia.
+Keywords: Sleep; Suicide.

@@ -1,0 +1,7 @@
+Energy storage and multi energy systems in local energy communities with high renewable energy penetration
+This study investigates how a district with a high capacity of non-controllable renewable electricity generation can entirely self-consume its production at a community level either directly or for heating and cooling, thus potentially fulfilling the concept of "Renewable Energy Community".
+It investigates the potential role of storage systems and polygeneration in renewables self-consumption, by also exploiting the synergies among different energy networks in a real residential district with high PV penetration.
+Two scenarios were modeled other than the "baseline": the first one evaluating the optimal portfolio of energy conversion and storage technologies, and a second one achieving the same goal only using batteries.
+Both scenarios proved to be a viable solution to exploit the excess of electricity production from the PV plants in the district only through local self-consumption.
+The results show that a multi-energy system is the most cost-effective solution in doing so, exploiting polygeneration technologies (CHP) and the storage of energy as thermal, electrical, and chemical through power-to-gas.
+In particular, the least cost solution entails a 42 kWe CHP micro gas engine fueled by a natural gas-hydrogen blend, a 135 kWh battery system, and a 2830 kWh hydrogen storage.

@@ -1,0 +1,12 @@
+Title: Hierarchical measurement structure in the Women's Health Questionnaire: a confirmatory factor analysis
+Abstract
+Purpose: This study conducted confirmatory factor analysis (CFA) to examine the measurement structure of the Women's Health Questionnaire (WHQ) and how its components were organized.
+Methods: Participants were 448 postmenopausal women, with a mean age of 63.3 years.
+CFA was conducted to test how well several proposed measurement models fit the data.
+Results: The single-factor model performed poorly, indicating the presence of multiple factors.
+The model with seven correlated factors fit the data well, although the varying degrees of inter-factor correlations suggested grouping of similar factors.
+The hierarchical measurement structure, with seven first-order factors organized under two second-order factors of physical health and mental health functioning, demonstrated a good fit with the data (χ2(367) = 694.05, p < 0.001; root mean square error of approximation = 0.05; comparative fit index = 0.95) and a meaningful pattern.
+The Mental Health factor was represented by Depressed Mood, Anxiety/Fear, Memory/Concentration Problems, and Sleep Problems.
+The Physical Health factor was manifested mainly by Somatic Symptoms, Menstrual Symptoms, and Vasomotor Symptoms, and, to a lesser extent, also by Sleep Problems and Memory/Concentration Problems.
+Conclusion: Findings suggested that, in addition to a global index and subscale scores, the WHQ may produce summary scores of physical health and mental health functioning in evaluation of well-being among postmenopausal women.
+Keywords: Health-related quality of life; confirmatory factor analysis; measurement structure; postmenopausal women; scale validation; women’s health.

@@ -1,0 +1,12 @@
+Integrated analysis of energy-economic development-environmental sustainability nexus: Case study of MENA countries
+Abstract
+The new industrialization necessitates the integration of energy efficiency, economic development, and environmental sustainability.
+However, quantifying the efficiency of renewable energy towards economic development is an ongoing debate.
+On this basis, this study presents a multi net-put efficiency and conventional efficiency approach to analyze non-renewable energy and renewable energy efficiency towards economic development and environmental sustainability nexus.
+Data Envelopment Analysis (DEA) is utilized to estimate multi net-put conventional and renewable energy efficiency.
+Likewise, the Autoregressive Distributed Lag (ARDL) Pooled Mean Group (PMG) approach is applied to examine the impact of non-renewable efficiency on economic growth, total natural resource rent and environmental quality.
+Results show that the efficiency nexus of conventional energy is significant and higher (98%) than renewable energy (69.5%) for the evaluated period (2006–2016).
+Nonetheless, conventional energy efficiency of the panel of MENA countries worsen the environmental quality, thus does not enhance environmental sustainability especially in the long-run.
+The results also posit that economic growth in the panel of MENA countries is detrimental to the region's environmental sustainability.
+Further analysis indicates that the inefficiency of renewable energy nexus has more to do with scale size inadequacy rather than operational deficiency.
+Therefore, resources and policies must be targeted towards up scaling renewable energy capacity accompanied with cautious and target oriented strategy.

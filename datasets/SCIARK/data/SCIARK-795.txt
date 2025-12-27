@@ -1,0 +1,15 @@
+A systematic review of maternal near miss and mortality due to postpartum hemorrhage
+Background:                    Postpartum hemorrhage (PPH) is the principal direct cause of maternal mortality worldwide.
+Analysis of maternal near miss could increase understanding of survival among women with life-threatening PPH.
+Objectives:                    To determine the near-miss ratio and maternal mortality index for PPH globally.
+Search strategy:                    A prevalence systematic review was conducted of English-language articles published from 1995 to 2014.
+Suitable articles were identified from the Scopus, PubMed, Embase, and Grey Literature databases.
+The main search terms used were "maternal near-miss" and "severe acute maternal morbidity."
+Selection criteria:                    Near-miss studies and audits describing the severe maternal outcome rate for PPH were included.
+Data collection and analysis:                    Data were extracted from eligible publications.
+Quantitative analysis and narrative synthesis were used.
+Main results:                    For 26 included studies, the median near-miss ratio for PPH was 3 per 1000 live births.
+The mortality index for PPH was 6.6% (range 0.0%-40.7%).
+The mortality index was highest in low-income countries and lower middle-income countries.
+Overall, PPH was the most frequent contributor to obstetric hemorrhage, with atonic uterus identified as the main cause.
+Conclusions:                    Women in low-income countries and lower middle-income countries have an increased likelihood of severe PPH and of dying from PPH-related consequences.

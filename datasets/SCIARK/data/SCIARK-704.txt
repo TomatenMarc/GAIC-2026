@@ -1,0 +1,13 @@
+Under-five mortality in the Rongo Sub-County of Migori County, Kenya: Experience of the Lwala Community Alliance 2007-2017 with evidence from a cross-sectional survey
+Introduction: Childhood mortality remains a pressing problem in rural Kenya, and reducing under-five deaths is a key target of the Sustainable Development Goals.
+We aim to describe the reduction in under-five mortality in a rural Kenyan community served by the Lwala Community Alliance and factors associated with under-five mortality in this community.
+Methods: A cross-sectional survey containing a complete birth history was administered to a representative sample of the catchment area of the Lwala Community Alliance.
+Survival analysis techniques were used to describe temporal trends and risk factors related to under-five mortality.
+Results: 1,362 children were included in the study, and 91 children died before the fifth birthday.
+The most common causes of death among children under five were malaria (19%), respiratory infection (13%), and anemia (11%).
+The under-five mortality rate was 104.8 per 1,000 live births from 1999 to 2006 and 53.0 per 1,000 after the founding of the Lwala Community Alliance in 2007.
+Factors associated with under-five mortality included year of birth (HR 0.931; 95% CI: 0.877, 0.988; p = 0.019), multiple-gestation pregnancy (HR 6.201; 95% CI: 2.073, 18.555; p < 0.001), and birth in the long rain season (HR 1.981; 95% CI: 1.350, 2.907; p < 0.001).
+Birth spacing greater than 18 months was negatively associated with under-five mortality (HR 0.345; 95% CI: 0.203, 0.587; p < 0.001).
+Conclusions: There was a significant decrease in under-five mortality before and after the presence of the Lwala Community Alliance.
+Multiple-gestation pregnancies, birth season, and short birth spacing were associated with under-five mortality and provide possible targets to further reduce mortality in the region.
+This provides both hyper-local data necessary for implementation efforts and generalizable data and sampling methods that may be useful for other implementing organizations in sub-Saharan Africa.

@@ -1,0 +1,6 @@
+
+Operator: Our next question comes from Youssef Squali with Cantor Fitzgerald.
+Youssef H. Squali: Thank you very much. Two quick questions. First, with the courts striking down the Safe Harbor provision between the U.S. and the EU, how do you see the changes to European data storage requirement affecting AWS potentially? And on the Kiva, a question asked earlier, can you just maybe help us understand the capital intensity of an FC using Kiva versus one that's not? Thank you.
+Phil Hardin: So, this is Phil. I'll take the Safe Harbor question with AWS. With our EU-approved AWS data protection agreement and model clauses we have in place, AWS customers can keep running their global operations using AWS and be in compliance with the e-law. I think your second question was about the capital intensity of Kiva.
+Youssef H. Squali: Yeah, Kiva, yeah right.
+Phil Hardin: Yeah, I'm going to be vague on the scale of it, but their capital intensity is offset by their density and throughput. So it's a bit of an investment that has implications for a lot of elements to your cost structure, but we're very happy with Kiva. We think it's a great, pairing our associates with Kiva robots to do some of the hauling of products within the warehouse has been a great innovation for us. We think it makes the warehouse jobs better and I think it makes our warehouses more productive.

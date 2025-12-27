@@ -1,0 +1,12 @@
+Predicting the Cost of Health Care Services: A Comparison of Case-mix Systems and Comorbidity Indices That Use Administrative Data.
+Background: Case-mix systems and comorbidity indices aggregate clinical information about patients over time and are used to characterize need for health care services.
+These tools were validated for their original purpose, but those purposes are varied, and they have not been compared directly in the context of predicting costs of health care services.
+Objective: To compare predictions of next-year health care service costs across 4 tools, including: the Johns Hopkins Adjusted Clinical Groups (ACG), the Elixhauser Comorbidity Index, Charlson-Deyo Comorbidity Index, and the Canadian Institute for Health Information (CIHI) population grouper.
+Methods: British Columbia administrative data from fiscal years 2012-2013 were used to generate case-mix variables and the comorbidity indices.
+Outcome variables include next-year (2013-2014) total, physician, acute care, and pharmaceutical costs, Outcomes were modeled using 2-part models.
+Performance was compared using adjusted R, root mean squared error, and mean absolute error using the predicted and the actual next-year cost.
+Results: Models including the CIHI grouper (239 conditions) and ACG system had similar performance in most cost categories and slightly better fit than Charlson Comorbidity Index (CCI) and Elixhauser Comorbidity Index (ECI).
+Adding a dummy variable for nonusers in the models for CCI and ECI increased R values slightly.
+Conclusions: All these systems have empirical support for use in predicting health care costs, despite in some cases being developed for other purposes.
+No system is particularly effective at predicting next-year acute care cost, likely because acute events are often by definition unexpected.
+The freely available ECI and CCI comorbidity indices implemented using the highest-performing methods developed here may be a good choice in many circumstances.

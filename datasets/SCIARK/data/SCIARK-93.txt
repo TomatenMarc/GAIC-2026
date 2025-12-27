@@ -1,0 +1,10 @@
+Under-five mortality according to maternal survival: a systematic review and meta-analysis
+Objective: To investigate, within so-called general populations, the relationship between maternal survival and mortality of children younger than five years.
+Methods: We conducted a systematic review of literature published between January 1990 and November 2016 that reported maternal vital status and the corresponding mortality of children younger than five years.
+Seven studies were included in a qualitative analysis and four in a random-effects meta-analysis.
+Summary estimates of the odds of dying by maternal survival were obtained and statistical heterogeneity estimated.
+Quality of the included studies and evidence was assessed using a Cochrane tool for assessing risk of bias and the Grading of Recommendations Assessment, Development and Evaluation criteria, respectively.
+Findings: Among children younger than five years, those whose mother had died were found to be 4.09 times (95% confidence interval, CI: 2.40-6.98) more likely to die than those with surviving mothers.
+Due to heterogeneity (I2: 83%), further pooled estimates were not possible.
+For children that were motherless as a result of maternal mortality, the increased odds of dying ranged from 1.40 (95% CI: 0.47-4.21) to 2.92 (95% CI: 1.21-7.04) among those aged between two and four years, 6.1 (95% CI: 2.27-16.77) to 33.78 (95% CI: 24.21-47.14) for those younger than one year and 4.39 (95% CI: 3.34-5.78) to 51.68 (95% CI: 20.26-131.80) for those younger than six months.
+Conclusion: The loss of a mother was associated with increased mortality among children, especially when maternal death occurred in the first year of the child's life.

@@ -1,0 +1,18 @@
+Title: Systematic review on the association between employee worktime control and work-non-work balance, health and well-being, and job-related outcomes.
+OBJECTIVES
+The aim of this review was to assess systematically the empirical evidence for associations between employee worktime control (WTC) and work-non-work balance, health/well-being, and job-related outcomes (eg, job satisfaction, job performance).
+METHOD
+A systematic search of empirical studies published between 1995-2011 resulted in 63 relevant papers from 53 studies.
+Five different categories of WTC measurements were distinguished (global WTC, multidimensional WTC, flextime, leave control, and "other subdimensions of WTC").
+For each WTC category, we examined the strength of evidence for an association with (i) work-non-work balance, (ii) health/well-being, and (iii) job-related outcomes.
+We distinguished between cross-sectional, longitudinal, and intervention studies.
+Evidence strength was assessed based on the number of studies and their convergence in terms of study findings.
+RESULTS
+(Moderately) strong cross-sectional evidence was found for positive associations between global WTC and both work-non-work balance and job-related outcomes, whereas no consistent evidence was found regarding health/well-being.
+Intervention studies on global WTC found moderately strong evidence for a positive causal association with work-non-work balance and no or insufficient evidence for health/well-being and job-related outcomes.
+Limited to moderately strong cross-sectional evidence was found for positive associations between multidimensional WTC and our outcome categories.
+Moderately strong cross-sectional evidence was found for positive associations between flextime and all outcome categories.
+The lack of intervention or longitudinal studies restricts clear causal inferences.
+CONCLUSIONS
+This review has shown that there are theoretical and empirical reasons to view WTC as a promising tool for the maintenance of employees' work-non-work balance, health and well-being, and job-related outcomes.
+At the same time, however, the current state of evidence allows only very limited causal inferences to be made regarding the impact of enhanced WTC.

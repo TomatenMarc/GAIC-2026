@@ -1,0 +1,6 @@
+Fat-tailed risk about climate change and climate policy
+Abstract: This paper investigates the role of emissions control in welfare maximization under fat-tailed risk about climate change.
+We provide a classification of fat tails and discuss the effect of fat-tailed risk on climate policy.
+One of the main findings is that emissions control may prevent the “strong” tail-effect from arising, at least under some conditions such as bounded temperature increases, low risk aversion, low damage costs, and bounded utility function.
+More specifically, the fat-tailed risk with respect to a climate parameter does not necessarily lead to an unbounded carbon tax.
+In this case, the basic principle of cost-benefit analysis maintains its applicability.

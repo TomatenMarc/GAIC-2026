@@ -1,0 +1,8 @@
+
+Operator: Thank you. Our final question comes from the line of Brent Bracelin with KeyBanc. Please proceed.
+Brent Bracelin: Thank you for taking question here. I wanted to drill down in the Commercial Cloud gross margins. They were up 200 basis points sequentially, 600 basis points year-over-year to 65%. I guess, my question here is how sustainable are the cloud gross margins now that you're at this $40 billion plus scale, or were there some kind of one-time benefits we should think about in the quarter that helped you there? Thanks.
+Satya Nadella: There were not any one-time benefits in this quarter that helped us. This is really about seeing improvement in some of our largest services and continue to see improvement year-over-year in the largest services. What we said for FY20 and certainly in Q1 as we expected to be up sequentially in Q1 and we will continue to get some headwind because of the strong Azure IaaS and PaaS growth we expect through the year, but we certainly think that Azure fundamental gross margin improvement will help offset that next year.
+Brent Bracelin: Great. Thank you.
+Michael Spencer: That wraps up the Q&A portion of today's earnings call. We appreciate you joining us, and look forward to speaking with all of you soon. Thanks.
+Amy Hood: Thanks, everyone.
+Satya Nadella: Thank you, all. Thank you very much.

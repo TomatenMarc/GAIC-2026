@@ -1,0 +1,9 @@
+Title: Adaptation of interconnected infrastructures to climate change: A socio-technical systems perspective
+Abstract: Climate change is likely to affect how society will function in this century.
+Because climate change effects may be severe, a next step is to study not only the effects on natural systems, but also the effects on built infrastructure systems and, in response to anticipated effects, the adaptation of those systems.
+Studies that discuss interconnected infrastructures, society's backbones, in light of climate change are emerging.
+We apply a socio-technical systems perspective in order to gain insight into the effects of climate change on our infrastructure systems and possible adaption strategies for the coming decades.
+We use this perspective to collect and describe the literature on adaptation of infrastructures to climate change.
+We find that the analysed papers predominantly focus on specific geographic areas and that various types of impacts on and interdependencies of built socio-technical systems are recognized, not only for energy and transport, but also for water infrastructures.
+A missing step is the modelling of adaptation measures.
+Recent literature enables an exploration of strategies for adaptation, which should be expected in the coming years.

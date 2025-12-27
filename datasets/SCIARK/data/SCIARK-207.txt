@@ -1,0 +1,13 @@
+Analysis of accidents and injuries on motorcycles in Mexico.
+Objective: To analyze the type of injuries and the characteristics and geographical distribution of road accidents where motorcycles were involved in Mexico.
+Methods: A descriptive analysis of second-hand information sources was conducted, including the number of accidents (N = 41,881), total number of injured people (N = 13,916) and medical expenses (N = 9,111) associated to motorcycle accidents during 2014.
+Results: Motorcycles represent 13.14% of the total number of deaths in road accidents in Mexico, and the Southeast region of Mexico registers the highest proportion of fatal injuries.
+Of the total number of motorcycles, 1.84% (95% confidence interval [CI]: 1.83-1.86) were involved in a collision.
+3.64 (95% CI: 3.39-3.89) people died and 105.5 (95% CI: 104.1-106.8) were injured in every 10,000.
+Out of the total number of injuries, 76.6% were male and 53.74% were women.
+55.1% of deaths were caused by intracranial trauma.
+Only 16.6% wore a helmet at the time of the accident, and those not wearing a helmet had a 2.11 (odds ratio [OR]: 2.1; CI 95%: 1.8-2.4) higher chance of head injury.
+Regarding the severity of the crash, those occurred in suburban areas (OR: 6.58; CI 95%: 5.69-7.60), in unpaved surfaces (OR: 4.13; CI 95%: 3.04-5.61), after low alcohol consumption (OR: 1.89; CI 95%: 1.46-2.44), at night (OR: 2.24; CI 95%: 1.95-2.57) and on weekends (OR: 1.65; CI 95%: 1.44-1.90), had the highest chance of turning into a fatal accident.
+Conclusions: In spite of the progress made in terms of road safety, motorcycle accidents are still increasing, and the use of a helmet is still proportionally low.
+More information on these groups and risk factors needs to be available so people are better informed.
+Also, regulations need improvements regarding the use of security equipment like helmets in order to reduce injuries and fatal accidents.

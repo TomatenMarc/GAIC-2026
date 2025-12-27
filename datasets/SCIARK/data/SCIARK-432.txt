@@ -1,0 +1,11 @@
+Financial Inclusion and Economic Growth Utilizing Panel Co-Integration
+This paper attempts to test the co-integration association flanked by financial inclusion and economic growth.
+The study uses a composite score of financial inclusion and GDP per capita as a proxy of economic growth for its empirical analysis.
+The panel data covers a large sample of 52 countries for the time period 2005-2015, separated in three groups depending on their income level – low, middle and high.
+For the analysis, first the study constructed an index of financial inclusion (IFI) utilizing the methodology adopted by Sarma [41].
+Then the study applied unit root checks to validate if the variables are non-stationary and co-integrated.
+Last, the study utilized Pedroni’s panel co-integration analysis to investigate the long-run affiliation.
+The study also cross checked the results using Fisher’s panel co-integration test.
+The empirical analysis is based on 11 countries from high income economies, 19 countries from middle income economies and 21 countries from low income economies.
+The findings confirm a long-run association flanked by economic growth and index of financial inclusion for the middle income countries.
+This concludes that financial inclusion can contribute substantially to economic growth through better penetration, availability and use of financial services in the middle income countries.

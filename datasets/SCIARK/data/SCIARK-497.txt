@@ -1,0 +1,10 @@
+Spatiotemporal distribution patterns of atmospheric methane using GOSAT data in Iran
+Abstract:  Methane (CH4) is the simplest hydrocarbon in the atmosphere and is the second most important greenhouse gas (GHG) after carbon dioxide (CO2) whose concentration is changing due to human activities.
+The main objective of this study is to examine the spatial distribution of CH4 concentration for Iran in 2013 based on the level 2 GOSAT data using the ordinary kriging technique.
+For this purpose, first, the relationship between CH4 concentration and environmental variables such as land surface temperature (LST), normalized difference vegetation index (NDVI), air temperature, and humidity was determined.
+The results showed that CH4 concentration changes gradually with latitude and longitude across Iran.
+The spatial distribution of CH4 concentration presents the high concentration of this gas in the southern hemisphere and in the east of the study area throughout the year.
+The correlation of CH4 concentration with LST and temperature was positive, and its correlation with NDVI and humidity was negative in different seasons of 2013.
+This implies that with the decline of temperature and LST and rise of humidity and NDVI, CH4 concentration has decreased in the study area.
+It is possible to transfer the CH4 gas from the south to the southeast of Iran according to the location of flaring gas, and wind speed and direction in different seasons.
+These findings can help decision makers for better management of the sinks and sources of GHGs.

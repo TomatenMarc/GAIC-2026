@@ -3,7 +3,7 @@
 ## :hear_no_evil: Generalizability of Argument Identification in Context (GAIC) — CLEF 2026
 
 This repository contains the datasets for the *Generalizability of Argument Identification in Context* shared task at [Touché](https://touche.webis.de/clef26/touche26-web/generalizable-argument-mining.html) @ [CLEF 2026](https://clef2026.clef-initiative.eu).
-Participants are asked to build models that classify whether a sentence (with context and metadata) is an *Argument* or *No-argument* sentence 
+Participants are asked to build models that classify whether a sentence (with context and metadata) is an *Argument* or *No-Argument* sentence 
 across diverse sources.
 
 ---

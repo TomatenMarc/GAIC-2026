@@ -1,0 +1,7 @@
+Empirical determinants of eco-innovation in European countries using the community innovation survey
+Abstract: The determinants of eco-innovation activities have been widely explored for single countries.
+However, there is a lack of analyses comparing different countries.
+The Community Innovation Survey (CIS 2008) allows for an analysis of the determinants of eco-innovation in 19 different European countries.
+This paper focuses on Eastern Europe as the determinants of eco-innovation have not yet been systematically analyzed for these countries.
+Concerning the introduction of eco-innovations, this analysis shows that regulation activities and environmentally related subsidies seem to be more important for the Eastern countries than they are for the “richer” Western European countries.
+Furthermore, the Eastern European countries rely more on competitors and external R&D as information sources, indicating a technology transfer from West to East.

@@ -1,0 +1,12 @@
+Effect of hydrogen supplementation on engine performance and emissions
+Abstract:Abstract Vehicular Pollution and environmental degradation are on the rise with increasing vehicles and to stop this strict regulation have been put on vehicular emissions.
+Also, the depleting fossil fuels are of great concern for energy security.
+This has motivated the researchers to invest considerable resources in finding cleaner burning, sustainable and renewable fuels.
+However renewable fuels independently are not sufficient to deal with the problem at hand due to supply constraints.
+Hence, advanced combustion technologies such as homogeneous charge compression ignition (HCCI), low-temperature combustion (LTC), and dual fuel engines are extensively researched upon.
+In this context, this work investigates dual fuel mode combustion using a constant speed diesel engine, operated using hydrogen and diesel.
+The engine is operated at 25, 50 and 75% loads and substitution of diesel energy with hydrogen energy is done as 0, 5, 10 and 20%.
+The effect of hydrogen energy share (HES) enhancement on engine performance and emissions is investigated.
+In the tested range, slightly detrimental effect of HES on brake thermal efficiency (BTE) and brake specific fuel consumption (BSFC) is observed.
+Comparision of NO and NO2 emissions is done to understand the non-thermal influence of H2 on the NOx emissions.
+Hence, HES is found beneficial in reducing harmful emissions at low and mid loads.

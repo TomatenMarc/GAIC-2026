@@ -1,0 +1,14 @@
+Moving towards a sustainable environment: The dynamic linkage between natural resources, human capital, urbanization, economic growth, and ecological footprint in China
+The relationship between natural resource abundance and environmental degradation has important environmental implications.
+However, this domain is insufficiently investigated, and diverse findings are evident in the literature.
+The significant economic growth, along with rapid urbanization and industrialization, has increased the extraction and consumption of natural resources in China.
+Therefore, this study investigates the effect of natural resources abundance, human capital, and urbanization on the ecological footprint in China, controlling economic growth.
+The study uses the famous Bayer and Hack cointegration test, and bootstrap causality technique to study cointegration and causal association among variables.
+The findings of the study confirm the long-run equilibrium relationship among variables.
+The long-run results reveal that natural resource rent increases the ecological footprint.
+Urbanization and economic growth contribute to environmental degradation, whereas human capital mitigates environmental deterioration.
+Interestingly, the interaction between urbanization and human capital helps in alleviating environmental degradation, which indicates a moderating effect of human capital in promoting sustainable urbanization.
+The estimates of the bootstrap causality method disclose unidirectional causality from natural resources to the ecological footprint.
+Urbanization also Granger-causes ecological footprint without any feedback.
+The results are also compared and verified using carbon footprint as an additional proxy for environmental degradation.
+Lastly, comprehensive policy measures are proposed to improve environmental quality.

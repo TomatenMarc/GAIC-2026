@@ -1,0 +1,7 @@
+Renewable energy consumption and industrial production: A disaggregated time-frequency analysis for the U.S.
+This paper aims to analyze the interaction between renewable energy consumption and industrial production for the U.S. over the 1981–2018 period.
+We contribute to the existing literature by the disaggregation of renewable energy sources (hydropower, geothermal, and biomass), by the consideration of time and frequency through wavelet techniques and the time-varying Granger causality test recently proposed by Shi et al.
+(2018).
+Based on monthly data, wavelet results show a positive co-movement between industrial production and biomass energy consumption at low frequencies, meaning in the long term only.
+The bootstrap rolling-window Granger causality test indicates a bi-directional predictability between renewable energy consumption and industrial production in crisis and turmoil periods only.
+These results are found to be robust to the inclusion of control variables (non-renewable energy consumption and crude oil prices) and to the selection of the lag length for the corresponding VAR model.

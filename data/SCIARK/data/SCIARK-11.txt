@@ -1,0 +1,5 @@
+Primary energy sources for hydrogen production
+The cost of hydrogen from water electrolysis is estimated, assuming that the electricity was produced from solar, hydro-, fossil, or nuclear power.
+The costs for hydrogen end-use in the sectors of power generation, heat and transportation are calculated, based on a state-of-the-art technology and a more advanced technology expected to represent the state by the year 2010.
+The cost of hydrogen utilization (without energy taxes) is higher than the current price of fossil fuels (including taxes).
+Without restrictions imposed on fossil fuel consumption, hydrogen will not gain a significant market share in either of the cases discussed.

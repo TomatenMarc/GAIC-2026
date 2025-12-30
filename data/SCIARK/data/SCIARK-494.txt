@@ -1,0 +1,15 @@
+﻿Female genital mutilation and obstetric outcome: WHO collaborative prospective study in six African countries.
+BACKGROUND
+Reliable evidence about the effect of female genital mutilation (FGM) on obstetric outcome is scarce.
+This study examines the effect of different types of FGM on obstetric outcome.
+METHODS
+28 393 women attending for singleton delivery between November, 2001, and March, 2003, at 28 obstetric centres in Burkina Faso, Ghana, Kenya, Nigeria, Senegal, and Sudan were examined before delivery to ascertain whether or not they had undergone FGM, and were classified according to the WHO system: FGM I, removal of the prepuce or clitoris, or both; FGM II, removal of clitoris and labia minora; and FGM III, removal of part or all of the external genitalia with stitching or narrowing of the vaginal opening.
+Prospective information on demographic, health, and reproductive factors was gathered.
+Participants and their infants were followed up until maternal discharge from hospital.
+FINDINGS
+Compared with women without FGM, the adjusted relative risks of certain obstetric complications were, in women with FGM I, II, and III, respectively: caesarean section 1.03 (95% CI 0.88-1.21), 1.29 (1.09-1.52), 1.31 (1.01-1.70); postpartum haemorrhage 1.03 (0.87-1.21), 1.21 (1.01-1.43), 1.69 (1.34-2.12); extended maternal hospital stay 1.15 (0.97-1.35), 1.51 (1.29-1.76), 1.98 (1.54-2.54); infant resuscitation 1.11 (0.95-1.28), 1.28 (1.10-1.49), 1.66 (1.31-2.10), stillbirth or early neonatal death 1.15 (0.94-1.41), 1.32 (1.08-1.62), 1.55 (1.12-2.16), and low birthweight 0.94 (0.82-1.07), 1.03 (0.89-1.18), 0.91 (0.74-1.11).
+Parity did not significantly affect these relative risks.
+FGM is estimated to lead to an extra one to two perinatal deaths per 100 deliveries.
+INTERPRETATION
+Women with FGM are significantly more likely than those without FGM to have adverse obstetric outcomes.
+Risks seem to be greater with more extensive FGM.

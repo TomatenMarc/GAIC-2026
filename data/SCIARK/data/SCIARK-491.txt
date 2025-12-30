@@ -1,0 +1,16 @@
+Eco-efficiency of grain production in China based on water footprints: A stochastic frontier approach
+Eco-efficiency has consistently been of interest to researchers and policy makers.
+Many methods have been employed to calculate eco-efficiency, with the exception of the stochastic frontier approach, which is popular in efficiency and productivity analysis.
+Considering the strengths of the stochastic frontier approach and the features of grain production, an integrated WF-SFA method combining water footprint assessment and the stochastic frontier approach is proposed in this work.
+In the method, the green, blue and grey water footprints of grain production are calculated.
+Then, a translog stochastic frontier production function with actual grain output value as the only output and capital, labour and water footprints as the inputs is established.
+Next, eco-efficiency, which is defined as the ratio of the actual output to the potential output, can be assessed.
+This method is developed here to analyse the eco-efficiency of grain production and its determinants in China.
+The main empirical results are as follows.
+1) The annual average grain production water footprint in China from 1997 to 2015 was 820.37 billion .
+2) The eco-efficiencies were estimated to be within the range of 0.424–0.986, with an average value of 0.807.
+There is potential for China to increase the environmental and ecological sustainability with its grain production system.
+3) The per capita GDP, per capita water supply, proportion of government expenditure on environmental protection and proportion of non-disaster areas positively influenced the grain production eco-efficiency.
+In addition, the calculated output elasticities of the blue and grey water footprints of recent years were negative.
+These findings can help China design relevant policies of agricultural sustainability focused on crop distribution, efficient irrigation water use and nutrient and pollutant management.
+This research provides a basic framework for the eco-efficiency evaluation of grain production with the stochastic frontier approach which can inform policy and strategic development.

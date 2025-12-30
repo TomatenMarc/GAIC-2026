@@ -1,0 +1,7 @@
+Title: Current Browning of Surface Waters Will Be Further Promoted by Wetter Climate
+Abstract: Browning of surface waters because of increasing terrestrial dissolved organic carbon (OC) concentrations is a concern for drinking water providers and can impact land carbon storage.
+We show that positive trends in OC in 474 streams, lakes, and rivers in boreal and subarctic ecosystems in Norway, Sweden, and Finland between 1990 and 2013 are surprisingly constant across climatic gradients and catchment sizes (median, +1.4% year–1; interquartile range, +0.8–2.0% year–1), implying that water bodies across the entire landscape are browning.
+The largest trends (median, +1.7% year–1) were found in regions impacted by strong reductions in sulfur deposition, while subarctic regions showed the least browning (median, +0.8% year–1).
+In dry regions, precipitation was a strong and positive driver of OC concentrations, declining in strength moving toward high rainfall sites.
+We estimate that a 10% increase in precipitation will increase mobilization of OC from soils to freshwaters by at least 30%, demonstrating the importance of climate wetting for the carbon cycle.
+We conclude that upon future increases in precipitation, current browning trends will continue across the entire aquatic continuum, requiring expensive adaptations in drinking water plants, increasing land to sea export of carbon, and impacting aquatic productivity and greenhouse gas emissions.

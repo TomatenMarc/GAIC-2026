@@ -1,0 +1,6 @@
+Renewable energy consumption-economic growth nexus in emerging countries: A bootstrap panel causality test
+In this study, we analyzed the relationship between renewable energy consumption and economic growth in 17 emerging countries, spanning the period of 1990–2016.
+The bootstrap panel causality test, allowing for dependence across countries and heterogeneity in slope parameters, developed by Kónya (2006) [1] was employed.
+The results indicated that the neutrality hypothesis does hold for all of the markets studied except for Poland, which confirmed the growth hypothesis.
+As such, because of the nonexistence of causality running from renewable energy demand to economic growth, energy saving (mitigation) policies do not have any detrimental influence on the growth rates of these 16 emerging economies.
+For Poland; however, energy conservation policies may have detrimental effects on the country's economic performance level.

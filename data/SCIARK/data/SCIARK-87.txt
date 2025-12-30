@@ -1,0 +1,16 @@
+Bio Energy Production Using Carbon Based Electrodes in Double and Single Chamber Microbial Fuel Cells: A Review
+Abstract:
+The world’s climate is being gradually altered by the burning of fossil fuels; which increases carbon dioxide in the atmosphere enormously.
+In addition, the high consumption of fossil fuels may cause fossil fuel energy deficiencies.
+Thus, the world’s population needs to explore clean sources of energy as an alternative to fossil fuels.
+Extensive research has been carried out on different types of fuel cells, including direct alcohol fuel cells, proton exchange membrane fuel cells, solid oxide fuel cells, hydrogen fuel cells, alkaline fuel cells, and phosphoric acid fuel cells for increased power generation [1,2].
+Although these fuel cells have a high operating efficiency, this benefit is somewhat offset by (i) the limited viability and expense of catalysts, (ii) corrosive electrolytes, and (ii) high operating temperatures.
+To overcome these problems, bioelectrochemical fuel cells are a better option for renewable energy production.
+Major efforts are thus being directed towards the development of technologies based on renewable sources that can transform biomass into various forms and produce electricity [3,4].
+In this category, MFCs are promising electro-biotechnology tools that directly convert microbial metabolic power into electricity by catalyzing organic and inorganic matter using bio-electrochemical reactions in an anaerobic medium [5].
+Electricity production by MFCs has many benefits including cleanliness, effectiveness, and recyclability with no harmful toxic product production [1-3,6].
+Typically, MFCs consist of a two-electrode assembly that contains an anode and cathode.
+At the anode, the redox reaction occurs in the presence of organic matter and biocatalysts such as bacteria, which generate protons and electrons.
+At the cathode, reduction of atmospheric oxygen occurs in the presence of catalysts and generates electricity along with water production [3,7-9].
+Currently, MFCs show a potential use in the recovery of metals and nutrients from industrial effluents along with municipal or domestic wastewater treatment [10,11].
+Two types of MFCs are commonly available: (i) double chamber and (ii) single chamber (SMFC) [9,12].

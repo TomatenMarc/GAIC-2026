@@ -1,0 +1,10 @@
+Title: Well-Being and Diabetes Management in Early Pregnant Women with Type 1 Diabetes Mellitus
+This paper explores well-being and diabetes management in women with type 1 diabetes mellitus (DM) in early pregnancy and investigates associations among perceived well-being, diabetes management, and maternal characteristics.
+Questionnaires were answered by 168 Swedish women.
+Correlation analyses were conducted with Spearman’s correlation coefficient (rs).
+The women reported relatively high scores of self-efficacy in diabetes management (SWE-DES-10: 3.91 (0.51)) and self-perceived health (excellent (6.5%), very good (42.3%), good (38.7%), fair (11.3%) and poor (1.2%)).
+Moderate scores were reported for general well-being (WBQ-12: 22.6 (5.7)) and sense of coherence (SOC-13: 68.9 (9.7), moderate/low scores for hypoglycemia fear (SWE-HFS 26.6 (11.8)) and low scores of diabetes-distress (SWE-PAID-20 27.1 (15.9)).
+A higher capability of self-efficacy in diabetes management showed positive correlations with self-perceived health (rs = −0.41, p < 0.0001) and well-being (rs = 0.34, p < 0.0001) as well as negative correlations with diabetes distress (rs = −0.51, p < 0.0001) and hypoglycemia worries (rs = −0.27, p = 0.0009).
+Women with HbA1c levels of ≤48 mmL/mol scored higher in the subscales “goal achievement” in SWE-DES (p = 0.0028) and “comprehensibility” in SOC (p = 0.016).
+Well-being and diabetes management could be supported by strengthening the women’s capability to achieve glycemic goals and their comprehensibility in relation to the treatment.
+Further studies are needed to test this.

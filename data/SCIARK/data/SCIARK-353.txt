@@ -1,0 +1,10 @@
+Differences between U.S. substance abuse treatment facilities that do and do not offer domestic violence services
+Objective: Victimization by and perpetration of domestic violence are associated with co-occurring mental and substance use disorders.
+Methods: This study used data from the National Survey of Substance Abuse Treatment Services to examine differences in organizational factors, treatment approaches offered, and client-level factors among 13,342 substance abuse treatment facilities by whether or not they offered domestic violence services.
+Results: Only 36% of the facilities offered domestic violence services.
+Those that offered such services were more likely than those that did not to treat clients with co-occurring disorders.
+Principal-components analysis reduced eight treatment approaches to two factors: psychosocial services and traditional substance abuse services.
+Regression models indicated that the frequency with which psychosocial services were offered depended on the percentage of clients with co-occurring disorders who were being treated in the facility and whether or not that facility offered domestic violence services.
+Specifically, facilities that did not offer domestic violence services and that had a high percentage of clients with co-occurring disorders were more likely to offer psychosocial services than facilities that offered domestic violence services.
+A larger proportion of facilities offering domestic violence services offered traditional substance abuse treatment services, compared with facilities not offering domestic violence services, but this relationship was not contingent on the percentage of clients with co-occurring disorders at each facility.
+Conclusions: Improved efforts should be made to tailor treatments to accommodate the links between domestic violence, mental disorders, and substance abuse.

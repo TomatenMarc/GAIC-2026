@@ -1,0 +1,14 @@
+Title: Urban Climate Map System for Dutch spatial planning
+Abstract: Facing climate change and global warming, outdoor climatic environment is an important consideration factor for planners and policy makers because improving it can greatly contribute to achieve citizen's thermal comfort and create a better urban living quality for adaptation.
+Thus, the climatic information must be assessed systematically and applied strategically into the planning process.
+This paper presents a tool named Urban Climate Map System (UCMS) that has proven capable of helping compact cities to incorporate climate effects in planning processes in a systematic way.
+UCMS is developed and presented in a Geographic Information System (GIS) platform in which the lessons learned and experience gained from interdisciplinary studies can be included.
+The methodology of UCMS of compact cities, the construction procedure, and the basic input factors – including the natural climate resources and planning data – are described.
+Some literatures that shed light on the applicability of UMCS are reported.
+The Municipality of Arnhem is one of Dutch compact urban areas and still under fast urban development and urban renewal.
+There is an urgent need for local planners and policy makers to protect local climate and open landscape resources and make climate change adaptation in urban construction.
+Thus, Arnhem is chosen to carry out a case study of UCMS.
+Although it is the first work of Urban Climatic Mapping in The Netherlands, it serves as a useful climatic information platform to local planners and policy makers for their daily on-going works.
+We attempt to use a quick method to collect available climatic and planning data and create an information platform for planning use.
+It relies mostly on literature and theoretical understanding that has been well practiced elsewhere.
+The effort here is to synergize the established understanding for a case at hand and demonstrate how useful guidance can still be made for planners and policy makers.

@@ -1,0 +1,11 @@
+Life cycle environmental balance and greenhouse gas mitigation potential of micro-hydropower energy recovery in the water industry
+Abstract: Micro-hydropower (MHP) presents new opportunities to generate electricity from within existing water infrastructure.
+This paper quantifies the environmental impacts of electricity generation from three MHP case studies (15–140 kW) in the water industry, using a life cycle assessment approach.
+Environmental burdens were calculated per kWh electricity generated over nominal turbine operational lifespans.
+Compared with marginal UK grid electricity generation in combined cycle turbine natural gas power plants, normalised life cycle environmental burdens for MHP electricity were reduced by: >99% for global warming potential (GWP); >98% for fossil resource depletion potential; >93% for acidification potential; 50–62% for human toxicity potential.
+However, the burden for abiotic resource depletion potential was 251–353% higher for MHP than marginal grid-electricity.
+Different quantities of raw materials and installation practices led to a range in GWP burdens from 2.14 to 4.36 g CO2 eq./kWh.
+One case benefitted from very low site preparation requirements while others required substantial excavation works and material quantities.
+Carbon payback times ranged from 0.16 to 0.31 years, extending to 0.19–0.40 years for worst-case scenarios examined as part of a sensitivity analysis.
+The carbon payback period for future MHP installations was estimated to increase by 1% annually, as the carbon intensity of marginal grid electricity is predicted to decline.
+This study demonstrates that MHP installations in the water industry have a strongly positive environmental balance.

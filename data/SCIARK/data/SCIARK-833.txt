@@ -1,0 +1,13 @@
+A review on recent sizing methodologies of hybrid renewable energy systems
+Abstract
+On account of the continuously increasing electricity consumption and concern for environmental issues, renewable energy sources have been widely utilized to generate electricity, and they present advantages such as cleanness, easy availability, low cost, and abundance.
+In 2017, the installed capacity of solar and wind power worldwide amounted to 903.1 GW, which represented 41.4% of the total installed capacity of renewable energy.
+Hybrid renewable energy systems have been proposed to overcome the variability and randomness of a single renewable energy source such as solar and wind power, and more than 80% of them are off-grid systems.
+Meanwhile, it is necessary to determine the size of each component to design a reliable and cost-effective hybrid renewable energy system.
+Therefore, this paper mainly reviews the recent classification, evaluation indicators, and sizing methodologies of hybrid renewable energy systems (stand-alone and grid-connected).
+Further optimization research is still required to improve the overall performance of hybrid renewable energy systems.
+Decision makers can explore and develop hybrid systems including hydropower and/or pumped hydro storage based on their superiority, and they should also pay attention to the development of hybrid energy storage.
+In addition to reliability and economic indicators, which have applications above 80%, more attention should be payed to environmental and social indicators to determine the system capacity, and some new indicators should be disseminated.
+The features of traditional, artificial intelligence, and hybrid methods, in additional to software tools, were assessed.
+Moreover, hybrid methods with high accuracy and fast convergence that can surmount the defects of single methods are the most promising sizing method compared to the other three sizing methods.
+This review is valuable to understand the current status and development trends of optimal sizing for hybrid renewable energy systems.

@@ -1,0 +1,9 @@
+A Brief Review of Application of Laser Biotechnology as an Efficient Mechanism for the Increase of Biomass for Bio-energy Production Via Clean Thermo-Technologies
+Abstract:
+Bio-energy production from biomass sources has been attracting world-wide research in renewable energy field to comprehensively understand bio-energy development, considering energy crisis in majority of the developing and developed countries.
+This paper illustrates the results of up today research studies that investigated biomass resources and their bio-energy potential.
+Additionally, among various alternative sources of energies, biomass has drawn enormous attention as feedstock for clean energy production.
+Hence, this paper also illustrates the application of environmentally-friendly laser biotechnology for more efficient increase of plant’s biomass in areas under unfavorable environmental condition for bio-energy production via alternative clean technologies such as pyrolysis/gasification.
+Pyrolysis is the degradation of macromolecular materials with heat in the absence of oxygen, and gasification is a process that converts biomass or fossil fuel based carbonaceous materials into carbon monoxide (CO), hydrogen (H2), carbon dioxide (CO2) and possibly hydrocarbon molecules such as methane (CH4).
+They have both applied and analytical aspects.
+The development of advanced fast pyrolysis and gasification process for bioenergy (biofuel, biogas and biochar) production has gained much attention in the last decade, because they offer convenient and applicable way to convert biomass into bio-yield and value-added products.

@@ -1,0 +1,14 @@
+Effects of soil warming, rainfall reduction and water table level on CH4 emissions from the Zoige peatland in China
+Abstract: The Zoige Plateau features approximately 4605 km2 of peatlands, making it the largest peatland area in China.
+This area stored 2.9 Pg peat during the Holocene, yet little is known about methane (CH4) emissions from this region.
+In this study, we designed a mesocosm experiment to measure CH4 emissions during the growing seasons of 2009–2010 under different scenarios involving soil warming, 20% reduction in rainfall and changes in the water table level.
+Our results showed that CH4 emissions were higher in 2009 than in 2010 under all experimental conditions.
+Average soil temperature was approximately 11.4 °C under control conditions, 13.3 °C under soil warming conditions, 12.7 °C with 20% rainfall reduction, and 13.4 °C under combined conditions of soil warming and 20% reduced rainfall.
+For the single factor effect, soil warming treatment increased average CH4 emissions by 28%, while rainfall reduction increased it by 30%; however, neither increase was statistically significant.
+In contrast, the combined effect of soil warming and rainfall reduction significantly decreased CH4 emissions by an average of 58%.
+Extending this result across the entire peatland area in the Zoige Plateau translates into approximately 5.3 Gg of CH4 uptake per year.
+These results suggest that a drier and warmer Zoige Plateau will become a CH4 sink.
+Our study also found a positive relationship between water table level and CH4 emissions.
+Average CH4 emissions decreased by approximately 82% as water drawdown varied from 0 (0.94 mg CH4 m−2 h−1) to −50 cm (0.17 mg CH4 m−2 h−1).
+When we simultaneously examined the effect of all three factors of water table level, soil warming and rainfall reduction on CH4 emissions, we found soil warming and rainfall effect on CH4 emissions varied with water table levels.
+However, none of the three factors significantly affected CH4 emissions at a water table depth of 30 cm below peat depth.

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document xmlns:gate="http://www.gate.ac.uk" name="A37_C07_Efficient_Simulation_of_Inextensible_Cloth_CITATION_PURPOSE_M_v1.xml">
+
+
+  
+    5dea618cb3c2811ff0b2ff5618860302e73237c3b57391624fcf5c334257b987
+    3wy5
+    http://dx.doi.org/10.1145/1276377.1276438
+  
+  
+    
+      
+        <Title>Efficient Simulation of Inextensible Cloth</Title>
+      
+      
+        
+          Rony Goldenthal
+        
+        
+          David Harmon 1 Raanan Fattal 3 Michel Bercovier 2 Eitan Grinspun 1 1 Columbia University 2 The Hebrew University of Jerusalem 3 University of California
+          2
+        
+        
+          Berkeley
+        
+      
+      <Abstract>Many textiles do not noticeably stretch under their own weight. Unfortunately, for better performance many cloth solvers disregard this fact. We propose a method to obtain very low strain along the warp and weft direction using Constrained Lagrangian Mechanics and a novel fast projection method. The resulting algorithm acts as a velocity filter that easily integrates into existing simulation code.</Abstract>
+	  CR Categories: I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism—Animation I.6.8 [Simulation and Modeling]: Types of Simulation—Animation Keywords: Physically-based Modeling, Cloth simulation, Constrained Lagrangian Mechanics, Constraints, Stretching, Inextensibility, Isometry.
+	  
+	  
+    
+    
+      
+        <H1>1 Introduction</H1>
+      
+      Our eyes are very sensitive to the behavior of fabrics, to the extent that we can identify the kind of fabric simply from its shape and motion 
+[Griffiths and Kulke 2002]. One important fact is that most fabrics do not stretch under their own weight. Unfortunately, for many popular cloth solvers, a reduction of permissible stretching is synonymous with degradation in performance: for tractable simulation times one may settle for an unrealistic 10% or more strain (compare 1% and 10%, Figure 1 ). Our work alleviates this problem by introducing a numerical solver that excels at timestepping quasi-inextensible surfaces (stretching below 1%). The solver builds on a framework of Constrained Lagrangian Mechanics (CLM) 
+[Marsden 1999]. Warp and weft, the perpendicular sets of strands that make up a textile, are prohibited from stretching by enforcing constraint equations, not by integrating spring forces. We present numerical evidence supporting the observation that a constraint-based method is inherently well-suited to operate in the quasi-inextensible regime. In contrast, for this regime spring-based methods are known to experience a range of difficulties, leading to the adoption of various strain limiting 
+[Provot 1995] and strain rate limiting algorithms. We are motivated by the work of Bridson et al. [2002]
+, who viewed strain limiting as one of multiple velocity filtering passes (another being collision handling). The velocity filter paradigm enables the design of modular systems with mix-and-match flexibility.
+      
+        
+        Figure 1: Importance of capturing inextensibility. For efficiency, many simulation methods allow 10% or more strain, whereas many fabrics do not visibly stretch. A 1m 2 patch, pinned at two corners
+      
+      1m apart, is allowed to relax under gravity. We compare (left to right) three simulations of progressively smaller permissible strain with an actual denim patch.
+      Contributions We propose a novel CLM formulation that is implicit on the constraint gradient (§4.1). We prove that the implicit method’s nonlinear equations correspond to a minimization problem (§4.2): this result motivates a fast projection method for enforcing inextensibility (§4.3). We describe an implementation of fast projection as a simple and efficient velocity filter, as part of a framework that decouples timestepping, inextensibility, and collision passes (§4.4). Consequently, the fast projection method easily incorporates with a code’s existing bending, damping, and collision models, to yield accelerated performance (§5). Before discussing these contributions, we summarize the relevant literature (§2) and describe the basic discrete cloth model (§3).
+      
+        <H1>2 Related Work</H1>
+      
+      For brevity, we review work on stretch resistance; for broad surveys on cloth simulation see 
+[House and Breen 2000; Choi and Ko 2005]. The most general approach is to treat cloth as an elastic material [Terzopoulos et al. 1987; Breen et al. 1994; Eberhardt et al. 1996; Baraff and Witkin 1998; Choi and Ko 2002]. To reduce visible stretching, elastic models typically adopt large elastic moduli or stiff springs, degrading numerical stability 
+[Hauth et al. 2003]. To address the stiffness of the resulting differential equations, Baraff and Witkin [1998]
+ proposed implicit integration, allowing for large, stable timesteps; adaptive timestepping was required to prevent over-stretching. Eberhardt [2000] and Boxerman et al. [2003] adopted implicit-explicit (IMEX) formulations, which treat only a subset of forces implicitly. Our method is closely related to the IMEX approach, in the sense that stretching forces are singled out for special treatment. These works, and many of their sequels, improved performance by allowing some perceptible stretch of the fabric. 
+In the quasiinextensible regime, however, implicit methods encounter numerical limitations 
+[Volino and Magnenat-Thalmann 2001; Boxerman 2003; Hauth et al. 2003]: the condition number of the implicit system grows with the elastic material stiffness, forcing iterative solvers to perform many iterations; additionally, timestepping algorithms such as Backward Euler and BDF2 introduce undesirable numerical damping when the system is stiff 
+[Boxerman 2003]. Given a stiff differential equation, an alternative to implicit integration is to reduce the stiff component and reformulate it as a constraint [Hairer et al. 2002]. In the smooth setting, the penalty-force and constraint-based approaches are equivalent in the limit of an infinitely stiff penalty term 
+[Bercovier and Pat 1984]. In the discrete setting, the constraint-based approach may be implemented with various iterative or global algorithms, as surveyed below: 
+Iterative enforcement Provot [1995] corrected edge lengths by iteratively displacing the incident vertices on stretched springs. While simple to implement, this approach suffers from poor convergence since each displacement may stretch other incident springs. Therefore, Provot’s method is used in cases where tight tolerances are not required, e.g., 
+[Desbrun et al. 1999; Meyer et al. 2001; Fuhrmann et al. 2003]. Bridson et al. [2002; 2003] used Provot’s approach in conjunction with strain rate limiting, bounding the rate of change of spring length per timestep to 10% of the current length. Müller et al. [2006] used a non-linear Gauss-Seidel approach to enforce inextensibility on each constraint separately. Bridson et al. observed that iterative strain limiting algorithms behave essentially as Jacobi or Gauss-Seidel solvers. In this light, it is not surprising that for finely-discretized quasi-inextensible fabrics, iterative constraint enforcement requires a prohibitive number of iterations (see §5). Global enforcement In contrast to iterative constraint enforcement, 
+House et al. [1996] used Lagrange multipliers with CLM to treat stretching, and presented a hierarchical treatment of the constraint forces. The Lagrange multiplier approach alleviates the difficulties associated with poor numerical conditioning and artificial damping. House et al. later encountered difficulties in handling collision response within the proposed framework [2000]. By building on the velocity-filter paradigm, our method handles both inextensibility and complex collisions. House et al. formulated constraints as in [Witkin et al. 1990], which is subject to numerical drift that may be exacerbated by the discontinuities introduced during collision response. Drift may be attenuated using constraint-restoring springs, but the authors reported difficulty in adjusting the spring coefficients. We postulate that one reason for their difficulties with drift was consequent to the linearization of the constraint equation, which permitted higher order errors to accumulate over time. Our method does not linearize the constraint equations, and therefore it is not subject to drift. Recently, Tsiknis [2006]
+ proposed triangle-based strain limiting together with a global stitching step for stable constraint enforcement. Hong et al. [2005]
+ used a linearized implicit formulation in order to improve stability of constrained dynamics. This allowed for larger timesteps and reduced the need for springs to maintain the cloth on the constraint manifold. Both of these approaches enforce inextensibility only for strain exceeding 10%. In summary, when the tolerance for stretching is very small, modeling stretch response with spring-based or strain-limiting approaches is costly and even intractable; constraint-based methods present a promising alternative. The remainder of this paper discusses algorithms that excel at simulating quasi-inextensible cloth.
+      
+        <H1>3 Cloth Model</H1>
+        Woven fabrics are not a continuous material, rather they are a complex mechanical network of interleaving yarn [Breen et al. 1994]. Since the constituent yarn is often quasi-inextensible, the material’s warp and weft directions do not stretch perceptibly. In imposing inextensibility on all edges of a triangle mesh, one quickly runs into parasitic stiffness in the bending modes, or locking 
+[Zienkiewicz and Taylor 1989], since locally-convex regions of a triangle mesh are rigid under isometry. Instead, we consider warpweft aligned quadrilateral meshes with a sparse number of triangles (quad-dominant meshes). A degree of freedom (DOF) counting argument suggests that constraining all edges of a quad mesh may circumvent the rigidification that occurs with triangle meshes: Given n vertices, we have 3n positional DOFs; their triangulation (resp. quadrangulation) introduces approximately 3n (resp. 2n) edges, with corresponding inextensibility constraints. Subtracting constraints from positional DOFs leaves nearly zero DOFs for a triangulation. In the case of a quadrangulation, O(n) DOFs remain, and we see that in a flat configuration they correspond to the normal direction at each vertex. Furthermore, under general mesh positions, the constraints are linearly independent, with a full-rank Jacobian treatable by a direct solver (§4). We ask that a warpor weft-aligned quad edge, (p a , p b ), maintain its undeformed length, l, by enforcing
+        
+          1
+          C(p a , p b ) = p b − p a 2 /l − l = 0 .
+        
+        The solve will require the constraint gradient
+        
+          2
+          ∇ p b C(p a , p b ) = 2(p b − p a )/l .
+        
+        Since shearing modes excite only a mechanical interaction of warp and weft, and not a stretching of yarn, fabric does indeed shear perceptibly. Therefore, we model shear using non-stiff stretch springs applied on both diagonals of each quad. The complete model of in-plane deformation is compatible with an existing code’s quador triangle-based treatment of bending and collisions. With this simple formulation of inextensibility constraints in place, what is needed is an efficient method for enforcing constraints. In the following, we develop such a method.
+      
+      
+        <H1>4 Constrained Dynamics</H1>
+        Given a quadrilateral mesh with n vertices and m edges, the numerical integration algorithm for constrained dynamics can be developed directly from the augmented Lagrange equation 
+[Marsden 1999], L(x, v) = 1 v T Mv −V (x) − C(x) T λ , 2 where x(t) is the time-varying 3n-vector of vertex positions, v(t) = x(t) is its time derivative, M is the 3n × 3n mass matrix, and V (x) is the stored energy (e.g., bending, shear, and gravity). C(x) is the m-vector of constraints, with the i th entry corresponding to the violation of inextensibility of the i th edge, as computed by (1); λ is the m-vector of Lagrange multipliers. The corresponding EulerLagrange equations are
+        
+          4
+          M v = −∇V (x) − ∇C(x) T λ , C(x) = 0 ,
+        
+        where ∇ ≡ ∇ x is the gradient with respect to position, and −∇V (x) is the potential force. The term −∇C(x) T λ may be viewed as the constraint-maintaining force, where the factors −∇C(x) T and λ determine the direction and scaling for the force, respectively. ∇C(x) is a rectangular matrix whose dimensions are m × 3n. For simulation, we must discretize (3) and (4) in time using one of various schemes, each with benefits and drawbacks. One may choose differing explicit or implicit schemes for the potential and the constraint forces (similarly, potential forces are split and separately discretized in [Ascher et al. 1997]). The discrete equations replace x(t) and v(t) with {x 0 , x 1 , x 2 , . . .} and {v 0 , v 1 , v 2 , . . .}, where x n and v n are the position and velocity of the mesh at time t = nh, and h is the size of the timestep. One widely-used family of discretizations includes SHAKE and RATTLE, which extend the (unconstrained) Verlet scheme 
+[Hairer et al. 2002] by considering a constraint force direction, −∇C(x) T , evaluated at the beginning of the timestep. Unfortunately, enforcing length-preserving constraints with SHAKE fails for four common geometric configurations, which we refer to as (Q1)–(Q4) and depict in Figure 2 . This figure is a reproduction from [Barth et al. 1994]
+, which discusses these drawbacks in SHAKE but does not offer a solution. In the figure, solid and hollow dots represent edge endpoints at the start and end of the timestep, as the particles would evolve if no constraints were applied. If the constraint direction, −∇C(x) T , is evaluated at the beginning of the timestep, x n , as in SHAKE, then no scaling, λ , of the constraint direction yields a satisfied end-of-timestep constraint, C(x n+1 ) = 0. Numerically, for (Q2)–(Q4) this observation manifests as a singular Jacobian in Newton’s method. These four cases correspond to rapid change in edge length or orientation; in practice, they occur often.
+        (Q1) (Q2) (Q3) (Q4)
+        
+          Figure 2: Failure modes of methods using an explicit constraint direction. Reproduced from a discussion of SHAKE in [Barth et al. 1994].
+        
+      
+      
+        <H2>4.1 Implicit constraint direction (ICD)</H2>
+        Consider evaluating the constraint direction, −∇C(x) T , at the end of the timestep. We observe (and prove in Appendix A) that this resolves (Q1), (Q2) and (Q4); (Q3) remains, but is automatically remedied by decreasing the timestep. Consider the ICD timestep, which treats potential forces explicitly 1 : v n+1 = v n − hM −1 ∇V (x n ) + ∇C(x n+1 ) T λ n+1 , x n+1 = x n + hv n+1 , C(x n+1 ) = 0 . Define x 0 n+1 =x n +hv n −h 2 M −1 ∇V (x n ), i.e., x n+1 0 is the position at the end of an unconstrained timestep; define δ x n+1 = x n+1 − x 0 n+1 , i.e., δ x n+1 is the correction of the unconstrained step. Next, eliminate v n+1 by rewriting the above system as two equations, F( δ x n+1 , λ n+1 ) = 0 and C(x n+1 ) = 0, in the free variables δ x n+1 and λ n+1 , keeping in mind that x n+1 is a linear function in δ x n+1 , and defining F( δ x n+1 , λ n+1 ) = δ x n+1 + h 2 M −1 ∇C(x n+1 ) T λ n+1 . F( δ x n+1 , λ n+1 ) and C(x n+1 ) are the residuals of the discretization of (3) and (4), respectively. In particular, F measures the deviation 1 For an implicit treatment, write ∇V (x n+1 ) in place of ∇V (x n ). of the trajectory away from that dictated by the governing (potential and constraint) forces; equivalently, it states that the correction of the unconstrained step is due to the constraint forces. C measures the deviation from the constraint manifold (in our case, the extensibility of the material). To implement ICD, we solve for the roots of F and C up to a desired tolerance using Newton’s method. Solving for an ICD step is costly, because there are many unknowns (≈ 5n), and each Newton step requires the solution of an indefinite linear system, whose matrix is costly to assemble. In §4.3, we develop an approximation to ICD that addresses these drawbacks without sacrificing constraint accuracy or robustness. To arrive at this fast projection method, the following section considers ICD from an alternative, geometric viewpoint.
+      
+      
+        <H2>4.2 Step and project (SAP)</H2>
+        Consider for a moment an alternative approach to constrained integration in two steps: (a) step forward only the potential forces to arrive at the unconstrained position, x n+1 0 ; (b) enforce the constraints by projecting onto the constraint manifold M = {x n+1 |C(x n+1 ) = 0}. Methods of this form are known as manifold-projection methods 
+[Hairer et al. 2002]. To define a specific method, we must choose a projection operator. In the method we refer to as SAP, we write the projection of the unconstrained point onto the constraint manifold as x n+1 0 + δ x n+1 , so that the projected point extremizes the objective function W ( δ x n+1 , λ n+1 ) = 1 ( δ x n+1 ) T M( δ x n+1 ) + C(x n+1 ) T λ n+1 , 2h 2 with respect to the free variables δ x n+1 and λ n+1 . Simply put, we choose the point on the constraint manifold closest to x n+1 0 . To define closest, we need a measure of distance. Take M as the physical mass matrix (usually arising from a finite-basis representation of x and a surface mass density). Then the choice ( δ x n+1 ) T M( δ x n+1 ) corresponds to the L 2 norm of the mass-weighted displacement of the mesh as it moves from x 0 n+1 to x n+1 . Formally, it is a discretization of the smooth integral x n+1 − x 0 n+1 2 ρ d A , S evaluated over the reference (material) domain, S. Here x n+1 and x 0 n+1 are the piecewise linear immersion functions mapping each point of S into R 3 , and ρ is the (possibly nonuniform) surface mass density. We use · to denote the Euclidean norm in R 3 .
+        Theorem 1: ICD ≡ SAP . Proof: The stationary equations for W ( δ x n+1 , λ n+1 ) are the ICD equations, F( δ x n+1 , λ n+1 ) = 0 and C(x n+1 ) = 0.
+        Corollary In 4.1, we interpreted the roots of C and F from the ICD view. We can interpret these roots from the SAP view as follows: C(x n+1 ) = 0 corresponds to finding some point on the constraint manifold. C(x n+1 ) = 0 with F( δ x n+1 , λ n+1 ) = 0 corresponds to finding the closest point on the constraint manifold.
+      
+      
+        <H2>4.3 Fast projection method</H2>
+        To solve SAP, one might extremize W ( δ x n+1 , λ n+1 ) using Newton’s method: each iteration would improve upon a guess for the shortest step, δ x n+1 that projects x n+1 0 onto the constraint manifold. Algorithm 1 Fast projection is a velocity filter that enforces constraints. It combines the robustness of using an implicit constraint direction with the efficiency of approximate manifold projection. Input: v // candidate velocity Input: x // known start-of-step position 1: j ← 0 2: x 0 ← x + h v // unconstrained timestep 3: while strain of x j exceeds threshold do 4: Solve linear system (7) for δ λ j+1 5: Evaluate (5) to obtain δ x j+1 6: x j+1 ← x j + δ x j+1 7: j ← j + 1 8: end while Output: 1 h (x j − x) // constraint-enforcing velocity Fast projection also uses a sequence of iterations, but it relaxes the requirement of SAP: starting with the unconstrained position, x n+1 0 , we propose to find a close, but not necessarily closest, point on the constraint manifold, by taking a sequence of “smallest” steps. Fast projection starts at x n+1 0 , and takes a sequence of steps, δ x n+1 j , j = 1, 2, . . ., toward the constraint manifold, with each step as short as possible. A step of fast projection Projection onto the constraint manifold occurs at a fixed instant in time. Therefore, we omit the superscripts (n + 1), which refer to time, in order to emphasize the subscripts, j, which refer to a specific iteration of fast projection, e.g., we write the input position, x n+1 0 , as x 0 , and progressively closer approximations to the constrained position as x 1 , x 2 , . . .. Formally, the ( j + 1) th step of fast projection, x j+1 = x j + δ x j+1 , extremizes the objective function
+        W ( δ x j+1 , δ λ j+1 ) = 2h 1 2 ( δ x j+1 ) T M( δ x j+1 ) + C(x j+1 ) T δ λ j+1 ,
+        with respect to the step increment, δ x j+1 , and the auxiliary variable δ λ j+1 . Expanding the constraint to first order, we obtain a quadratic objective function, whose stationary equations with respect to δ x j+1 and δ λ j+1 are
+        C(x j+1 ) = C(x j + δ x j+1 ) ≈ C(x j ) + ∇C(x j ) δ x j+1 ,
+        
+          5
+          δ x j+1 = −h 2 M −1 ∇C(x j ) T δ λ j+1 ,
+        
+        
+          6
+          ∇C(x j ) δ x j+1 = −C(x j ) .
+        
+        Substituting (5) into (6), we eliminate δ x j+1 and solve a linear system in δ λ j+1 :
+        
+          7
+          h 2 ∇C(x j )M −1 ∇C(x j ) T δ λ j+1 = C(x j ) .
+        
+        Since the linear system matrix involves M −1 , the assembly of this system is most efficient for diagonal (e.g., lumped) mass matrices. Finally, we compute the increment (5) to obtain x j+1 = x j + δ x j+1 . As with ICD/SAP, a fast projection step requires a linear solve. However, fast projection’s system, (7), is smaller (≈ 2n × 2n compared to ≈ 5n × 5n), positive definite (compared to indefinite) and sparser. As a result it is considerably cheaper to evaluate, assemble, and solve than its ICD/SAP counterpart. Fast projection algorithm We repeatedly take fast projection steps until the maximal strain is below a threshold, i.e., the constraint may be satisfied up to a given tolerance. This process is summarized in Algorithm 1. Fast projection finds a manifold point, x n+1 , that is close, but not closest, to the unconstrained point, x 0 n+1 . Referring to the Corollary, we conclude that fast projection exactly solves C = 0 while it approximates F = 0. One important question is whether the fast projection’s error in F is acceptable. Compare a sequence of fast projection iterations to ICD/SAP’s sequence of Newton iterations. The first iteration of these methods is identical. At the end of this first iteration, F, C ∈ O(h 2 ). Additional fast projection iterations seek C → 0, and since C ∈ O(h 2 ), increments in x are O(h 2 ), therefore F remains in O(h 2 ). Observe that F ∈ O(h 2 ) is considered acceptable in many contexts, e.g., [Baraff and Witkin 1998; Choi and Ko 2002] halt the Newton process after a single iteration. To verify this claim, we measured F throughout the ballet dancer sequence. As recorded in Figure 3 , the first iteration of the fast projection method eliminates first-order error. The remaining iterations perturb F only to higher-order (often decreasing the error further).
+        -4 3.5 x 10 error 2.5 after after last first iteration iteration F vertex 1.5 per 0.5 0.0 0 0.2 0.4 0.6 0.8 1 simulation time
+        
+          Figure 3: Effect of fast projection on the residual. Using the ballet dancer sequence, at each timestep (horizontal axis) we measured the residual, F (vertical axis), after the first and last iterations of fast projection (dashed-red and solid-blue curves, respectively).
+        
+        2 10 40 Fast Projection Implicit Spring (seconds) (seconds) 30 1 10 20 time time 10 0 10 0 10 1 10 0 10 -1 20 40 60 80 allowed strain (%) number of vertices (a) (b)
+        
+          Figure 4: Performance of fast projection vs. implicit springs. For a 1D chain simulated in MATLAB, we plot the computation time of one simulated second, as a function (a) of permissible strain (loglog plot for 80 vertices), and (b) of discretization resolution (linear plot for 1% permissible strain).
+        
+      
+      
+        <H2>4.4 Implementation</H2>
+        We implement fast projection as a velocity filter, enabling easy integration into our existing cloth simulation system; refer to Algorithm 1. Step 3 requires solving a sparse symmetric positive definite linear system; we use the PARDISO 
+[Schenk and Gärtner 2006] solver. Each row of ∇C(x n+1 j ) corresponds to one edge, and is computed using (2). The right-hand side, C(x n+1 j ), is given by (1).
+        10 4 x10 2 15 Fast-Projection ICD Shake (seconds) 10 3 (seconds) 10 SL-Jacobi SL-Gauss-Seidel 2 time 10 time 5 1 10 0 10 1 10 0 10 -1 0 5000 10000 allowed strain (%) number of vertices (a) (b)
+        
+          Figure 5: Performance of several constraint-enforcing methods. For a 2D cloth, simulated in C++, we plot the computation time of one simulated second, as a function (a) of permissible strain (log-log plot for 5041 vertices), and (b) of discretization resolution (linear plot for 1% permissible strain).
+          
+        
+        (a) (b)
+        
+          Figure 6:
+        
+        Qualitative visual comparison. Snapshot of a cloth draped using (a) fast projection and (b) implicit constraint direction.
+      
+      
+        <H1>5 Results</H1>
+        We describe several experiments comparing various stretchenforcement methods. All timings are with reference to a single process on a 2.66GHz Intel Core 2 Duo. One-dimensional chain Our first experiment compares the performance of fast projection against an implicit treatment of stiff springs. We observe the scaling of computational cost as a function of (a) permissible strain and (b) mesh resolution. The physical setup consists of a chain pinned at the top node and released to free fall under gravity. The simple 1D chain resists stretching, but not bending. In this didactic example, timings refer to MATLAB’s (sparse) direct solver. Our method shows asymptotically better performance as permissible strain vanishes (see Figure 4a ). Likewise, our algorithm exhibits favorable performance as mesh resolution increases (see Figure 4b ). Using 80 vertices and 1% strain, the fast projection method achieves a 25× speedup. Note that there exists considerable difficulty in setting spring coefficients a priori to satisfy a given strain limit. For settings more pragmatic than a simple chain, such as the following draping experiment, we are unable (despite considerable effort) to set spring coefficients that achieve a prescribed small strain. This explains why spring methods are often treated with strain-limiting procedures. Draping cloth The next experiment compares fast projection, ICD, SHAKE, and the strain limiting approach. We evaluate how the spatial discretization and permissible strain affect performance of these four algorithms. The setup consists of draping a cloth over a polygonal model of a sphere. We measure strain before the collision reaction pass. For the strain limiting algorithms (both Jacobi and Gauss-Siedel), we iterate until strain is in the permissible range. With GaussSiedel, we apply a random permutation to reduce bias resulting from the particular edge ordering. For SHAKE, we use the acceleration suggested in 
+[Barth et al. 1994] to rebuild the matrix once per step or when it fails to converge. As a consequence, the algorithm requires extremely small timesteps to converge, but each timestep is relatively inexpensive, as matrix re-assembly and re-factoring is infrequent. ICD is able to use larger timesteps than SHAKE and still converge, however, since each timestep is substantially more expensive than a SHAKE step, the overall time is higher. Figure 5a shows a timing comparison of these methods, and Figure 5b compares performance as the stiffness is increased for a cloth mesh with approximately 5000 vertices. All CLM methods scale equally well, asymptotically better than the strain limiting approach, with the fast projection being the fastest. As we refine the resolution, and allow strain of 1% ( Figure 5b ), the fast projection method outperforms the other methods. Figure 6 shows the same frame from simulations that use the fast projection and ICD methods, with qualitatively similar results. Figures 7 and 8 show still frames from more complex simulations demonstrating that fast projection is capable of producing complex, realistic simulations of cloth.
+        
+          
+          Figure 7: Inextensibility and dynamics. Inextensibility ensures that the tight-fitting pants do not drop past the dancer’s narrow waist. Using fast projection, an implicit treatment of shear and bending, and a mesh with 10600 vertices, the average simulation time per (30Hz) frame was 9 seconds.
+        
+      
+      
+        <H1>6 Discussion</H1>
+        Our experiments focus on measuring the performance of enforcing inextensibility using CLM compared to strain limiting and stiff springs. In addition to the direct benefit of fast projection on computation times, further benefits can be reaped from the resulting inextensibility. For example, the work of 
+Bergou et al. [2006] assumes inextensibility in order to accelerate bending computation. In adopting the velocity-filtering viewpoint, we gain speed, simplicity, and software modularity—all key to a practical and maintainable implementation. However, this comes at a theoretical cost: there is no longer an efficient way to perfectly enforce both ideal inextensibility and ideal collision handling, since one filter must execute before the other, and both ideals correspond to sharp constraints. To enforce both perfectly would require combining them in a single pass, an elegant and exciting prospect from the standpoint of theory, but one which is likely to introduce considerable complexity and convergence challenges. Practically, we observe that this drawback does not cause artifacts in our simulation, for several reasons: first, we execute collision-handling last, to avoid glaring collision artifacts, yet we assert that empirically our strain remains negligible, as required. Second, unlike constraint-enforcement approaches such as 
+[Witkin et al. 1990], the inextensibility filter does not assume that the constraint is maintained at the beginning of the timestep and errors are not accumulated during the simulation. Conclusion Despite the fact that the most common fabrics do not visibly stretch when draped over the body, the trend in our community is to favor stretching formulations based on penalty-springs. The consequent numerical difficulties are then addressed by a combination of (a) relaxing realism by allowing 10% strain, and (b) adopting simple iterative strain and strain-rate algorithms that have poor convergence behavior. With Constrained Lagrangian Mechanics as our alternative point of departure, we demonstrate a straightforward filter, with good convergence behavior, for enforcing inextensibility. We provide one immediate and pragmatic approach to fast and realistic fabric simulation using CLM, and we hope that it will spur a renaissance of activity along this direction. Acknowledgments We are grateful for the valuable feedback from our reviewers, and in particular for the keen eyes and diligent guidance of the primary reviewer. We thank OptiTex for providing the 3D garment geometry as well as the animated figurines. We are grateful to David Ismailov for setting up the cloth models, and Ruzz Oved and Yaniv Gorali for lighting and shading our scenes. Our work benefited from the valuable insights of Jerrold E. Marsden, Ari Stern, and Max Wardetzky, and from the generous support of the NSF (MSPA 0528402, CSR 0614770, CAREER 0643268), Autodesk, mental images, NVIDIA, and Elsevier.
+      
+      
+        <H1>References</H1>
+        
+          A SCHER , U. M., R UUTH , S. J., AND S PITERI , R. J. 1997. Implicit–explicit Runge–Kutta methods for time-dependent partial differential equations. Applied Numerical Mathematics: Transactions of IMACS 25, 2–3, 151–167.
+          B ARAFF , D., AND W ITKIN , A. 1998. Large steps in cloth simulation. In Proceedings of SIGGRAPH 98, ACM Press / ACM SIGGRAPH, New York, NY, USA, 43–54.
+          B ARTH , E., K UCZERA , K., L EIMKUHLER , B., AND S KEEL , R. 1994. Algorithms for Constrained Molecular Dynamics. March.
+          B ERCOVIER , M., AND P AT , T. 1984. A C 0 finite element method for the analysis of inextensibile pipe lines. Computers and Structures 18, 6, 1019–1023.
+          B ERGOU , M., W ARDETZKY , M., H ARMON , D., Z ORIN , D., AND G RINSPUN , E. 2006. A quadratic bending model for inextensible surfaces. In Fourth Eurographics Symposium on Geometry Processing, 227–230.
+          B OXERMAN , E. 2003. Speeding up cloth simulation. Master’s thesis, University of British Columbia.
+          B REEN , D. E., H OUSE , D. H., AND W OZNY , M. J. 1994. Predicting the drape of woven cloth using interacting particles. In Proceedings of ACM SIGGRAPH 1994, ACM Press/ACM SIGGRAPH, New York, NY, USA, 365–372.
+          B RIDSON , R., F EDKIW , R. P., AND A NDERSON , J. 2002. Robust treatment of collisions, contact, and friction for cloth animation. ACM Transactions on Graphics 21, 3 (July), 594–603.
+          B RIDSON , R., M ARINO , S., AND F EDKIW , R. 2003. Simulation of clothing with folds and wrinkles. In Symposium on Computer animation, 28–36.
+          C HOI , K.-J., AND K O , H.-S. 2002. Stable but responsive cloth. ACM Transactions on Graphics” 21, 3, 604–611.
+          C HOI , K.-J., AND K O , H.-S. 2005. Research problems in clothing simulation. Computer-Aided Design 37, 6, 585–592.
+          D ESBRUN , M., S CHR ODER  ̈ , P., AND B ARR , A. 1999. Interactive animation of structured deformable objects. In Graphics Interface ’99, 1–8.
+          E BERHARDT , B., W EBER , A., AND S TRASSER , W. 1996. A fast, flexible, particle-system model for cloth draping. IEEE Comput. Graph. Appl. 16, 5, 52–59.
+          E BERHARDT , B., E TZMUSS , O., AND H AUTH , M. 2000. Implicitexplicit schemes for fast animation with particle systems 137– 154.
+          F UHRMANN , A., G ROSS , C., AND L UCKAS , V. 2003. Interactive animation of cloth including self collision detection. In WSCG ’03, 141–148.
+          G RIFFITHS , P., AND K ULKE , T. 2002. Clothing movement— visual sensory evaluation and its correlation to fabric properties. Journal of sensory studies 17, 3, 229–255.
+          H AIRER , E., L UBICH , C., AND W ANNER , G. 2002. Geometric Numerical Integration. No. 31 in Springer Series in Computational Mathematics. Springer-Verlag.
+          H AUTH , M., E TZMUSS , O., AND S TRASSER , W. 2003. Analysis of numerical methods for the simulation of deformable models. The Visual Computer 19, 7-8, 581–600.
+          H ONG , M., C HOI , M.-H., J UNG , S., W ELCH , S., AND T RAPP , J. 2005. Effective constrained dynamic simulation using implicit constraint enforcement. In International Conference on Robotics and Automation, 4520–4525.
+          H OUSE , D. H., AND B REEN , D. E., Eds. 2000. Cloth modeling and animation. A. K. Peters, Ltd., Natick, MA, USA.
+          H OUSE , D. H., D E V AUL , R. W., AND B REEN , D. E. 1996. Towards simulating cloth dynamics using interacting particles. International Journal of Clothing Science and Technology 8, 3, 75–94.
+          M ARSDEN , J. 1999. Introduction to Mechanics and Symmetry. Springer.
+          M EYER , M., D EBUNNE , G., D ESBRUN , M., AND B ARR , A. H. 2001. Interactive animation of cloth-like objects in virtual reality. The Journal of Visualization and Computer Animation 12, 1 (Feb.), 1–12.
+          M ULLER  ̈ , M., H EIDELBERGER , B., H ENNIX , M., AND R AT CLIFF , J. 2006. Position based dynamics. In Proceedings of Virtual Reality Interactions and Physical Simulation (VRIPHYS), C. Mendoza and I. Navazo, Eds., 71–80.
+          P ROVOT , X. 1995. Deformation constraints in a mass-spring model to describe rigid cloth behavior. In Graphics Interface, 147–154.
+          S CHENK , O., AND G ARTNER  ̈ , K. 2006. On fast factorization pivoting methods for sparse symmetric indefinite systems. Elec. Trans. Numer. Anal 23, 158–179.
+		  T ERZOPOULOS , D., P LATT , J., B ARR , A., AND F LEISCHER , K. 1987. Elastically deformable models. In Computer Graphics (Proceedings of ACM SIGGRAPH 87), ACM Press, New York, NY, USA, 205–214. 
+		  T SIKNIS , K. D. 2006. Better cloth through unbiased strain limiting and physics-aware subdivision. Master’s thesis, The University of British Columbia.
+V OLINO , P., AND M AGNENAT -T HALMANN , N. 2001. Comparing efficiency of integration methods for cloth simulation. Computer Graphics International, 265–274. W ITKIN , A., G LEICHER , M., AND W ELCH , W. 1990. Interactive dynamics. Computer Graphics (Proceedings of ACM SIGGRAPH 90) 24, 2, 11–21. 
+        
+        
+          
+          
+          Figure 8: Enforcing inextensibility using fast projection yields lively motion with detailed wrinkles and folds. Frames from ballet and runway sequences simulated using fast projection. The elastic term was integrated implicitly (top) and explicitly (bottom), respectively. The cloth contains 8325 (top) and 10688 (bottom) vertices, with average simulation time per (30Hz) frame of 5.2 and 7.8 seconds, respectively.
+        
+       
+      
+      
+        Appendix A
+        We briefly explain why ICD and fast projection (FP) are not troubled by configurations (Q1), (Q2), and (Q4), and are resilient to (Q3). Facts about the behavior of SHAKE are taken from [Barth et al. 1994]. Q1 SHAKE’s force ∇C(x n ) T λ n+1 cannot reduce the single edge’s length back to l; our force ∇C(x n+1 j ) T λ n+1 can reduce that edge’s length back to l. Q2 ∇C(x n+1 j ) and ∇C(x n ) T are both full-rank, yet SHAKE fails since ∇C(x n+1 j )M −1 ∇C(x n ) T is singular; FP uses ∇C(x n+1 j )M −1 ∇C(x n+1 j ) T , and ICD uses ∇C(x n+1 j )D∇C(x n+1 j ) T , where D is a symmetric full-rank matrix; in both cases this product is not singular. Q3 ICD and FP may fail if ∇C(x n+1 j ) is rank-deficient; for sufficiently small timestep, h, this case is always avoidable. Q4 ∇C(x n ) is rank-deficient, so SHAKE fails; ICD and FP do not use ∇C(x n ).
+      
+    
+  
+
+</Document>

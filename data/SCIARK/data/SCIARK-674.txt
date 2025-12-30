@@ -1,0 +1,6 @@
+Title: Building on Paris: integrating nitrous oxide mitigation into future climate policy
+Abstract: Nitrous oxide (N2O) is an important contributor to climate change and stratospheric ozone depletion and yet it receives little attention in either the global climate or ozone agreements.
+More concerted efforts to address N2O could be key in meeting the 2°C target and a suite of Sustainable Development Goals.
+The past several years has seen major advances in N2O science and technology: our ability to estimate and simulate current and future N2O emissions has improved, and more effective mitigation practices and technologies continue to arrive on the market.
+Moreover, nitrogen's unique chemistry means that reducing N2O emissions could simultaneously address a number of other environmental threats exacerbated by N losses, further enhancing the cost-effectiveness of mitigation.
+Consequently, future National Determined Contributions under the Paris Climate Agreement could use this new knowledge to develop national N2O targets that would help the international community meet its climate and sustainable development commitments.

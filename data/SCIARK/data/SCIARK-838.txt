@@ -1,0 +1,9 @@
+Title: Invention and Transfer of Climate Change–Mitigation Technologies: A Global Analysis
+Abstract: This article uses the European Patent Office Worldwide Patent Statistical Database to examine the geographic distribution and global diffusion of inventions in thirteen climate-mitigation technologies since 1978.
+The data suggest that until 1990 innovation was driven mostly by energy prices.
+Since then, environmental policies, and, more recently, climate policies, have accelerated the pace of innovation.
+The data also indicate that innovation is highly concentrated in three countries—Japan, Germany, and the United States—which together account for 60 percent of total inventions.
+Surprisingly, the contribution of emerging economies is far from negligible as China and Brazil together account for about 10 percent of total inventions.
+However, inventions from emerging economies are less likely to find markets beyond their borders, suggesting that inventions from emerging economies have less value.
+More generally, international transfers occur mostly between developed countries (73 percent of all exported inventions).
+Exports from developed countries to emerging economies are still limited (22 percent) but are growing rapidly, especially to China.

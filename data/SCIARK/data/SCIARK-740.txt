@@ -1,0 +1,13 @@
+Perpetuating energy poverty: Assessing roadmaps for universal energy access in unmet African electricity markets
+Abstract
+A growing number of people in Africa still do not have access to electricity.
+This phenomenon threatens the realisation of the United Nation's Sustainable Development Goal 7, pertaining to universal access to modern energy.
+Factors attributed to Africa's low electricity access include limited financial resources at the dispensation of governments to execute the capital-intensive infrastructure development required by the power sector.
+This paper examines different scenarios to ascertain roadmaps for universal energy access in unmet African electricity market.
+This was achieved by developing the Africa Electricity Access (AFELA) model, using system dynamics.
+AFELA comprises three sub-models, namely: Electricity Access, Electricity Capital Investment, and Electricity Supply Capacity.
+Four scenarios were examined to determine the fastest roadmap to universal electricity access in Africa.
+The scenarios were the Baseline scenario, Economies of scale scenario, Capacity utilisation factor scenario, and Electricity access investment scenario.
+The results show that the Electricity access investment scenario, which entails an increase in the annual power investment by two per cent of GDP, is the most viable way to universal electricity access.
+The budget constraints of national governments, who are mandated to provide electricity, and the limited funds available from multilateral and bilateral aids, imply that investment from the private sector is vital.
+The paper thus suggests private sector finance as a conduit to address the funding challenge, and expedite the attainment of universal access to electricity.

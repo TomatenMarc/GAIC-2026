@@ -1,0 +1,12 @@
+Title: Public and Population Health Informatics: The Bridging of Big Data to Benefit Communities
+Abstract
+Objective: To summarize the recent public and population health informatics literature with a focus on the synergistic "bridging" of electronic data to benefit communities and other populations.
+Methods: The review was primarily driven by a search of the literature from July 1, 2016 to September 30, 2017.
+The search included articles indexed in PubMed using subject headings with (MeSH) keywords "public health informatics" and "social determinants of health".
+The "social determinants of health" search was refined to include articles that contained the keywords "public health", "population health" or "surveillance".
+Results: Several categories were observed in the review focusing on public health's socio-technical infrastructure: evaluation of surveillance practices, surveillance methods, interoperable health information infrastructure, mobile health, social media, and population health.
+Common trends discussing socio-technical infrastructure included big data platforms, social determinants of health, geographical information systems, novel data sources, and new visualization techniques.
+A common thread connected these categories of workforce, governance, and sustainability: using clinical resources and data to bridge public and population health.
+Conclusions: Both medical care providers and public health agencies are increasingly using informatics and big data tools to create and share digital information.
+The intent of this "bridging" is to proactively identify, monitor, and improve a range of medical, environmental, and social factors relevant to the health of communities.
+These efforts show a significant growth in a range of population health-centric information exchange and analytics activities.

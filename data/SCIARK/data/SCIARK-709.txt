@@ -1,0 +1,7 @@
+The energy metabolism of countries: Energy efficiency and use in the period that followed the global financial crisis
+Abstract
+This paper discusses how the deceleration of economic growth, that followed the financial crisis of 2008, influenced the energy efficiency, allocation and use of 18 European countries.
+By using a Multi-scale Integrated Analysis of Societal and Ecosystem Metabolism (MuSIASEM), the relationships between energy requirements, economic trends and population are investigated for the years 2008 and 2015.
+The analyses are performed for the entire society (Level N), for the household and the paid sectors (Level N-1) and for the agricultural, the industrial and the service activities (Level N-2).
+Results show that two main groups of countries performed the largest energy reductions, namely: the country most affected by the global financial crisis, such as Greece, Romania and Spain, where the total energy throughput decreased by −19.6%, −15.8% and −12.1%, respectively; and the countries, such as Ireland and United Kingdom, that experienced the largest energy intensity reductions (−38.7% and −19.2%), together with the highest GDP increases (+44.8% and +10.2%).
+By providing an overview of the relationships existing between socio-economic and energy variables, this paper contributes to the debate around growth and efficiency and can support the design of policies oriented to promote the achievement of a more sustainable and competitive economy.

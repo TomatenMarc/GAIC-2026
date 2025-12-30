@@ -1,0 +1,12 @@
+A review on technological options of waste to energy for effective management of municipal solid waste
+Abstract
+Approximately one-fourth population across the world rely on traditional fuels (kerosene, natural gas, biomass residue, firewood, coal, animal dung, etc.)
+for domestic use despite significant socioeconomic and technological development.
+Fossil fuel reserves are being exploited at a very fast rate to meet the increasing energy demands, so there is a need to find alternative sources of energy before all the fossil fuel reserves are depleted.
+Waste to energy (WTE) can be considered as a potential alternative source of energy, which is economically viable and environmentally sustainable.
+The present study reviewed the current global scenario of WTE technological options (incineration, pyrolysis, gasification, anaerobic digestion, and landfilling with gas recovery) for effective energy recovery and the challenges faced by developed and developing countries.
+This review will provide a framework for evaluating WTE technological options based on case studies of developed and developing countries.
+Unsanitary landfilling is the most commonly practiced waste disposal option in the developing countries.
+However, developed countries have realised the potential of WTE technologies for effective municipal solid waste management (MSWM).
+This review will help the policy makers and the implementing authorities involved in MSWM to understand the current status, challenges and barriers for effective management of municipal solid waste.
+This review concluded WTE as a potential renewable source of energy, which will partly meet the energy demand and ensure effective MSWM.

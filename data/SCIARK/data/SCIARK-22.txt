@@ -1,0 +1,11 @@
+Title: Achieving sustainable development in India along low carbon pathways: Macroeconomic assessment
+Abstract: Achieving fast and inclusive economic growth concurrently with greenhouse gases (GHG) emission control could have wide-ranging implications for the Indian economy, predominantly fuelled by fossil energies.
+India faces high income inequality with the bottom 50% of its population owning only 2% of total national wealth.
+Other developmental challenges include 304 million people living in poverty, 269 million without access to electricity, 92 million without access to safe drinking water, and around 2 million homeless.
+Despite such challenges, India has committed to reduce the GHG emission intensity of its GDP 33–35% below its 2005 level by 2030, including via turning 40% of its power-generation capacity away from fossil sources.
+To explore the macroeconomic consequences of achieving development along low-carbon pathways, we use a hybrid modelling architecture that combines the strengths of the AIM/Enduse bottom-up model of Indian energy systems and the IMACLIM top-down economy-wide model of India.
+This hybrid architecture stands upon an original dataset that reconciles national accounting, energy balance and energy price statistics.
+With this tool, we demonstrate that low-carbon scenarios can accommodate yearly economic growth of 5.8% from 2013 to 2050 i.e. perform close to if not slightly higher than our business-as-usual scenario, despite high investment costs.
+This result partly stems from improvement of the Indian trade balance via substantial reduction of large fossil fuel imports.
+Additionally, it is the consequence of significant shifts of sectoral activity and household consumption towards low-carbon products and services of higher value-added.
+These transitions would require policies to reconcile the conflicting interests of entrenched businesses in retreating sectors like coal and oil, and the emerging low-carbon sectors and technologies such as renewables, smart grids, electric vehicles, modern biomass energy, solar cooking, carbon capture and storage, etc.

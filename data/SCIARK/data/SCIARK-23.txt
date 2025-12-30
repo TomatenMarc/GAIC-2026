@@ -1,0 +1,16 @@
+Maternal mortality in Ifakara Health and Demographic Surveillance System: Spatial patterns, trends and risk factors, 2006 - 2010
+Introduction:                    Maternal mortality was the subject of the United Nations' fifth Millennium Development Goal which was to reduce the maternal mortality ratio by three quarters from 1990 to 2015.
+The Sustainable Development Goals (SDGs), target 3.1 requires participating countries to reduce their maternal mortality ratio to less than 70 deaths per 100,000 live births by 2030.
+Although much research has been conducted, knowing the spatial patterns and risk factors associated with maternal mortality in developing countries helps target scarce resources and intervention programmes to high risk areas for the greatest impact.
+Methods:                    Data were analysed from a longitudinal open cohort of women aged 15 to 49 years, enrolled from 2006 to 2010.
+An inverse distance weighted method of interpolation was used to assess spatial patterns of maternal mortality.
+Cox proportional hazards regression analysis was used to identify risk factors associated with maternal mortality.
+Results:                    The overall maternal mortality rate for the 36 792 study participants for the five years was 0.79 per 1000 person years.
+The trend declined from 90.42 in 2006 to 57.42 in 2010.
+Marked geographical differences were observed in maternal mortality patterns.
+The main causes of maternal death were eclampsia (23%), haemorrhage (22%) and abortion-related complications (10%).
+There was a reduced risk of 82% (HR = 0.18, 95% CI:0.05-0.74) and 78% (HR = 0.22, 95% CI:0.05-0.92) for women aged 20-29 and 30-39 years, respectively, compared with those younger than 20 years.
+While being married had a protective effect of 94% (HR = 0.06, 95% CI: 0.01-0.51) compared with being single, women who were widowed had an increased risk of maternal death of 913% (HR = 9.13, 95% CI: 1.02-81.94).
+Women who belong to poorer, poor and least poor socioeconomic quintile had 84%, 71% and 72% reduction in risk of maternal mortality respectively compared to those in the poorest category (HR = 0.16, 95% CI: 0.06-0.42; HR = 0.29, 95% CI: 0.12-0.69; HR = 0.28, 95% CI: 0.10-0.80).
+Conclusion:                    Maternal mortality has declined in rural southern Tanzania since 2006, with geographical differences in patterns of death.
+Eclampsia, haemorrhage and abortion-related complications are the three leading causes of maternal death in the region, with risk factors being younger than 20 years, being single or widowed, and having a low socioeconomic status.

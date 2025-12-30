@@ -1,0 +1,11 @@
+The potential of variable speed diesel application in increasing renewable energy source penetration
+Abstract
+Integration of renewable energy source (RES) generation to displace diesel generation can present clear economic, environmental and social benefit.
+While low level RES integration is relatively easy to achieve, both the cost and complexity escalate as systems target increasing RES penetration.
+A key barrier to greater RES penetrations remains the inefficiency of diesel generation to operate at low or partial loading.
+To achieve low or partial loading, conventional fixed speed diesel technologies must rely on prescribed purge routines, which serve to increase emissions intensity and fuel consumption.
+Fixed speed constraint remains the primary barrier to increased engine flexibility and improved partial load efficiency.
+This paper investigates redesign of the diesel generator to achieve variable speed operation.
+A suitable design basis is developed, with laboratory testing used to validate unit performance, ahead of economic evaluation.
+Economic modelling is presented to explore the improve engine flexibility, required of hybrid diesel applications.
+Variable speed application is shown to reduce diesel fuel consumption by up to 40 % in comparison to conventional hybrid diesel applications.

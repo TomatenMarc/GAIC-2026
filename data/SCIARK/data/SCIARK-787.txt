@@ -1,0 +1,18 @@
+Title: Adaptation to hot climate and strategies to alleviate heat stress in livestock production
+Abstarct: Despite many challenges faced by animal producers, including environmental problems, diseases, economic pressure, and feed availability, it is still predicted that animal production in developing countries will continue to sustain the future growth of the world's meat production.
+In these areas, livestock performance is generally lower than those obtained in Western Europe and North America.
+Although many factors can be involved, climatic factors are among the first and crucial limiting factors of the development of animal production in warm regions.
+In addition, global warming will further accentuate heat stress-related problems.
+The objective of this paper was to review the effective strategies to alleviate heat stress in the context of tropical livestock production systems.
+These strategies can be classified into three groups: those increasing feed intake or decreasing metabolic heat production, those enhancing heat-loss capacities, and those involving genetic selection for heat tolerance.
+Under heat stress, improved production should be possible through modifications of diet composition that either promotes a higher intake or compensates the low feed consumption.
+In addition, altering feeding management such as a change in feeding time and/or frequency, are efficient tools to avoid excessive heat load and improve survival rate, especially in poultry.
+Methods to enhance heat exchange between the environment and the animal and those changing the environment to prevent or limit heat stress can be used to improve performance under hot climatic conditions.
+Although differences in thermal tolerance exist between livestock species (ruminants > monogastrics), there are also large differences between breeds of a species and within each breed.
+Consequently, the opportunity may exist to improve thermal tolerance of the animals using genetic tools.
+However, further research is required to quantify the genetic antagonism between adaptation and production traits to evaluate the potential selection response.
+With the development of molecular biotechnologies, new opportunities are available to characterize gene expression and identify key cellular responses to heat stress.
+These new tools will enable scientists to improve the accuracy and the efficiency of selection for heat tolerance.
+Epigenetic regulation of gene expression and thermal imprinting of the genome could also be an efficient method to improve thermal tolerance.
+Such techniques (e.g.
+perinatal heat acclimation) are currently being experimented in chicken.

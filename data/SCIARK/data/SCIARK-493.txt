@@ -1,0 +1,6 @@
+The demand for preventive care services and its relationship with inpatient services.
+Objective: To examine not only the relationship between the utilization of preventive health care services and inpatient services, but to also investigate the factors affecting the utilization of such services by the middle-aged and elderly.
+Method: We use data obtained from the 2003 Survey of Health and Living Status of the Elderly in Taiwan (SHLSE), hypothesizing that preventive health care services can be regarded as an appropriate substitute for subsequent medical services such as inpatient services; a recursive simultaneous model is used to avoid the problems of endogeneity.
+Results: The main results of this study indicate that the utilization of preventive health care services has the effect of reducing the probability of the utilization of inpatient services.
+Conclusion: The utilization of preventive care services can help to promote healthier lifestyles, provide early detection of illnesses, and reduce the need for subsequent inpatient care services amongst individuals.
+We suggest that effective outreach strategies to promote the utilization of preventive care services are essential.

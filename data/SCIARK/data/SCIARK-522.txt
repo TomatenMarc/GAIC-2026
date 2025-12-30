@@ -1,0 +1,11 @@
+﻿Child abuse and neglect and intimate partner violence victimization and perpetration: a prospective investigation.
+This paper describes the extent to which abused and neglected children report intimate partner violence (IPV) victimization and perpetration when followed up into middle adulthood.
+Using data from a prospective cohort design study, children (ages 0-11) with documented histories of physical and sexual abuse and/or neglect (n=497) were matched with children without such histories (n=395) and assessed in adulthood (Mage=39.5).
+Prevalence, number, and variety of four types of IPV (psychological abuse, physical violence, sexual violence, and injury) were measured.
+Over 80% of both groups - childhood abuse and neglect (CAN) and controls - reported some form of IPV victimization during the past year (most commonly psychological abuse) and about 75% of both groups reported perpetration of IPV toward their partner.
+Controlling for age, sex, and race, overall CAN [adjusted odds ratio (AOR)=1.60, 95% CI [1.03, 2.49]], physical abuse (AOR=2.52, 95% CI [1.17, 5.40]), and neglect (AOR=1.64, 95% CI [1.04, 2.59]) predicted increased risk for being victimized by a partner via physical injury.
+CAN and neglect also predicted being victimized by a greater number and variety of IPV acts.
+CAN and control groups did not differ in reports of perpetration of IPV, although neglect predicted greater likelihood of perpetrating physical injury to a partner, compared to controls.
+Abused/neglected females were more likely to report being injured by their partner, whereas maltreated males did not.
+This study found that child maltreatment increases risk for the most serious form of IPV involving physical injury.
+Increased attention should be paid to IPV (victimization and perpetration) in individuals with histories of neglect.

@@ -1,0 +1,11 @@
+Life cycle analysis of biodiesel production
+Abstract: Biodiesel has attracted considerable attention as a renewable, biodegradable, and nontoxic fuel and can contribute to solving the energy problems, significantly reducing the emission of gases which cause global warming.
+The first stage of this work was to simulate different alternative processes for producing biodiesel.
+The method used for the production of biodiesel is the transesterification of vegetable oils with an alcohol in the presence of a catalyst.
+The raw materials used were palm oils and waste cooking oil.
+The second stage was a life cycle analysis for all alternatives under study, followed by an economic analysis for the alternatives that present minor impacts and which are more promising from an economic point of view.
+Finally, we proceeded to compare the different alternatives from both the point of view of life cycle and economic analysis.
+The feasibility of all processes was proven and the biodiesel obtained had good specifications.
+From the standpoint of life cycle analysis, the best alternative was the process of alkaline catalysis with acid pre-treatment for waste cooking oil.
+The economic analysis was done to the previous mentioned process and to the process that uses raw virgin oils, methanol, and sodium hydroxide.
+This process has lower investment costs but the process of alkaline catalysis with acid pre-treatment, whose main raw material is waste oil, is much more profitable and has less environmental impacts.

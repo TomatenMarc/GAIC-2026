@@ -1,0 +1,9 @@
+Title: Developing a GHG-based methodological approach to support the sourcing of sustainable construction materials and products
+Abstract: While the assessment of environmental impacts of different construction materials is widely studied globally, the development of robust mechanisms for material sourcing as an integral step to transit into a sustainable supply chain is still sparse.
+Integrating environmental performance into an industry level supply chain is indeed a challenging task due to the absence of standardized methodology.
+This paper presents a methodological approach for sustainable construction material sourcing by highlighting the greenhouse gas (GHG) emissions.
+The proposed approach is then adopted to 12 case construction materials and products which are commonly used in to Hong Kong, and the hotspots for existing sourcing of the selected materials and products are identified while the GHG emissions are assessed based on their sourcing locations.
+Alternative scenarios for sourcing are identified based on a decision matrix developed according to this methodological approach.
+The results demonstrate that sustainable sourcing of the 12 selected materials and products by adopting the alternative scenarios can reduce 28% of the total GHG emissions compared to the base scenarios.
+As the scope of emission reduction for resource-scarce high-density city like Hong Kong is limited, sustainable sourcing of materials may significantly influence the emission reduction target of the construction industry.
+The proposed approach can help underpin sustainable sourcing of materials which can be effectively adopted in other regions to enhance the sustainability performance of the industry.

@@ -1,0 +1,15 @@
+Ecosystem change in the western North Pacific associated with global warming using 3D-NEMURO
+Abstract: We developed a 3D ecosystem-biogeochemical model based on NEMURO (North Pacific Ecosystem Model Used for Regional Oceanography) and applied it to the western North Pacific in order to predict the effects of global warming on ecosystem dynamics and biogeochemical cycles.
+Using datasets of observed climatology and simulated fields according to a global warming scenario, IS92a (CO-AGCM developed by CCSR/NIES) as boundary conditions for our ecosystem model, we conducted present-day and global warming experiments and compared their results.
+Model results in the global warming experiment show increases in vertical stratification due to rising temperatures.
+As a result, the predicted nutrient and chlorophyll-a concentrations in the surface water decrease at the end of the 21st century, and the dominant phytoplankton group shifts from diatoms to other small phytoplankton.
+The P/B ratio slightly increases from that in the present as a result of favorable temperature conditions, although nutrient conditions become worse.
+The increase in the P/B ratio causes increases in the NPP and GPP, although new and export productions decrease.
+Increases in the regeneration rates (i.e., decrease in the e-ratio) also contribute to increases in NPP and GPP through nutrient supplies within the surface water.
+Changes in seasonal variations of biomass and the dominant phytoplankton group in the subarctic–subtropical transition region associated with the global warming are large in all regions.
+In the global warming scenario, the onset of the diatom spring bloom is predicted to take place 1.5 month earlier than in the present-day simulation due to strengthened stratification.
+The maximum biomass in the spring bloom is predicted to decrease drastically compared to the present due to the decreases in nutrient concentration.
+In contrast, the biomass maximum of the other small phytoplankton at the end of the diatom spring bloom is the same as the present, because they can adapt to the low nutrient conditions due to their small half-saturation constant.
+Therefore, a change in the dominant phytoplankton group appears notably at the end of spring bloom.
+Since the present nutrient concentrations and phytoplankton biomass from summer to winter are low compared with those in spring, these changes associated with the global warming are small.
+That is, it is interesting that the changes do not occur uniformly in all seasons, but occur dramatically at the end of the spring and in the fall bloom.

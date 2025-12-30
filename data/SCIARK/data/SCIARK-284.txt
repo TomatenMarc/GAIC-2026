@@ -1,0 +1,12 @@
+Title: Characteristics and well-being of informal caregivers: Results from a nationally-representative US survey
+Abstract
+Objectives: Given ongoing concerns about high levels of burden reported among some informal caregivers, the goal of this study was to characterize their sociodemographics, health, and well-being.
+Methods: Using cross-sectional data from a large nationally representative survey in the United States (N = 438,712) we identified adults who provided informal care to friends or family members with a health problem, long-term illness, or disability.
+Descriptive statistics and propensity matching were used to characterize caregivers and compare their health and social support to sociodemographically-similar adults who were not caregivers.
+Logistic regression models examined associations between caregiving and respondents' mental health, general health, perceived social support, and sleep problems.
+Results: A total of 111,156 (25.3%) participants reported being caregivers, most of whom reported good mental health (90%) good general health (83%), and adequate social support (77%).
+After adjusting for respondents' gender, caregivers reported worse mental health than non-caregivers (odds ratio (OR) = 1.35, 95% confidence interval (CI) = 1.31-1.39 for >15 days poor mental health in the past month) but better general health (OR = 0.96, 95%CI = 0.94-0.98 for fair or poor health).
+Men caregivers reported somewhat worse overall health than non-caregivers (OR = 1.09, 95%CI = 1.05-1.13) whereas women reported better overall health.
+Discussion: Although reporting good overall well-being, caregivers remain vulnerable for worse outcomes than non-caregivers.
+Caregiving is associated with poor mental health, and may have additional impacts on the physical health of caregiving men.
+Keywords: Caregiver; informal caregiving; survey.

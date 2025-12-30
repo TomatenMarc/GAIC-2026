@@ -1,0 +1,14 @@
+Simulation of global warming potential (GWP) from rice fields in the Tai-Lake region, China by coupling 1:50,000 soil database with DNDC model
+Abstract: Quantifying greenhouse gas (GHG) emissions from wetland ecosystems is a relatively new issue in global climate change studies.
+China has approximately 22% of the world's rice paddies and 38% of the world's rice production, which are crucial to accurately estimate the global warming potential (GWP) at regional scale.
+This paper reports an application of a biogeochemical model (DeNitrification and DeComposition or DNDC) for quantifying GWP from rice fields in the Tai-Lake region of China.
+For this application, DNDC is linked to a 1:50,000 soil database, which was derived from 1107 paddy soil profiles compiled during the Second National Soil Survey of China in the 1980–1990s.
+The simulated results show that the 2.34 Mha of paddy soil cultivated in rice–wheat rotation in the Tai-Lake region emitted about −1.48 Tg C, 0.84 Tg N and 5.67 Tg C as CO2, N2O, and CH4 respectively, with a cumulative GWP of 565 Tg CO2 equivalent from 1982 to 2000.
+As for soil subgroups, the highest GWP (26,900 kg CO2 equivalent ha−1 yr−1) was linked to gleyed paddy soils accounting for about 4.4% of the total area of paddy soils.
+The lowest GWP (5370 kg CO2 equivalent ha−1 yr−1) was associated with submergenic paddy soils accounting for about 0.32% of the total area of paddy soils.
+The most common soil in the area was hydromorphic paddy soils, which accounted for about 53% of the total area of paddy soils with a GWP of 12,300 kg CO2 equivalent ha−1 yr−1.
+On a regional basis, the annual averaged GWP in the polder, Tai-Lake plain, and alluvial plain soil regions was distinctly higher than that in the low mountainous and Hilly soil regions.
+As for administrative areas, the average annual GWP of counties in Shanghai city was high.
+Conversely, the average annual GWP of counties in Jiangsu province was low.
+The high variability in soil properties throughout the Tai-Lake region is important and affects the net greenhouse gas emissions.
+Therefore, the use of detailed soil data sets with high-resolution digital soil maps is essential to improve the accuracy of GWP estimates with process-based models at regional and national scales.

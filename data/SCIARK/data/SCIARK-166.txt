@@ -1,0 +1,20 @@
+Traumatic brain injury in the Netherlands, trends in emergency department visits, hospitalization and mortality between 1998 and 2012
+Background:                    Traumatic brain injury (TBI) is a major cause of morbidity and mortality worldwide.
+The effects of epidemiological changes such as ageing of the population and increased traffic safety on the incidence of TBI are unknown.
+Objective:                    The objective of this study was to evaluate trends in TBI-related emergency department (ED) visits, hospitalization and mortality in the Netherlands between 1998 and 2012.
+Design:                    This was a retrospective observational, longitudinal study.
+Main outcome measures:                    The main outcome measures were TBI-related ED visits, hospitalization and mortality.
+Results:                    Between 1998 and 2012, there were 500 000 TBI-related ED visits in the Netherlands.
+In the same period, there were 222 000 TBI-related admissions and 17 000 TBI-related deaths.
+During this period, there was a 75% increase in ED visits for TBI and a 95% increase for TBI-related hospitalization; overall mortality because of TBI did not change significantly.
+Despite the overall increase in TBI-related ED visits, this increase was not evenly distributed among age groups or trauma mechanisms.
+In patients younger than 65 years, a declining trend in ED visits for TBI caused by road traffic accidents was observed.
+Among patients 65 years or older, ED visits for TBI caused by a fall increased markedly.
+TBI-related mortality shifted from mainly young (67%) and middle-aged individuals (<65 years) to mainly elderly (63%) individuals (≥65 years) between 1998 and 2012.
+The conclusions of this study did not change when adjusting for changes in age, sex and overall population growth.
+Conclusion:                    The incidence of TBI-related ED visits and hospitalization increased markedly between 1998 and 2012 in the Netherlands.
+TBI-related mortality occurred at an older age.
+These observations are probably the result of a change in aetiology of TBI, specifically a decrease in traffic accidents and an increase in falls in the ageing population.
+This hypothesis is supported by our data.
+However, ageing of the population is not the only cause of the changes observed; the observed changes remained significant when correcting for age and sex.
+The higher incidence of TBI with a relatively stable mortality rate highlights the importance of clinical decision rules to identify patients with a high risk of poor outcome after TBI.

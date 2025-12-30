@@ -1,0 +1,9 @@
+Title: Recycled polyolefins waste as aggregates for lightweight concrete
+Abstract: In the present investigation polyolefin waste aggregates (PWA) obtained by recycled plastic materials were employed as substitution of natural aggregates in the manufacture of light weight aggregate concretes (LWAC).
+Different amounts (10, 20 and 30%) of natural aggregates were substituted by the same volume of PWA.
+The effect of such substitution on the main physical (porosity, density and thermal stability) and mechanical (compressive and splitting tensile strength) properties was evaluated.
+In addition, their post-fire residual mechanical performances were analyzed by means of density measurement, ultrasonic testing and compressive strength evaluation.
+The use of PWA resulted in specimens characterized by lower density and higher porosity and water absorption.
+Mechanical tests denote a worsening in the concrete performances with increasing of substitution, even if LWAC shows a more ductile failure under compression loading, compared to the typical brittle failure of a reference concrete.
+Thermal response tests performed at 600 °C indicate that compressive strength of the samples exposed to elevated temperatures are reduced considerably with the increase of percentage of the employed recycled aggregates.
+The addition of PWA for manufacturing of LWAC represents an opportunity to both reduce the environmental impact of plastic materials and to allow the growth of eco-sustainable building

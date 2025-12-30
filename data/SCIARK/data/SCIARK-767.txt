@@ -1,0 +1,13 @@
+Title: On climate change and economic growth
+Abstract: The economic impact of climate change is usually measured as the extent to which the climate of a given period affects social welfare in that period.
+This static approach ignores the dynamic effects through which climate change may affect economic growth and hence future welfare.
+In this paper we take a closer look at these dynamic effects, in particular saving and capital accumulation.
+With a constant savings rate, a lower output due to climate change will lead to a proportionate reduction in investment which in turn will depress future production (capital accumulation effect) and, in almost all cases, future consumption per capita.
+If the savings rate is endogenous, forward looking agents would change their savings behavior to accommodate the impact of future climate change.
+This suppresses growth prospects in absolute and per capita terms (savings effect).
+In an endogenous growth context, these two effects may be exacerbated through changes in labour productivity and the rate of technical progress.
+Simulations using a simple climate-economy model suggest that the capital accumulation effect is important, especially if technological change is endogenous, and may be larger than the direct impact of climate change.
+The savings effect is less pronounced.
+The dynamic effects are more important, relative to the direct effects, if climate change impacts are moderate overall.
+This suggests that they are more of a concern in developed countries, which are believed to be less vulnerable to climate change.
+The magnitude of dynamic effects is not sensitive to the choice of discount rate.

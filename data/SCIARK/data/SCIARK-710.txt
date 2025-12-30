@@ -1,0 +1,20 @@
+Economic development and road traffic injuries and fatalities in Thailand: an application of spatial panel data analysis, 2012-2016.
+Background: Road traffic injuries (RTIs) have been one of the most critical public health problems in Thailand for decades.
+The objective of this study was to examine to what extent provincial economy was associated with RTIs, road traffic deaths and case fatality rate in Thailand.
+Methods: A secondary data analysis on time-series data was applied.
+The unit of analysis was a panel of 77 provinces during 2012-2016.
+Data were obtained from relevant public authorities, including the Ministry of Public Health.
+Descriptive statistics and econometric models, using negative binomial (NB) regression, negative binomial regression with random-effects (RE) model, and spatial Durbin model (SDM) were employed.
+The main predictor variable was gross domestic product (GDP) per capita and the outcome variables were incidence proportion of RTIs, traffic deaths and case fatality rate.
+The analysis was adjusted for key covariates.
+Results: The incidence proportion of RTIs rose from 449.0 to 524.9 cases per 100,000 population from 2012 till 2016, whereas the incidence of traffic fatalities fluctuated between 29.7 and 33.2 deaths per 100,000 population.
+Case fatality rate steadily stood at 0.06-0.07 deaths per victim.
+RTIs and traffic deaths appeared to be positively correlated with provincial economy in the NB regression and the RE model.
+In the SDM, a log-Baht increase in GDP per capita (equivalent to a growth of GDP per capita by about 2.7 times) enlarged the incidence proportion of injuries and deaths by about a quarter (23.8-30.7%) with statistical significance.
+No statistical significance was found in case fatality rate by the SDM.
+The SDM also presented the best model fitness relative to other models.
+Conclusion: The incidence proportion of traffic injuries and deaths appeared to rise alongside provincial prosperity.
+This means that RTIs-preventive measures should be more intensified in economically well-off areas.
+Furthermore, entrepreneurs and business sectors that gain economic benefit in a particular province should share responsibility in RTIs prevention in the area where their businesses are running.
+Further studies that explore others determinants of road safety, such as patterns of vehicles used, attitudes and knowledge of motorists, investment in safety measures, and compliance with traffic laws, are recommended.
+Keywords: Case fatality rate; Gross domestic product; Negative binomial regression; Random effects; Spatial data; Traffic accident; Traffic death; Traffic fatality; Traffic injury.

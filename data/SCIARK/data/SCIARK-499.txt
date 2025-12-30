@@ -1,0 +1,12 @@
+Global transition to low-carbon electricity: A bibliometric analysis
+Abstract
+Decarbonizing the global electricity system is expected to contribute significantly to mitigating climate change.
+A significant body of research has focused on the development of low-carbon power systems; hence, this bibliometric review is timely.
+We assess the global scientific research on low-carbon electricity both quantitatively and qualitatively, based on the Science Citation Index Expanded (SCI-Expanded) and Social Sciences Citation Index (SSCI) spanning a quarter century and 13,767 publications.
+Our analysis illustrates the role of inter-institutional collaboration in successful scientific research on low-carbon power systems.
+The United States has contributed most to the low-carbon electricity literature with 3074 publications, the highest h-index (58), 8 of the 10 most cited articles, and 4 of the 10 most productive institutions.
+The Chinese Academy of Science is the most productive institution with 270 publications and notably high levels of international collaboration.
+Based on an analysis and visualization of author keywords and content analysis, we also characterize three phases of the global transition to low-carbon electricity.
+The 1990s involved reliance on traditional base-load fuels (coal and nuclear), which spurred the search for cleaner alternatives.
+These alternatives materialized as the rise of clean coal and wind in the first decade of the 21st century, followed by the growth of solar and natural gas beginning in 2010.
+Besides this evolution of technologies, we document the transition to more nuanced forms of economic and policy analysis in recent years.

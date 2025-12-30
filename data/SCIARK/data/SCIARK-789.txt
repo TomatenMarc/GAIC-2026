@@ -1,0 +1,10 @@
+The nexus between urbanization, renewable energy, trade, and ecological footprint in ASEAN countries
+Economic growth, accompanied by rising energy demand in ASEAN countries have been unprecedented over these few years.
+On the other hand, the energy consumed in the ASEAN region is predominantly non-renewable, which could have implications for sustainable development.
+Previous studies that have investigated the energy-growth-environment nexus for this region are inefficient in terms of the proxies used to measure environmental quality and the estimation techniques adopted.
+As such this study explores the influence of renewable and non-renewable energy consumption, economic growth, and urbanization on a more reliable environmental indicator (ecological footprint) from 1990 to 2016, while controlling for trade.
+First-and-second-generation unit root and cointegration tests are applied amidst evidence of cross-sectional dependence.
+Findings reveal that economic growth, trade, and non-renewable energy contribute significantly to environmental degradation in ASEAN countries.
+This suggests that the region is growing at the expense of its environment, while also indulging in emission-intensive trade.
+Further findings show a one-way causality from urbanization to non-renewable energy consumption.
+Policy directions and implications of the findings for sustainability are discussed.

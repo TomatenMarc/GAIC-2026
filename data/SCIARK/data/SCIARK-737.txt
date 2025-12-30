@@ -1,0 +1,13 @@
+Women's economic empowerment, participation in decision-making and exposure to violence as risk indicators for early childhood caries
+Abstract
+Objectives: In view of the association between early childhood caries (ECC])and maternal social risk factors, this study tried to determine if there were associations between indicators of processes, outputs and outcomes of women's empowerment, and the prevalence of ECC.
+Methods: In this ecological study, indicators measuring the explanatory variables - economic empowerment, decision-making and violence against women - were selected from the Integrated Results and Resources Framework of the UN-Women Strategic Plan 2018-2021 and WHO database.
+Indicators measuring the outcome variables - the prevalence of ECC for children aged 0 to 2 years, and 3 to 5 years - were extracted from a published literature.
+The general linear models used to determine the association between the outcome and explanatory variables were adjusted for economic level of countries.
+Regression estimates (B), 95% confidence intervals and partial eta squared (η2) were calculated.
+Results: Countries with more females living under 50% of median income had higher prevalence of ECC for 3 to 5-year olds (B = 1.82, 95% CI = 0.12, 3.52).
+Countries with higher percentage of women participating in their own health care decisions had higher prevalence of ECC for 0 to 2-year-olds (B = 0.85, 95% CI = 0.03, 1.67).
+Countries with higher percentage of women participating in decisions related to visiting family, relatives and friends had higher prevalence of ECC for 3 to 5-year-olds (B = 0.67, 95% CI = 0.03, 1.32).
+None of the indicators for violence against women was significantly associated with the prevalence of ECC.
+Conclusion: Empowerment of women is a welcome social development that may have some negative impact on children's oral health.
+Changes in policies and norms are needed to protect children's oral health while empowering women.

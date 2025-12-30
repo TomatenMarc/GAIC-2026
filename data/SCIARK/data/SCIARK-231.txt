@@ -1,0 +1,14 @@
+Cross-national differences in the gender gap in subjective health in Europe: Does country-level gender equality matter?
+Abstract
+Multiple studies have found that women report being in worse health despite living longer.
+Gender gaps vary cross-nationally, but relatively little is known about the causes of comparative differences.
+Existing literature is inconclusive as to whether gender gaps in health are smaller in more gender equal societies.
+We analyze gender gaps in self-rated health (SRH) and limiting longstanding illness (LLI) with five waves of European Social Survey data for 191,104 respondents from 28 countries.
+We use means, odds ratios, logistic regressions, and multilevel random slopes logistic regressions.
+Gender gaps in subjective health vary visibly across Europe.
+In many countries (especially in Eastern and Southern Europe), women report distinctly worse health, while in others (such as Estonia, Finland, and Great Britain) there are small or no differences.
+Logistic regressions ran separately for each country revealed that individual-level socioeconomic and demographic variables explain a majority of these gaps in some countries, but contribute little to their understanding in most countries.
+In yet other countries, men had worse health when these variables were controlled for.
+Cross-national variation in the gender gaps exists after accounting for individual-level factors.
+Against expectations, the remaining gaps are not systematically related to societal-level gender inequality in the multilevel analyses.
+Our findings stress persistent cross-national variability in gender gaps in health and call for further analysis.

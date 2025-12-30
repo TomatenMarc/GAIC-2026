@@ -1,0 +1,11 @@
+Evaluating environmental performance of concentrated latex production in Thailand
+Abstract: Thailand is currently the world's largest natural rubber producer.
+To maintain a leadership position of natural rubber producer, it has been challenging for Thai rubber entrepreneurs to seek appropriate measures towards producing environmentally friendly rubber products.
+The objective of this study is to assess the potential environmental impact of concentrated latex production by partial Life Cycle Assessment (LCA), and to investigate the effects of the options to reduce the impact.
+The methodology is based on the ISO 14040 series, taking a “Gate-to-Gate” approach (Partial LCA).
+The activities taken into account include production of chemicals, production of diesel and electricity, diesel combustion, and wastewater treatment.
+The functional unit is 1 ton of concentrated latex, and the environmental impacts considered in this study include global warming, acidification, eutrophication, human toxicity, photochemical oxidation, and the total environmental impact.
+The results indicate that electricity use for centrifugation has the largest share, compared with other activities, in global warming (50%), acidification (58%), and photochemical oxidation (55%).
+Ammonia use for latex preservation accounts for 37% of human toxicity, whereas use of DAP (Diammonium phosphate) accounts for 46% of eutrophication.
+Based on these results, the following reduction options are therefore identified: 1) electricity efficiency improvement (by installation of inverters to centrifugal machines); 2) improvement of ammonia preparation and storage (by chilling systems); 3) minimizing the use of DAP (by extending coagulation time); and 4) substitution of diesel by LPG.
+These four options were technically and practically feasible for concentrated latex production, and result in reductions of the total environmental impact by 12%, 8%, 3%, and 5%, respectively.

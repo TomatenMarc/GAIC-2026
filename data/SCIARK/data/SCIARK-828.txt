@@ -1,0 +1,10 @@
+Title: Persistent fossil fuel growth threatens the Paris Agreement and planetary health
+Abstract: Amidst declarations of planetary emergency and reports that the window for limiting climate change to 1.5 °C is rapidly closing, global average temperatures and fossil fuel emissions continue to rise.
+Global fossil CO2 emissions have grown three years consecutively: +1.5% in 2017, +2.1% in 2018, and our slower central projection of +0.6% in 2019 (range of –0.32% to 1.5%) to 37 ± 2 Gt CO2 (Friedlingstein et al 2019 Earth Syst. Sci. Data accepted), after a temporary growth hiatus from 2014 to 2016.
+Economic indicators and trends in global natural gas and oil use suggest a further rise in emissions in 2020 is likely.
+CO2 emissions are decreasing slowly in many industrialized regions, including the European Union (preliminary estimate of −1.7% [–3.4% to +0.1%] for 2019, −0.8%/yr for 2003–2018) and United States (−1.7% [–3.7% to +0.3%] in 2019, −0.8%/yr for 2003–2018), while emissions continue growing in India (+1.8% [+0.7% to 3.7%] in 2019, +5.1%/yr for 2003–2018), China (+2.6% [+0.7% to 4.4%] in 2019, +0.4%/yr for 2003–2018), and rest of the world ((+0.5% [−0.8% to 1.8%] in 2019, +1.4%/yr for 2003–2018).
+Two under-appreciated trends suggest continued long-term growth in both oil and natural gas use is likely.
+Because per capita oil consumption in the US and Europe remains 5- to 20-fold higher than in China and India, increasing vehicle ownership and air travel in Asia are poised to increase global CO2 emissions from oil over the next decade or more.
+Liquified natural gas exports from Australia and the United States are surging, lowering natural gas prices in Asia and increasing global access to this fossil resource.
+To counterbalance increasing emissions, we need accelerated energy efficiency improvements and reduced consumption, rapid deployment of electric vehicles, carbon capture and storage technologies, and a decarbonized electricity grid, with new renewable capacities replacing fossil fuels, not supplementing them.
+Stronger global commitments and carbon pricing would help implement such policies at scale and in time.

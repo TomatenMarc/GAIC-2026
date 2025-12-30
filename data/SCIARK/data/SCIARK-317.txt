@@ -1,0 +1,22 @@
+Title: Validation of an innovative instrument of Positive Oral Health and Well-Being (POHW)
+Abstract
+Introduction: Most existing measures of oral health focus solely on negative oral health, illness, and deficiencies and ignore positive oral health.
+In an attempt to commence exploration of this challenging field, an innovative instrument was developed, the "Positive Oral Health and Well-Being" (POHW) index.
+This study aimed to validate this instrument and to explore an initial model of the pathway between oral health attributes and positive oral health.
+Methods: A cross-sectional, multicenter study (Israel, USA, and Germany), was conducted.
+Our conceptual model suggests that positive oral health attributes, which integrate with positive unawareness or positive awareness on the one hand and with positive perception on the other hand, may result via appropriate oral health behavior on positive oral health.
+The 17-item self-administered index was built on a theoretical concept by four experts from Israel and Germany.
+Reliability, factor, and correlation analyses were performed.
+For external correlations and to measure construct validity of the instrument, we utilized the oral health impact profile-14, self-perceived oral impairment, life satisfaction, self-perceived well-being, sociodemographic and behavioral data, and oral health status indices.
+Results: Four hundred and seventy participants took part in our three-center study.
+The combined data set reliability analyses detected two items which were not contributing to the index reliability.
+Thus, we tested a 15-item construct, and a Cronbach's α value of 0.933 was revealed.
+Primary factor analysis of the whole sample indicated three subconstructs which could explain 60 % of variance.
+Correlation analyses demonstrated that the POHW and OHIP-14 were strongly and negatively associated.
+The POHW correlated strongly and positively with general well-being, moderately with life satisfaction, and weakly with the perceived importance of regular dental checkups.
+It correlated moderately and negatively with perceived oral impairment, and marginally and negatively with dental caries experience (DMFT) and periodontal health status (CPI) scores.
+When DMFT and CPI clinical measurements were categorized, a higher score of POHW was revealed for better oral health.
+Discussion: Our study introduced a new instrument with good reliability and sound correlations with external measures.
+This instrument is the first to allow measurability of positive instead of impaired oral health.
+We utilized subjective-psychological and functional-social measures.
+The current results indicate that by further exploring our conceptual model, POHW may be of importance for identifying patients with good and poor oral health, and building an effective and inexpensive strategy for prevention, by being able to evaluate the effect of interventions in a standardized way.

@@ -1,0 +1,9 @@
+Title:Ammonia volatilization from synthetic fertilizers and its mitigation strategies: A global synthesis
+Abstract:Ammonia (NH3) volatilization is a major pathway of nitrogen (N) loss in agricultural systems worldwide, and is conducive to low fertilizer N use efficiency, environmental and health issues, and indirect nitrous oxide emission.
+While mitigating NH3 volatilization is urgently needed, a quantitative synthesis is lacking to evaluate the effectiveness of mitigation strategies for NH3 volatilization from synthetic fertilizers applied in agricultural systems.
+To fill this knowledge gap, we conducted a meta-analysis of 824 observations on impacts on NH3 volatilization of ‘4R Nutrient Stewardship’ (right source, rate, place and time), farming practices (irrigation, residue retention, amendments), and enhanced efficiency fertilizers (fertilizers with urease inhibitors, nitrification inhibitors or controlled release coatings).
+We found that, globally, up to 64% (an average of 18%) of applied N was lost as NH3.
+The use of non-urea based fertilizers, deep placement of fertilizers, irrigation, and mixing with amendments (pyrite, zeolite and organic acids) significantly decreased NH3 volatilization by 75, 55, 35 and 35%, respectively.
+In contrast, NH3 volatilization was not affected by split application, but significantly increased with N application rate and residue retention.
+Among the enhanced efficiency fertilizers, urease inhibitors and controlled release fertilizers decreased NH3 volatilization by 54 and 68% respectively whereas nitrification inhibitors increased NH3 volatilization by 38%.
+These results confirm that NH3 volatilization represents a substantial loss of N from agricultural systems, and that this N loss can be mitigated through adaption of appropriate fertilizer products and/or improved management practices

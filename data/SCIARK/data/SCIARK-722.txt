@@ -1,0 +1,16 @@
+Effect of production system and farming strategy on greenhouse gas emissions from commercial dairy farms in a life cycle approach
+Abstract: This paper documents and illustrates a model to estimate the greenhouse gas (GHG) emissions and land use on commercial dairy farms.
+Furthermore, a method of allocating total farm emissions into meat and milk products was developed and, finally, potential mitigation options at farm scale were identified.
+The GHG emission at farm gate using a Life Cycle Approach (LCA) was estimated based on data from 35 conventional dairy farms with an average 122 cows and 127ha, and 32 organic dairy farms with an average 115 cows and 178ha.
+There was a significant (p<0.05) higher emission in kg CO2-eq.
+per kg energy corrected milk (ECM) in the organic system (1.27) compared to conventional (1.20) before allocation into milk and meat.
+In the conventional system 88% was on-farm emission vs. 98% in the organic production system.
+Based on a mathematical model, an average of 15% of total farm GHG emissions was allocated to meat.
+This level was low compared with four other methods traditionally used to allocate between milk and meat, with the amounts allocated to meat ranging from 13% for economic value, 18% for protein mass, 23% for system expansion and up to 26% for biological allocation.
+The allocation method highly influenced the GHG emission per kg meat (3.41 to 7.33kg CO2-eq.
+per kg meat), while the effect on the GHG emission per kg milk was lower (0.90 to 1.10kg CO2-eq.
+per kg ECM).
+After allocation there was no significant effect of production system on GHG emission per kg ECM.
+Land requirement, including imported feed, was highest in the organic system at 2.37 m2 per kg ECM against 1.78m2 in the conventional system.
+Farming strategies based on low stocking rate or with focus on high efficiency in the herd were identified as the most promising for reducing GHG emissions per kg milk at farm gate after allocation between meat and milk.
+It was concluded that the model can estimate relevant variation in GHG emissions between commercial farms without intensive data registration.

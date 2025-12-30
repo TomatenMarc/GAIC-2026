@@ -1,0 +1,9 @@
+Title: Subjective financial well-being, income and health inequalities in mid and later life in Britain.
+The relationship between health and income is well established, but the link between subjective financial well-being and self-reported health has been relatively ignored.
+This study investigates the relationship between income, subjective financial well-being and health in mid-life and later life in Britain.
+Analysis of the General Household Survey for 2006 examined these relationships at ages 45-64 (n = 4639) and 65 and over (n = 3104).
+Logistic regression analysis was used to adjust for income and other socio-economic factors associated with self-reported health.
+Both income and subjective financial well-being are independently associated with health in mid-life; those with lower incomes and greater subjective financial difficulties had higher risk of reporting 'less than good' health.
+In contrast in later life, subjective financial well-being was associated with health, but the effect of income on health was mediated entirely through subjective financial well-being.
+The poorer health of the divorced/separated was also entirely mediated by differences in subjective financial well-being.
+Research on health inequalities should pay greater attention to the link between subjective financial hardship and ill-health, especially during periods of greater economic difficulties and financial austerity.

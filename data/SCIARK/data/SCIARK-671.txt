@@ -1,0 +1,16 @@
+An independent and combined effect analysis of land use and climate change in the upper Rhone River watershed, Switzerland
+Abstract: Land use and climate change play a significant role in hydrological processes.
+This study assesses the impact of land use and climate change in a snow and glacier dominated high altitude watershed, located in the southwestern part of Switzerland.
+Climate projections until the middle of the 21st century were analyzed using a Regional Climate Model from the IPCC A1B scenario.
+Land use maps were created using Idrisi TAIGA land change modeler, based on historical changes over two time periods and transformed for future forecasting.
+Logistic regression was used to generate these maps containing the probability of change between two different land use categories.
+Subsequently, the allocation of the land use was based on a multi-objective land distribution.
+The semi-distributed hydrological model called the Soil and Water Assessment Tool (SWAT) was used for simulating streamflow.
+The analysis was done to assess the impact of streamflow in three time periods where 1981–2010 is considered as the observed period and the two other time periods from 2011 to 2025 and 2026–2050 are considered as the scenario periods.
+Flow Duration Curves (FDC) were generated to assess the impact of low and high streamflow periods.
+Our study shows a decrease in the summer peak flow and an early start of the melt driven peak flow.
+The major change observed in this study is the rising period of the hydrograph, i.e.
+in May and June an early shift is observed in the discharge.
+Independent analysis from land use change and climate change shows that the peak flow reduction occurs as a result of land use change, but the peak flow together with the timing of peak flow occurrence is also influenced by climatic change.
+The combined effect suggests a reduction of peak flow and early melt driven streamflow in the future.
+Information obtained from this study can be useful for water managers, especially for the hydropower based energy production sector in the Rhone watershed.

@@ -1,0 +1,11 @@
+Global river water warming due to climate change and anthropogenic heat emission
+Abstract: Understanding the change of water temperature in rivers is important for riverine environmental management.
+However, most land surface models make light of riverine system, which hampers our understanding of riverine status closely related to human living environment, from the perspective of climate system.
+In this study, we incorporated a parameterization of large-scale river water temperature computing with anthropogenic heat emission into a river routing module in a global land surface model to investigate the responses of river water temperature to climate change and anthropogenic heat emission over the past 30 years.
+Results show that the water temperature of the tropical rivers, with a multi-year averaged value of c. 25 °C, was the highest.
+The mean temperature in the temperate of northern hemisphere decreased from 20 °C in the southern zone to 6 °C in the northern zone, while that in the frigid zone is usually lower than 6 °C.
+Water temperature of most rivers significantly increased.
+The water temperature of rivers between 30°S and 30°N increased most at c. 0.5 °C per decade, while the increases across the mid and high latitudes were smaller, even decreases occurred in some places, such as the west of Canada, the northwest of South America, and some islands in South Asia.
+Climate change warmed river water, and anthropogenic heat emission further made the temperature increased.
+In Asia, the mean annual impact of heat emission on the water temperature has continuously increased from 0.5 °C to 0.8 °C, whereas Africa has nearly no obvious heat pollution.
+The water temperature change reflects a gradually human-dominated riverine even climatic system.

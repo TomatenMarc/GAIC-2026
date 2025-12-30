@@ -1,0 +1,10 @@
+In-patient suicide--a 13-year assessment
+Objective:                    To describe the suicide rates of psychiatric in-patients in the canton of Zurich for the period 1992-2004, and to determine putative risk factors.
+Method:                    The data were derived from the psychiatric case register of the canton Zurich.
+The analyses were based on person-years calculations and standardised mortality ratios.
+Additional information was assessed via case records.
+Results:                    During the 13-year period the standardised mortality ratio was 48.9.
+The risk of suicide was particularly high in patients with personality and affective disorders.
+Most suicides occurred during regular leave periods, despite the fact that clinical assessment had indicated there was no suicide risk for the patient.
+Conclusion:                    The suicide risk of in-patients is distinctly higher than in the general population.
+A better assessment of suicide risk before regular leave periods could lead to a decrease of suicides in in-patient settings, as well as a more rigorous treatment of borderline cases, and of affective and psychotic symptoms.

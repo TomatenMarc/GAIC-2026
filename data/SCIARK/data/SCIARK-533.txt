@@ -1,0 +1,8 @@
+Renewable energy consumption and economic growth nexus: A fresh evidence from West Africa
+This paper estimates the impact of renewable energy on economic growth in West African countries using panel dynamic ordinary least squares (DOLS) by employing a sample of 15 West African countries covering the 1995-2014 period.
+The results indicated that renewable energy consumption slows down economic growth in these countries.
+This is attributed to the nature and source of renewable energy used in West Africa, which is majorly wood biomass.
+The wood biomasses used in West Africa are usually unclean and highly polluting when burnt.
+On the other hand, the use of clean energy sources like solar, wind and hydropower which does not have a side effect on human health and the environment is less in West Africa.
+As such, renewable energy use can slow down economic growth by lowering productivity when unclean and inefficient sources are used.
+The study recommends that (1) cleaner technologies should be employed to optimize the benefits of wood biomass as a renewable source of energy while minimizing its adverse effects; (2) the share of other renewable energy components such as solar, wind and geothermal should be increased in the renewable energy mix of the sub-region of West Africa and (3) greater commitment to achieving sustainable renewable energy by West African authorities is needed.

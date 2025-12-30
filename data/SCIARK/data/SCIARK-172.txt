@@ -1,0 +1,12 @@
+Ecological study of road traffic injuries in the eastern Mediterranean region: country economic level, road user category and gender perspectives
+Background:                    The Eastern Mediterranean region has the second highest number of road traffic injury mortality rates after the African region based on 2013 data, with road traffic injuries accounting for 27% of the total injury mortality in the region.
+Globally the number of road traffic deaths has plateaued despite an increase in motorization, but it is uncertain whether this applies to the Region.
+This study investigated the regional trends in both road traffic injury mortality and morbidity and examined country-based differences considering on income level, categories of road users, and gender distribution.
+Methods:                    Register-based ecological study linking data from Global Burden of Disease Study with the United Nations Statistics Division for population and World Bank definition for country income level.
+Road traffic injury mortality rates and disability-adjusted life years were compiled for all ages at country level in 1995, 2005, 2015 and combined for a regional average (n = 22) and a global average (n = 122).
+The data were stratified by country economic level, road user category and gender.
+Results:                    Road traffic injury mortality rates in the Region were higher than the global average for all three reference years but suggest a downward trend.
+In 2015 mortality rates were more than twice as high in low and high income countries compared to global income averages and motor vehicle occupants had a 3-fold greater mortality than the global average.
+Severe injuries decreased by more than half for high/middle income countries but remained high for low income countries; three times higher for males than females.
+Conclusion:                    Despite a potential downward trend, inequalities in road traffic injury mortality and morbidity burden remain high in the Eastern Mediterranean region.
+Action needs to be intensified and targeted to implement and enforce safety measures that prevent and mitigate severe motor vehicle crashes in high income countries especially and invest in efforts to promote public, active transport for vulnerable road users in the resource poor countries of the Region.

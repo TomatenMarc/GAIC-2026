@@ -1,0 +1,12 @@
+Commercial fleet demand for alternative-fuel vehicles in California
+Abstract
+Fleet demand for alternative-fuel vehicles (‘AFVs’ operating on fuels such as electricity, compressed natural gas, or methanol) is investigated through an analysis of a 1994 survey of 2000 fleet sites in California.
+This survey gathered information on site characteristics, awareness of mandates and incentives for AFV operation, and AFV purchase intentions.
+The survey also contained stated preference tasks in which fleet decision makers simulated fleet-replacement purchases by indicating how they would allocate their choices across a ‘selector list’ of hypothetical future vehicles.
+A discrete choice model was estimated to obtain preference tradeoffs for fuel types and other vehicle attributes.
+The overall tradeoff between vehicle range and vehicle capital cost in the sample was $80/mile of range, but with some variation by fleet sector.
+The availability (density) of off-site alternative fuel stations was important to fleet operators, indicating that fleets are willing to trade off more fuel infrastructure for changes in other attributes, e.g.
+increased capital or operating costs, or more limited vehicle range.
+Public fleets (local and county government) were the most sensitive to the capital cost of new vehicles.
+Along with schools, they are the only fleet sector where reduced tailpipe emission levels are a significant predictor of vehicle choice.
+Fleet operators in the private sector base their vehicle selection less on environmental concerns than on practical operational needs.

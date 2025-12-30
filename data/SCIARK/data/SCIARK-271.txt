@@ -1,0 +1,10 @@
+How to quantify the resolution of surface climate by circulation types: An example for Alpine precipitation
+Abstract: A novel approach is presented for the evaluation of circulation type classifications (CTCs) in terms of their capability to predict surface climate variations.
+The approach is analogous to that for probabilistic meteorological forecasts and is based on the Brier skill score.
+This score is shown to take a particularly simple form in the context of CTCs and to quantify the resolution of a climate variable by the classifications.
+The sampling uncertainty of the skill can be estimated by means of nonparametric bootstrap resampling.
+The evaluation approach is applied for a systematic intercomparison of 71 CTCs (objective and manual, from COST Action 733) with respect to their ability to resolve daily precipitation in the Alpine region.
+For essentially all CTCs, the Brier skill score is found to be higher for weak and moderate compared to intense precipitation, for winter compared to summer, and over the north and west of the Alps compared to the south and east.
+Moreover, CTCs with a higher number of types exhibit better skill than CTCs with few types.
+Among CTCs with comparable type number, the best automatic classifications are found to outperform the best manual classifications.
+It is not possible to single out one ‘best’ classification for Alpine precipitation, but there is a small group showing particularly high skill.

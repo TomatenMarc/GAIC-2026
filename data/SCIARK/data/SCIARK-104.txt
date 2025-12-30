@@ -1,0 +1,13 @@
+Neonatal and under-five mortality rate in Indian districts with reference to Sustainable Development Goal 3: An analysis of the National Family Health Survey of India (NFHS), 2015-2016
+Background and objective: India contributes the highest global share of deaths among the under-fives.
+Continuous monitoring of the reduction in the under-five mortality rate (U5MR) at local level is thus essential to set priorities for policy-makers and health professionals.
+In this study, we aimed to provide an update on district-level disparities in the neonatal mortality rate (NMR) and the U5MR with special reference to Sustainable Development Goal 3 (SDG3) on preventable deaths among new-borns and children under five.
+Data and methods: We used recently released population-based cross-sectional data from the National Family Health Survey (NFHS) conducted in 2015-2016.
+We used the synthetic cohort probability approach to analyze the full birth history information of women aged 15-49 to estimate the NMR and U5MR for the ten years preceding the survey.
+Results: Both the NMR and U5MR vary enormously across Indian districts.
+With respect to the SDG3 target for 2030 for the NMR and the U5MR, the estimated NMR for India for the period studied is about 2.4 times higher, while the estimated U5MR is about double.
+At district level, while 9% of the districts have already reached the NMR targeted in SDG3, nearly half (315 districts) are not likely to achieve the 2030 target even if they realize the NMR reductions achieved by their own states between the last two rounds of National Family Health Survey of India.
+Similarly, less than one-third of the districts (177) of India are unlikely to achieve the SDG3 target on the U5MR by 2030.
+While the majority of high-risk districts for the NMR and U5MR are located in the poorer states of north-central and eastern India, a few high-risk districts for NMR also fall in the rich and advanced states.
+About 97% of districts from Chhattisgarh and Uttar Pradesh, for example, are unlikely to meet the SDG3 target for preventable deaths among new-borns and children under age five, irrespective of gender.
+Conclusions: To achieve the SDG3 target on preventable deaths by 2030, the majority of Indian districts clearly need to make a giant leap to reduce their NMR and U5MR.

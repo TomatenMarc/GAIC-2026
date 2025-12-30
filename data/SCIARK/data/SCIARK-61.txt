@@ -1,0 +1,10 @@
+Life cycle assessment of selected future energy crops for Europe
+Life cycle assessment (LCA) methodology is increasingly used to determine the potential environmental impacts of biofuels and bioenergy.
+This paper presents the outcomes of screening LCAs of 13 future energy crops for Europe summarizing the results of the EC-funded project 4F CROPS – Future Crops for Food, Feed, Fiber and Fuel.
+For analysis, these dedicated energy crops – representing seven environmental zones in Europe – are combined with a multitude of processing and utilization options, resulting in 120 different biofuel and bioenergy chains.
+Compared to fossil fuels and energy carriers, all biofuel and bioenergy chains show environmental advantages in terms of life-cycle energy use and greenhouse gas (GHG) emissions but mostly disadvantages regarding other environmental impact categories.
+Quantitative results vary widely across environmental zones, depending on crop species, agricultural inputs, and yield.
+Moreover, coproduct accounting and coproduct utilization, as well as the agricultural and fossil reference system play an important role.
+In view of environmental advantages and disadvantages, subjective trade-offs are required between the environmental impact categories.
+If saving GHG emissions is given the highest environmental priority, combined heat and power generation from herbaceous lignocellulosic crops is the most efficient option in terms of land use, provided that the biomass is cultivated on surplus agricultural land, thus avoiding indirect land-use change.
+© 2010 Society of Chemical Industry and John Wiley & Sons, Ltd

@@ -1,0 +1,11 @@
+Characteristics and circumstances of injuries vary with ethnicity of different population groups living in the same country
+Objective:                    To examine whether characteristics and circumstances of injuries are related to ethnicity.
+Design:                    The study was based on the Israeli National Trauma Registry data for patients hospitalized between 2008 and 2011.
+Data included demographics, injury, hospital resource utilization characteristics and outcome at discharge.
+Univariate analysis followed by logistic regression models were undertaken to examine the relationship between injury and ethnicity.
+Results:                    The study included 116,946 subjects; 1% were Ethiopian Born Israelis (EBI), 11% Israelis born in the Former Soviet Union (FSUBI) and 88% the remaining Israelis (RI).
+EBI were injured more on street or at work place and had higher rates of penetrating and severe injuries.
+However, FSUBI were mostly injured at home, and had higher rates of fall injuries and hip fracture.
+Adjusted analysis showed that EBI and FSUBI were more likely to be hospitalized because of violence-related injuries compared with RI but less likely because of road traffic injuries.
+Undergoing surgery and referral for rehabilitation were greater among FSUBI, while admission to intensive care unit was greater among EBI.
+Conclusion:                    Targeted intervention programmes need to be developed for immigrants of different countries of origin in accordance with the identified characteristics.

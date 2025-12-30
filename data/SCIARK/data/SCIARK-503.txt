@@ -1,0 +1,16 @@
+Association of the client-provider ratio with the risk of maternal mortality in referral hospitals: a multi-site study in Nigeria
+Background:                    The paucity of human resources for health buoyed by excessive workloads has been identified as being responsible for poor quality obstetric care, which leads to high maternal mortality in Nigeria.
+While there is anecdotal and qualitative research to support this observation, limited quantitative studies have been conducted to test the association between the number and density of human resources and risk of maternal mortality.
+This study aims to investigate the association between client-provider ratios for antenatal and delivery care and the risk of maternal mortality in 8 referral hospitals in Nigeria.
+Methods:                    Client-provider ratios were calculated for antenatal and delivery care attendees during a 3-year period (2011-2013).
+The maternal mortality ratio (MMR) was calculated per 100,000 live births for the hospitals, while unadjusted Poisson regression analysis was used to examine the association between the number of maternal deaths and density of healthcare providers.
+Results:                    A total of 334,425 antenatal care attendees and 26,479 births were recorded during this period.
+The client-provider ratio in the maternity department for antenatal care attendees was 1343:1 for doctors and 222:1 for midwives.
+The ratio of births to one doctor in the maternity department was 106:1 and 18:1 for midwives.
+On average, there were 441 births per specialist obstetrician.
+The results of the regression analysis showed a significant negative association between the number of maternal deaths and client-provider ratios in all categories.
+Conclusion:                    We conclude that the maternal mortality ratios in Nigeria's referral hospitals are worsened by high client-provider ratios, with few providers attending a large number of pregnant women.
+Efforts to improve the density and quality of maternal healthcare providers, especially at the first referral level, would be a critical intervention for reducing the currently high rate of maternal mortality in Nigeria.
+Trial registration:                    Trial Registration Number: NCTR91540209 .
+Nigeria Clinical Trials Registry.
+Registered 14 April 2016.

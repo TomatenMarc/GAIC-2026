@@ -1,0 +1,11 @@
+Options to reduce the environmental impacts of residential buildings in the European Union—Potential and costs
+Abstract: A typology of buildings representative of the building stock for the EU-25 was developed characterizing 72 building types in terms of their representativity, geographical distribution, size, material composition, and thermal insulation.
+The life cycle impacts of the building types were calculated for different environmental impact categories both at building and EU-25 level.
+The use phase of buildings, dominated by the energy demand for heating is by far the most important life cycle phase for existing and new buildings.
+The environmental impacts were allocated to single building elements.
+Ventilation, heat losses through roofs and external walls are important for a majority of single- and multi-family houses.
+Three improvement options were identified: additional roof insulation, additional façade insulation and new sealings to reduce ventilation.
+The measures yield a significant environmental improvement potential, which, for a majority of the buildings types analyse represent at least 20% compared to the base case.
+The major improvement potentials at EU-level lie with single-family houses, followed by multi-family houses.
+Smaller reductions are expected for high-rise buildings due to the smaller share in the overall building stock.
+For both roof insulation and reduced ventilation, the measures were shown to be economically profitable in a majority of buildings.

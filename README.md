@@ -10,7 +10,7 @@ across diverse sources.
 
 ## :floppy_disk: Dataset Overview
 
-The table below lists the dataset folders in this repository under `datasets/`.
+The table below lists the dataset folders in this repository under `data/`.
 
 | Dataset Folder | Description                                                                                                  | Source                                        | License              |
 |----------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------|----------------------|

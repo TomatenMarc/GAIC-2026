@@ -1,6 +1,0 @@
-[Application of ARIMA model in prediction of mortality rate of suicide in Hainan province]
-Objective: To analyze the trend of suicide mortality in residents of Hainan province, and explore the application of time sequence model in the prediction of the mortality of suicide.
-Methods: The mortality data of suicide in residents of Hainan province between January, 2014 and December, 2016 were collected and analyzed with time sequence model and the mortality rate of suicide during January-June, 2017 in Hainan was predicted with the model.
-Results: During January, 2014 to June 2017, a total of 576 suicide cases were reported in Hainan, the mortality rate was 1.5/100 000.
-The established ARIMA model had good fitting for the suicide mortality in previous times and the prediction result was quite similar to the actual mortality, the predicted mortality rate was within the 95% confidence interval of the actual rate.
-Conclusion: The time sequence model for the prediction of suicide mortality in Hainan was "ARIMA (0, 1, 0) (0, 0, 0) (12)" , and the prediction effect of the model was better, which can be used to predict the suicide mortality in Hainan.

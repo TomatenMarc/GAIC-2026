@@ -1,8 +1,0 @@
-Title: Influence of extreme weather disasters on global crop production
-Abstract: In recent years, several extreme weather disasters have partially or completely damaged regional crop production.
-While detailed regional accounts of the effects of extreme weather disasters exist, the global scale effects of droughts, floods and extreme temperature on crop production are yet to be quantified.
-Here we estimate for the first time, to our knowledge, national cereal production losses across the globe resulting from reported extreme weather disasters during 1964–2007.
-We show that droughts and extreme heat significantly reduced national cereal production by 9–10%, whereas our analysis could not identify an effect from floods and extreme cold in the national data.
-Analysing the underlying processes, we find that production losses due to droughts were associated with a reduction in both harvested area and yields, whereas extreme heat mainly decreased cereal yields.
-Furthermore, the results highlight ~7% greater production damage from more recent droughts and 8–11% more damage in developed countries than in developing ones.
-Our findings may help to guide agricultural priorities in international disaster risk reduction and adaptation efforts

@@ -1,9 +1,0 @@
-An energy-economic scenario analysis of alternative fuels for personal transport using the Global Multi-regional MARKAL model (GMM)
-Abstract
-This paper deals with the long-term prospects of alternative fuels in global personal transport.
-It aims at assessing key drivers and key bottlenecks for their deployment, focusing particularly on the role of biofuels and hydrogen in meeting climate policy objectives.
-The analysis is pursued using the Global Multi-regional MARKAL model (GMM), a perfect foresight “bottom-up” model of the global energy system with a detailed representation of alternative fuel chains, linked to the Model for the Assessment of Greenhouse Gas Induced Climate Change (MAGICC).
-The analysis shows that biofuels are limited by the regional availability of low-cost biomass, but can be important for meeting mild climate policy targets.
-If policy-makers intend to pursue more stringent climate policy, then hydrogen becomes a competitive option.
-However, the analysis finds that the use of hydrogen in personal transport is restricted to very stringent climate policy, as only such policy provides enough incentive to build up the required delivery infrastructure.
-An analysis of costs additionally shows that “keeping the hydrogen option open” does not take considerable investments compared to the investment needs in the power sector within the next decades, but allows the use of hydrogen for the pursuit of stringent climate policy in the second half of the century.

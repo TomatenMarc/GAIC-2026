@@ -1,8 +1,0 @@
-Incorporating genomics into breast and prostate cancer screening: assessing the implications
-Individual risk prediction and stratification based on polygenic profiling may be useful in disease prevention.
-Risk-stratified population screening based on multiple factors including a polygenic risk profile has the potential to be more efficient than age-stratified screening.
-In this article, we summarize the implications of personalized screening for breast and prostate cancers.
-We report the opinions of multidisciplinary international experts who have explored the scientific, ethical, and logistical aspects of stratified screening.
-We have identified (i) the need to recognize the benefits and harms of personalized screening as compared with existing screening methods, (ii) that the use of genetic data highlights complex ethical issues including discrimination against high-risk individuals by insurers and employers and patient autonomy in relation to genetic testing of minors, (iii) the need for transparency and clear communication about risk scores, about harms and benefits, and about reasons for inclusion and exclusion from the risk-based screening process, and (iv) the need to develop new professional competences and to assess cost-effectiveness and acceptability of stratified screening programs before implementation.
-We conclude that health professionals and stakeholders need to consider the implications of incorporating genetic information in intervention strategies for health-care planning in the future.
-Genet Med 2013:15(6):423–432

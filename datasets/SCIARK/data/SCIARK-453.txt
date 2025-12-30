@@ -1,7 +1,0 @@
-Title: Corporate Climate Policy-planning in the Global Polity: A Network Analysis
-Abstract: Alongside the climate change denial movement, a section of the capitalist class has been organizing to promote a project of “climate capitalism” that relies on carbon markets and other policies compatible with the neoliberal order to reduce greenhouse gas emissions.
-Like the denial movement, promoters of climate capitalism have constructed an extensive network of think tanks and policy-planning groups to foster adherence to their climate policy proposals.
-This article uses social network analysis to map out the reach of these climate and environmental policy groups within the array of interconnected NGOs, inter-governmental organizations, philanthropic foundations, and other organizations that constitute the global polity.
-This analysis sheds light on the position climate capitalism—understood as a project of a section of the global corporate elite—occupies among international organizations.
-Overall, I find that climate and environmental policy groups: (1) maintain substantial ties to key organizations of the global polity, and (2) mediate a substantial amount of relations, bridging between central organizations and more peripheral ones, as well as among those located in Europe and North America.
-I thus argue that a global inter-organizational infrastructure exists that supports climate capitalism, which contributes to its dominant position in climate change politics.

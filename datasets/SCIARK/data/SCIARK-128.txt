@@ -1,8 +1,0 @@
-A GIS-based model to assess electric energy consumptions and usable renewable energy potential in Lazio region at municipality scale
-The ongoing energy transition processes need a rapprochement between the places of energy production and consumption with the aim of creating innovative and integrated territorial models.
-Consequentially, models and strategies for increasing the use of local and renewable energy sources (RES) play a key rule for enhancing energy independence and sustainability of the considered areas.
-The main objective of this study is to analyse the energy system of the Lazio Region in Italy, comparing electricity consumptions and production from renewable sources at municipality scale.
-In order to estimate the electricity consumptions and the local production by RES, the main sectors of electricity consumption together with the potential of the available RES for the electricity production have been analysed.
-The obtained results pinpointed the main critical aspects of the Lazio region, that are mainly focalized in the city of Rome and in the most densely inhabited municipalities.
-Furthermore, research outputs provide an overall framework on the regional RES potential and allowed the formulation of proposals aimed at overcoming the identified criticalities and increasing the share of electricity production from renewables.
-Finally, the research approach could be replicated in other areas, providing a useful process for decision makers and stakeholders.

@@ -1,9 +1,0 @@
-Long-term carbon sequestration in North American peatlands
-Abstract: Peatland ecosystems store about 500–600 Pg of organic carbon, largely accumulated since the last glaciation.
-Whether they continue to sequester carbon or release it as greenhouse gases, perhaps in large amounts, is important in Earth's temperature dynamics.
-Given both ages and depths of numerous dated sample peatlands, their rate of carbon sequestration can be estimated throughout the Holocene.
-Here we use average values for carbon content per unit volume, the geographical extent of peatlands, and ecological models of peatland establishment and growth, to reconstruct the time-trajectory of peatland carbon sequestration in North America and project it into the future.
-Peatlands there contain ∼163 Pg of carbon.
-Ignoring effects of climate change and other major anthropogenic disturbances, the rate of carbon accumulation is projected to decline slowly over millennia as reduced net carbon accumulation in existing peatlands is largely balanced by new peatland establishment.
-Peatlands are one of few long-term terrestrial carbon sinks, probably important for global carbon regulation in future generations.
-This study contributes to a better understanding of these ecosystems that will assist their inclusion in earth-system models, and therefore their management to maintain carbon storage during climate change.

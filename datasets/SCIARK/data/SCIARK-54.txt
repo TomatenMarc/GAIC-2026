@@ -1,6 +1,0 @@
-Environmental performance in the US broiler poultry sector: Life cycle energy use and greenhouse gas, ozone depleting, acidifying and eutrophying emissions
-Abstract: Most published research concerning the environmental impacts of broiler poultry production is limited to assessments of on-farm gaseous and nutrient emissions.
-Here, ISO-compliant Life Cycle Assessment was used to predict the broader, macroscale environmental impacts of the material and energy inputs and emissions along the US broiler supply chain.
-It was found that feed provision accounts for 80% of supply chain energy use, 82% of greenhouse gas emissions, 98% of ozone depleting emissions, 96% of acidifying emissions and 97% of eutrophying emissions associated with the cradle-to-farm gate production of broiler poultry.
-On-farm inputs and emissions, largely related to heating and ventilation contribute on average only 9% of these impacts.
-These results underscore the fallacy of “landless farming” and the importance of full supply-chain environmental management for improving sustainability in the US poultry industry.

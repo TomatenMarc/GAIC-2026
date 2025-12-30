@@ -1,9 +1,0 @@
-Carbon dioxide abatement in Africa: The role of renewable and non-renewable energy consumption
-Abstract
-The study explores the importance of renewable and non-renewable energy consumption on CO2 abatement in Africa from 1990 to 2014 with available balanced panel data for selected 19 countries employing the Augmented Mean Group (AMG) estimation technique.
-The study adopts both first-and-second-generation unit root and cointegration tests.
-Findings affirm cointegration among the variables.
-Results from the AMG estimate reveal that while renewable energy inhibits CO2 emissions insignificantly in Africa, non-renewable energy increases CO2 emissions significantly.
-Country-specific results reveal that the influence of both types of energy sources on CO2 emissions vary in terms of the nature of the relationship, the magnitude of influence and the level of significance.
-We further observed a one-way causality from renewable & non-renewable energy to CO2 emissions.
-Based on findings, policies for enhancing growth and curtailing environmental degradation with a view to achieving sustainable development were suggested.

@@ -1,9 +1,0 @@
-
-Operator: Your next question comes from the line of John Blackledge from Cowen.
-John Blackledge: Great. Thanks. Just a couple of questions. With the strategic shift to video, how do you view the state of the digital/mobile video measurement? Any callout on improvements being done industry wide and within Facebook? And then just on video search, could you just comment on improvements in video search capabilities for users? Thank you.
-David M. Wehner: Sheryl, do you want to take the question on video measurement and...
-Sheryl K. Sandberg: Yeah.
-David M. Wehner: ...how that's evolving?
-Sheryl K. Sandberg: Yeah. So new platforms demand new measurement, and so people are measuring all kinds of different things from viewability to how many people see the ad to how long they run the ad. We're focused on all of these metrics and working hard with third parties and with our advertiser to get those metrics right. We really believe that at the end of the day what matters the most is all the way through to sales. What matters the most is the A/B test that these people saw ads on Facebook and Instagram, these people didn't, and here's the sales lift. And all of the other metrics, although important and we're working hard, are proxy metrics, and those metrics are going through a platform shift that we need to work on.
-David M. Wehner: And then, Mark.
-Mark Elliot Zuckerberg: And for video search – search is a big priority and a thing that we're working on across all of the different verticals, not just video but also all the posts on Facebook, all of the content that people are selling in Marketplace, the groups that people are joining and sharing and all the news content. And it's an area that we've been working on for a while. It's growing steadily and doing well, and we hope to have more updates on that soon.

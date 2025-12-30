@@ -1,8 +1,0 @@
-﻿Developmental Idealism and Declines in Support for Female Genital Cutting in Egypt from 2005 to 2014
-Developmental Idealism and Declines in Support for Female Genital Cutting in Egypt from 2005 to 2014 Hilary Barker Department of Sociology, BYU Master of Science In Egypt, female genital cutting (FGC) is illegal and declining in prevalence; however, the majority of women continue to support the practice.
-Using data from the 2005 and 2014 Egypt Demographic and Health Surveys, I examine changes in attitude toward FGC to explain social change through the framework of developmental idealism (Thornton 2015).
-Models are estimated using logistic regression to test if support for discontinuation of FGC is greater among women who have adopted progressive values or among women who are more traditional.
-Findings indicate that women who were Christian, rural, married younger, and that underwent FGC became supportive of discontinuation at greater rates than women who were Muslim, urban, married older, and did not undergo FGC.
-Women at various levels of education, wealth, and other indicators of development changed support at equal rates.
-Findings indicate that women in all social strata are receptive to messages against FGC.
-LESS

@@ -1,9 +1,0 @@
-The environmental sustainability of anaerobic digestion as a biomass valorization technology
-This paper studies the environmental sustainability of anaerobic digestion from three perspectives.
-First, reference electricity is compared to electricity production from domestic organic waste and energy crop digestion.
-Second, different digester feed possibilities in an agricultural context are studied.
-Third, the influence of applying digestate as fertilizer is investigated.
-Results highlight that biomass is converted at a rational exergy (energy) efficiency ranging from 15.3% (22.6) to 33.3% (36.0).
-From a life cycle perspective, a saving of over 90% resources is achieved in most categories when comparing biobased electricity to conventional electricity.
-However, operation without heat valorization results in 32% loss of this performance while using organic waste (domestic and agricultural residues) as feedstock avoids land resources.
-The use of digestate as a fertilizer is beneficial from a resource perspective, but causes increased nitrogen and methane emissions, which can be reduced by 50%, making anaerobic digestion an environmentally competitive bioenergy technology.

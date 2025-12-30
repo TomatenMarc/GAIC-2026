@@ -1,7 +1,0 @@
-Title: Increasing threat of coastal groundwater hazards from sea-level rise in California
-Abstract: Projected sea-level rise will raise coastal water tables, resulting in groundwater hazards that threaten shallow infrastructure and coastal ecosystem resilience.
-Here we model a range of sea-level rise scenarios to assess the responses of water tables across the diverse topography and climates of the California coast.
-With 1 m of sea-level rise, areas flooded from below are predicted to expand ~50–130 m inland, and low-lying coastal communities such as those around San Francisco Bay are most at risk.
-Coastal topography is a controlling factor; long-term rising water tables will intercept low-elevation drainage features, allowing for groundwater discharge that damps the extent of shoaling in ~70% (68.9–82.2%) of California’s coastal water tables.
-Ignoring these topography-limited responses increases flooded-area forecasts by ~20% and substantially underestimates saltwater intrusion.
-All scenarios estimate that areas with shallow coastal water tables will shrink as they are inundated by overland flooding or are topographically limited from rising inland.

@@ -1,8 +1,0 @@
-Title: Social and economic impacts of climate
-Abstract: For centuries, thinkers have considered whether and how climatic conditions—such as temperature, rainfall, and violent storms—influence the nature of societies and the performance of economies.
-A multidisciplinary renaissance of quantitative empirical research is illuminating important linkages in the coupled climate-human system.
-We highlight key methodological innovations and results describing effects of climate on health, economics, conflict, migration, and demographics.
-Because of persistent “adaptation gaps,” current climate conditions continue to play a substantial role in shaping modern society, and future climate changes will likely have additional impact.
-For example, we compute that temperature depresses current U.S. maize yields by ~48%, warming since 1980 elevated conflict risk in Africa by ~11%, and future warming may slow global economic growth rates by ~0.28 percentage points per year.
-In general, we estimate that the economic and social burden of current climates tends to be comparable in magnitude to the additional projected impact caused by future anthropogenic climate changes.
-Overall, findings from this literature point to climate as an important influence on the historical evolution of the global economy, they should inform how we respond to modern climatic conditions, and they can guide how we predict the consequences of future climate changes.

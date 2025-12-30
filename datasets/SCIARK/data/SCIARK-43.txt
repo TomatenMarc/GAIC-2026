@@ -1,9 +1,0 @@
-Carbon emissions across the spectrum of renewable and nonrenewable energy use in developing economies of Asia
-Abstract
-The present study explores the impacts of renewable and non-renewable energy use and economic growth on carbon emissions in the developing Asian economies.
-The study adopts a robust version of two-step system Generalized Method of Moments (GMM) on a panel of twenty-five upper-middle and lower-middle income economies for the period 1990 to 2015.
-The results show that the use of renewable energy helps in the control of carbon emissions, while the consumption of non-renewable energy contributes to the increase of carbon emissions in the developing Asian economies.
-Moreover, the results confirm inverted U-shaped relationship between per capita economic growth and carbon emissions in this region.
-Empirical results further depict that in developing countries, depletion of natural resources and growing population pressures are both contributing factors to carbon emissions.
-The findings spotlight that a transition from non-renewable to renewable energy sources is indispensable if Asian developing countries are to control carbon emissions and foster carbon-free economic growth.
-Finally, the study suggests that regional cooperation (to expedite the transition from non-renewable to renewable energy sources, and to facilitate the expansion of green bond markets to developing countries) may prove helpful for mitigating carbon emissions and for increasing investment in clean energy projects.

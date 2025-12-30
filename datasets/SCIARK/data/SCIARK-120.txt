@@ -1,7 +1,0 @@
-Title: Evolution of phenotypic plasticity in extreme environments
-Abstratc:Phenotypic plasticity, if adaptive, may allow species to counter the detrimental effects of extreme conditions, but the infrequent occurrence of extreme environments and/or their restriction to low-quality habitats within a species range means that they exert little direct selection on reaction norms.
-Plasticity could, therefore, be maladaptive under extreme environments, unless genetic correlations are strong between extreme and non-extreme environmental states, and the optimum phenotype changes smoothly with the environment.
-Empirical evidence suggests that populations and species from more variable environments show higher levels of plasticity that might preadapt them to extremes, but genetic variance for plastic responses can also be low, and genetic variation may not be expressed for some classes of traits under extreme conditions.
-Much of the empirical literature on plastic responses to extremes has not yet been linked to ecologically relevant conditions, such as asymmetrical fluctuations in the case of temperature extremes.
-Nevertheless, evolved plastic responses are likely to be important for natural and agricultural species increasingly exposed to climate extremes, and there is an urgent need to collect empirical information and link this to model predictions.
-This article is part of the themed issue ‘Behavioural, ecological and evolutionary responses to extreme climatic events'.

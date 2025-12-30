@@ -1,8 +1,0 @@
-Title: Coastal proximity, health and well-being: results from a longitudinal panel survey.
-Analysis of English census data revealed a positive association between self-reported health and living near the coast.
-However that analysis was based on cross-sectional data and was unable to control for potential selection effects (e.g. generally healthier, personality types moving to coastal locations).
-In the current study we have used English panel data to explore the relationship between the proximity to the coast and indicators of generic and mental health for the same individuals over time.
-This allowed us to control for both time-invariant factors such as personality and compare the strength of any relationship to that of other relationships (e.g. employment vs. unemployment).
-In support of cross-sectional analysis, individuals reported significantly better general health and mental health when living nearer the coast, controlling for both individual (e.g. employment status) and area (e.g. green space) level factors.
-No coastal effect on life satisfaction was found.
-Although individual level coastal proximity effects for general health and mental health were small, their cumulative impact at the community level may be meaningful for policy makers.

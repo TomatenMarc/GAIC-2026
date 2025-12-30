@@ -1,9 +1,0 @@
-Using thermodynamics to improve the resource efficiency indicator GDP/DMC
-Abstract
-This paper analyzes the drawbacks of using the lead indicator Gross Domestic Product divided by Domestic Material Consumption (GDP/DMC) proposed by the European Commission as part of the Resource Efficiency Roadmap.
-As an alternative, we propose to assess mineral resource efficiency through exergy replacement costs instead of using mass terms.
-Exergy replacement costs represent the useful energy that would be required to return minerals from the most dispersed state (the bedrock) to their original conditions (of composition and concentration in the mineral deposits).
-Dispersing a scarce mineral such as gold or oil has a much higher replacement cost than that of iron or limestone and in the final accounting, the first minerals have a greater weighting.
-Consequently, the tonnage produced and dispersion degree are considered in the proposed index.
-This new index would lead to more developed policies that could reduce the consumption of scarce materials with higher replacement costs.
-The suitability of the proposed indicator is evaluated through the case study of mineral balance in Spain.

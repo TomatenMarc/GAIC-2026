@@ -1,7 +1,0 @@
-Title: Integrating urban climate into urban master plans using spatially distributed information—The Seoul example
-Abstract: The main aim of this paper is to examine ways to integrate urban climate information into urban planning using spatially distributed information.
-To achieve this, the structures of urban planning in the study area and their contents concerning climate issues were examined.
-Spatially distributed information on ventilation, air quality and thermal situation in the study area was generated using the CAMPUS framework, which is a set of climate analysis and evaluation tools suitable for planning purposes.
-Finally, urban planning strategies concerning ventilation, air quality and thermal situation were suggested, and planning measures for implementing the planning strategies were recommended.
-This study will contribute to a discussion on how urban climate information can be more efficiently considered in urban spatial planning.
-Furthermore, the information generated in this study can support the development of an evaluative framework for the integration of the climate information into the environmental assessment process, e.g., the implementation of strategic environmental assessment (SEA) in urban planning.

@@ -1,9 +1,0 @@
-﻿Health Implications of Partner Violence Against Women in Ghana
-This article explores the health implications of partner violence against women in Ghana using data from northern Ghana.
-Face-to-face structured interviews were conducted with a sample of 443 women contacted at health facilities in the northern region.
-Results indicate that 7 out of 10 women have experienced intimate partner violence (IPV) within the past 12 months; 62% had experienced psychological violence, 29% had experienced physical violence, and 34% had experienced sexual violence.
-Participants reported health problems associated with violence, including injury, thoughts of suicide, sleep disruption, and fear of partner (FP).
-Logistic regression analyses showed that women who reported physical, psychological, and sexual violence, respectively, had 3.94 times, 10.50 times, and 2.21 times the odds of reporting thoughts of suicide, whereas the odds that women who reported physical, psychological, and sexual violence would report sleep disruption were 4.82 times higher, 4.44 times higher, and 2.50 times higher, respectively.
-However, only physical and psychological violence predicted the odds of FP.
-This study shows that IPV is a health risk factor among women in Ghana.
-Measures that should be designed to improve the health of women experiencing marital violence are suggested.

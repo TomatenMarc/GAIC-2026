@@ -1,6 +1,0 @@
-Title: Extinction risk from climate change
-Abstract: Climate change over the past ∼30 years has produced numerous shifts in the distributions and abundances of species and has been implicated in one species-level extinction.
-Using projections of species' distributions for future climate scenarios, we assess extinction risks for sample regions that cover some 20% of the Earth's terrestrial surface.
-Exploring three approaches in which the estimated probability of extinction shows a power-law relationship with geographical range size, we predict, on the basis of mid-range climate-warming scenarios for 2050, that 15–37% of species in our sample of regions and taxa will be ‘committed to extinction’.
-When the average of the three methods and two dispersal scenarios is taken, minimal climate-warming scenarios produce lower projections of species committed to extinction (∼18%) than mid-range (∼24%) and maximum-change (∼35%) scenarios.
-These estimates show the importance of rapid implementation of technologies to decrease greenhouse gas emissions and strategies for carbon sequestration.

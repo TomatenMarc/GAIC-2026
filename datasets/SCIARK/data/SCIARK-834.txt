@@ -1,7 +1,0 @@
-Biodelignification of agricultural and forest wastes: Effect on anaerobic digestion
-Abstract Four lignocellulosic wastes (wood fiber, grass, corn stover and wheat straw) were treated with the ligninolytic fungus Phanerochaete flavido-alba to improve their anaerobic digestion.
-After 21 days solid substrate culture, lignin content was depleted in all materials by fungus in a range between 5 and 20%, but cellulose and hemicellulose were also biodegraded.
-Anaerobic biodegradability of corn stover, grass and wood fiber increased as a consequence of fungal treatment.
-Biogas production was enhanced only in wood fiber.
-Fungal delignified wood fiber produced 124 NL biogas kg−1 dry wood fiber with a 64% methane, after 21 days anaerobic digestion; while non-inoculated controls did not produce any biogas.
-Pre-digestion of agricultural wastes (corn stover, grass and wheat straw) before biodelignification treatment failed to improve subsequent biogas production.

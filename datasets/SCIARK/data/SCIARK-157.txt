@@ -1,6 +1,0 @@
-Title: How Large Are Global Fossil Fuel Subsidies?
-Abstract: This paper estimates fossil fuel subsidies and the economic and environmental benefits from reforming them, focusing mostly on a broad notion of subsidies arising when consumer prices are below supply costs plus environmental costs and general consumption taxes.
-Estimated subsidies are $4.9 trillion worldwide in 2013 and $5.3 trillion in 2015 (6.5% of global GDP in both years).
-Undercharging for global warming accounts for 22% of the subsidy in 2013, air pollution 46%, broader vehicle externalities 13%, supply costs 11%, and general consumer taxes 8%.
-China was the biggest subsidizer in 2013 ($1.8 trillion), followed by the United States ($0.6 trillion), and Russia, the European Union, and India (each with about $0.3 trillion).
-Eliminating subsidies would have reduced global carbon emissions in 2013 by 21% and fossil fuel air pollution deaths 55%, while raising revenue of 4%, and social welfare by 2.2%, of global GDP.

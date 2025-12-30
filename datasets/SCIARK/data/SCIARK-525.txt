@@ -1,8 +1,0 @@
-Title:Fully solar powered airport: A case study of Cochin International airport
-Abstract: The contribution of aviation industry towards green house gas emission is getting attention all over the world.
-The carbon footprint of airport can be reduced by substituting the conventional source of energy with solar PV based power generation.
-The mandatory vast and free space areas around runways can be utilised for utility scale solar PV power plants.
-The present research aims to analyze the operational performance of 12 MWp solar powered airport commissioned by Cochin International Airport Limited (CIAL), India based on first year operational data.
-The performance of the plant is also simulated using most popular PV simulation softwares – PVSyst and SolarGis, by accurately giving the plant specification.
-The average performance ratio (PR) of the plant is 86.56% and corresponding capacity utilisation factor (CUF) is 20.12% with final yield of 1984.1 h. The performance parameters obtained through the software was found to be in close match with the measured values.
-The economic and environmental analyses of the solar powered Cochin airports confirms its effectiveness in reducing the carbon footprint, leading to virtually zero emission, clean and green sustainable airport.

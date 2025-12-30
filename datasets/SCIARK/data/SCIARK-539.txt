@@ -1,7 +1,0 @@
-A 2000 year long seasonal record of floods in Lake Ledro
-Abstract: Knowledge of past natural flood variability and controlling climate factors is of high value since it can be useful to refine projections of the future flood behavior under climate warming.
-In this context, we present a seasonally resolved 2000 year long flood frequency and intensity reconstruction from the southern Alpine slope (North Italy) using annually laminated (varved) lake sediments.
-Floods occurred predominantly during summer and autumn, whereas winter and spring events were rare.
-The all-season flood frequency and, particularly, the occurrence of summer events increased during solar minima, suggesting solar-induced circulation changes resembling negative conditions of the North Atlantic Oscillation as controlling atmospheric mechanism.
-Furthermore, the most extreme autumn events occurred during a period of warm Mediterranean sea surface temperature.
-Interpreting these results in regard to present climate change, our data set proposes for a warming scenario, a decrease in summer floods, but an increase in the intensity of autumn floods at the South-Alpine slope.

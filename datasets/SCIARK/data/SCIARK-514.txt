@@ -1,7 +1,0 @@
-Going green: Market reaction to CSRwire news releases
-Abstract: Voluntary disclosure theory predicts that an optimal disclosure decision should produce an overall net benefit for shareholders, and that such net benefit should decrease in public information availability.
-This study supports the predictions of voluntary disclosure theory in the context of climate change.
-Using voluntary disclosures made through the CSRwire news service, we find that managers’ disclosure decisions involving greenhouse gas emissions produce positive returns to shareholders.
-This response varies negatively with company size and public information availability.
-For small companies in a limited public information environment, we find that mean market-adjusted share price increases significantly by 2.32% over days −2 to 2 around the CSR newswire release date.
-Our sample of disclosing companies received an aggregate market value boost from their CSR news releases of approximately ten billion dollars, independent of differences in public information availability.

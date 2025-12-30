@@ -1,9 +1,0 @@
-Title: Development and psychometric evaluation of the public health surveillance well-being scale
-Purpose: To develop and psychometrically evaluate the brief Public Health Surveillance Well-Being Scale (PHS-WB) that captures mental, physical, and social components of well-being.
-Methods: Using data from 5,399 HealthStyles survey respondents, we conducted bi-factor, item response theory, and differential item functioning analyses to examine the psychometric properties of a pool of 34 well-being items.
-Based on the statistical results and content considerations, we developed a brief 10-item well-being scale and assessed its construct validity through comparisons of demographic subgroups and correlations with measures of related constructs.
-Results: Based on the bi-factor analyses, the items grouped into both an overall factor and individual domain-specific factors.
-The PHS-WB scale demonstrated good internal consistency (alpha = 0.87) and correlated highly with scores for the entire item pool (r = 0.94).
-The well-being scale scores differed as expected across demographic groups and correlated with global and domain-specific measures of similar constructs, supporting its construct validity.
-Conclusion: The 10-item PHS-WB scale demonstrates good psychometric properties, and its high correlation with the item pool suggests minimal loss of information with the use of fewer items.
-The brief PHS-WB allows for well-being assessment on national surveys or in other situations where a longer form may not be feasible.

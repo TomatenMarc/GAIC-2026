@@ -1,9 +1,0 @@
-Slow diffusion of renewable energy technologies in China: An empirical analysis from the perspective of innovation system
-Renewable energy is particularly important for achieving energy security and emission reduction targets.
-However, China’s renewable energy technologies are still diffusing slowly.
-Based on the two-part model and the fixed-effect Tobit model, this paper investigates the factors affecting the diffusion of renewable energy technologies in 28 provinces in China between 2006 and 2017 from the perspective of an innovation system.
-It is found that increasing the renewable energy tariff surcharge subsidy, the share of relevant employees, and grid density will drive the diffusion of renewable energy technologies.
-Reducing the share of coal consumption will increase the probability of adoption of renewable energy technologies.
-Furthermore, a certain province’s or other provinces’ renewable energy technology patent stocks both provide the knowledge infrastructure for the increase in the share of renewable energy generation.
-In contrast, the crowding-out effect of foreign direct investment will hinder the expansion of renewable energy generation share.
-Therefore, the failures in the six aspects of institutional design, market structure, personnel factor, external interaction, knowledge infrastructure, and physical infrastructure, will lead to the slow diffusion of renewable energy technologies.

@@ -1,9 +1,0 @@
-Household air pollution and under-five mortality in India (1992-2006)
-Background: Household air pollution (HAP) - predominantly from cooking fuel is a major public health hazard and one of the leading causes of respiratory illness and deaths among children under-five years in India.
-This study investigates the association between HAP from cooking fuel and under-five mortality using India's National Family and Health Survey (NFHS) datasets over the period 1992-2006 (total of 166,382 children), and the extent to which the association differed by environmental and behavioral factors affecting level of exposure.
-Methods: The association between HAP and under-five mortality of three age-groups (neonatal age between 0-28 days, post-neonatal age between 1-11 months and children aged between 12-59 months) was examined using multi-level logistic regression models.
-Results: HAP was associated with mortality among children aged under-five (OR = 1.30, 95%CI = 1.18-1.43, P < 0.001) and was more strongly associated in sub-group analyses of post-neonatal mortality (OR = 1.42, 95%CI = 1.19-1.71, P < 0.001) and child mortality (OR = 1.42, 95%CI = 1.05-1.91, P = 0.021) than neonatal mortality (OR = 1.23, 95%CI = 1.09-1.39, P = 0.001).
-The association was stronger for households in rural areas and for households without a separate kitchen using polluting fuel, and in women who had never breastfed for all age-groups.
-Conclusion: Use of cooking fuel in the household is associated with increased risk of mortality in children aged under-five years.
-Factors relating to access to clean fuels, improvements in infrastructure and household design and behavioral factors are discussed, and can result in further declines in under-five mortality in India.
-Keywords: Child mortality; Cooking fuel; Household air pollution; India; Under-five mortality.

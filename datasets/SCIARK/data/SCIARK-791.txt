@@ -1,8 +1,0 @@
-The effects of amoebal bacterivory on carbon and nitrogen dynamics depend on temperature and soil structure interactions
-Abstract: Fundamental questions remain about the role of bacterivorous protists in regulating soil carbon (C) and nitrogen (N) cycling, including the ways in which protists interact with physical and chemical factors to influence soil decomposer responses to increased temperature.
-Amoebae in particular deserve attention given their status as one of the most abundant soil protozoans.
-Using microcosms of simplified soil communities, we investigated the net and interactive effects of amoebal bacterivory, soil aggregate structure, agricultural management (till vs. no-till), and temperature on C and N dynamics during a 24 day-incubation.
-The respiration temperature sensitivity (Q10) was much more variable for the simplified communities than natural communities, illustrating the challenge in using low-diversity systems to predict such a complex and emergent property.
-In addition to the expected positive effect of amoebal predation on C and N mineralization in all treatments, we found that the magnitude of this effect was significantly influenced by aggregate structure and temperature.
-Statistically higher (P < 0.01) predation-induced C mineralization in crushed aggregates relative to intact aggregates was observed at 25 °C but not at 15 °C, implying that (i) amoebal predation efficiency is more limited by physical accessibility under higher temperature and/or (ii) a temperature-induced shift in predator species with differing trophic niches.
-Our results show the importance of better understanding the interactions of the soil food web, aggregate structure, and temperature when predicting soil C and N dynamics under warming scenarios.

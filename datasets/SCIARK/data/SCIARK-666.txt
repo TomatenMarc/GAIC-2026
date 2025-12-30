@@ -1,9 +1,0 @@
-﻿Patterns of Violence Against Women: A Latent Class Analysis.
-This study examined patterns of nine types of violence against women (VAW) and associated mental health problems.
-The following self-reported, lifetime violence victimization was examined among 1424 employed women: (1) childhood physical abuse, (2) childhood sexual abuse, (3) physical abuse between parents/guardians during childhood, (4) psychological intimate partner violence (IPV), (5) physical IPV, (6) sexual IPV, (7) adult physical or sexual assault by a non-intimate partner, (8) physical workplace violence, and (9) psychological workplace violence.
-Latent class analysis was used to identify homogenous patterns, called "classes," of women's "yes/no" responses to experiencing these types of violence.
-The best model consisted of 4-classes characterized by the following probabilities: low violence (class 1: 63.1%), high psychological and physical IPV (class 2: 15.6%), high physical and psychological workplace violence (class 3: 12.4%), and moderate to high childhood abuse (class 4: 9.0%).
-When compared to class 1 (low violence), membership in classes 2 (IPV) and 4 (childhood abuse) was associated with screening positive for depression in the past week at baseline after controlling for the influence of demographic characteristics on class membership.
-Also, when compared to class 1 (low all), membership in class 2 (IPV) was associated with greater odds of screening positive for posttraumatic stress disorder in the past month at the six month follow-up assessment.
-Findings document distinct patterns of VAW and associated proximal and distal mental health outcomes.
-Implications for interventions aimed to improve employed women's health are discussed.

@@ -1,8 +1,0 @@
-Effects of revegetation on climate in the Mu Us Sandy Land of China
-Abstract: The ecological environment in China's arid and semi-arid regions has been improving over the past few decades.
-Using the Mu Us Sandy Land (MUSL) as a case study, we examine the consequent climate feedbacks and the impacts of revegetation on regional climate by incorporating high-resolution remote-sensing vegetation data into the WRF-Noah model.
-From 2001 to 2010, although a small portion of the grassland was degraded in MUSL, vegetation overall improved, with green fraction and leaf area index increased and surface albedo decreased.
-The model simulation suggests a cooling of the near-surface temperature by 0.12–0.32 °C on average and up to >0.5 °C in summer, with a reduction in nighttime minimum of 0.15–0.46 °C and in daytime maximum of <0.13 °C.
-The cooling is accompanied by a slight increase in 2-m air humidity.
-The near-surface cooling and wetting are induced by revegetation-enhanced evapotranspiration, but they have insignificant effect on the local precipitation.
-The results of this study imply that while revegetation has positive effects on the ecological systems in MUSL, it bears the cost of an increase in evapotranspiration of 51 mm per summer, which may exacerbate the water shortages in the region.

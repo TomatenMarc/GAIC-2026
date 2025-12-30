@@ -1,6 +1,0 @@
-Title: Climate change mitigation and adaptation in strategic environmental assessment
-Abstract: Countries are implementing CO2 emission reduction targets in order to meet a globally agreed global warming limit of +2 °C.
-However, it was hypothesised that these national reduction targets are not translated to regional or state level planning, and are not considered through Strategic Environmental Assessment (SEA) in order to meet emission reduction obligations falling on the transport, energy, housing, agriculture, and forestry sectors.
-SEAs of land use plans in the German state of Saxony, and the English region of the East of England were examined for their consideration of climate change impacts based on a set of criteria drawn from the literature.
-It was found that SEAs in both cases failed to consider climate change impacts at scales larger than the boundary of the spatial plan, and that CO2 reduction targets were not considered.
-This suggests a need for more clarity in the legal obligations for climate change consideration within the text of the SEA Directive, a requirement for monitoring of carbon emissions, a need for methodological guidance to devolve global climate change targets down to regional and local levels, and a need for guidance on properly implementing climate change protection in SEA.

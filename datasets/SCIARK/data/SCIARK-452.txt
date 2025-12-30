@@ -1,8 +1,0 @@
-Title: The Burden of Poor Mental Well-being Among Patients With Type 2 Diabetes Mellitus
-Objective: The aim of this study was to evaluate the association of mental well-being with outcomes among patients with type 2 diabetes mellitus (T2DM).
-Methods: Seven thousand eight hundred fifty-two adults with T2DM were identified from a national, Internet-based study.
-Mental well-being [SF-36v2 mental component summary (MCS)] was categorized as good (MCS ≥ 50), poor (40 ⩽ MCS < 50), and very poor (MCS < 40).
-Outcomes included past 6 months of health care resource use and lost productivity (Work Productivity and Activity Impairment questionnaire).
-Results: Respondents with very poor/poor versus good mental well-being were more likely to visit the emergency room (27%/18% vs 11%, P < 0.001) or be hospitalized (19%/14% vs 9%, P < 0.001).
-Among labor force participants, those with very poor/poor versus good mental well-being experienced greater overall work impairment (43.7/26.0 vs 10.7, P < 0.001).
-Conclusions: Greater resource use and work productivity impairment associated with poorer mental well-being among patients with T2DM has cost implications.

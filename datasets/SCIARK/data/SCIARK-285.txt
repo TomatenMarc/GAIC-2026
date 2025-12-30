@@ -1,9 +1,0 @@
-Energy and greenhouse gas assessment of European glucose production from corn – a multiple allocation approach for a key ingredient of the bio-based economy
-Bio-based products are considered to be a sustainable alternative to conventional fossil fuel-based materials.
-This paper studies the production of glucose from corn starch, an important feedstock for a wide range of bio-based products (e.g. ethanol, bio-based monomers), in a European corn wet mill (CWM).
-Following the Life Cycle Assessment (LCA) principles, non-renewable energy use (NREU) and greenhouse gas (GHG) emissions are assessed for the system cradle-to-factory gate.
-The allocation problem that the analysis is faced with is addressed by applying seven different approaches: namely sub-division (two variants), partitioning based on physical causalities and on economic relationships and the principles of system expansion (three variants).
-Depending on the approach, the NREU for glucose production ranges from 6.8 to 9.3 MJ/kg glucose dry solids (ds) and the GHG emissions from 0.7 to 1.1 kg CO2 eq./kg glucose ds.
-The results for NREU per tonne of glucose are robust while for GHG, large deviation from the average is found for system expansion and for the approach main process.
-The influence of each calculation should be kept in mind when assessing bio-based products from glucose produced in a CWM.
-The results provide a good basis for future analyses of bio-based products, as they are also similar to values published by other authors for the US, bearing in mind the different impacts of corn production in the two regions.

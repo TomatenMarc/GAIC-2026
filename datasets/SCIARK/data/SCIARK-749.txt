@@ -1,8 +1,0 @@
-Patterns of diversification in islands: A comparative study across three gecko genera in the Socotra Archipelago
-Abstract: In this study we used the complete fauna of geckos of the Socotra Archipelago to test whether the three gecko genera co-occurring in the islands (Pristurus, Hemidactylus and Haemodracon) produced similar outcomes of morphological and climatic diversification.
-To test this, we produced a time-calibrated tree of 346 geckos including all 16 endemic species of the archipelago and 26 potential close-relatives in the continent.
-Our dating estimates revealed that most of the diversity of geckos in the archipelago was the consequence of in situ diversification.
-However not all genera shared similar patterns of diversification.
-While in Hemidactylus and Haemodracon this involved great differences in body size and low levels of climatic diversification (mostly involving sympatric distributions), an opposite pattern appeared in Pristurus in which most of the diversification involved shifts in climatic envelopes (mostly involving allopatric and parapatric distributions) but almost no size differentiation.
-Consistently with this, Pristurus was the only genus in which rates of size diversification in islands were substantially lower than in the continent.
-This illustrates how different groups can greatly differ in their patterns of intra-island diversification and highlights the importance of taxon-dependent factors at determining different patterns of diversification in the same insular context.

@@ -1,9 +1,0 @@
-Lower bounds to future sea-level rise
-Abstract: Sea-level rise is among the most important changes expected as a consequence of anthropogenic global warming.
-Climate model-based projections made until the Fourth Assessment Report (AR4) of the Intergovernmental Panel on Climate Change (IPCC) yield a 21st century rise spanning nearly 20–60cm.
-However, it is known that current climate models are likely to underestimate sea-level change in response to rapid climatic variations.
-Recent alternative semi-empirical approaches predict a much higher sea-level rise than the IPCC AR4 projections.
-Nevertheless, the underway depletion of conventional fossil fuels might, at least in principle, constrain future fossil CO2 emissions and, in turn, affect also the extent of sea-level rise.
-Here we project 2000–2200 sea-level rise with a semi-empirical method coupled to a simple climate model that is run under a range of fossil-fuel exhaustion scenarios.
-We find that, in spite of fossil-fuel depletion, sea level is predicted to rise by at least ~80cm at the end of this century and is expected to continue rising for at least the next two hundred years.
-The present results support the need for prompt and substantial emission cuts in order to slow down future sea-level rise and implement adaptation measures.

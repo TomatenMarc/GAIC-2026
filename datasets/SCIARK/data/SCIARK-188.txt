@@ -1,9 +1,0 @@
-Africa and the 2030 Sustainable Energy Goal: A Focus on Access to Renewables and Clean Fuels for Cooking
-Sustainable Development Goal 7 (SDG 7) focuses on ensuring universal access to affordable, reliable, sustainable and modern energy by 2030.
-This chapter uses twin indicators for trend analysis and to compute a baseline composite index.
-The indicators are (1) the proportion of population with primary reliance on clean fuels and technology and (2) the share of renewable energy in the total final energy consumption.
-Data is drawn from the World Development Indicators.
-The findings are that many African countries are still lagging behind, with a high chance that meeting the selected 2030 targets is far-fetched.
-In fact, there is a declining trend in access to renewable energy, with slow growth towards access to clean fuels and technology.
-This is supported by opposing voices, particularly from labour unions favouring the protection of jobs sustained by the dirty sources of energy, a posture pitched against the voices worried by the ever-changing climate and associated weather extremes like floods, droughts and hailstorms.
-The chapter recommends, among other issues, scaling up investments in clean fuels and related technologies as well as the deployment of renewable energy through a just transition to low-carbon and greener economies.

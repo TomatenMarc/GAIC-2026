@@ -1,9 +1,0 @@
-Exergy Analysis of Chemical Processes
-Abstract:
-Exergy analysis (ExA) has been gaining relevance in the field of energy efficiency as a powerful tool to assess degradation of energy quality.
-ExA quantifies the percentage of destroyed exergy via process irreversibilities, as well as the percentage of lost exergy via process deficiencies when handling waste (material and energy) streams.
-ExA also assesses the primary sinks responsible for exergy destruction and/or exergy losses by process inefficiencies and/or design limitations.
-Moreover, ExA might also be used as design criteria for optimization of process in order to minimize energy requirements, energy degradation and waste (material and energy) streams.
-It is believed that a complete picture of the thermodynamic performance of a process is achieved and best evaluated by performing an exergy analysis in place of or in addition to conventional energy analysis.
-This is due to the fact that ExA can clearly indicate the components or blocks that destroy or lose exergy the most, i.e., the most thermodynamically or materially inefficient components.
-In this chapter, formulae for exergy flow rate of streams are obtained from application of first and second Laws of Thermodynamics together with conservation equations for the studied system (general steady-state open system and its reference environment).

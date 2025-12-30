@@ -1,7 +1,0 @@
-Title:Climate-driven polar motion: 2003-2015
-Abstract: Earth's spin axis has been wandering along the Greenwich meridian since about 2000, representing a 75° eastward shift from its long-term drift direction.
-The past 115 years have seen unequivocal evidence for a quasi-decadal periodicity, and these motions persist throughout the recent record of pole position, in spite of the new drift direction.
-We analyze space geodetic and satellite gravimetric data for the period 2003-2015 to show that all of the main features of polar motion are explained by global-scale continent-ocean mass transport.
-The changes in terrestrial water storage (TWS) and global cryosphere together explain nearly the entire amplitude (83 ± 23%) and mean directional shift (within 5.9° ± 7.6°) of the observed motion.
-We also find that the TWS variability fully explains the decadal-like changes in polar motion observed during the study period, thus offering a clue to resolving the longstanding quest for determining the origins of decadal oscillations.
-This newly discovered link between polar motion and global-scale TWS variability has broad implications for the study of past and future climate.

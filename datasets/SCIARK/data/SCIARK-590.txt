@@ -1,9 +1,0 @@
-On the drivers of eco-innovation: empirical evidence from China
-Abstract: While identification of the drivers of eco-innovation in firms is a popular topic in the literature, many questions about these drivers in developing countries remain unanswered.
-The present study aims to determine empirically the primary factors that influence adoption of eco-innovation in Chinese firms.
-To achieve this, a conceptual model is developed and tested on a large database of firms from various industries, using hierarchical regression analysis.
-The study reveals that eco-innovation is triggered by a mixture of internal and external drivers.
-However, in China, the external pressures from environmental regulations, customers' green demands, and competitors affect eco-innovation partially through internal drivers.
-The analysis further shows that firms' integrative capability—the ability to adopt appropriate eco-innovative responses by combining internal and external capabilities—partially mediates the relationship between drivers and eco-innovation performance.
-Moreover, firms that have more efficient external networks tend to conduct more eco-innovative activities.
-This study contributes to a more detailed understanding of the factors that initiate and boost eco-innovation.

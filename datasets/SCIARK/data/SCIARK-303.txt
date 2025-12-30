@@ -1,9 +1,0 @@
-Climatic physical snowpack properties for large-scale modeling examined by observations and a physical model
-Abstract: Here we have conducted an integral study using site observations and a model with detailed snow dynamics, to examine the capability of the model for deriving a simple relationship between the density and thermal conductivity of the snowpack within different climatic zones used in large-scale climate modeling.
-Snow and meteorological observations were conducted at multiple sites in different climatic regions (two in Interior Alaska, two in Japan).
-A series of thermal conductivity measurements in snow pit observations done in Alaska provided useful information for constructing the relationship.
-The one-dimensional snow dynamics model, SNOWPACK, simulated the evolution of the snowpack and compared observations between all sites.
-Overall, model simulations tended to underestimate the density and overestimate the thermal conductivity, and failed to foster the relationship evident in the observations from the current and previous research.
-The causes for the deficiency were analyzed and discussed, regarding a low density of the new snow layer and a slow compaction rate.
-Our working relationships were compared to the equations derived by previous investigators.
-Discrepancy from the regression for the melting season observations in Alaska was found in common.

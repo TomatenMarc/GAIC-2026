@@ -1,6 +1,0 @@
-
-Operator: Thank you. The next question comes from Brian Pitz with Jefferies. Please proceed with your question.
-Brian Pitz: Thank you. You mentioned Amazon Dash in the press release. Can you give us some color around how you're viewing the traction there both with customers and with brands and devices? And then maybe any update on Twitch. How is traffic and user engagement been trending on that site? Thanks.
-Phil Hardin: This is Phil. So on the Dash Buttons, we're really excited about what we're delivering there. I think, as you saw in the release, there are some new devices that take advantage of the underlying service that we think will be really convenient for sellers and interesting for device makers. So we're excited about what we're building there. Don't have any stats for you today. On the Twitch side, we continue to let Twitch do what Twitch does best. And so don't have any updates on numbers there. But they continue to really engage customers and offer a really unique experience, which was one of the reasons we were attracted to them to start with.
-Brian Pitz: And maybe just quickly, end of year fulfillment and sortation centers?
-Brian Olsavsky: Yes. I'll take that. So we ended the year at 123 fulfillment centers, up a net 14, and we have 23 sortation centers in the US, up four year-over-year.

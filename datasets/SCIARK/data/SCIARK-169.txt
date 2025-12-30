@@ -1,5 +1,0 @@
-Particulate organic carbon flux of moored sediment traps
-Abstract: We report primary production of organic matter and organic carbon removal from three subtropical open ocean time-series stations, two located in the Atlantic and one in the Pacific, to quantify the biological components of the oceanic carbon pump.
-We find that within subtropical gyres, export production varies considerably despite similar phytoplankton biomass and productivity.
-We provide evidence that the removal of organic carbon is linked to differences in nutrient input into the mixed layer, both from eddy induced mixing and dinitrogen fixation.
-These findings contribute to our knowledge of the spatial heterogeneity of the subtropical oceans, which make up more than 50% of all ocean area and are thought to spread in the course of CO2- induced global warming.

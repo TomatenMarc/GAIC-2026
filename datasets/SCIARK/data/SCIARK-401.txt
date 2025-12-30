@@ -1,9 +1,0 @@
-Title:Australian climate extremes at 1.5 °c and 2 °c of global warming
-Abstract:To avoid more severe impacts from climate change, there is international agreement to strive to limit warming to below 1.5 °C.
-However, there is a lack of literature assessing climate change at 1.5 °C and the potential benefits in terms of reduced frequency of extreme events.
-Here, we demonstrate that existing model simulations provide a basis for rapid and rigorous analysis of the effects of different levels of warming on large-scale climate extremes, using Australia as a case study.
-We show that limiting warming to 1.5 °C, relative to 2 °C, would perceptibly reduce the frequency of extreme heat events in Australia.
-The Australian continent experiences a variety of high-impact climate extremes that result in loss of life, and economic and environmental damage.
-Events similar to the record-hot summer of 2012-2013 and warm seas associated with bleaching of the Great Barrier Reef in 2016 would be substantially less likely, by about 25% in both cases, if warming is kept to lower levels.
-The benefits of limiting warming on hydrometeorological extremes are less clear.
-This study provides a framework for analysing climate extremes at 1.5 °C global warming.

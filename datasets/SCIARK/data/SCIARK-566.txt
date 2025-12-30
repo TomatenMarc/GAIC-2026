@@ -1,8 +1,0 @@
-Title: Extreme winds and precipitation during landfall of atmospheric rivers
-Abstract: Atmospheric rivers—long, narrow filaments of large integrated water vapour transport—are associated with weather and water extremes, such as precipitation extremes and flooding in western North America and northern Europe.
-Here we apply a global detection algorithm for atmospheric rivers to reanalysis data during 1997–2014 to investigate the impact of atmospheric rivers on wind extremes as well as precipitation extremes.
-We find that atmospheric rivers are associated with up to half of the extreme events in the top 2% of the precipitation and wind distribution, across most mid-latitude regions globally.
-Landfalling atmospheric rivers are associated with about 40–75% of extreme wind and precipitation events over 40% of the world’s coastlines.
-Atmospheric rivers are associated with a doubling or more of the typical wind speed compared to all storm conditions, and a 50–100% increase in the wind and precipitation values for extreme events.
-We also find that the majority of extreme wind events catalogued between 1997 and 2013 over Europe with billion US dollar losses were associated with atmospheric rivers.
-We conclude that landfalling atmospheric rivers can represent a significant hazard around the globe, because of their association with not only extreme precipitation, but also extreme winds.

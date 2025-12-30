@@ -1,8 +1,0 @@
-Falling Between the Cracks: Discrimination Laws and Older Women
-Theories and evidence suggest that older women may experience unique discrimination for being both old and female in the workplace.
-To provide a remedy for this type of discrimination — known as intersectional discrimination — legal scholars argue that age and sex discrimination laws must be used jointly and acknowledge intersectional discrimination (age-plus-sex or sex-plus-age discrimination) as a separate cause of action.
-Nonetheless, in general, courts have declined to do so even though older women are protected under both age and sex discrimination laws.
-This raises a concern that age discrimination laws may be ineffective, or less effective in protecting older women.
-I test this implication by estimating the differential effect of age discrimination laws on labor market outcomes between older women and older men.
-My findings show that age discrimination laws did far less to improve labor market outcomes for older women than for older men.
-These results may explain the persistent findings of discrimination against older women in the existing literature and support the legal scholars' argument that older women's intersectional discrimination must be recognized as a separate cause of action.

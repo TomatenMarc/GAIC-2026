@@ -1,8 +1,0 @@
-The role of e-government in sustainable public procurement in developing countries: A systematic literature review
-Despite their relatively lower national income, studies suggest that developing countries have consistently advanced their e-government structures.
-However, there is little knowledge on how governments’ deployment of electronic and internet technologies may be leveraged to stimulate sustainable supply chain management, particularly Sustainable Public Procurement (SPP) practices.
-From a Systematic Literature Review (SLR), this paper affirms such allusions by scholars and reports that government deployment of electronic and internet tools indeed promotes SPP towards the bigger agenda of sustainable development (SDG 12.7).
-In this paper, 68 articles of heterogeneous research methods published in peer-review journals since 2001–2017 are systematically reviewed.
-This paper concludes that efforts in building a robust ICT infrastructure, online portals, and human capacity to use ICT offer developing countries inter alia an informative platform for sharing and communicating SPP requirements.
-E-government also facilitates a wider sample for market readiness assessment and an integrated e-procurement system towards effective SPP monitoring and evaluation.
-This study has significant implications for promoting sustainability in the downstream supply chain practices in public sector organizations in the developing country context.

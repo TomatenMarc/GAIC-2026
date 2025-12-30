@@ -1,7 +1,0 @@
-Title: A scenario-based approach to assess Ho Chi Minh City’s urban development strategies against the impact of climate change
-Abstract: This paper presents an approach to quantifying current and future city-wide flood risks to Ho Chi Minh City.
-Here urban planning scenarios linking urban development and climate change explore the main driving forces of future risk.
-According to the redefined role of urban environmental planning in times of climate change, spatial planning needs to go beyond traditional planning approaches to bring together, draw upon and integrate individual policies for urban adaptation strategies for land-use planning.
-Our initial research results highlight that the spatiotemporal processes of urban development, together with climate change, are the central driving forces for climate-related impacts.
-The influence of planned urban developments to the year 2025 on future flood risk is seen to be significantly greater than that of projected sea-level rise to the year 2100.
-These results aid local decision making in an effort to better understand the nature of future climate change risks to the city and to identify the main driver of urban exposure.

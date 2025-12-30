@@ -1,8 +1,0 @@
-Causal interactions between trade openness, renewable electricity consumption, and economic growth in Asia-Pacific countries: Fresh evidence from a bootstrap ARDL approach
-This paper applies a new bootstrap Autoregressive Distributed Lag (ADL) approach to examine the nexus between trade openness, renewable electricity consumption, and economic growth for seven countries in the Asia-Pacific region during 1980–2017 period.
-In fact, there is no evidence of cointegration among real trade openness, electricity consumption, and real GDP per capita in countries, with the exception of Malaysia, where real GDP serves as dependent variable.
-However, cointegration does manifest in the cases of Indonesia, Japan, South Korea, and Thailand when trade openness is used as the dependent variable.
-A similar outcome is observed for Indonesia, Malaysia, and Thailand when renewable electricity consumption is used as the dependent variable.
-A short-run analysis reveals mixed results in term of the direction of the causality among different variables for various countries.
-Such results have implications for trade, energy, and environmental policies.
-One implication is that any environmental policy aiming to reduce the use of non-renewable energy and carbon dioxide emissions will inevitably lead to greater renewable energy consumption, which in turn may enhance trade openness and ultimately accelerate economic growth.

@@ -1,7 +1,0 @@
-
-Operator: Your next question is from John Blackledge with Cowen & Company. Your line is open.
-John R Blackledge: Oh, great. Thank you. A couple of questions on video. Mark, I think you mentioned potentially some new options for video monetization. Maybe could you discuss some of the new options that we may see implemented? And just more broadly, how does video content evolve on Facebook from kind of what we see today? Thank you.
-Mark Elliot Zuckerberg: Well, I can talk – oh, you want...
-David M. Wehner: You can go first.
-Mark Elliot Zuckerberg: Yeah, I mean, on the options on video monetization, it's going to be, still our focus is going to be on continuing to grow autoplay and continuing to leverage the video unit in News Feed. That's going to be the primary driver of video growth for us. So that's really the main focus. We've got other areas that we're experimenting with like suggested videos, which are going to be very much like those ads in a feed of suggested videos, which are also an opportunity for us. But essentially, the focus is going to be on monetizing through feed ads for video.
-David M. Wehner: I think you got them.

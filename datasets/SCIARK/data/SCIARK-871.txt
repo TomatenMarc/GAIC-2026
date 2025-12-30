@@ -1,9 +1,0 @@
-Multivariate Granger causality between CO2 emissions, energy consumption, FDI (foreign direct investment) and GDP (gross domestic product): Evidence from a panel of BRIC (Brazil, Russian Federation, India, and China) countries
-Abstract:
-This paper addresses the impact of both economic growth and financial development on environmental degradation using a panel cointegration technique for the period between 1980 and 2007, except for Russia (1992–2007).
-In long-run equilibrium, CO2 emissions appear to be energy consumption elastic and FDI inelastic, and the results seem to support the Environmental Kuznets Curve (EKC) hypothesis.
-The causality results indicate that there exists strong bidirectional causality between emissions and FDI and unidirectional strong causality running from output to FDI.
-The evidence seems to support the pollution haven and both the halo and scale effects.
-Therefore, in attracting FDI, developing countries should strictly examine the qualifications for foreign investment or to promote environmental protection through the coordinated know-how and technological transfer with foreign companies to avoid environmental damage.
-Additionally, there exists strong output-emissions and output-energy consumption bidirectional causality, while there is unidirectional strong causality running from energy consumption to emissions.
-Overall, the method of managing both energy demand and FDI and increasing both investment in the energy supply and energy efficiency to reduce CO2 emissions and without compromising the country’s competitiveness can be adopted by energy-dependent BRIC countries.

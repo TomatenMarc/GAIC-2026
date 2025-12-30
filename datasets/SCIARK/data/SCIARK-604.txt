@@ -1,8 +1,0 @@
-Title: Differences in tolerance to anthropogenic stress between invasive and native bivalves
-Abstract: Tolerance towards environmental stress has been frequently considered as one of the key determinants of invasion success.
-However, empirical evidence supporting the assumption that invasive species can better endure unfavorable conditions compared with native species is limited and has yielded opposing results.
-In this study, we examined the tolerance to different stress conditions (thermal stress and trace metal zinc pollution stress) in two phylogenetically related and functionally similar freshwater bivalve species, the native Anodonta anatina and the invasive Sinanodonta woodiana.
-We assessed potential differences in response to stress conditions using several cellular response assays: efficiency of the multixenobiotic resistance mechanism, respiration estimate (INT reduction capacity), and enzymatic biomarkers.
-Our results demonstrated that the invasive species overall coped much better with unfavorable conditions.
-The higher tolerance of S. woodiana was evident from (i) significantly decreased Rhodamine B accumulation indicating more efficient multixenobiotic resistance mechanism; (ii) significantly higher INT reduction capacity and (iii) less pronounced alterations in the activity of stress-related enzymes (glutathione-S-transferase, catalase) and of a neurotoxicity biomarker (cholinesterase) in the majority of treatment conditions in both stress trials.
-Higher tolerance to thermal extremes may provide physiological benefit for further invasion success of S. woodiana in European freshwaters, especially in the context of climate change.

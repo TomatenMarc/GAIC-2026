@@ -1,8 +1,0 @@
-Increasing self-consumption of renewable energy through the Building to Vehicle to Building approach applied to multiple users connected in a virtual micro-grid
-This paper focuses on a novel energy management approach, namely Building to Vehicle to Building, in which electric vehicles act as vector devices for renewable energy exchanges among buildings.
-The main goal behind this concept is to benefit from the potentiality of electric vehicles toward the achievement of the zero-energy target extended to a buildings cluster level, by exploiting renewable generation on- and off-site.
-To this aim, a dynamic simulation tool is developed to assess the energy and economic performance of the proposed V2B2 scheme applied to a cluster of multiple users made of non-residential buildings and electric vehicles with bidirectional charging, used as a back-up power supply for increasing self-consumption of energy produced on-site by PV panels integrated in one of the buildings, to be also exploited off-site by other users.
-A case study analysis is conducted for a sample cluster of 3 building sand 3 electric vehicles, located in a Mediterranean city (Naples, Italy) with the aim at conducting the proof of concept.
-Simulation results show that the proposed V2B2 scheme enhances the match between the on-site renewable generation and the whole system demand, i.e.
-buildings and electric vehicles’ needs, by reducing the grid operation and boosting the system economic convenience.
-The proposed energy management scheme represents an example of novel aggregator energy and business model which will play a crucial role in the next generation of smart cities and communities.

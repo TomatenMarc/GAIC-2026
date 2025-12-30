@@ -1,9 +1,0 @@
-Title: Do city climate plans reduce emissions?
-Abstract: More than 600 local governments in the US are developing climate action plans that lay out specific measures to reduce emissions from municipal operations, households and firms.
-To date, however, it is unclear whether these plans are being implemented or have any causal effects on emissions.
-Using data from California, I provide the first quantitative analysis of the impacts of climate plans.
-I find that cities with climate plans have had far greater success in implementing strategies to reduce greenhouse gas emissions than their counterparts without such plans.
-For example, they have more green buildings, spend more on pedestrian and bicycle infrastructure, and have implemented more programs to divert waste from methane-generating landfills.
-I find little evidence, however, that climate plans play any causal role in this success.
-Rather, citizens’ environmental preferences appear to be a more important driver of both the adoption of climate plans and the pursuit of specific emission reduction measures.
-Thus, climate plans are largely codifying outcomes that would have been achieved in any case.

@@ -1,6 +1,0 @@
-﻿Alcohol Use, Intimate Partner Violence, Sexual Coercion and HIV among Women Aged 15–24 in Rakai, Uganda
-Disinhibition due to alcohol may induce intimate partner violence and sexual coercion and increased risk of HIV infection.
-In a sample of 3,422 women aged 15–24 from the Rakai cohort, Uganda, we examined the association between self-reported alcohol use before sex, physical violence/sexual coercion in the past and prevalent HIV, using adjusted odds ratios (Adj OR) and 95% confidence intervals (95% CI).
-During the previous year, physical violence (26.9%) and sexual coercion (13.4%) were common, and alcohol use before sex was associated with a higher risk of physical violence/sexual coercion.
-HIV prevalence was significantly higher with alcohol consumption before sex (Adj OR = 1.45, 95% CI: 1.06–1.98) and especially when women reported both prior sexual coercion and alcohol use before sex (Adj OR = 1.79, 95% CI: 1.25–2.56).
-Alcohol use before sex was associated with physical violence and sexual coercion, and both are jointly associated with HIV infection risk in young women.

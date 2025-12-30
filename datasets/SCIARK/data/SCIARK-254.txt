@@ -1,6 +1,0 @@
-Energy and carbon taxes and their distributional implications
-Abstract: This paper studies the equity effects of energy and carbon taxes, as policy instruments to reduce greenhouse gas emissions and fulfil the legally binding reduction targets adopted in the 1997 Kyoto Protocol to the United Nations Framework Convention on Climate Change (UNFCCC).
-The equity effects of taxes on energy products are studied in the broader context of a revenue neutral environmental fiscal reform.
-The paper shows that carbon or energy taxes are mildly regressive and that impacts on low-income households are less than expected.
-The distributional implications depend on various issues, such as whether the type of fuel being taxed (heating, transport) and in particular how the revenues are recycled back to the economy.
-The importance of compensation and mitigation measures is also discussed.

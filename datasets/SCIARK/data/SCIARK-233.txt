@@ -1,9 +1,0 @@
-Title: Determinants of climate change adaptation strategies and its impact on the net farm income of rice farmers in south-west Nigeria
-Abstract: A multivariate probit (MVP) model was used to analyse the determinants of strategies adopted for adapting to climate change in a sample of smallholder rice farmers in south-west Nigeria.
-An efficient endogenous switching regression model (ESRM) was used to estimate the impact of climate change adaptation strategy on the net income of rice farmers.
-The MVP results show that the socio-economic factors, the institutional factors, and locational variables of some households statistically influenced the choice of climate change adaptation strategies employed.
-Complementarities among all the adaptation strategies used by the farmers were revealed by the positive pair-wise correlation matrix of the MVP model.
-The study also indicated that farmers affected by prolonged drought and incidences of flood were more likely to adopt adaptation strategies on their farmlands.
-The ESRM treatment effect indicated that the average net income per rice farm of those who adopted the strategies was significantly higher than that of those who did not.
-Thus, the government, stakeholders, and donor agencies must provide capacity-building innovations related to agricultural extension systems and climate change education through information and communication technologies.
-This investment in education is essential for development and would encourage farmers to adopt appropriate climate change adaptation strategies.

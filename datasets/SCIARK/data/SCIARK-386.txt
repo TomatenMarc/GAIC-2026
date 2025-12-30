@@ -1,8 +1,0 @@
-Unprogrammed abandonment of female genital mutilation/cutting
-The sparsity of historical data on Female Genital Mutilation/Cutting (FGM/C) poses a challenge for researchers who seek to identify long-term trends in FGM/C participation or evaluate the role of macro-level factors that may predict FGM/C abandonment.
-This study introduces a means of overcoming this barrier and provides a new cross-national dataset of FGM/C prevalence over time.
-We compile self-reported FGM/C data from more than 700,000 women born in 23 African countries between 1940 and 2002 who subsequently participated in Demographic and Health Surveys (DHS) or Multiple Indicator Cluster Surveys (MICS).
-These data allow us to estimate the proportion of women born in each country-year who eventually underwent FGM/C.
-We then use these estimates to assess country-level trends in FGM/C prevalence and to explore macro-level factors that may contribute to the persistence or decline of the practice, including population density, female education rates, political stability, laws banning the practice, economic development, democratization, and international exposure.
-Our exploratory analysis suggests that population density, female education, and laws banning FGM/C are associated with FGM/C prevalence.
-Our results and approach should facilitate additional research on the mechanisms through which economic growth, institutional changes, and international engagement can influence the abandonment of FGM/C and other harmful social norms.

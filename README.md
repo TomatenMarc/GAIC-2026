@@ -29,9 +29,15 @@ The table below lists the dataset folders in this repository under `data/`.
 
 ## :point_up: Participation Instructions
 
-1. Format your data/preprocessing to match the task input requirements from the [Touché](https://touche.webis.de/clef26/touche26-web/generalizable-argument-mining.html) shared task page.
-2. Prepare your model’s predictions as `.jsonl` with the required structure for submission.
-3. Download the data and follow the evaluation guidelines on the [TIRA](https://www.tira.io) platform.
+1. Read and follow the requirements for the task requirements on the [Touché](https://touche.webis.de/clef26/touche26-web/generalizable-argument-mining.html) shared task page.
+2. Download the data and follow the further guidelines on the [TIRA](https://www.tira.io) platform.
+
+---
+
+## :v: Notice
+
+1. The respective `train/dev/test` splits will be published sequentially in `data/` as separate files (e.g., `train.jsonl`).
+2. The paths in `train.jsonl` etc. are relative to the `data/` directory and point to the respective files (e.g., `./ABSTRCT/data/ABSTRCT-1.txt`).
 
 ---
 

@@ -1,4 +1,9 @@
 *.jsonl
+!train.jsonl
+!train_labels.jsonl
+!dev.jsonl
+!dev_labels.jsonl
+
 *.sh
 *.py
 

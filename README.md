@@ -8,9 +8,11 @@ across diverse sources.
 
 ---
 
-## :floppy_disk: Dataset Overview
+## :floppy_disk: Benchmark Overview
 
-The table below lists the dataset folders in this repository under `data/`.
+The table below lists the dataset folders in this repository under `./data/`.
+
+⚠️ **Please cite the respective papers!**
 
 | Dataset Folder | Description                                                                                                  | Source                                        | License              |
 |----------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------|----------------------|
@@ -36,8 +38,17 @@ The table below lists the dataset folders in this repository under `data/`.
 
 ## :v: Notice
 
-1. The respective `train/dev/test` splits will be published sequentially in `data/` as separate files (e.g., `train.jsonl`).
-2. The paths in `train.jsonl` etc. are relative to the `data/` directory and point to the respective files (e.g., `./ABSTRCT/data/ABSTRCT-1.txt`).
+1. The respective `train/dev/test` splits will be published sequentially in `./data/` as separate files (e.g., `train.jsonl`).
+2. Each `train/dev/test` split will have a separate file containing the labels (e.g. `train_labels.jsonl`).
+3. The paths in each split are relative to the `./data/` working directory and point to the respective files (e.g., `./ABSTRCT/data/ABSTRCT-1.txt`).
+4. The data here is equivalent to the one published on the [TIRA](https://www.tira.io) platform.
+
+---
+
+## :rocket: Release Notes
+**14.01.26**: The training and development data is released.
+
+**01.03.26 (tentative)**: The test data will be released.
 
 ---
 

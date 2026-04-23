@@ -1,0 +1,5 @@
+REPLY[1]
+	#PopeFrancis Condemns #Abortion as ‘Direct Killing’ of Unborn Children https://www.breitbart.com/faith/2021/09/28/pope-francis-condemns-abortion-direct-killing-unborn-children/
+
+    REPLY[2 -> 1]
+    	@Stephanie_Williams Who twisted his arm for this?

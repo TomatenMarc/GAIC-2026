@@ -1,0 +1,29 @@
+REPLY[1]
+	Bran observing all the filth in Westeros.🤧 #GoT https://photo.example/used/6567113117
+
+    REPLY[2 -> 1]
+    	@Jordan_Chambers 🤣💀
+
+    REPLY[3 -> 1]
+    	@Jordan_Chambers Sitting like a true boss😂😂🙌🏿🙌🏿🙌🏿
+
+    REPLY[4 -> 1]
+    	@Jordan_Chambers @Zachary_Mitchell This is NOT good for children.
+
+    REPLY[5 -> 1]
+    	@Jordan_Chambers 😂😂😂looks cosy
+
+        REPLY[7 -> 5]
+        	@Victor_Baker 😂😂😂 Boss move.🤧
+
+    REPLY[6 -> 1]
+    	@Jordan_Chambers @Victor_Baker Boss moves
+
+    REPLY[8 -> 1]
+    	@Jordan_Chambers Lmao 😂😂😂😂😂😂 you guys don't deserve your phones and data. Savage
+
+        REPLY[9 -> 8]
+        	@Carolyn_Miller 😂😂😂🤧🚶🏾‍♂️
+
+    REPLY[10 -> 1]
+    	@Jordan_Chambers @Ashley_Wise Kid be like no one is got my swags

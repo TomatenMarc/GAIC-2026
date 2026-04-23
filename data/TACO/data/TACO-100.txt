@@ -1,0 +1,19 @@
+REPLY[1]
+	O Neymar em Squid Game
+
+	#SquidGame https://photo.example/used/67698599
+
+    REPLY[2 -> 1]
+    	@Andrea_Hubbard AMG KKKKKKKK
+
+    REPLY[3 -> 1]
+    	@Andrea_Hubbard participação especial
+
+    REPLY[4 -> 1]
+    	@Andrea_Hubbard Tu já tá em qual ep??? Pelo amor de God
+
+        REPLY[5 -> 4]
+        	@Joann_Ferguson No final do 4
+
+    REPLY[6 -> 1]
+    	@Andrea_Hubbard KKKKKKKKKKKKKKK PIOR Q É IGUAL

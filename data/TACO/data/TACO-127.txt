@@ -1,0 +1,40 @@
+REPLY[1]
+	I am sitting smack dab in the intersection between a huge literary legacy
+
+	… and a vast commercial product.
+
+	As both a consumer and a concerned fan — and I am endlessly fascinated by this dynamic.
+
+	#SuperBowl #LOTRonPrime #LOTRROP https://photo.example/used/657366111
+
+    REPLY[2 -> 1]
+    	@David_Davis The Struggle.
+
+    REPLY[3 -> 1]
+    	@David_Davis I am excited and scared at the same time. But hoping for the best
+
+        REPLY[5 -> 3]
+        	@Connor_West @David_Davis Mostly trying not to display too much hate because my ultimate fear is that if things go south we may never get an adaptation again.
+
+    REPLY[4 -> 1]
+    	@David_Davis Amazon's final commercial product turned out to be complete crap with nothing to do with Tolkien's literary heritage.
+
+    REPLY[6 -> 1]
+    	@David_Davis @Kim_Erickson I’ve always wanted to see the Second Age realised. If they get 70% of this right I’ll be happy. I don’t mind the condensing of time because we need human characters from the 1st to last episode. I’m looking forward with cautious optimism and I do understand the adaptation process
+
+        REPLY[10 -> 6]
+        	@Stephen_Hoffman @David_Davis @Kim_Erickson Isn’t human mortality at the heart of the conflict leading to their corruption by the rings? They are jealous of the elves that they can’t also love forever. I feel time compression is removing this central tension
+
+            REPLY[11 -> 10]
+            	@Veronica_King @David_Davis @Kim_Erickson True to a point but a lot happens during a 500 year period but no man can live that long . If you want the forging of the Rings, Khazad-dûm Numenor, War of Elves and Sauron, Last Alliance you’ll have to condense it down to about 50 which is still a long time.
+
+    REPLY[7 -> 1]
+    	@David_Davis @Kim_Erickson They have Galadriel in armor(!) that bears the Star of Feanor(!!).  Seems to me they're telling a story for cash and don't care about Tolkien. https://photo.example/used/113108115107
+
+        REPLY[8 -> 7]
+        	@Jasmin_Alvarado @Kim_Erickson Yes they’re telling a story for cash - they spent a Billion on it and there’s a serious consideration of return on their investment and awards prestige. All true.
+
+        	However the efforts of the many writers has yet to be seen and considered. Point taken about Fëanor star on armor!
+
+            REPLY[9 -> 8]
+            	@David_Davis @Jasmin_Alvarado @Kim_Erickson As far as I understand the directors are nobodies with zero imbd features to their name before this. Apparently this is fashionable now so that that board of directors can do whatever they want without pushback

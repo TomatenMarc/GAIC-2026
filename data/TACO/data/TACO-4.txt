@@ -1,0 +1,22 @@
+REPLY[1]
+	Which one are you??
+	#WinterIsHere #GOT #GameOfThornes https://photo.example/used/105868987
+
+    REPLY[2 -> 1]
+    	@Michael_Powell Non watcher 😑 Can I start from the beginning or halfway
+
+        REPLY[3 -> 2]
+        	@Gregory_Ponce @Michael_Powell You'd never catch up just watch season 6 bruh
+
+            REPLY[4 -> 3]
+            	@Shelia_Wallace @Michael_Powell My life
+
+    REPLY[5 -> 1]
+    	@Michael_Powell Literarily the only thing on my mind
+
+    REPLY[6 -> 1]
+    	@Michael_Powell seriously
+    	No clue
+
+    REPLY[7 -> 1]
+    	@Michael_Powell Oga start from the beginning, game of thrones is never running away from the internet any time soon

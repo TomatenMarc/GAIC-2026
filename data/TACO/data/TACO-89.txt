@@ -1,0 +1,5 @@
+REPLY[1]
+	#Democrats hit back after #Florida GOP leaders promise Texas-style #abortion restrictions https://eu.tallahassee.com/story/news/politics/2021/09/03/democratic-leaders-warn-gop-abortion-plan-threat-womens-rights/5711284001/ @Matthew_Foster @Lisa_Randall https://photo.example/used/807953100
+
+    REPLY[2 -> 1]
+    	@Victoria_Garcia @Matthew_Foster @Lisa_Randall Creeps (GOP).

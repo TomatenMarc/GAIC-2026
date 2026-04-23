@@ -1,0 +1,17 @@
+REPLY[1]
+	Texas #abortion law: What women make of six-week abortion ban.  https://www.bbc.co.uk/news/world-us-canada-58416037
+
+    REPLY[2 -> 1]
+    	@Michelle_Brown Better than the evil NZ abortion law.
+
+        REPLY[4 -> 2]
+        	@Nichole_Alvarez Life is not perfect, we’re all only human, and women in this situation ought not to be judged. Each woman has to live with her own conscience; that’s enough. The situation in Northern Ireland is still dire!
+
+    REPLY[3 -> 1]
+    	@Michelle_Brown https://photo.example/used/11511771119
+
+    REPLY[5 -> 1]
+    	@Michelle_Brown Now they can say "women" and not "pregnant people" 🤔
+
+        REPLY[6 -> 5]
+        	@Jeremy_Scott Sorry if anybody is offended about this, but only #women have wombs, get pregnant. The clue is in the noun: woman. Fact.

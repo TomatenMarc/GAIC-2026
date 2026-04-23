@@ -1,0 +1,32 @@
+REPLY[1]
+	"This is hilarious! "The @Nathan_Freeman is not fit for purpose" because it deals in real numbers &amp; estimates, not made-up ones like £106bn! No wonder #stophs2isdead, these #brexit fans...#hs2 https://photo.example/used/10411688102
+
+    REPLY[2 -> 1]
+    	@Matthew_Moore @Nathan_Freeman LoL where do they get these rubbery numbers from for #hs2??
+
+        REPLY[3 -> 2]
+        	@Kathleen_Robertson @Nathan_Freeman A game of #BullshitBingo....#hs2 #stophs2isdead
+
+    REPLY[4 -> 1]
+    	@Matthew_Moore @Nathan_Freeman Over 90000 signed petition so soon we will generate a debate in parliament.  You are clutching at straws because you know it's going to get cancelled
+
+        REPLY[5 -> 4]
+        	@Matthew_Mcmillan @Matthew_Moore @Nathan_Freeman Where is this 90,000 signature petition? Only one I can find has 24k signatures and has had a response saying it will proceed.
+
+            REPLY[6 -> 5]
+            	@Evelyn_Martinez @Matthew_Mcmillan @Nathan_Freeman It's yet another bot spouting rubbish. There is no 90k petition (and you'd need 100k anyway). You're right, the last #stophs2 petition didn't even manage 25k! #stophs2isdead. #hs2 https://photo.example/used/1155485109
+
+            REPLY[7 -> 5]
+            	@Evelyn_Martinez @Matthew_Mcmillan @Nathan_Freeman In fact, this is a sad teenager who keeps getting banned from Twitter for sending abusive, misogynistic tweets about female celebrities. Report and block. #hs2
+
+                REPLY[8 -> 7]
+                	@Matthew_Moore @Evelyn_Martinez @Nathan_Freeman I am 56 and detest celebrities who are rich and famous through zero talent. I have done nothing wrong but you are clearly scared that it will get cancelled
+
+                    REPLY[9 -> 8]
+                    	@Matthew_Mcmillan @Matthew_Moore @Nathan_Freeman What an abstract thing to get angry about. And why would he be scared of it exactly? Neither of us work on it, or have anything to do with it...
+
+                        REPLY[11 -> 9]
+                        	@Evelyn_Martinez @Matthew_Mcmillan @Nathan_Freeman As I said, he's one of those sad kids you find on social media who gets off on sending abusive tweets about female 'slebs. Draw your own conclusions. For some reason it's latched onto #hs2 too.
+
+                    REPLY[10 -> 8]
+                    	@Matthew_Mcmillan @Evelyn_Martinez @Nathan_Freeman Grow up, child.

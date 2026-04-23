@@ -1,0 +1,12 @@
+REPLY[1]
+	#America is at a point where many who 'favor' #abortion #rights will have to actively defend them.
+
+	#Inaction  &amp; #Silence of those who favor #WomensRights will allow #AntiChoice forces to win.
+	https://www.economist.com/graphic-detail/2021/09/23/a-clear-majority-of-americans-favour-abortion-rights
+
+    REPLY[2 -> 1]
+    	@Brian_Rodriguez Very young women are killed in abortions.
+    	You're sending mixed messages here.
+
+        REPLY[3 -> 2]
+        	@Brian_Rodriguez Your own graphic belies your claim.

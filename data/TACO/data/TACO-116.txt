@@ -1,0 +1,25 @@
+REPLY[1]
+	Love my new favorite abortion shirt! Abortions are as good as, if not better than, all medical procedures! Get yourself this badass shirt and donate to @Wayne_Morgan: https://linktr.ee/teafund
+
+	#abortion #AbortionBan #AbortionIsHealthcare #txlege #texas https://photo.example/used/688673118
+
+    REPLY[2 -> 1]
+    	@Susan_Murray_MD 😍😍😍😍😍
+
+    REPLY[3 -> 1]
+    	@Susan_Murray_MD @Wayne_Morgan 😻😻😻
+
+    REPLY[4 -> 1]
+    	@Susan_Murray_MD @Wayne_Morgan Baby killer
+
+        REPLY[5 -> 4]
+        	@Stephanie_Manning @Susan_Murray_MD @Wayne_Morgan Ok, bro. https://photo.example/used/69845599
+
+        REPLY[8 -> 4]
+        	@Stephanie_Manning @Wayne_Morgan Prove it.
+
+    REPLY[6 -> 1]
+    	@Susan_Murray_MD @Wayne_Morgan Great shirt!
+
+    REPLY[7 -> 1]
+    	@Susan_Murray_MD @Wayne_Morgan Great cause! Feel free to upload a short video about it on our website! https://photo.example/used/10510611552

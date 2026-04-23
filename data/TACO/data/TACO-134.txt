@@ -1,0 +1,23 @@
+REPLY[1]
+	So I could not be more excited about #LOTRROP and that teaser trailer definitely only added to my hype. Reaction up now! #LOTRonPrime @Joel_Williams https://photo.example/used/105708366
+
+    REPLY[2 -> 1]
+    	Link: https://www.youtube.com/watch
+
+    REPLY[3 -> 1]
+    	@John_Anderson @Joel_Williams I'm worried they're gonna genericize it and lose the tolkien soul of it. The trailer gave me hobbit vibes in a bad way.
+
+        REPLY[4 -> 3]
+        	@Paul_Wilson @Joel_Williams Yeah I mean if it doesn’t make my heart explode by the end of the season, then it won’t be on the level of #LOTR. But at the same time, I’m thrilled we’re getting more Tolkien, and the budget they gave it and care that is seemingly being taken gives me hope 😊
+
+            REPLY[5 -> 4]
+            	@John_Anderson @Joel_Williams Do you know how the LOTR budget and runtime compare to WoT?
+
+                REPLY[6 -> 5]
+                	@Paul_Wilson @Joel_Williams It’s apparently got a budget over $1 billion in total, an estimated $462 million for season 1, and is the most expensive show ever created. GQ estimated that WoT was $80 million for season 1 &amp; WoT’s show-runner said it’s budget was “tiny” compared to LOTR. 8 episodes for both.
+
+                    REPLY[7 -> 6]
+                    	@John_Anderson @Joel_Williams Daaaang. That's legit and makes me less concerned. Also that explains some... things about WoT season 1.
+
+                        REPLY[8 -> 7]
+                        	@Paul_Wilson @Joel_Williams For sure. For example, that’s why we didn’t get Caemlyn.

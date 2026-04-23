@@ -1,0 +1,77 @@
+REPLY[1]
+	If Sansa Stark or Arya dies tomorrow I will kill myself and run away.
+	.
+	.
+	#GOT
+
+    REPLY[3 -> 1]
+    	@Denise_Davenport https://photo.example/used/521135270
+
+        REPLY[4 -> 3]
+        	@Joshua_Vance 😂😂😂
+
+    REPLY[7 -> 1]
+    	@Denise_Davenport @Ashley_Smith You can't do both, abeg choose one.
+
+        REPLY[9 -> 7]
+        	@Katherine_Salas @Ashley_Smith I can't do one unless I do both.
+
+    REPLY[8 -> 1]
+    	@Denise_Davenport Kill yourself and runaway are not compatible
+
+        REPLY[10 -> 8]
+        	@Lisa_Hensley So what do you suggest I do? 😒
+
+            REPLY[11 -> 10]
+            	@Denise_Davenport Pick one
+
+                REPLY[18 -> 11]
+                	@Lisa_Hensley I'm not picking, is it your pick? 😂😒
+
+    REPLY[12 -> 1]
+    	@Denise_Davenport @Dawn_Mullins Pls let me kee you now
+
+        REPLY[17 -> 12]
+        	@Curtis_Taylor @Dawn_Mullins I didn't say I needed anyone to kee me oh!! I will do it myself and run away. 😒
+
+    REPLY[13 -> 1]
+    	@Denise_Davenport @Melissa_Bishop Arya stark will be the first one to go, prepare yourself 😂
+
+        REPLY[16 -> 13]
+        	@Charles_Shah @Melissa_Bishop Arya can't die, no way my girl will survive 😭
+
+    REPLY[14 -> 1]
+    	@Denise_Davenport @Tammie_Bright Abeg where you dey stay? Cause burial rice Don sure laidis.
+
+        REPLY[15 -> 14]
+        	@Vanessa_Howard @Tammie_Bright Lmao... Stfu
+
+            REPLY[19 -> 15]
+            	@Denise_Davenport @Tammie_Bright Truth is, I'm not sure when sha, but I just know Arya will die. 😭😭😭. I can feel it.
+
+                REPLY[21 -> 19]
+                	@Vanessa_Howard @Tammie_Bright Noooooooo I can't take it tbh 😭
+
+                    REPLY[24 -> 21]
+                    	@Denise_Davenport @Tammie_Bright You wee see na. It's hard to come to terms to sef. 😭😭😭
+
+                        REPLY[25 -> 24]
+                        	@Denise_Davenport @Tammie_Bright Guy... Have you seen Episode 3?
+
+    REPLY[20 -> 1]
+    	@Denise_Davenport @Angie_Henderson 😂😂😂
+
+    REPLY[22 -> 1]
+    	@Denise_Davenport @Aimee_Turner Ahhh
+
+        REPLY[23 -> 22]
+        	@Michelle_Ho @Aimee_Turner 😂
+
+REPLY[2]
+	@Megan_Orr Better tell them to change their mind before it happens tomorrow. 😭
+
+REPLY[5]
+	@Megan_Orr Anywhere I can run to. 😂
+
+REPLY[6]
+	@Megan_Orr Yea G not 6 😒

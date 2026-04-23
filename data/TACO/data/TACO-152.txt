@@ -1,0 +1,14 @@
+REPLY[1]
+	Could somebody please invent a new twitter? Just 280 characters and in public ownership. #ElonMusk #ElonMuskBuyTwitter #TwitterTakeover #Twitter
+
+    REPLY[2 -> 1]
+    	@Allison_Spencer Join #Mastodon. 500 characters, though …
+
+        REPLY[4 -> 2]
+        	@Chad_Scott @Allison_Spencer Mastodon: https://photo.example/used/88776872
+
+    REPLY[3 -> 1]
+    	@Allison_Spencer That is no garantee that it will be transparent, nobody knows how the current Twitter trending algoritm works for exsample or why some accounts get banned while bots can spam for years without anyone doing anything.
+
+    REPLY[5 -> 1]
+    	@Allison_Spencer @Michael_Farrell https://photo.example/used/10598100122

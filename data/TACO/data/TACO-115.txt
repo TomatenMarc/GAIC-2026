@@ -1,0 +1,33 @@
+REPLY[1]
+	power he holds
+	#DPR #SquidGame https://photo.example/used/848569101
+
+    REPLY[2 -> 1]
+    	attacking scott with memes before hes gonna attack us with spoilers 🥺
+
+    REPLY[5 -> 1]
+    	@Theodore_Jones_Jr. Made my day
+
+        REPLY[6 -> 5]
+        	@Jamie_Arnold awww  im so glad 💜💜💜
+
+    REPLY[7 -> 1]
+    	@Theodore_Jones_Jr. @Jeremy_Sampson 😂 @Jeremy_Sampson
+
+        REPLY[8 -> 7]
+        	@Dana_Chapman @Jeremy_Sampson https://photo.example/used/66869956
+
+    REPLY[9 -> 1]
+    	scott didn't notice this meme 🥺 i think he hates memes 🥺
+
+    REPLY[10 -> 1]
+    	@Theodore_Jones_Jr. @Jeremy_Sampson @Jeremy_Sampson come see this masterpiece 😭😭😭
+
+        REPLY[11 -> 10]
+        	@Angelica_Keith @Jeremy_Sampson @Jeremy_Sampson hates memes 😭
+
+REPLY[3]
+	@Jennifer_Collins @Jeremy_Sampson 😂😂😂
+
+REPLY[4]
+	@Brittney_Phillips i dont think he felt attacked tho 😂😂

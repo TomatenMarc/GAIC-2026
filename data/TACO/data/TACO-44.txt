@@ -1,0 +1,34 @@
+REPLY[1]
+	I’ve asked #Brexit supporters in London what this day means for them.
+
+	The answers: independence, freedom, prosperity, a new beginning, moving on https://photo.example/used/9911098100
+
+    REPLY[2 -> 1]
+    	@Allison_Hickman Democracy 👍
+
+    REPLY[4 -> 1]
+    	I forgot to mention democracy
+
+    REPLY[9 -> 1]
+    	@Allison_Hickman @Gary_Jackson Hey,  at least your government can’t blame the EU anymore for their failures!
+
+    REPLY[10 -> 1]
+    	@Allison_Hickman @Gary_Jackson 🇬🇧 is making a big mistake leaving the 🇪🇺. We will learn eventually.
+
+    REPLY[11 -> 1]
+    	@Allison_Hickman @Gary_Jackson Looks like there is a full 200 or so of them. Impressive considering that was supposed to be their 'independence day'.
+
+REPLY[3]
+	@Julie_Alexander @Allison_Hickman @Gary_Jackson This attitude to people who dare to have a different political view explains why Remain failed to win
+
+    REPLY[5 -> 3]
+    	@Nancy_Jennings @Julie_Alexander @Allison_Hickman @Gary_Jackson Oh so that was the reason!!
+
+    REPLY[6 -> 3]
+    	@Nancy_Jennings @Julie_Alexander @Allison_Hickman @Gary_Jackson You’ll be back. Laters!
+
+        REPLY[7 -> 6]
+        	@Gabrielle_Davis Thanks, but I think that is very unlikely.
+
+            REPLY[8 -> 7]
+            	@Nancy_Jennings Yeah, yeah...

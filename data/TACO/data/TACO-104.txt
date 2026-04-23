@@ -1,0 +1,20 @@
+REPLY[1]
+	Congratulations to #SquidGame team, Top 1 on Netflix WORLDWIDE!!! https://photo.example/used/5567117113
+
+    REPLY[2 -> 1]
+    	https://flixpatrol.com/about/api/
+
+    REPLY[3 -> 1]
+    	@Karla_Ramos They made it🙌🏻👍🏻
+
+    REPLY[4 -> 1]
+    	@Karla_Ramos Wow! And Hometown Cha Cha Cha is on top 10 too. Great! 😊
+
+    REPLY[5 -> 1]
+    	@Karla_Ramos @William_Gould This make me happy :)
+
+    REPLY[6 -> 1]
+    	@Karla_Ramos The king was I think kdrama to be in top in Netflix but they forget that ...
+
+    REPLY[7 -> 1]
+    	@Karla_Ramos Omg hometown cha cha cha is on top 10 too💕

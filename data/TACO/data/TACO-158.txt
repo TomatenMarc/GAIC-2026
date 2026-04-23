@@ -1,0 +1,19 @@
+REPLY[1]
+	Timeline cleanse to ease ongoing fears around Elon Musk #TwitterTakeover
+
+	Just a boy and his friend! Oh Joy! https://photo.example/used/73767250
+
+    REPLY[2 -> 1]
+    	@Derek_Zuniga Adorable🙏❤️
+
+        REPLY[3 -> 2]
+        	@Donna_Landry So adorable 😍
+
+    REPLY[4 -> 1]
+    	@Derek_Zuniga Looks more like a sibling
+
+    REPLY[5 -> 1]
+    	@Derek_Zuniga https://photo.example/used/1101095454
+
+    REPLY[6 -> 1]
+    	@Derek_Zuniga @James_Brown How cute

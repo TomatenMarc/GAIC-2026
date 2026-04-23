@@ -1,0 +1,8 @@
+REPLY[1]
+	.@Holly_Valentine: The great writer Maya Angelou said: "You can’t use up creativity. The more you use, the more you have." So, pass that shiz on! #TwitterTakeover https://photo.example/used/1055675105
+
+    REPLY[2 -> 1]
+    	@Connie_Brown @Holly_Valentine One of my favourite drawings of yours, Amy x
+
+        REPLY[3 -> 2]
+        	@Allison_Smith @Connie_Brown Thanks Mel ☺️

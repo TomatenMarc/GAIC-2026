@@ -1,0 +1,5 @@
+REPLY[1]
+	#Brexit: Britain and EU ‘will rip each other apart’ in trade talks https://www.theguardian.com/politics/2020/feb/16/brexit-britain-and-eu-will-rip-each-other-apart-in-trade-talks
+
+    REPLY[2 -> 1]
+    	@Tommy_Walter To be fair: It is not a fair fight, 27 against 1, 550 Mio vs. 66 Mio. But that's what the UK voter wanted, right?

@@ -1,0 +1,33 @@
+REPLY[1]
+	#KANGSAEBYEOK therefore I am
+
+	#SquidGame
+	https://photo.example/used/52826882
+
+    REPLY[2 -> 1]
+    	🏷️@Austin_Osborne @Howard_Norman @Kelly_Lee @Kiara_Little @Charles_Schultz
+
+        REPLY[3 -> 2]
+        	Sc :wildcarduwu
+        	Ac: audiosplaylist
+
+            REPLY[6 -> 3]
+            	@Jeanette_Harrison soryy lupa nak tag😭
+
+                REPLY[7 -> 6]
+                	@Jamie_Smith OMGGGG AAA TAKPEEEEE AAAAA BARU TENGOKKKK OMG 😭😭😭😭😭😭🔥🔥🔥 im in love with your edit 😭😭🔥🔥🔥
+
+                    REPLY[8 -> 7]
+                    	@Jeanette_Harrison THANK YOU AD 😭💓💓
+
+        REPLY[9 -> 2]
+        	@Jamie_Smith I JUST WATCHED THIS BCS I WAS AFRAID OF SPOILERS BUT DAMN UR EDIT 😩😩😩 APPLAUSE!! I LOVE IT *Im on ep8 now*
+
+            REPLY[10 -> 9]
+            	@Howard_Norman AAAAAHH THANK YOU BESTIEE💓💓 KEEP GOING!! 1 EPS LEFT!!🤩
+
+    REPLY[4 -> 1]
+    	@Jamie_Smith YASSS LOVE HER
+
+        REPLY[5 -> 4]
+        	@Julie_Herrera IKRRRR SHE'S SOOO HOT😭

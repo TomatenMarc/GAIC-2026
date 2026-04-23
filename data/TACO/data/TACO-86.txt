@@ -1,0 +1,29 @@
+REPLY[1]
+	Could be years until we measure what’s happening to #abortion in #Texas. It's not just that vital statistics publication tends to be frustratingly slow. Texas also has a history of strategically delaying their release. #econtwitter #demography https://www.austinchronicle.com/news/2016-06-24/aclu-to-state-health-department-stop-hiding-abortion-data/
+
+    REPLY[2 -> 1]
+    	I've got a story about vital statistics data for y'all....
+
+        REPLY[3 -> 2]
+        	On 11/1/2013, provisions of HB2 went into effect and caused half of Texas abortion clinics to close virtually overnight. Lots of folks saw the natural experiment in progress, including Justice Kagan, who observed “It’s almost like the perfect controlled experiment…isn’t it?”
+
+            REPLY[4 -> 3]
+            	But as the @Johnathan_Daviss v. Hellerstedt case about this TRAP law progressed to #scotus, we continued to be unable to measure the effect of the law on abortions because the Texas Department of State Health Services kept saying the abortion surveillance data weren’t ready to release
+
+                REPLY[5 -> 4]
+                	I was working on a paper on travel distance with @Ryan_Rosales  and @Renee_Bruce, and we were stalled because of the data weren’t coming out. I’d email folks at Texas DSHS in 2016, and they’d respond that they were still preparing the 2014 abortion tables.
+
+                    REPLY[6 -> 5]
+                    	Then one day my phone rang. It was @Gina_Moore and they wanted to know if I was being told data weren’t available. It turns out that a whistleblower inside Texas DSHS had reported they were being ordered to conceal abortion statistics while @Johnathan_Davis v. Hellerstedt was pending.
+
+                        REPLY[7 -> 6]
+                        	@Reginald_Knapp filed a letter charging TX DSHS with strategically covering up abortion data.https://www.texastribune.org/2016/06/15/aclu-demands-dshs-stop-concealing-abortion-statist/
+
+                            REPLY[8 -> 7]
+                            	Texas DSHS finally released the data two days after Whole Woman’s Health was decided. https://www.austinchronicle.com/daily/news/2016-06-30/abortions-decrease-in-texas-after-hb-2-data-shows/
+
+                                REPLY[9 -> 8]
+                                	If you're curious about the results once we could finally conduct the analysis, @Ryan_Rosales and @Renee_Bruce and I published them @Cheyenne_Horton https://uwpress.wisc.edu/jhr-news/
+
+    REPLY[10 -> 1]
+    	@John_Daniel @Renee_Bruce Great post! Thank you!

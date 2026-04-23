@@ -1,0 +1,25 @@
+REPLY[1]
+	This episode IS dark and the web is full of spoilers. #GoT
+
+    REPLY[2 -> 1]
+    	@Carrie_Wright https://photo.example/used/12211753116
+
+    REPLY[3 -> 1]
+    	@Carrie_Wright May articles na nga ng deathlist minutes after the show.
+
+    REPLY[4 -> 1]
+    	@Carrie_Wright Sooo dark! Couldnt see shit!
+
+    REPLY[5 -> 1]
+    	@Carrie_Wright Night vision glasses on 🧐🤓😎
+
+    REPLY[6 -> 1]
+    	@Carrie_Wright Literal
+
+    REPLY[7 -> 1]
+    	@Carrie_Wright Lets thank melissandre for that light..medyo lumiwanag ng literal hahaha
+
+    REPLY[8 -> 1]
+    	@Carrie_Wright And the surroundings are full of campaign jingles
+    	Can't see, can't hear
+    	Buti na lang pwede na magrewatch

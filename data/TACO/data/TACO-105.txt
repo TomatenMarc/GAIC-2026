@@ -1,0 +1,30 @@
+REPLY[1]
+	Guess which is my favorite character
+	Bet you can't
+
+	Anyways watch Squid Game
+	#SquidGame https://photo.example/used/737783116
+
+    REPLY[2 -> 1]
+    	@Crystal_Robinson It's Ali just like me
+
+        REPLY[3 -> 2]
+        	@Tracy_House Omg how did you know
+
+            REPLY[4 -> 3]
+            	@Crystal_Robinson Definitely not based on the picture plus we all love ali who couldn't
+
+    REPLY[5 -> 1]
+    	@Crystal_Robinson Con permiso procedo a https://photo.example/used/737811779
+
+        REPLY[8 -> 5]
+        	@Jeffrey_Chandler AAAAAA
+
+    REPLY[6 -> 1]
+    	@Crystal_Robinson I think he likes Ali but I don't know😩
+
+        REPLY[7 -> 6]
+        	@Jordan_Bates Who told you 😳
+
+    REPLY[9 -> 1]
+    	@Crystal_Robinson SAMEE :((( this drawing is beautiful I hate sang woo for this man 😭

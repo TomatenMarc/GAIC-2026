@@ -1,0 +1,9 @@
+REPLY[1]
+	Evil Texas legislators smiling as they sign law to take away rights
+	#abortion https://photo.example/used/757580113
+
+    REPLY[2 -> 1]
+    	@Marie_Moody They are all elected..#VoteThemAllOut
+
+    REPLY[3 -> 1]
+    	@Marie_Moody by your own logic having abortions being a thing takes away rights... the rights for that child to live

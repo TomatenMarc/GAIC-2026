@@ -1,0 +1,23 @@
+REPLY[1]
+	"This is an historic mistake... we are now in damage limitation."
+
+	@Patty_Perez @Patrick_Thornton on #Brexit
+
+	@Ashley_Barton | #BBCTheView https://photo.example/used/661008957
+
+    REPLY[2 -> 1]
+    	@Patricia_Le @Cynthia_Morris @Patrick_Thornton @Ashley_Barton In this strange new world, everyone but the DUP are trying to save the DUP from themselves.
+
+    REPLY[3 -> 1]
+    	@Patricia_Le @Cynthia_Morris @Patrick_Thornton @Ashley_Barton DUP will be hiding behind the apron strings of other parties re Brexit/NI Business/Farmers etc from tomorrow night onwards
+
+REPLY[4]
+	@Kelly_Edwards @Patricia_Le @Cynthia_Morris @Patrick_Thornton @Ashley_Barton Huawei 5G is welcome in the EU.
+	Hardly a British developed Brexit company that Huawei thing is.
+	https://edition.cnn.com/2020/01/29/tech/european-union-5g-huawei/index.html
+
+    REPLY[5 -> 4]
+    	@Kelly_Edwards @Patricia_Le @Cynthia_Morris @Patrick_Thornton @Ashley_Barton I love how the EU is presented as the ones being anti-Oriental and anti-Southern Hemisphere when the EU has just passed FTAs with Japan and Mercusor.
+
+        REPLY[6 -> 5]
+        	@Kelly_Edwards @Patricia_Le @Cynthia_Morris @Patrick_Thornton @Ashley_Barton FTAs the UK wont be able to grandfather over.

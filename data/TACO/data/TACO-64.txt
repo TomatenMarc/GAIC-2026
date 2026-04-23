@@ -1,0 +1,7 @@
+REPLY[1]
+	#Tory Ministers refuse to release secret #Brexit studies believed to show little gain from trade deals with #US and #Asia -- #BrexitShambles #ReleaseTheRussiaReport -- https://www.independent.co.uk/news/uk/politics/brexit-trade-deals-us-trump-asia-boris-johnson-eu-a9336331.html
+
+    REPLY[2 -> 1]
+    	@Shannon_Rivera #Tories, how do you sleep?
+
+    	#Brexit

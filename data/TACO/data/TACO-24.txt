@@ -1,0 +1,5 @@
+REPLY[1]
+	'Bitter truth': EU chief pours cold water on idea of Brits keeping EU citizenship after #Brexit https://www.thelocal.com/20200110/bitter-truth-eu-chief-pours-cold-water-on-idea-of-brits-keeping-eu-citizenship-after-brexit/ via @Ryan_Gonzalez
+
+    REPLY[2 -> 1]
+    	@Brian_Smith Hi, just a reminder that Brexit has not happened yet. It is due to occur on the 29th March 2019

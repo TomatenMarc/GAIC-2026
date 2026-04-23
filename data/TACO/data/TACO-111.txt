@@ -1,0 +1,16 @@
+REPLY[1]
+	rkgk of funny tracksuit man but DIFFERENT tracksuit
+	cause I saw the first ep of squid game
+	#rezero #squidgame #リゼロ #リゼロス https://photo.example/used/10811489118
+
+    REPLY[2 -> 1]
+    	@Angela_Lin nice
+
+    REPLY[3 -> 1]
+    	@Angela_Lin 486 on the tracksuit!! Yes!! 😆💖
+
+    REPLY[4 -> 1]
+    	@Angela_Lin I love funny tracksuit man
+
+        REPLY[5 -> 4]
+        	@Brittany_Kim Same

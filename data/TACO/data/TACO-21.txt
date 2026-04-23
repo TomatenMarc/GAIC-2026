@@ -1,0 +1,7 @@
+REPLY[1]
+	"UK tops the EU table in catering services" - The UK's £100bn catering market is the largest in Europe.
+
+	Another positive summary report by #Brexit Facts4EU: https://facts4eu.org/news/2020_jan_uk_outspends_eu
+
+    REPLY[2 -> 1]
+    	@Richard_Rodriguez Despite Brexit

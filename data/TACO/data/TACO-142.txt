@@ -1,0 +1,25 @@
+REPLY[1]
+	.@Alfred_Galvan: I'm Juliana, but you can call me Jules. I'm taking over @Richard_Smith’ twitter feed today. Can I just say… #gassed is an understatement
+
+	#TwitterTakeover
+
+    REPLY[2 -> 1]
+    	@Richard_Smith @Alfred_Galvan Hi Jules! 👋
+
+        REPLY[4 -> 2]
+        	@Bryan_Gomez @Richard_Smith heyyy Sophie!
+
+    REPLY[3 -> 1]
+    	@Richard_Smith @Alfred_Galvan Ace to meet you! ♥️
+
+    REPLY[5 -> 1]
+    	@Richard_Smith @Alfred_Galvan Yesss Julesss 👏✨
+
+    REPLY[6 -> 1]
+    	@Richard_Smith @Alfred_Galvan Hey Jules👋
+
+    REPLY[7 -> 1]
+    	@Richard_Smith @Alfred_Galvan Hi Jules👋 😊
+
+        REPLY[8 -> 7]
+        	@Allison_Smith @Richard_Smith Heyy Mel❤️

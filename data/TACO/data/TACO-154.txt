@@ -1,0 +1,23 @@
+REPLY[1]
+	It's amazing that so much stupid could come out of someone so small... #TwitterTakeover https://photo.example/used/738976102
+
+    REPLY[2 -> 1]
+    	@Emma_Owens @John_Bishop He's just trying to remain relevant, but it's not working https://photo.example/used/651218190
+
+    REPLY[3 -> 1]
+    	@Emma_Owens Or, and hear me out, it just went over your head, and you actually don't know what you're talking about.
+
+    REPLY[4 -> 1]
+    	@Emma_Owens Going to be nice to see both you and Donald Trump back on Twitter
+
+    REPLY[5 -> 1]
+    	@Emma_Owens Stop crying. He is setting the bird free. https://photo.example/used/1031067284
+
+    REPLY[6 -> 1]
+    	@Emma_Owens What is scary is how many idiots give the tripe he spews likes
+
+    REPLY[7 -> 1]
+    	@Emma_Owens Yep, your mama was a tiny lady
+
+    REPLY[8 -> 1]
+    	@Emma_Owens Those statements are not even in conflict.  Considering there are probably 1000 examples of Reich making directly contradictory statements, this feels like a silly attack.

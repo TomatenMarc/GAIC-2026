@@ -1,0 +1,22 @@
+REPLY[1]
+	Elon Musk is my Father's Friend from secondary school abeg wire me small 10million
+
+	Twitter CEO || Elon Musk #TwitterTakeover https://photo.example/used/1165510973
+
+    REPLY[2 -> 1]
+    	@Michael_Lyons So u naa wat are u showing us  in this picture ?? The Green Grass or the Building
+
+        REPLY[3 -> 2]
+        	@Riley_Bryant https://photo.example/used/69765457
+
+        REPLY[4 -> 2]
+        	@Riley_Bryant @Michael_Lyons 😹😹😹💀
+
+    REPLY[5 -> 1]
+    	@Michael_Lyons 😂😂😂
+
+    REPLY[6 -> 1]
+    	@Michael_Lyons 😂
+
+    REPLY[7 -> 1]
+    	@Michael_Lyons 😂😂

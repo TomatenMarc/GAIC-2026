@@ -8,6 +8,10 @@
 *.py
 
 assets
+labeled/
+unlabeled/
+additional-context.pdf
+additional-context.txt
 
 poetry.lock
 poetry.toml

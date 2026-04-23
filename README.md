@@ -14,18 +14,21 @@ The table below lists the dataset folders in this repository under `./data/`.
 
 ⚠️ **Please cite the respective papers!**
 
-| Dataset Folder | Description                                                                                                  | Source                                        | License              |
-|----------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------|----------------------|
-| `ABSTRCT`      | Argument mining dataset from academic abstracts.                                                             | https://ecai2020.eu/papers/1470_paper         | CC BY-NC-SA 4.0      |
-| `ACQUA`        | Comparative sentences expressing preference or superiority (e.g. Matlab vs. Python) across multiple domains. | https://aclanthology.org/W19-4516/            | CC BY 4.0            |
-| `AEC`          | Sentences collected from discussions on the CreateDebate platform.                                           | https://aclanthology.org/W15-4631/            | Approved by authors. |
-| `AFS`          | Sentences drawn from online debate platforms such as ProCon and iDebate.                                     | https://aclanthology.org/W16-3636/            | Approved by authors. |
-| `ARGUMINSCI`   | Sentences originating from the Dr. Inventor scientific argumentation corpus.                                 | https://aclanthology.org/W18-5206/            | Approved by authors. |
-| `FINARG`       | Sentences extracted from financial earnings calls of publicly traded companies.                              | https://aclanthology.org/2022.finnlp-1.22/    | GNU GPL 3.0          |
-| `IAM`          | Sentences gathered from heterogeneous web sources.                                                           | https://aclanthology.org/2022.acl-long.162/   | Free license.        |
-| `PE`           | Sentences taken from student-written persuasive essays.                                                      | https://aclanthology.org/J17-3005/            | CC BY-NC-ND 4.0      |
-| `SCIARK`       | Sentences from scientific literature, including biomedical research articles.                                | https://aclanthology.org/2021.argmining-1.10/ | Free license.        |
-| `USELEC`       | Sentences from U.S. presidential election debates and related political discourse.                           | https://aclanthology.org/P19-1463/            | Free license.        |
+| Dataset Folder | Description                                                                                                  | Source                                         | License              |
+|----------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------|----------------------|
+| `ABSTRCT`      | Argument mining dataset from academic abstracts.                                                             | https://ecai2020.eu/papers/1470_paper          | CC BY-NC-SA 4.0      |
+| `ACQUA`        | Comparative sentences expressing preference or superiority (e.g. Matlab vs. Python) across multiple domains. | https://aclanthology.org/W19-4516/             | CC BY 4.0            |
+| `AEC`          | Sentences collected from discussions on the CreateDebate platform.                                           | https://aclanthology.org/W15-4631/             | Approved by authors. |
+| `AFS`          | Sentences drawn from online debate platforms such as ProCon and iDebate.                                     | https://aclanthology.org/W16-3636/             | Approved by authors. |
+| `ARGUMINSCI`   | Sentences originating from the Dr. Inventor scientific argumentation corpus.                                 | https://aclanthology.org/W18-5206/             | Approved by authors. |
+| `FINARG`       | Sentences extracted from financial earnings calls of publicly traded companies.                              | https://aclanthology.org/2022.finnlp-1.22/     | GNU GPL 3.0          |
+| `IAM`          | Sentences gathered from heterogeneous web sources.                                                           | https://aclanthology.org/2022.acl-long.162/    | Free license.        |
+| `PE`           | Sentences taken from student-written persuasive essays.                                                      | https://aclanthology.org/J17-3005/             | CC BY-NC-ND 4.0      |
+| `SCIARK`       | Sentences from scientific literature, including biomedical research articles.                                | https://aclanthology.org/2021.argmining-1.10/  | Free license.        |
+| `TACO`         | Augmented and anonymized tweets from full Twitter conversations.                                             | https://aclanthology.org/2024.lrec-main.1349/  | CC BY-NC-SA 4.0      |
+| `TAPE`         | Augmented and anonymized tweets from full Twitter conversations annoted with PE guidelines.                  | ---                                            | CC BY-NC-SA 4.0      |
+| `TAUS`         | Augmented and anonymized tweets from full Twitter conversations annoted with USELEC guidelines.              | ---                                            | CC BY-NC-SA 4.0      |
+| `USELEC`       | Sentences from U.S. presidential election debates and related political discourse.                           | https://aclanthology.org/P19-1463/             | Free license.        |
 
 ---
 
@@ -33,6 +36,7 @@ The table below lists the dataset folders in this repository under `./data/`.
 
 1. Read and follow the requirements for the task requirements on the [Touché](https://touche.webis.de/clef26/touche26-web/generalizable-argument-mining.html) shared task page.
 2. Download the data and follow the further guidelines on the [TIRA](https://www.tira.io) platform.
+3. If you encounter any issues, please reach out to one of the maintainers.
 
 ---
 
@@ -48,7 +52,7 @@ The table below lists the dataset folders in this repository under `./data/`.
 ## :rocket: Release Notes
 **14.01.26**: The training and development data is released.
 
-**01.03.26 (tentative)**: The test data will be released.
+**24.04.26**: The test data is released.
 
 ---
 

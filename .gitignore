@@ -4,6 +4,7 @@
 !dev.jsonl
 !dev_labels.jsonl
 !test.jsonl
+!test_labels.jsonl
 
 *.sh
 *.py
